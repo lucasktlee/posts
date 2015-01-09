@@ -98,6 +98,7 @@ Some ways to check <acronym>VDD</acronym> include:
 
 
 <div class="footnotes">
+    <hr class="w-50" />
     <ol>
         <li id="fn01">If you have not, all I can say to you is, “I’ve heard it said that benevolent deities watch out for children and fools. For your sake, I hope that is true.” <a href="#fref01">&#8593;</a></li>
         <li id="fn02">In this blog entry, there are Chinese language words and occasionally sentences. If you don’t have Chinese language support on your operating system, you may see gibberish. <a href="#fref02">&#8593;</a></li>
