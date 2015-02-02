@@ -17,7 +17,7 @@ For the avoidance of doubt, where a company has raised multiple financing rounds
             <th>Round Size ($m)</th>
             <th>Date</th>
             <th>Post-Money <br/>Valuation ($m)</th>
-            <th>Investors</th>
+            <th>Investors in Financing Round</th>
         </tr>
         <tr>
             <td>1</td>
@@ -76,7 +76,9 @@ For the avoidance of doubt, where a company has raised multiple financing rounds
 
 The five companies included one Chinese hardware manufacturer (producing smartphones, tablets, consumer electronics, and home automation systems), three e-commerce marketplaces in China, India and South Korea, and one Chinese taxi booking app. In 2013, while there were no hardware manufacturers, three of the top five were again e-commerce marketplaces or online retailers, and the last was a financial institution aimed at serving the under-banked urban population in India. Some things, it seems, have not changed much. 
 
-The composition of the investors in these financing rounds is also quite interesting. The corporate venture capital arms of [Tencent Holdings](http://www.tencent.com/en-us/index.shtml) and [Alibaba Group](http://www.alibaba.com/) participated in two of the financing rounds, [Didi Dache (滴滴打车)](http://www.xiaojukeji.com/website/) and [Meituan (美团)](http://bj.meituan.com/), respectively. DST Global, Yuri Milner’s investment fund, invested in three of these financing rounds. Given DST Global’s prior success in investing in a Series D round for Facebook and a Series G round for Twitter, as well as a Series B round for Airbnb, I am inclined to give it the benefit of the doubt. Singapore’s sovereign wealth funds again participated in several financing rounds, with the [Government of Singapore Investment Corporation](http://www.gic.com.sg/) making two investments and [Temasek Holdings](http://www.temasek.com.sg/) making one.
+The financing rounds were mostly—as might be expected—late stage financing rounds, with the exception of [Meituan (美团)](http://bj.meituan.com/), which was a Series C investment. 
+
+The composition of the investors in these financing rounds is also quite interesting. The corporate venture capital arms of [Tencent Holdings](http://www.tencent.com/en-us/index.shtml) and [Alibaba Group](http://www.alibaba.com/) participated in two of the financing rounds, [Didi Dache (滴滴打车)](http://www.xiaojukeji.com/website/) and Meituan, respectively. DST Global, Yuri Milner’s investment fund, invested in three of these financing rounds. Given DST Global’s prior success in investing in a Series D round for Facebook and a Series G round for Twitter, as well as a Series B round for Airbnb, I am inclined to give it the benefit of the doubt. Singapore’s sovereign wealth funds again participated in several financing rounds, with the [Government of Singapore Investment Corporation](http://www.gic.com.sg/) making two investments and [Temasek Holdings](http://www.temasek.com.sg/) making one.
 
 ## Post-Money Valuations — A Bubble?
 
@@ -94,11 +96,13 @@ One can also note that if valuations are well publicized, startup founders will 
 
 ## Investor Composition — Some Initial Thoughts 
 
-The entry of sovereign wealth funds into financing startups is interesting. I would be curious to see how the financing is being done, in particular whether it is through dedicated venture arms staffed by people familiar with the venture capital industry and its investment theses and return requirements. I am also curious about the return requirements and investment theses of the diversified asset managers—Wellington Management, T. Rowe Price, and Greenoaks Capital—that have started financing late-stage venture capital rounds. 
+The entry of sovereign wealth funds into financing startups is interesting. I would be curious to see how the financing is being done, whether it is through dedicated venture arms staffed by people familiar with the venture capital industry and its investment theses and return requirements. I am also curious about the return requirements and investment theses of the diversified asset managers that have started financing late-stage venture capital rounds. 
 
-If one assumes that they are not devoting a significant fraction of their total assets under management to venture capital deals, they may be willing to accept different return profiles (in terms of money on money and <acronym>IRR</acronym>) than venture capital investors that must aim for outsized returns in order to offset the significant proportion of their portfolio that either fail or deliver at best average (linear) results.
+If one assumes that they are not devoting a significant fraction of their total assets under management to these deals, they may be willing to accept different return profiles (in particular money on money and <acronym>IRR</acronym> numbers) than venture capital investors that must aim for outsized returns in order to offset the significant proportion of their portfolio that either fail or deliver at best average (linear) results. 
 
-At this point, I would say it is still too early to say how the change in investor composition will affect the market for venture capital financing. My personal view is that these investors will remain (due primarily to appropriate “bite sizes”) primarily focused on larger, later stage venture capital rounds where they can deploy a meaningful amount of capital (relative to their assets under management) given that due diligence on a target is often the same for large deals and for small deals, in terms of time and energy spent. 
+At this point, I would say it is still too early to say how the change in investor composition will affect the market for venture capital financing. My personal view is that these investors will remain (due primarily to appropriate “bite sizes”) primarily focused on larger, later stage venture capital rounds where they can deploy a meaningful amount of capital (relative to their assets under management) given that due diligence on a target is often the same for large deals and for small deals, in terms of time and energy spent.
+
+Furthermore, I think the diversification of financing sources, while potentially driving up valuations (especially in later stage financing rounds), will ultimately be beneficial for startups in Asia if it allows for different time horizons on invested capital and different return profiles.
 
 <div class="footnotes">
     <hr class="w-50" />

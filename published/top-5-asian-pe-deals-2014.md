@@ -14,7 +14,7 @@ At the behest of a friend, I’m setting out a number of observations about the 
             <th>Deal Type</th>
             <th>Deal Size ($m)</th>
             <th>Deal Date</th>
-            <th>Investors</th>
+            <th>Investors in Deal</th>
         </tr>
         <tr>
             <td>1</td>
