@@ -94,9 +94,11 @@ One can also note that if valuations are well publicized, startup founders will 
 
 ## Investor Composition — Some Initial Thoughts 
 
-The entry of sovereign wealth funds into financing startups is interesting. I would be curious to see how the financing is being done, whether it is through dedicated venture arms staffed by people familiar with the venture capital industry and its investment theses and return requirements. I am also curious about the return requirements and investment theses of the diversified asset managers that have started financing late-stage venture capital rounds. 
+The entry of sovereign wealth funds into financing startups is interesting. I would be curious to see how the financing is being done, in particular whether it is through dedicated venture arms staffed by people familiar with the venture capital industry and its investment theses and return requirements. I am also curious about the return requirements and investment theses of the diversified asset managers—Wellington Management, T. Rowe Price, and Greenoaks Capital—that have started financing late-stage venture capital rounds. 
 
-If one assumes that they are not devoting a significant fraction of their total assets under management to these deals, they may be willing to accept different return profiles (in particular money on money and <acronym>IRR</acronym> numbers) than venture capital investors that must aim for outsized returns in order to offset the significant proportion of their portfolio that either fail or deliver at best average (linear) results.
+If one assumes that they are not devoting a significant fraction of their total assets under management to venture capital deals, they may be willing to accept different return profiles (in terms of money on money and <acronym>IRR</acronym>) than venture capital investors that must aim for outsized returns in order to offset the significant proportion of their portfolio that either fail or deliver at best average (linear) results.
+
+At this point, I would say it is still too early to say how the change in investor composition will affect the market for venture capital financing. My personal view is that these investors will remain (due primarily to appropriate “bite sizes”) primarily focused on larger, later stage venture capital rounds where they can deploy a meaningful amount of capital (relative to their assets under management) given that due diligence on a target is often the same for large deals and for small deals, in terms of time and energy spent. 
 
 <div class="footnotes">
     <hr class="w-50" />
