@@ -40,13 +40,13 @@ A worked example may make it easier to understand what is going on. Let’s star
         <td class="right">(4.00)</td>
         <td>(4.00)</td>
     </tr>
-	<tr>
+    <tr>
         <th>Investment in A ($m)</th>
         <td class="right">(50.00)</td>
         <td class="center">-</td>
         <td class="center">-</td>
         <td class="center">-</td>
-	</tr>
+    </tr>
     <tr>
         <th>Investment in B ($m)</th>
         <td class="center">-</td>
@@ -96,30 +96,26 @@ Now let’s trace how this would flow through the deal-by-deal distribution wate
         <td class="right">0.00</td>
     </tr>
     <tr>
-        <th>Step 1.D: Return of management fees allocated to A</th>
-        <td class="right">4.00</td>
+        <th>Step 1.D: Return of management fees allocated to A and written off unrealized investment in B</th>
+        <td class="right">4.80</td>
         <td class="right">0.00</td>
     </tr>
     <tr>
         <th>Step 2: Payment of preferred return on amounts distributed in Steps 1.A – D</th>
-        <td class="right">20.94</td>
+        <td class="right">21.01</td>
         <td class="right">0.00</td>
     </tr>
     <tr>
         <th>Step 3: Payment of catch-up to fund sponsor</th>
         <td class="right">0.00</td>
-        <td class="right">4.19</td>
+        <td class="right">4.20</td>
     </tr>
     <tr>
         <th>Step 4: Payment of carried interest</th>
-        <td class="right">88.70</td>
-        <td class="right">22.17</td>
+        <td class="right">87.99</td>
+        <td class="right">22.00</td>
     </tr>
 </table>
-
-### Analysis 
-
-At the end of this waterfall, the 
 
 ## Whole Fund Waterfall 
 
@@ -213,15 +209,51 @@ Now, let’s look at how the cash from disposing of A flows through the whole fu
     </tr>
 </table>
 
-### Analysis 
+## Analysis 
 
-Let’s take a look at this from the perspective of the investors in the private equity fund. At the end of this distribution, the investors have received back all their contributed capital and preferred return. From an investor perspective this is the  
+### Deal-by-deal Waterfall
 
+Let’s take a look at this from the perspective of the investors in the private equity fund. At the end of this distribution, they have received distributions amounting to only the return of capital on investment A, the written-off amount on investment B, and the management fees and expenses allocable to these two investments. The capital invested in B, C, and D are still at risk. 
+
+The fund sponsor will have received some carried interest payments at the end of this transaction, but if subsequent investments suffer losses, it may have received more than its rightful share of carried interest. This necessitates a fairly complicated set of “clawback” provisions to return excess carry to the investors.<sup><a href="#fn03" id="fref03">3</a></sup> 
+
+From the fund sponsor’s perspective the deal-by-deal waterfall makes it easier to receive meaningful carry early in the fund’s life. This can assist with incentivizing junior investment professionals and attracting talent to the fund sponsor. 
+
+### Whole Funds Waterfall 
+
+Let’s take a look at this from the perspective of the investors in the private equity fund. At the end of this distribution, the investors have received back all their contributed capital and preferred return. From an investor perspective this is the best situation to be in. All the invested capital has been returned and is no longer at risk (except to limited partner clawbacks). Disposition proceeds from other investments in the fund (B, C, D) will be gains for the investors. This is one of the primary reasons why the whole fund waterfall is often preferred by institutional investors. 
+
+Another reason why institutional investors prefer the whole fund waterfall is because the return of contributed capital earlier in the life of the fund (before carry is paid to the fund sponsor) is advantageous from a time value of money perspective. The sooner capital is returned to the investor the sooner they can reinvest it in other opportunities.<sup><a href="#fn04" id="fref04">4</a></sup>
+
+Finally, a whole fund waterfall obviates much of the need for complicated and difficult to enforce general partner clawbacks.
+
+From the perspective of the fund sponsor, the whole fund waterfall is less attractive. First, the delay in receiving carried interest is disadvantageous from a time value of money perspective. In the example above, the return on investment A was sufficient to return all contributed capital and expenses and pay carry to the fund sponsor. That will not always be the case and a manager may have to wait until near the end of the fund’s life to receive meaningful amounts of carried interest. 
+
+Second, a whole fund waterfall can make it difficult for the sponsor to retain talented junior investment professionals who often have shorter time horizons than senior investment professionals. The delay in receiving carry can result in junior investment professionals not being incentivized to either stay with the firm or select the best investments (since they do not expect to be rewarded for those deals for a long time). 
+
+Third, for first-time fund sponsors, the deferral of carried interest until the end of the fund term can limit their ability to attract talented professionals to join them, as there will not be much they can offer to reward performance. It is ironic, therefore, that often the funds that are most likely to need a deal-by-deal waterfall (at least in Europe and Asia), are the ones that are most often unable—due to lack of negotiating leverage—to obtain it from their investors.
+
+On the flip side, though, it is operationally a lot easier to implement a whole fund waterfall, as the calculation methodologies are simpler. That being said, most competent fund administrators will usually be able to handle both deal-by-deal and whole fund waterfalls.
+
+## Conclusion 
+
+So, what do I think of the two models of distribution waterfall? 
+
+As someone who has been on both sides of the table, I would say it boils down to: 
+
+1. **Geography:** If you are in Europe or Asia the market norm is whole fund and deviations from this need to be explained and heavily negotiated with institutional investors. In the USA, you may have more leeway to use a deal-by-deal waterfall.
+2. **Leverage:** The more successful your previous funds, the more leeway you will have to resist requests to modify the terms of your distribution waterfall. 
+3. **Incentives:** How do you intend to incentivize your investment professionals? The more that your incentive structure depends on carry the more you need to consider whether a deal-by-deal waterfall makes sense.
+4. **Operational capabilities:** If you intend to do a deal-by-deal waterfall, be aware that it does come with more operational complexity that you or your fund administrator will have to deal with. 
+
+I will admit to a slight preference (despite the undoubtedly shocked gasps from some of my old colleagues) for the deal-by-deal waterfall due to the fact that it permits more tailored incentive programs and earlier distribution of carry, which I think can be vital for new fund sponsors. Also, there are ways—through appropriate general partner clawback mechanisms—to mitigate some of the risk of excess payment of carry.
 
 <div class="footnotes">
     <hr class="w-50" />
     <ol>
         <li id="fn01">For my Chinese speaking friends, a <a href="http://ilpa.org/wp-content/uploads/2011/01/Principles-mandarin.pdf">Chinese language version</a> is also available. Very thoughtful of them. <a href="#fref01">&#8593;</a></li>
         <li id="fn02">Complicated? Yes. I’ll do a piece by piece explanation. Can’t guarantee that it will make more sense when I’m done, but at least it will be illustrated with a concrete example. <a href="#fref02">&#8593;</a></li>
+        <li id="fn03">The general partner clawback is a topic for another day. This blog post is getting long enough. <a href="#fref03">&#8593;</a></li>
+        <li id="fn04">Of course, this can be a mixed blessing. Finding high yielding opportunities to reinvest funds is not always easy. <a href="#fref04">&#8593;</a></li>
     </ol>
 </div>
