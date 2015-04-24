@@ -56,6 +56,7 @@ Therefore, a sovereign wealth fund is often in a position to be a provider of ta
 Moreover, investment opportunities also differ in the time horizon needed to harvest returns. As an example, a venture capital, private equity, real estate, or infrastructure investment is a long time horizon investment, requiring at least five to ten years to harvest. An institutional investor that has substantial short-term liabilities should be cautious about the mismatch between the _timing_ of the cash inflows from such investments and the cash outflows for its liabilities. 
 
 <div class="footnotes">
+    <hr class="w-50"/>
     <ol>
         <li id="fn01">This model involves defining the long-term return target for the portfolio, deriving the long-term expected returns and volatility—usually expressed as variance or standard deviation—of the different asset classes, deriving the estimated correlation between the different asset classes, and then optimizing the portfolio for maximum expected return for a given level of risk (or equivalently minimizes risk for a given level of expected return), i.e. mean-variance optimization per Markowitz. <a href="#fref01">&#8593;</a></li>
         <li id="fn02">Notably, during the 2008 global financial crisis, assets with supposedly little or no correlation did indeed exhibit significant correlation. <a href="#fref02">&#8593;</a></li>
