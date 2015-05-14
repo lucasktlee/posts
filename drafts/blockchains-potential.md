@@ -92,7 +92,9 @@ Furthermore, as noted by David Yermack in his working paper for the <abbr>NBER</
 
 ### Difficulties with utilizing Bitcoin as a unit of account
 
-In order to function as a unit of account, money must have a consistent value that allows one to compare the prices of goods. At present, this is hardly the case due to the aforementioned price volatility. The second difficulty lies in the relatively high cost of a Bitcoin compared to the typical goods and services demanded by consumers on a day-to-day basis. 
+In order to function as a unit of account, money must have a consistent value that allows one to compare the prices of goods. As an example, one would be correct in assuming that a book that costs $10 is twice as expensive as a book that costs $5. Moreover, the value of money ought to be consistent over time, such that when a customer visits a cafe for a coffee, the price stays the same from day-to-day. In the case of Bitcoin, due to the aforementioned price volatility, this is not the case. Merchants accepting Bitcoins will necessarily have to recalculate their prices frequently, with the result that one cannot know in advance what one Bitcoin will buy.
+
+The second difficulty lies in the relatively high cost of a Bitcoin compared to the typical goods and services demanded by consumers on a day-to-day basis. This requires items with prices denominated in Bitcoins to be quoted in more than two decimal places, e.g. 0.0010<abbr title="Bitcoin">BTC</abbr>. While there are some national currencies that have unusually high denominations, including without limitation the Indonesian rupiah, the Japanese yen, and the Korean won, it is often easier for people to deal with large denominations by simply cutting off the extra zeros than it is for people to deal with decimal places.
 
 ### Limited acceptance of Bitcoin as a medium of exchange 
 
@@ -102,13 +104,19 @@ For Bitcoin to serve as a medium of exchange it must be broadly accepted by merc
 
 Bitcoins are held in digital wallets, which have proven quite vulnerable to theft by determined cyber-criminals. The first known theft of Bitcoins from a digital wallet occurred on June 13, 2011. This was followed by other notable thefts from digital wallets.<sup><a href="#fn06" id="fref06">6</a></sup> Moreover, digital wallets have also proven vulnerable to data corruption, as was the case with Bitomat, then the third largest Bitcoin exchange, which lost its wallet (and 17,000 Bitcoins) when its virtual machine on Amazon Web Services Elastic Cloud Computing was deleted on July 26, 2011.<sup><a href="#fn07" id="fref07">7</a></sup> 
 
-Indeed, the process of [properly securing one’s Bitcoin wallet](https://bitcoin.org/en/secure-your-wallet) is rather more than most common computer users will be likely to be able to follow. I do expect, though, that new startups will emerge that will be in a position to improve this process, so I do not view this as a serious long-term problem. I am more concerned about the long-term ability of defenders to protect Bitcoin wallets from determined attackers. 
+Indeed, the process of [properly securing one’s Bitcoin wallet](https://bitcoin.org/en/secure-your-wallet) is rather more than most common computer users will be likely to be able to follow. I do expect, though, that new startups will emerge that will improve this process, so I do not view this as a serious long-term problem. I am more concerned about the long-term ability of defenders to protect Bitcoin wallets from determined attackers. 
+
+In general, my view is that until one can make securing Bitcoin wallets intuitive and relatively painless for _ordinary users,_ 
+
+### Fixed limit of 21 million Bitcoins
 
 <h2 id="ep">The Blockchain as an Enabling Protocol</h2> 
 
-To me, while Bitcoin may not displace national currencies any time in the future, the blockchain protocol that underlies Bitcoin remains fascinating as an enabling protocol, similar to how our modern internet is built upon the <abbr title="Transmission Control Protocol">TCP</abbr>/<abbr title="Internet Protocol">IP</abbr>. It can be seen as the fundamental building block for a new generation of applications that require information to be stored in a—largely<sup><a href="#fn08" id="fref08">8</a></sup>—unchangeable database that is not controlled by any single entity.
+While Bitcoin may not displace national currencies any time in the future, the blockchain protocol that underlies Bitcoin remains fascinating as an enabling protocol for future applications, similar to how our modern internet is built upon the <abbr title="Transmission Control Protocol">TCP</abbr>/<abbr title="Internet Protocol">IP</abbr>. It can be seen as the fundamental building block for a new generation of applications that require information to be stored in a—largely<sup><a href="#fn08" id="fref08">8</a></sup>—unchangeable database that is not controlled by any single entity.
 
-These include, without limitation, the use of the blockchain for: 
+But first, what is the “blockchain”? 
+
+The 
 
 * 
 * 
@@ -124,6 +132,6 @@ These include, without limitation, the use of the blockchain for:
         <li id="fn05">For a more detailed analysis of what happened, see <cite><a href="https://bitcoinmagazine.com/3668/bitcoin-network-shaken-by-blockchain-fork/">Bitcoin Network Shaken by Blockchain Fork</a></cite> by Vitalik Buterin. <a href="#fref05">&#8593;</a></li>
         <li id="fn06">This is not the place to list every Bitcoin theft that has occurred, but a simple Google search will reveal a fairly long list of reported thefts. <a href="#fref06">&#8593;</a></li>
         <li id="fn07">I will note that this appears to have been a case of an entrepreneur using the wrong technical solution for his exchange, i.e. an ephemeral storage solution for what should have been a permanent storage requirement. This highlights the reality that many early—and even very likely some current—Bitcoin entrepreneurs are ill prepared to build appropriate infrastructure for their Bitcoin startups. <a href="#fref07">&#8593;</a></li>
-        <li id="fn08">I say “largely” because in principle a party controlling more than 50% of the total computing power used in the network can exclude or modify the ordering of transactions. <a href="#fref08">&#8593;</a></li>
+        <li id="fn08">I say “largely” because in principle a party controlling more than 50% of the total computing power of the network can exclude or modify the ordering of transactions. <a href="#fref08">&#8593;</a></li>
     </ol>
 </div>
