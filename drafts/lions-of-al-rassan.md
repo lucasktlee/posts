@@ -1,0 +1,2 @@
+<p class="lede">I first read Guy Gavriel Kay’s <cite><a href="">The Lions of Al-Rassan</a></cite> as a teenager. I knew, even then, that this was a novel I would not easily forget. Indeed, the passage of time has borne that out quite well. When I visited Madrid and Granada earlier this month, it was <cite>The Lions of Al-Rassan</cite> that I took with me to read on my sojourn. It was as moving a </p>
+
