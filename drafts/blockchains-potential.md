@@ -155,7 +155,17 @@ But wait a moment! There’s one potential problem that might occur here. What i
 
 Bitcoin solves the conflicting transactions problem by having Mary and Karen broadcast the possible transaction with Jennifer to the entire network. This way, if Jennifer tries to use the same coin to pay both Mary and Karen, other participants will notice and the network will warn them of the attempted double spending. Problem solved. But wait! Are we missing something? Let’s take a step back and think this through. What if Jennifer creates a whole army of fake identities on the network, and has those fake identities flood the network with confirmations of her transactions, so that _both_ transactions are deemed valid but in actuality only one person—Mary or Karen—actually gets the coin? 
 
-That’s where Bitcoin gets clever again. (See why I [said](#fn01) that Satoshi Nakamoto must be either a polymath and genius or a team of extremely talented individuals?) Transactions are validated not merely by a number of network participants saying that they validate the transaction, but rather are validated by a _computationally costly_ process known as a “proof of work”. 
+That’s where Bitcoin gets clever again. (See why I [said](#fn01) that Satoshi Nakamoto must be either a polymath and genius or a team of extremely talented individuals?) Transactions are validated not merely by a number of network participants saying that they validate the transaction, but rather are validated by a _computationally costly_ process known as a “proof of work”, or in other words, by solving a mathematical puzzle. This means that Jennifer, our unfortunate would-be fraudster, cannot simply put together an army of fake identities to enable her to double spend her coin. Instead, to double spend she needs to put together a _lot_ of computational power to validate her fraudulent transactions. 
+
+Let’s look at this “proof of work” concept in greater detail: 
+
+1. A number of pending transactions (transactions that have not yet been validated by the network) are assembled into a queue. 
+2. A network participant, Victor, takes the queue of pending transactions and validates it by solving a hard mathematical puzzle. The network will only accept a validation if it is accompanied by the solution to that puzzle. (We’ll get to the point of why Victor is willing to spend his computational resources on validating the transactions later.) 
+3. When Victor successfully finds the solution, he broadcasts this solution to the rest of the network. The other participants can verify that his solution is indeed the correct solution to the puzzle, and if that is the case, they update their blockchains to include the newly validated transactions.
+
+The precise details of the puzzle 
+
+To incentivize network participants to expend resources (computational power and electricity) to validate transactions, the Bitcoin system rewards participants that validate transactions by awarding them a fixed number of bitcoins. This is critical; people are unlikely to expend resources without any reward, so either the system must intrinsically provide a reward (bitcoins) or the parties to the transaction must pay other participants to validate their transaction by offering a transaction fee. 
 
 ### What can you build with the blockchain?
 
