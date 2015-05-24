@@ -163,11 +163,17 @@ Let’s look at this “proof of work” concept in greater detail:
 2. A network participant, Victor, takes the queue of pending transactions and validates it by solving a hard mathematical puzzle. The network will only accept a validation if it is accompanied by the solution to that puzzle. (We’ll get to the point of why Victor is willing to spend his computational resources on validating the transactions later.) 
 3. When Victor successfully finds the solution, he broadcasts this solution to the rest of the network. The other participants can verify that his solution is indeed the correct solution to the puzzle, and if that is the case, they update their blockchains to include the newly validated transactions.
 
-The precise details of the puzzle 
+The mathematical puzzle is computed by finding a [nonce](http://en.wikipedia.org/wiki/Cryptographic_nonce), _x,_ that when hashed using a [hash function](http://en.wikipedia.org/wiki/Hash_function), _h(x + y),_<sup><a href="#fn14" id="fref14">14</a></sup> with the queue of pending transactions, _y,_ produces a value equal to or less than a specified [target](https://en.bitcoin.it/wiki/Target), _t._ If this sounds like gibberish to you, don’t worry. It will all become clear momentarily. We can think of it as simply _h(x + y) = t_, with _t_ being a constant and _x_ being the variable to be solved for. The target _t_ is dynamically adjusted so that it takes on average ten minutes for a block on the blockchain to be validated. 
 
-To incentivize network participants to expend resources (computational power and electricity) to validate transactions, the Bitcoin system rewards participants that validate transactions by awarding them a fixed number of bitcoins. This is critical; people are unlikely to expend resources without any reward, so either the system must intrinsically provide a reward (bitcoins) or the parties to the transaction must pay other participants to validate their transaction by offering a transaction fee. 
+The interesting aspect of a hash function is that the output of the function is highly dependent on the input; change the input by even one bit and the output of the function changes completely in an unpredictable manner.<sup><a href="#fn15" id="fref15">15</a></sup> This has several consequences that are crucial for the utility and security of Bitcoin: 
+
+Now, we come to the “chain” aspect of the blockchain. 
+
+To incentivize network participants to expend resources (computational power and electricity) to validate transactions, the Bitcoin system rewards participants that validate transactions by awarding them a fixed number of bitcoins. This is critical; people are unlikely to expend resources without any reward, so either the system must intrinsically provide a reward (bitcoins) or the parties to the transaction must pay other participants to validate their transaction by offering a transaction fee. The reward of bitcoins to the participant (in Bitcoin parlance, a miner) that successfully validates a block first is of vital importance for two reasons. First, it ensures that, so long as the reward has a value that is greater than the capital and operating costs of validating the block, sufficient participants will choose to participate in the network to ensure that transactions can be validated without the need for high transaction fees, i.e. acts as a subsidy. Second, it limits the likelihood that any individual attacker or group of attackers will have enough computational power to seize control of the blockchain since the computational power of honest participants seeking to obtain the reward will be sufficiently large to grow the honest chain faster than any competing “false” chains.
 
 ### What can you build with the blockchain?
+
+Now that we understand what the blockchain is and how it works, the next question is: _what can you build with the blockchain?_
 
 
 
@@ -191,5 +197,7 @@ To incentivize network participants to expend resources (computational power and
         <li id="fn11">Jennifer does this by using her private key to create a unique digital signature and appending it to the coin. <a href="#fref11">&#8593;</a></li>
         <li id="fn12">If this brief example of public-key cryptography is confusing, you may find it useful to read <a href="http://en.wikipedia.org/wiki/Public-key_cryptography">this Wikipedia entry</a>. <a href="#fref12">&#8593;</a></li>
         <li id="fn13">The current size of the blockchain is approximately 34<abbr>GB</abbr>, with so far a fairly <a href="https://blockchain.info/charts/blocks-size">linear growth pattern</a>. This may change, however, if Bitcoin becomes more commonly used. <a href="#fref13">&#8593;</a></li>
+        <li id="fn14">Bitcoin uses the <abbr title="Secure Hash Algorithm">SHA</abbr>-256 hash function. <a href="#fref14">&#8593;</a></li>
+        <li id="fn15">This is one reason why hashes are often used to validate that digital data has not been altered in transmission, i.e. a checksum. <a href="#fref15">&#8593;</a></li>
     </ol>
 </div>
