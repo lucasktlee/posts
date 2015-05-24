@@ -1,8 +1,4 @@
-<p class="lede">As I <a href="http://lucasktlee.com/2014/08/28/introduction-to-private-equity-fund-terms/">previously mentioned</a>, a private equity or venture capital fund is a pool of capital provided by investors, typically called limited partners or <abbr>LP<abbr>s in light of the fact that private equity and venture capital funds are often structured as limited partnerships. </p>
-
-A <abbr>LP</abbr>, speaking candidly, would say, in the immortal words of Vesper Lynd, <q>I’m the money.</q>
-
-
+<p class="lede">As I <a href="http://lucasktlee.com/2014/08/28/introduction-to-private-equity-fund-terms/">previously mentioned</a>, a private equity or venture capital fund is a pool of capital provided by investors, typically called limited partners (<abbr>LP<abbr>s) in light of the fact that private equity and venture capital funds are often structured as limited partnerships. Understanding what <abbr>LP</abbr>s want is important for any general partner (<abbr>GP</abbr>) that wishes to raise a fund, because <abbr>LP</abbr>s are, in the immortal words of Vesper Lynd, <q>the money.</q></p>
 
 ## Who are the limited partners?
 
