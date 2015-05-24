@@ -122,7 +122,11 @@ This is one area that could do with more rigorous academic and quantitative rese
 
 ### No entity ever gains persistent controls majority of computing power of network
 
-Another potential risk to Bitcoin as a currency and as a payment protocol rests in the structure of the blockchain itself. The Bitcoin system is prospectively tamper proof _only_ if no individual or collective group has persistent control of 51% or more of the total computing power of the network. 
+Another potential risk to Bitcoin as a currency and as a payment protocol rests in the structure of the blockchain itself. The Bitcoin system is prospectively tamper proof _only_ if no individual or collective group has persistent control of 51% or more of the total computing power of the network. Upon gaining control of 51% of the total computing power of the network, this person would be in a position to double spend a given bitcoin by reversing a transaction made while that person has control of the network, as well as prevent transaction confirmations. 
+
+It is, however, the general consensus that while an entity—[GHash.io](https://ghash.io/)—has briefly [gained control of 51% of the total computing power in the network](http://arstechnica.com/security/2014/06/bitcoin-security-guarantee-shattered-by-anonymous-miner-with-51-network-power/), it is likely that in practice that such an entity would find it unprofitable to destablize Bitcoin by engaging in double spending or preventing transactions from being confirmed, since such an act would undoubtedly cause the price of bitcoins to collapse.
+
+Nevertheless, it remains a potential issue, and may be used by a well-resourced third party that aims to disrupt or destroy Bitcoin, and should be considered among the risk factors of investing or utilizing Bitcoin.
 
 <h2 id="ep">The Blockchain as an Enabling Protocol</h2> 
 
@@ -171,7 +175,7 @@ The mathematical puzzle is computed by finding a [nonce](http://en.wikipedia.org
 
 The interesting aspect of a hash function is that the output of the function is highly dependent on the input; change the input by even one bit and the output of the function changes in an unpredictable manner.<sup><a href="#fn15" id="fref15">15</a></sup> This has several consequences for Bitcoin. First, it limits the 
 
-Now, we come to the “chain” aspect of the blockchain. Each block contains as part of its input a hash of the previous block, _H<sub>b</sub>._ Recall that the hash of the present block contains a hash of the previous block, all the way back to the so-called genesis block. Remember also that changing the input of any hash function changes the output in an unpredictable manner. If a dishonest participant attempted to go back to try and change a transaction in an earlier block, it would change the hash of that earlier block, which in turn would change the hash of the current block.
+Now, we come to the “chain” aspect of the blockchain. Each block contains as part of its input a hash of the block immediately prior in time to it, _H<sub>b</sub>._ Thus the hash of the present block contains a hash of the previous block, all the way back to the so-called genesis block. Remember also that changing the input of any hash function changes the output in an unpredictable manner. If a dishonest participant attempted to go back to try and change a transaction in an earlier block, it would change—unpredictably—the hash of that earlier block, which in turn would change—unpredictably—the hash of the current block. 
 
 To incentivize network participants to expend resources (computational power and electricity) to validate transactions, the Bitcoin system rewards participants that validate transactions by awarding them a fixed number of bitcoins. This is critical; people are unlikely to expend resources without any reward, so either the system must intrinsically provide a reward (bitcoins) or the parties to the transaction must pay other participants to validate their transaction by offering a transaction fee. The reward of bitcoins to the participant (in Bitcoin parlance, a miner) that successfully validates a block first is of vital importance for two reasons. 
 
