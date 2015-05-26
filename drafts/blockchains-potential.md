@@ -192,15 +192,19 @@ So, to summarize, the blockchain is:
 * Chronologically ordered and tamper-proof through the use of cryptographic hash functions and the use of a pointer containing a hash of the previous block, which makes tampering with past transactions computationally expensive. 
 * Robust because participants can enter and leave the network without affecting the blockchain, and because participants do not need to know each other in order to trust each other. Instead, they use the proof of work done to validate blocks and can verify the solution using mathematical, cryptographic rules. 
 
+(Incidentally, this reliance on cryptographic hash functions and public-key cryptography is one of the reasons why Bitcoin and its derivatives are called “cryptocurrencies”.)
+
 ### What can you build with the blockchain?
 
 Now that we understand what the blockchain is and how it works, the next question is: _what can you build with the blockchain?_
 
+The first and most obvious use of the blockchain (and Bitcoin) is as a decentralized transmission protocol for sending digital property securely and irreversibly to another party.<sup><a href="#fn15" id="fref15">15</a></sup> 
 
+The second use of the blockchain is probably more difficult to conceptualize.  
 
 ### What has been built with the blockchain to date?
 
-
+Quite a lot. 
 
 <div class="footnotes">
     <hr class="w-50" />
@@ -219,5 +223,6 @@ Now that we understand what the blockchain is and how it works, the next questio
         <li id="fn12">If this brief example of public-key cryptography is confusing, you may find it useful to read <a href="http://en.wikipedia.org/wiki/Public-key_cryptography">this Wikipedia entry</a>. <a href="#fref12">&#8593;</a></li>
         <li id="fn13">The current size of the blockchain is approximately 34<abbr>GB</abbr>, with so far a fairly <a href="https://blockchain.info/charts/blocks-size">linear growth pattern</a>. This may change, however, if Bitcoin becomes more commonly used. <a href="#fref13">&#8593;</a></li>
         <li id="fn14">Bitcoin uses the <abbr title="Secure Hash Algorithm">SHA</abbr>-256 hash function. <a href="#fref14">&#8593;</a></li>
+        <li id="fn15">This view is shared by, among others, <a href="http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/">Marc Andreessen</a> and <a href="https://medium.com/investing-2-0/wall-street-meet-block-chain-b2747909eb90">Adam Ludwin</a>. <a href="#fref15">&#8593;</a></li>
     </ol>
 </div>
