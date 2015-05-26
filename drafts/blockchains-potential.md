@@ -198,7 +198,7 @@ So, to summarize, the blockchain is:
 
 Now that we understand what the blockchain is and how it works, the next question is: _what can you build with the blockchain?_
 
-The first and most obvious use of the blockchain (and Bitcoin) is as a decentralized transmission protocol for sending digital property securely and irreversibly to another party.<sup><a href="#fn15" id="fref15">15</a></sup> 
+The first and most obvious use of the blockchain (and Bitcoin) is as a decentralized transmission protocol for sending digital property securely and irreversibly to another party.<sup><a href="#fn15" id="fref15">15</a></sup> In its most basic form, it allows two parties to transfer money over the internet _without the need for a trusted third party and the associated transaction fees often charged by such trusted third parties._<sup><a href="#fn16" id="fref16">16</a></sup> This has significant implications for businesses engaged in, without limitation, global remittances, where, according to the [World Bank](https://remittanceprices.worldbank.org/en) transaction fees can amount to an average of 7.72% (Q1 2015).
 
 The second use of the blockchain is probably more difficult to conceptualize.  
 
@@ -224,5 +224,6 @@ Quite a lot.
         <li id="fn13">The current size of the blockchain is approximately 34<abbr>GB</abbr>, with so far a fairly <a href="https://blockchain.info/charts/blocks-size">linear growth pattern</a>. This may change, however, if Bitcoin becomes more commonly used. <a href="#fref13">&#8593;</a></li>
         <li id="fn14">Bitcoin uses the <abbr title="Secure Hash Algorithm">SHA</abbr>-256 hash function. <a href="#fref14">&#8593;</a></li>
         <li id="fn15">This view is shared by, among others, <a href="http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/">Marc Andreessen</a> and <a href="https://medium.com/investing-2-0/wall-street-meet-block-chain-b2747909eb90">Adam Ludwin</a>. <a href="#fref15">&#8593;</a></li>
+        <li id="fn16">Of course, one might note that due to the present price volatility of Bitcoin, this function is not clearly viable: one can imagine that such transfers might involve a considerable amount of idiosyncratic risk that cannot easily be hedged. <a href="#fref16">&#8593;</a></li>
     </ol>
 </div>
