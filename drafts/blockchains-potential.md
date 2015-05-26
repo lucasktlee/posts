@@ -198,9 +198,13 @@ So, to summarize, the blockchain is:
 
 Now that we understand what the blockchain is and how it works, the next question is: _what can you build with the blockchain?_
 
-The first and most obvious use of the blockchain (and Bitcoin) is as a decentralized transmission protocol for sending digital property securely and irreversibly to another party.<sup><a href="#fn15" id="fref15">15</a></sup> In its most basic form, it allows two parties to transfer money over the internet _without the need for a trusted third party and the associated transaction fees often charged by such trusted third parties._<sup><a href="#fn16" id="fref16">16</a></sup> This has significant implications for businesses engaged in, without limitation, global remittances, where, according to the [World Bank](https://remittanceprices.worldbank.org/en) transaction fees can amount to an average of 7.72% (Q1 2015) and remittances may take anywhere between two to five days to “clear” and be available to the recipient. The vastly lower transaction fees and significantly reduced time to confirm the transaction (approximately one hour assuming one waits for six confirmations) involved in transferring funds using Bitcoin may provide its first “use case”. 
+The first and most obvious use of the blockchain (and Bitcoin) is as a decentralized transmission protocol for sending digital property securely and irreversibly to another party.<sup><a href="#fn15" id="fref15">15</a></sup> In its most basic form, it allows two parties to transfer money over the internet _without the need for a trusted third party and the associated transaction fees often charged by such trusted third parties._<sup><a href="#fn16" id="fref16">16</a></sup> This has significant implications for businesses engaged in, without limitation, global remittances, where, according to the [World Bank](https://remittanceprices.worldbank.org/en) transaction fees can amount to an average of 7.72% (Q1 2015) and remittances may take anywhere between two to five days to “clear” and be available to the recipient. The vastly lower transaction fees (presently 0.0001<abbr>BTC</abbr> per transaction) and significantly reduced time to confirm the transaction (approximately one hour assuming one waits for six confirmations) involved in transferring funds using Bitcoin may provide its first “use case”. We can easily imagine this being extended to other forms of transfers, for example micropayments where the small size of the payment—less than $1.00—would make it impracticable to use conventional bank transfer systems which often have a _fixed_ minimum cost to make a transfer. 
 
-The second use of the blockchain is probably more difficult to conceptualize. 
+Moreover, we can imagine using the blockchain (and Bitcoin) to represent ownership and to transfer other assets such as listed and unlisted stocks, bonds, derivatives, demand deposits, movable and immovable physical property, or even more esoteric items like membership reward points, prepaid cellular talk time, access keys for safety deposit boxes, hotel rooms, cars, et cetera. This can be done by the use of something called [Colored Coins](http://coloredcoins.org/). This is not the place to go into the full details of the Colored Coin approach, especially since that appears to still be a [work in progress](http://blog.coloredcoins.org/blog/2015/5/25/towards-new-coloredcoins-implementation-community-update), but it suffices to note that in principle it will likely encode a certain amount of data into an optional function <code>OP_RETURN</code> that can store a modest 40 bytes of data and thus serve as a pointer to another distributed record storage system that will actually identify the asset. The fractional bitcoin and the blockchain is used simply to 
+
+The second use of the blockchain (and Bitcoin) is for 
+
+The third use of the blockchain is probably more difficult to conceptualize. These are what I call the unexpected results of tinkering, as multi-disciplinary inventors see the blockchain and apply it to fields as diverse as medicine, academia, logistics, et cetera.
 
 ### What has been built with the blockchain to date?
 
@@ -209,6 +213,9 @@ Quite a lot.
 #### Remittances 
 
 
+## Final Thoughts 
+
+One final thought, which derives from my own background as a lawyer trained in the Anglo-American common law, 
 
 <div class="footnotes">
     <hr class="w-50" />
