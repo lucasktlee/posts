@@ -196,7 +196,7 @@ So, to summarize, the blockchain is:
 
 ### What can you build with the blockchain?
 
-Now that we understand what the blockchain is and how it works, the next question is: _what can you build with the blockchain?_
+Now that we understand what the blockchain is and how it works, the next question is: _what can you build with the blockchain?_ Now, the use cases that I am mentioning here are by no means exhaustive: they happen to be based on a survey of current thinking about the blockchain, as well as some of my own thoughts on the matter. I suspect that many more _unknown unknown_ uses exist and will emerge from entrepreneurs and inventors working to find solutions to current problems in diverse industries.
 
 The first and most obvious use of the blockchain (and Bitcoin) is as a decentralized transmission protocol for sending digital property securely and irreversibly to another party.<sup><a href="#fn15" id="fref15">15</a></sup> In its most basic form, it allows two parties to transfer money over the internet _without the need for a trusted third party and the associated transaction fees often charged by such trusted third parties._<sup><a href="#fn16" id="fref16">16</a></sup> This has significant implications for businesses engaged in, without limitation, global remittances, where, according to the [World Bank](https://remittanceprices.worldbank.org/en) transaction fees can amount to an average of 7.72% (Q1 2015) and remittances may take anywhere between two to five days to “clear” and be available to the recipient. The vastly lower transaction fees (presently 0.0001<abbr>BTC</abbr> per transaction) and significantly reduced time to confirm the transaction (approximately one hour assuming one waits for six confirmations) involved in transferring funds using Bitcoin may provide its first “use case”. We can easily imagine this being extended to other forms of transfers, for example micropayments where the small size of the payment—less than $1.00—would make it impracticable to use conventional bank transfer systems which often have a _fixed_ minimum cost to make a transfer. 
 
@@ -206,13 +206,15 @@ The second use of the blockchain (and Bitcoin) is for its tamper-proof recordkee
 
 The third use of the blockchain (and Bitcoin) is in the arena of distributed storage. Current cloud storage solutions such as [Amazon S3](http://aws.amazon.com/s3/), [Dropbox](https://www.dropbox.com/), [Google Drive](https://www.google.com/drive/) and [Box](https://www.box.com/) all rely on _centralized_ data storage. This, of course, introduces a single point of failure (if something happens to Dropbox, Google, Box, or Amazon your data is pretty much toast), as well as the need to _trust_ that these entities will not abuse their control over your data in the cloud. The blockchain together with peer-to-peer network protocols (e.g. based on the torrent protocol) could provide the basis for a distributed alternative to these cloud storage providers. 
 
-The fourth use of the blockchain (and Bitcoin) has been the development of “smart contracts” and “programmable money”
+The fourth use of the blockchain (and Bitcoin) has been the development of “smart contracts”. The basic idea of a “smart contract” is that it is self-executing
 
-The fifth use of the blockchain (or a technology based on the blockchain) is 
+The fifth use of the blockchain (or a technology based on the blockchain) is for electronic voting. It is a fairly evident fact that _even_ in the developed Western democracies, voter fraud—in the form of ballot stuffing, misrecording of votes, destruction or invalidation of ballots, or tampering with electronic voting machines—is a perennial risk. One interesting and [much discussed](http://www.coindesk.com/block-chain-technology-digital-democracy/) use for the Bitcoin blockchain or an alternative blockchain has been to record votes in elections. The use of public key cryptography and the blockchain enables the system to provide assurance that 
 
-The sixth use of the blockchain (or a technology based on the blockchain) is in powering the Internet of Things. 
+The sixth use 
 
-The final use of the blockchain is probably more difficult to conceptualize _a priori._ These are what I call the unexpected results of tinkering, as multi-disciplinary inventors see the blockchain and apply it to fields as diverse as medicine, law, academia, logistics, et cetera. 
+The seventh use of the blockchain (or a technology based on the blockchain) is in powering the Internet of Things. 
+
+The final use of the blockchain is probably more difficult to conceptualize _a priori._ These are what I call the unexpected results of tinkering, as multi-disciplinary inventors see the blockchain and apply it to fields as diverse as medicine, law, academia, logistics, et cetera. In order to 
 
 ### What has been built with the blockchain to date?
 
@@ -221,6 +223,9 @@ Quite a lot. There are quite a number of startups that are beginning to leverage
 #### Remittances 
 
 
+#### Voting 
+
+* **[BitCongress](http://www.bitcongress.org/):** An [Ethereum](https://www.ethereum.org/) based 
 
 #### Storage
 
