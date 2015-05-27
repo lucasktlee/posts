@@ -204,7 +204,7 @@ Moreover, we can imagine using the blockchain (and Bitcoin) to represent ownersh
 
 The second use of the blockchain (and Bitcoin) is for its tamper-proof recordkeeping function. We can consider this to be a distributed, public and verifiable record that replaces centralized records held by—and subject to tampering by—so-called trusted authorities. One possible use case would be for registration of land or other tangible property ownership. One fairly bold endeavor, if true, would be a pilot program in Honduras to [use the blockchain to record land ownership](https://bitcoinmagazine.com/20467/factom-partners-honduras-government-build-blockchain-backed-land-registry/).  Another would be for making tamper proof records of transactions or data for companies and institutions, by recording a hash based on the transaction or data into the Bitcoin blockchain or an alternate blockchain. We could, for example, imagine an accounting ledger that records transactions in such a way as to preclude tampering with the accounts, making it more difficult to commit various forms of accounting fraud. Another possible use might be to record sales and purchases made by a company, again limiting the ability of fraudulent parties to later amend the records to disguise their activities, since changing the input data on which the hash is based would unpredictably change the output hash. We can also imagine this being used by medical practitioners and hospitals to record medical data and treatment records for patients in such a way, again, as to provide for easy auditing and tamper proofing. 
 
-The third use of the blockchain (and Bitcoin) has been in the arena of distributed storage. Current cloud storage solutions such as [Dropbox](https://www.dropbox.com/), [Google Drive](https://www.google.com/drive/) and [Box](https://www.box.com/) all rely on _centralized_ data storage. 
+The third use of the blockchain (and Bitcoin) is in the arena of distributed storage. Current cloud storage solutions such as [Amazon S3](http://aws.amazon.com/s3/), [Dropbox](https://www.dropbox.com/), [Google Drive](https://www.google.com/drive/) and [Box](https://www.box.com/) all rely on _centralized_ data storage. This, of course, introduces a single point of failure (if something happens to Dropbox, Google, Box, or Amazon your data is pretty much toast), as well as the need to _trust_ that these entities will not abuse their control over your data in the cloud. The blockchain together with peer-to-peer network protocols (e.g. based on the torrent protocol) could provide the basis for a distributed alternative to these cloud storage providers. 
 
 The fourth use of the blockchain (and Bitcoin) has been the development of “smart contracts” and “programmable money”
 
@@ -218,7 +218,13 @@ The final use of the blockchain is probably more difficult to conceptualize _a p
 
 Quite a lot. There are quite a number of startups that are beginning to leverage the idea that the blockchain is not merely a tool that allows Bitcoin to function, but also serves as a building block for other innovative ideas. 
 
+#### Remittances 
 
+
+
+#### Storage
+
+* **[Storj](http://storj.io/):** Decentralized cloud storage using peer-to-peer protocols, the blockchain, and cryptography to store data across a peer network rather than centralized cloud storage. This has some interesting potential, though I suspect that psychological issues of trust and accountability will likely dominate the initial discussions they have with insitutional or corporate clients. 
 
 ## Final Thoughts 
 
