@@ -210,7 +210,7 @@ The fourth use of the blockchain (and Bitcoin) has been the development of “sm
 
 The fifth use of the blockchain (or a technology based on the blockchain) is for electronic voting. It is a fairly evident fact that _even_ in the developed Western democracies, voter fraud—in the form of ballot stuffing, misrecording of votes, destruction or invalidation of ballots, or tampering with electronic voting machines—is a perennial risk. One interesting and [much discussed](http://www.coindesk.com/block-chain-technology-digital-democracy/) use for the Bitcoin blockchain or an alternative blockchain has been to record votes in elections. The use of public key cryptography and the blockchain enables the system to provide assurance that the person who owns the cryptographic key really did cast that vote (otherwise that person’s public key would not be able to validate the resultant signature), and that the vote was not tampered with once cast. Of course, this by no means eliminates voter fraud, in the sense that someone could install a [rootkit](http://en.wikipedia.org/wiki/Rootkit) that hijacks the person’s machine and vote, but it does at least reduce some options for voter fraud. And that, in most cases, is better than nothing.
 
-The sixth use 
+The sixth use of the blockchain (or a technology based on the blockchain) is as the 
 
 The seventh use of the blockchain (or a technology based on the blockchain) is in powering the Internet of Things. 
 
@@ -223,13 +223,19 @@ Quite a lot. There are quite a number of startups that are beginning to leverage
 #### Remittances 
 
 
-#### Voting 
-
-* **[BitCongress](http://www.bitcongress.org/):** An [Ethereum](https://www.ethereum.org/) based platform that uses an alternative cryptocurrency, 
 
 #### Storage
 
 * **[Storj](http://storj.io/):** Decentralized cloud storage using peer-to-peer protocols, the blockchain, and cryptography to store data across a peer network rather than centralized cloud storage. This has some interesting potential, though I suspect that psychological issues of trust and accountability will likely dominate the initial discussions they have with insitutional or corporate clients. 
+
+#### Tamper proof records
+
+* **[Epigraph](http://epigraph.io/):** A Texas-based startup that specializes in building title registration solutions on the blockchain.
+* **[Factom](http://factom.org/):** A startup that is using the blockchain to store a hash generated from the relevant transaction or record, thereby providing users with a tamper proof record that also establishes chronology (since it can be traced to a specific block on the blockchain at a known point in time).
+
+#### Voting 
+
+* **[BitCongress](http://www.bitcongress.org/):** An [Ethereum](https://www.ethereum.org/) based platform that relies on smart contracts and 
 
 ## Final Thoughts 
 
