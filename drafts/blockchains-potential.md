@@ -210,7 +210,7 @@ The fourth use of the blockchain (and Bitcoin) has been the development of “sm
 
 The fifth use of the blockchain (or a technology based on the blockchain) is for electronic voting. It is a fairly evident fact that _even_ in the developed Western democracies, voter fraud—in the form of ballot stuffing, misrecording of votes, destruction or invalidation of ballots, or tampering with electronic voting machines—is a perennial risk. One interesting and [much discussed](http://www.coindesk.com/block-chain-technology-digital-democracy/) use for the Bitcoin blockchain or an alternative blockchain has been to record votes in elections. The use of public key cryptography and the blockchain enables the system to provide assurance that the person who owns the cryptographic key really did cast that vote (otherwise that person’s public key would not be able to validate the resultant signature), and that the vote was not tampered with once cast. Of course, this by no means eliminates voter fraud, in the sense that someone could install a [rootkit](http://en.wikipedia.org/wiki/Rootkit) that hijacks the person’s machine and vote, but it does at least reduce some options for voter fraud. And that, in most cases, is better than nothing.
 
-The sixth use of the blockchain (or a technology based on the blockchain) is as the 
+The sixth use of the blockchain (or a technology based on the blockchain) is as the basis for identifying individuals and corporations. The concept is simple. By issuing each individual or corporation a private Bitcoin (or derivative alt-coin) key that is permanently linked to that person’s identity. 
 
 The seventh use of the blockchain (or a technology based on the blockchain) is in powering the Internet of Things. 
 
@@ -218,7 +218,7 @@ The final use of the blockchain is probably more difficult to conceptualize _a p
 
 ### What has been built with the blockchain to date?
 
-Quite a lot. There are quite a number of startups that are beginning to leverage the idea that the blockchain is not merely a tool that allows Bitcoin to function, but also serves as a building block for other innovative ideas. 
+Quite a lot. There are quite a number of startups that are beginning to leverage the idea that the blockchain is not merely a tool that allows Bitcoin to function, but also serves as a building block for other innovative ideas. This list is by no means exhaustive—such would be beyond the scope this post—but it does serve to provide some flavor of what is being done in the industry and where might be a good point to start evaluating Bitcoin and blockchain startups.
 
 #### Remittances 
 
@@ -227,6 +227,10 @@ Quite a lot. There are quite a number of startups that are beginning to leverage
 * **[Rebit](https://rebit.ph/):** A Philippines based startup that uses Bitcoin to enable remittances to the Philippines with no transaction fees. 
 * **[ArtaBit](https://artabit.com/en/):** An Indonesia based startup that uses Bitcoin to enable remittances to Indonesia with no transaction fees.
 * **[Volabit](https://www.volabit.com/en):** A startup that allows people to send money to or from Mexico and Argentina via Bitcoin with no transaction fees.
+
+#### Asset Transactions 
+
+* **[NASDAQ Private Market](https://www.nasdaqprivatemarket.com):** An interesting application of the blockchain and “colored” Bitcoin (via the [Open Asset Protocol](https://github.com/OpenAssets/open-assets-protocol)) to provide a platform to manage unlisted equity securities, by leveraging the blockchain for cap table management and stock transfers. This is possibly the first signs that the blockchain is starting to go “mainstream”, and—barring adverse regulations—will likely pave the way for further developments in using the blockchain to manage other assets like bonds and other fairly illiquid assets like partnership interests. 
 
 #### Storage
 
@@ -237,6 +241,11 @@ Quite a lot. There are quite a number of startups that are beginning to leverage
 * **[Epigraph](http://epigraph.io/):** A Texas-based startup that specializes in building title registration solutions on the blockchain.
 * **[Factom](http://factom.org/):** A startup that is using the blockchain to store a hash generated from the relevant transaction or record, thereby providing users with a tamper proof record that also establishes chronology (since it can be traced to a specific block on the blockchain at a known point in time).
 * **[Edgelogic](http://blocktrace.io) and [Blocktrace](http://blocktrace.io/):** A <abbr title="United Kingdom">UK</abbr>-based spinoff from Australia-based Edgelogic that is building a blockchain-based ledger to store ownership and transaction data relating to certified diamonds, thereby reducing the likelihood of thieves being able to fence stolen goods by mapping the diamonds to a digital certificate that is based on existing industry certificates, police records and insurance records.
+
+#### Identity and information
+
+* **[Onename](https://onename.com/):** 
+* **[Namecoin](https://namecoin.info/):**
 
 #### Voting 
 
