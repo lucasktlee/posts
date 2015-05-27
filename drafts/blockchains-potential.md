@@ -206,7 +206,7 @@ The second use of the blockchain (and Bitcoin) is for its tamper-proof recordkee
 
 The third use of the blockchain (and Bitcoin) is in the arena of distributed storage. Current cloud storage solutions such as [Amazon S3](http://aws.amazon.com/s3/), [Dropbox](https://www.dropbox.com/), [Google Drive](https://www.google.com/drive/) and [Box](https://www.box.com/) all rely on _centralized_ data storage. This, of course, introduces a single point of failure (if something happens to Dropbox, Google, Box, or Amazon your data is pretty much toast), as well as the need to _trust_ that these entities will not abuse their control over your data in the cloud. The blockchain together with peer-to-peer network protocols (e.g. based on the torrent protocol) could provide the basis for a distributed alternative to these cloud storage providers. 
 
-The fourth use of the blockchain (and Bitcoin) has been the development of “smart contracts”. The basic idea of a “smart contract” is that it is self-executing
+The fourth use of the blockchain (and Bitcoin) has been the development of “smart contracts”. The basic idea of a “smart contract” is that it is self-executing, for example, a smart contract might be devised such that the 
 
 The fifth use of the blockchain (or a technology based on the blockchain) is for electronic voting. It is a fairly evident fact that _even_ in the developed Western democracies, voter fraud—in the form of ballot stuffing, misrecording of votes, destruction or invalidation of ballots, or tampering with electronic voting machines—is a perennial risk. One interesting and [much discussed](http://www.coindesk.com/block-chain-technology-digital-democracy/) use for the Bitcoin blockchain or an alternative blockchain has been to record votes in elections. The use of public key cryptography and the blockchain enables the system to provide assurance that the person who owns the cryptographic key really did cast that vote (otherwise that person’s public key would not be able to validate the resultant signature), and that the vote was not tampered with once cast. Of course, this by no means eliminates voter fraud, in the sense that someone could install a [rootkit](http://en.wikipedia.org/wiki/Rootkit) that hijacks the person’s machine and vote, but it does at least reduce some options for voter fraud. And that, in most cases, is better than nothing.
 
@@ -222,7 +222,11 @@ Quite a lot. There are quite a number of startups that are beginning to leverage
 
 #### Remittances 
 
-
+* **[BitPesa](https://www.bitpesa.co/):** A startup that allows people to send money to or from Kenya and Tanzania via Bitcoin. 
+* **[Abra](https://www.goabra.com/):** A San Francisco based startup that uses Bitcoin to enable money transfers with no transaction fees.
+* **[Rebit](https://rebit.ph/):** A Philippines based startup that uses Bitcoin to enable remittances to the Philippines with no transaction fees. 
+* **[ArtaBit](https://artabit.com/en/):** An Indonesia based startup that uses Bitcoin to enable remittances to Indonesia with no transaction fees.
+* **[Volabit](https://www.volabit.com/en):** A startup that allows people to send money to or from Mexico and Argentina via Bitcoin with no transaction fees.
 
 #### Storage
 
@@ -232,10 +236,11 @@ Quite a lot. There are quite a number of startups that are beginning to leverage
 
 * **[Epigraph](http://epigraph.io/):** A Texas-based startup that specializes in building title registration solutions on the blockchain.
 * **[Factom](http://factom.org/):** A startup that is using the blockchain to store a hash generated from the relevant transaction or record, thereby providing users with a tamper proof record that also establishes chronology (since it can be traced to a specific block on the blockchain at a known point in time).
+* **[Edgelogic](http://blocktrace.io) and [Blocktrace](http://blocktrace.io/):** A <abbr title="United Kingdom">UK</abbr>-based spinoff from Australia-based Edgelogic that is building a blockchain-based ledger to store ownership and transaction data relating to certified diamonds, thereby reducing the likelihood of thieves being able to fence stolen goods by mapping the diamonds to a digital certificate that is based on existing industry certificates, police records and insurance records.
 
 #### Voting 
 
-* **[BitCongress](http://www.bitcongress.org/):** An [Ethereum](https://www.ethereum.org/) based platform that relies on smart contracts and 
+* **[BitCongress](http://www.bitcongress.org/):** An [Ethereum](https://www.ethereum.org/) based platform that relies on smart contracts and Bitcoin to generate tamper proof votes. 
 
 ## Final Thoughts 
 
