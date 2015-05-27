@@ -208,7 +208,7 @@ The third use of the blockchain (and Bitcoin) is in the arena of distributed sto
 
 The fourth use of the blockchain (and Bitcoin) has been the development of “smart contracts”. The basic idea of a “smart contract” is that it is self-executing
 
-The fifth use of the blockchain (or a technology based on the blockchain) is for electronic voting. It is a fairly evident fact that _even_ in the developed Western democracies, voter fraud—in the form of ballot stuffing, misrecording of votes, destruction or invalidation of ballots, or tampering with electronic voting machines—is a perennial risk. One interesting and [much discussed](http://www.coindesk.com/block-chain-technology-digital-democracy/) use for the Bitcoin blockchain or an alternative blockchain has been to record votes in elections. The use of public key cryptography and the blockchain enables the system to provide assurance that 
+The fifth use of the blockchain (or a technology based on the blockchain) is for electronic voting. It is a fairly evident fact that _even_ in the developed Western democracies, voter fraud—in the form of ballot stuffing, misrecording of votes, destruction or invalidation of ballots, or tampering with electronic voting machines—is a perennial risk. One interesting and [much discussed](http://www.coindesk.com/block-chain-technology-digital-democracy/) use for the Bitcoin blockchain or an alternative blockchain has been to record votes in elections. The use of public key cryptography and the blockchain enables the system to provide assurance that the person who owns the cryptographic key really did cast that vote (otherwise that person’s public key would not be able to validate the resultant signature), and that the vote was not tampered with once cast. Of course, this by no means eliminates voter fraud, in the sense that someone could install a [rootkit](http://en.wikipedia.org/wiki/Rootkit) that hijacks the person’s machine and vote, but it does at least reduce some options for voter fraud. And that, in most cases, is better than nothing.
 
 The sixth use 
 
@@ -225,7 +225,7 @@ Quite a lot. There are quite a number of startups that are beginning to leverage
 
 #### Voting 
 
-* **[BitCongress](http://www.bitcongress.org/):** An [Ethereum](https://www.ethereum.org/) based 
+* **[BitCongress](http://www.bitcongress.org/):** An [Ethereum](https://www.ethereum.org/) based platform that uses an alternative cryptocurrency, 
 
 #### Storage
 
