@@ -242,6 +242,7 @@ Quite a lot. There are quite a number of startups that are beginning to leverage
 * **[Epigraph](http://epigraph.io/):** A Texas-based startup that specializes in building title registration solutions on the blockchain.
 * **[Factom](http://factom.org/):** A startup that is using the blockchain to store a hash generated from the relevant transaction or record, thereby providing users with a tamper proof record that also establishes chronology (since it can be traced to a specific block on the blockchain at a known point in time).
 * **[Edgelogic](http://blocktrace.io) and [Blocktrace](http://blocktrace.io/):** A <abbr title="United Kingdom">UK</abbr>-based spinoff from Australia-based Edgelogic that is building a blockchain-based ledger to store ownership and transaction data relating to certified diamonds, thereby reducing the likelihood of thieves being able to fence stolen goods by mapping the diamonds to a digital certificate that is based on existing industry certificates, police records and insurance records.
+* **[Proof of Existence](http://www.proofofexistence.com/):** A service that allows users to generate a cryptographic hash of a document for inclusion in the blockchain, thus proving that the document existed at a particular point in time (as denoted by the timestamp of block in which it is recorded) and in a particular form (since otherwise the hash would differ).
 
 #### Identity and information
 
@@ -271,6 +272,6 @@ Quite a lot. There are quite a number of startups that are beginning to leverage
         <li id="fn14">Bitcoin uses the <abbr title="Secure Hash Algorithm">SHA</abbr>-256 hash function. <a href="#fref14">&#8593;</a></li>
         <li id="fn15">This view is shared by, among others, <a href="http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/">Marc Andreessen</a> and <a href="https://medium.com/investing-2-0/wall-street-meet-block-chain-b2747909eb90">Adam Ludwin</a>. <a href="#fref15">&#8593;</a></li>
         <li id="fn16">Of course, one might note that due to the present price volatility of Bitcoin, this function is not nearly as viable as it might otherwise be: one can imagine that such transfers might involve a considerable amount of idiosyncratic exchange rate risk that cannot easily be hedged. <a href="#fref16">&#8593;</a></li>
-        <li id="fn17">It has often been said that to a man with a hammer, everything looks like a nail. In the case of some of the blockchain enthusiasts, I would suggest that to them every problem is in want of a blockchain. That is by no means always the case; there may be situations where a trusted third party solution may be simply the better option. <a href="#fref17">&#8593;</a></li>
+        <li id="fn17">It has often been said that to a man with a hammer, everything looks like a nail. In the case of some of the blockchain enthusiasts, to them every problem is in want of a blockchain. That is by no means always the case; there may be situations where a trusted third party solution may be simply the better option. <a href="#fref17">&#8593;</a></li>
     </ol>
 </div>
