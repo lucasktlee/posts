@@ -252,7 +252,7 @@ Quite a lot. There are quite a number of startups that are beginning to leverage
 #### Smart contracts
 
 * **[Counterparty](http://counterparty.io/):** A low-level protocol for distributed financial applications built to run on top of the Bitcoin blockchain. The Counterparty protocol has created a working decentralized exchange for trading user-defined assets. The protocol has own currency, <abbr>XCP</abbr>, which is used for crafting smart contracts and other financial applications using the protocol.
-* **[Ethereum](https://www.ethereum.org/):**
+* **[Ethereum](https://www.ethereum.org/):** A non-Bitcoin blockchain with a Turing-complete programming language that allows it to be used to build distributed applications such as smart contracts. The protocol has its own currency, ether, which is used to execute its smart contracts.
 
 #### Voting 
 
