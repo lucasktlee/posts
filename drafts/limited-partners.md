@@ -37,25 +37,37 @@ Regulation D limits the pool of prospective U.S. based investors, but there are 
 
 A fund sponsor can avoid registering its fund as an investment company through one of two principal exemptions: the section 3(c)(1) of the <abbr title="Investment Company Act of 1940">ICA</abbr> “private fund exemption” for funds with no more than 100 beneficial owners, and the section 3(c)(7) “qualified purchaser fund” exemption for funds where all the investors are qualified purchasers. The private fund exemption is deceptively simple—and a minefield for the inexperience fund sponsor—because there are a tangled web of rules for calculating how many beneficial owners a fund has.<sup><a href="#fn03" id="fref03">3</a></sup> It has been my experience that most fund sponsors tend to rely primarily on the qualified purchaser fund exemption rather than the private fund exemption, firstly because this avoids the labyrinthine rules for calculating the number of beneficial owners of the fund, and secondly, because it allows the fund to charge performance fees, as shown below. 
 
-So let us now turn to the qualified purchaser fund exemption. To qualify for this exemption, the fund sponsor must ensure that all its investors are qualified purchasers, as defined in section 2(a)(51)(A):
+So let us now turn to the qualified purchaser fund exemption. To qualify for this exemption, the fund sponsor must ensure that all its investors are qualified purchasers, as defined in section 2(a)(51)(A) of the <abbr title="Investment Company Act of 1940">ICA</abbr>:
 
 * Natural persons owning not less than $5 million in investments (individually or jointly with their spouses)<sup><a href="#fn04" id="fref04">4</a></sup> 
-* A company with not less than $5 million in investments that is owned directly or indirectly by natural persons who are related as siblings, spouses, former spouses, or direct lineal descendants of one of the owners
-* A trust, foundation, or charitable organization 
+* A company with not less than $5 million in investments that is owned directly or indirectly by natural persons who are related as siblings, spouses, former spouses, or direct lineal descendants of one of the owners, i.e. a family-owned investment vehicle
+* A trust, foundation, or charitable organization established by or for the benefit of natural persons who are siblings, spouses, former spouses, or direct lineal descendants of the settlor
 * Any person not falling into any of the above categories that in aggregate owns and invests on a discretionary basis not less than $25 million in investments
+* A trust where the trustee or other persons authorized to make decisions for the trust, and each settlor of the trust falls into one of the above categories 
 
+So, from the fairly generous pool of prospective limited partners offered by the definition of accredited investor, the fund sponsor is further restricted to a pool of prospective limited partners that meet the higher standards of a qualified purchaser. (Unfortunately, due to some areas where there is no overlap, one cannot simply think of qualified purchasers as a fully nested subset of accredited investors, much to my annoyance: such nesting would be conceptually more elegant and parsimonious.)
 
 A fund sponsor will want to charge performance fees, better known in <abbr>PE</abbr>/<abbr>VC</abbr> as “carried interest”. For a fund sponsor to do so, the fund must either be a qualified purchaser fund under section 3(c)(7) of the <abbr title="Investment Company Act of 1940">ICA</abbr>, or the investors in the fund must be “qualified clients”. Again, these terms are defined in U.S. securities law and <abbr>SEC</abbr> regulations. As we have already discussed the qualified purchaser fund, I will limit this discussion to the question of who are qualified clients.
 
+The term qualified client is defined by Rule 205-3 under the <abbr title="Investment Advisers Act of 1940">AA</abbr>:
+
+* A natural person that immediately after entering into an investment advisory relationship with the fund sponsor has at least $1 million in assets under management with that fund sponsor
+* A natural person (individually or jointly with his or her spouse) or company that has a net worth of at least $2 million 
+* A qualified purchaser as defined in section 2(a)(51)(A) of the <abbr title="Investment Company Act of 1940">ICA</abbr>
+* A natural person who is a director, executive officer, general partner, or trustee of the investment adviser
+* A natural person who is an employee of the investment adviser and who as part of his or her employment duties regularly participates in the investment activities of such investment adviser and who has performed such duties for at least 12 months 
 
 
-A qualified purchaser fund is one where all the investors in the fund are “qualified purchasers” as defined by the <abbr title="Investment Company Act of 1940">ICA</abbr>. 
 
 Finally, the fund sponsor will want to consider other characteristics it might find suitable for screening its prospective limited partners. These could include (without limitation): 
 
 * The investment philosophy of the prospective limited partner
 
 ### General observations about limited partners
+
+
+
+## Summation 
 
 
 
