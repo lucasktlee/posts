@@ -15,23 +15,23 @@ In light of a few conversations that I have had with various people who are inte
 Let us first look at the choice of limited partners from the perspective of the fund sponsor, since it is the fund sponsor that decides to whom the fund should be marketed. In general, the fund sponsor will take into account—without limitation—three key legal and regulatory considerations when determining what kind of investors to approach: 
 
 * Avoid registration of the limited partnership interests of the fund with the U.S. <abbr title="Securities and Exchange Commission">SEC</abbr>.
-* Avoid registration of the fund as an investment company under the <abbr title="Investment Company Act of 1940">ICA</abbr>
+* Avoid registration of the fund as an investment company under the <abbr title="Investment Company Act of 1940">ICA</abbr>.
 * Qualify for an exemption to the <abbr title="Investment Advisers Act of 1940">AA</abbr> restriction on performance fees. 
 
 First, limited partnership interests in a <abbr>PE</abbr>/<abbr>VC</abbr> fund are “securities”, as such term is broadly defined in the <cite>Securities Act of 1933</cite> (the **“SA”**). Such limited partnership interest, as a “security”, must be registered with the <abbr>SEC</abbr> unless it falls within an exemption. A fund sponsor will want to avoid registering the limited partnership interests of the fund with the <abbr>SEC</abbr> because registration is costly, public disclosures can compromise the fund’s ability to execute its investment strategy, and ongoing compliance obligations are onerous. Accordingly, most fund sponsors will try to conduct a private placement of their fund’s limited partnership interests pursuant to section 4(2) of the <abbr title="Securities Act of 1933">SA</abbr>, typically by complying with the safe harbor guidelines of Regulation D. As a general rule, fund sponsors rely on Rule 506(b) of Regulation D, which allow a fund sponsor to sell its limited partnership interests to an unlimited number<sup><a href="#fn01" id="fref01">1</a></sup> of “accredited investors” (a term defined in Regulation D that we will come back to in a moment) and up to 35 non-accredited but sophisticated investors. 
 
 Who qualify as accredited investors? That’s defined in Rule 501 of Regulation D, and includes: 
 
-* Natural persons with net worth<sup><a href="#fn02" id="fref02">2</a></sup> (individually or with their spouse) in excess of $1 million 
-* Natural persons that have individual income in excess of $200,000 or joint income with their spouses of $300,000 in each of the two most recent years and a reasonable expectation of the same income in the current year 
-* Corporations, partnerships, buinesses trusts, tax-exempt 501(c)(3) organizations (“charitable organizations”) with total assets in excess of $5 million and which were not formed for specific purpose of acquiring the securities offered 
-* Banks, brokers or dealers registered under the <cite>Securities Exchange Act of 1934</cite>
-* Investment companies registered under the <abbr title="Investment Company Act of 1940">ICA</abbr>
-* Pension plans with total assets in excess of $5 million established and maintained by a state or one of its agencies or political subdivisions for its employees
-* Employee benefit plans within the meaning of the Employee Retirement Income Security Act of 1974 (**ERISA**) if the investment decisions are made by a plan fiduciary that is a bank, savings and loan association, insurance company, or registered investment adviser, or if the plan has total assets in excess of $5 million 
-* A private business development company 
-* A trust with total assets in excess of $5 million and the investment decisions of which are directed by a sophisticated person (i.e. a person with such knowledge of financial and business matters as to be able to evaluate the merits and risks of a prospective investors)
-* Any entity in which all equity owners are accredited investors (i.e. falling within one of the above categories)
+* Natural persons with net worth<sup><a href="#fn02" id="fref02">2</a></sup> (individually or with their spouse) in excess of $1 million; 
+* Natural persons that have individual income in excess of $200,000 or joint income with their spouses of $300,000 in each of the two most recent years and a reasonable expectation of the same income in the current year; 
+* Corporations, partnerships, buinesses trusts, tax-exempt 501(c)(3) organizations (“charitable organizations”) with total assets in excess of $5 million and which were not formed for specific purpose of acquiring the securities offered; 
+* Banks, brokers or dealers registered under the <cite>Securities Exchange Act of 1934</cite>;
+* Investment companies registered under the <abbr title="Investment Company Act of 1940">ICA</abbr>;
+* Pension plans with total assets in excess of $5 million established and maintained by a state or one of its agencies or political subdivisions for its employees, i.e. public pension funds;
+* Employee benefit plans within the meaning of the Employee Retirement Income Security Act of 1974 (**ERISA**) if the investment decisions are made by a plan fiduciary that is a bank, savings and loan association, insurance company, or registered investment adviser, or if the plan has total assets in excess of $5 million;
+* A private business development company;
+* A trust with total assets in excess of $5 million and the investment decisions of which are directed by a sophisticated person (i.e. a person with such knowledge of financial and business matters as to be able to evaluate the merits and risks of a prospective investors); or
+* Any entity in which all equity owners are accredited investors (i.e. falling within one of the above categories).
 
 Regulation D limits the pool of prospective U.S. based investors, but there are still additional limitations that most fund sponsors will have to observe. A fund sponsor will also want to avoid registration of the fund as an investment company under the <abbr title="Investment Company Act of 1940">ICA</abbr>. Fund sponsors do this for much the same reasons that they avoid registering their fund interests as securities under the <abbr title="Securities Act of 1933">SA</abbr>: it imposes considerable up-front and on-going expenses, requires public disclosures, and imposes additional compliance obligations.
 
@@ -39,11 +39,11 @@ A fund sponsor can avoid registering its fund as an investment company through o
 
 So let us now turn to the qualified purchaser fund exemption. To qualify for this exemption, the fund sponsor must ensure that all its investors are qualified purchasers, as defined in section 2(a)(51)(A) of the <abbr title="Investment Company Act of 1940">ICA</abbr>:
 
-* Natural persons owning not less than $5 million in investments (individually or jointly with their spouses)<sup><a href="#fn04" id="fref04">4</a></sup> 
-* A company with not less than $5 million in investments that is owned directly or indirectly by natural persons who are related as siblings, spouses, former spouses, or direct lineal descendants of one of the owners, i.e. a family-owned investment vehicle
-* A trust, foundation, or charitable organization established by or for the benefit of natural persons who are siblings, spouses, former spouses, or direct lineal descendants of the settlor
-* Any person not falling into any of the above categories that in aggregate owns and invests on a discretionary basis not less than $25 million in investments
-* A trust where the trustee or other persons authorized to make decisions for the trust, and each settlor of the trust falls into one of the above categories 
+* Natural persons owning not less than $5 million in investments (individually or jointly with their spouses);<sup><a href="#fn04" id="fref04">4</a></sup> 
+* A company with not less than $5 million in investments that is owned directly or indirectly by natural persons who are related as siblings, spouses, former spouses, or direct lineal descendants of one of the owners, i.e. a family-owned investment vehicle;
+* A trust, foundation, or charitable organization established by or for the benefit of natural persons who are siblings, spouses, former spouses, or direct lineal descendants of the settlor;
+* Any person not falling into any of the above categories that in aggregate owns and invests on a discretionary basis not less than $25 million in investments; or
+* A trust where the trustee or other persons authorized to make decisions for the trust, and each settlor of the trust falls into one of the above categories. 
 
 So, from the fairly generous pool of prospective limited partners offered by the definition of accredited investor, the fund sponsor is further restricted to a pool of prospective limited partners that meet the higher standards of a qualified purchaser. (Unfortunately, due to some areas where there is no overlap, one cannot simply think of qualified purchasers as a fully nested subset of accredited investors, much to my annoyance: such nesting would be conceptually more elegant and parsimonious.)
 
@@ -51,19 +51,27 @@ A fund sponsor will want to charge performance fees, better known in <abbr>PE</a
 
 The term qualified client is defined by Rule 205-3 under the <abbr title="Investment Advisers Act of 1940">AA</abbr>:
 
-* A natural person that immediately after entering into an investment advisory relationship with the fund sponsor has at least $1 million in assets under management with that fund sponsor
-* A natural person (individually or jointly with his or her spouse) or company that has a net worth of at least $2 million 
-* A qualified purchaser as defined in section 2(a)(51)(A) of the <abbr title="Investment Company Act of 1940">ICA</abbr>
-* A natural person who is a director, executive officer, general partner, or trustee of the investment adviser
-* A natural person who is an employee of the investment adviser and who as part of his or her employment duties regularly participates in the investment activities of such investment adviser and who has performed such duties for at least 12 months 
+* A natural person that immediately after entering into an investment advisory relationship with the fund sponsor has at least $1 million in assets under management with that fund sponsor;
+* A natural person (individually or jointly with his or her spouse) or company that has a net worth of at least $2 million; 
+* A qualified purchaser as defined in section 2(a)(51)(A) of the <abbr title="Investment Company Act of 1940">ICA</abbr>;
+* A natural person who is a director, executive officer, general partner, or trustee of the investment adviser; or
+* A natural person who is an employee of the investment adviser and who as part of his or her employment duties regularly participates in the investment activities of such investment adviser and who has performed such duties for at least 12 months. 
 
+From the above, we can see that the choice of who to approach as prospective limited partners is to a great degree determined by legal considerations. A U.S. fund sponsor (or a non-U.S. fund sponsor seeking to offer fund interests to U.S. persons) must be cognizant of the securities laws and <abbr>SEC</abbr> regulations relating to private placements. If the fund sponsor seeks to offer fund interests to investors in other countries, it will have to ensure that its offer is in compliance with the laws of those countries. It has been my experience that ensuring compliance with the securities laws of diverse countries can be an extremely complex and fraught process, and one that requires a fairly competent in-house lawyer and expert advice from law firms local to the countries where the fund sponsor is offering its fund interests.<sup><a href="#fn05" id="fref05">5</a></sup> 
 
+In practice, I would focus my energy on investors that fall within the intersection of the sets of “accredited investors” and “qualified purchasers”. This fulfills the requirement that the placement comply with the safe harbor of Rule 506 of Regulation D to avoid registration of the fund interests under the <abbr title="Securities Act of 1933">SA</abbr>, as well as the qualified purchaser fund exemption from registration as an investment company under the <abbr title="Investment Company Act of 1940">ICA</abbr>, and the exemption from the restriction on the charging of performance fees of section 205(b)(4) of the <abbr title="Investment Advisers Act of 1940">AA</abbr>. We will consider, briefly, who these investors might be in my [general observations about limited partners](#gen-observations).
 
-Finally, the fund sponsor will want to consider other characteristics it might find suitable for screening its prospective limited partners. These could include (without limitation): 
+Finally, after ensuring that the legal requirements have been met, the fund sponsor will want to consider other characteristics it might find suitable for screening its prospective limited partners. These could include (without limitation): 
 
-* The investment philosophy of the prospective limited partner
+* The fit between the investment philosophy of the prospective limited partner and the fund sponsor. This can be of particular importance to fund sponsors with investment philosophies that differ from the mainstream, e.g. a fund like the [Founders Fund](http://www.foundersfund.com/). 
+* The reputation of the prospective limited partner. For a fund sponsor raising its first fund, it can often be crucial to secure a commitment from a credible limited partner with a good track record of investing in the asset class. This acts as a signal to other prospective limited partners that the fund sponsor has been vetted by a respected source and found to be credible.<sup><a href="#fn06" id="fref06">6</a></sup>
+* In our post-2008 world, the financial strength of the prospective limited partner is of vital importance. Certain classes of investors in <abbr>PE</abbr>/<abbr>VC</abbr> have proven to be somewhat less than reliable in meeting their capital calls. A shrewd fund sponsor will consider the counterparty risk under different states of the world when deciding whether to offer fund interests to a prospective limited partner. 
+* The demands of the prospective limited partner. Some limited partners, it must be said, demand more hand-holding than others. Sometimes this comes with a commitment to the fund large enough to offset the additional hand-holding. Sometimes it does not. 
+* The operational and reporting burden the fund sponsor or its delegated third-party administrator is able to handle. The more limited partners a fund has, the greater the burden. 
 
-### General observations about limited partners
+Now let us turn our attention to some general observations about limited partners. 
+
+<h3 id="gen-observations">General observations about limited partners</h3>
 
 
 
@@ -78,5 +86,7 @@ Finally, the fund sponsor will want to consider other characteristics it might f
         <li id="fn02">There are specific rules for calculating net worth, the details of which I will refrain from discussing, given the fact that this is not meant to be a detailed technical memorandum on fundraising. You should consult an experienced funds formation lawyer for advice on this. <a href="#fref02">&#8593;</a></li>
         <li id="fn03">These rules are labyrinthine primarily because there are circumstances where one needs to “look through” a direct investor, <em>Alpha,</em> in a fund—<em>Omega</em>—to count the number of beneficial owners of <em>Alpha</em>, and attribute them to <em>Omega</em>. These rules are beyond the scope of this blog post, and you should consult an experienced funds formation lawyer for advice on this. <a href="#fref03">&#8593;</a></li>
         <li id="fn04">The <abbr>SEC</abbr> has defined “investments” as securities and assets held for investment purposes that in the <abbr>SEC</abbr>’s view demonstrate a significant degree of investment sophistication and experience, such that the investor can be deemed to have be well-informed about the risks of investing in unregulated investment funds. <a href="#fref04">&#8593;</a></li>
+        <li id="fn05">Indeed, when I was at <a href="http://www.partnersgroup.com/">Partners Group</a>, one of my early projects (2008 – 2009) involved expanding the firm’s database of private placement laws and providing guidance to the firm’s fundraising professionals, a project that required me to work with legal counsel in around thirty countries where the firm was actively fundraising. <a href="#fref05">&#8593;</a></li>
+        <li id="fn06">Nothing says “I have faith in you” better than a commitment to give you capital to invest. Skin in the game, to quote the excellent Nassim Nicholas Taleb. <a href="#fref06">&#8593;</a></li>
     </ol>
 </div>
