@@ -73,13 +73,17 @@ Now let us turn our attention to some general observations about limited partner
 
 <h3 id="gen-observations">General observations about limited partners</h3>
 
-The <abbr>PE</abbr> and <abbr>VC</abbr> industries have seen some significant shifs in the composition of limited partners since the beginning of the 20<sup>th</sup> century. 
+The <abbr>PE</abbr> and <abbr>VC</abbr> industries have seen some significant shifts in the composition of limited partners since the beginning of the 20<sup>th</sup> century. I expect that the 21<sup>st</sup> century will see even more shifts, as several trends in the broader asset management industry impact the investment decision-making of limited partners. We can see this by tracing some salient changes in allocations to <abbr>PE</abbr> and <abbr>VC</abbr> funds.
 
-Prior to World War II, the majority of <abbr>PE</abbr> investments were orchestrated by family offices and individual wealthy investors. (One can argue that <abbr>VC</abbr>, in the sense that we now understand <abbr>VC</abbr>, did not exist until the 1950s.) Indeed, up until the courts and Department of Labor revised “prudent man rule”<sup><a href="#fn07" id="fref07">7</a></sup> to take into account modern portfolio theory and the role that a given investment plays in the overall portfolio, it could be fairly said that a prudent pension plan administrator or trustee empowered to invest trust assets would be highly unlikely to invest in public equities, much less private equity. 
+Prior to World War II, the majority of <abbr>PE</abbr> investments were orchestrated by family offices and individual wealthy investors, and consisted of _direct_ investments rather than through third-party professional fund managers. (As for <abbr>VC</abbr>, one can argue that <abbr>VC</abbr>, in the sense that we now understand <abbr>VC</abbr>, did not exist until the 1950s.) Indeed, up until the courts and Department of Labor revised “prudent man rule”<sup><a href="#fn07" id="fref07">7</a></sup> to take into account modern portfolio theory and the role that a given investment plays in the overall portfolio, it could be fairly said that a prudent pension plan administrator or trustee empowered to invest trust assets would be highly unlikely to invest in public equities (except the stock of large companies that had a history of paying regular dividends and which were expected to continue to pay dividends at a similar level for the foreseeable future), much less private equity. 
+
+The 1979 revision of the “prudent man rule” for <abbr title="Employee Retirement Income Security Act of 1974">ERISA</abbr> and the consequential revision of the “prudent man rule” in the Restatement (Third) of Trusts had the effect of freeing pension funds to invest a portion of their capital in riskier assets such as small-cap public equities, <abbr>PE</abbr>, <abbr>VC</abbr> and hedge funds.
+
+Another development that resulted in greater allocations to <abbr>PE</abbr>, <abbr>VC</abbr> and hedge funds was the rise of the Swensen asset allocation model in the late-1980s, which became one of the asset allocation models used by endowments and other large, long-term investors. 
 
 ## Summation 
 
-
+The fundraising landscape for fund sponsors is _changing._ 
 
 <div class="footnotes">
     <hr class="w-50" />
