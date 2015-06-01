@@ -24,11 +24,11 @@ Who qualify as accredited investors? That’s defined in Rule 501 of Regulation 
 
 * Natural persons with net worth<sup><a href="#fn02" id="fref02">2</a></sup> (individually or with their spouse) in excess of $1 million; 
 * Natural persons that have individual income in excess of $200,000 or joint income with their spouses of $300,000 in each of the two most recent years and a reasonable expectation of the same income in the current year; 
-* Corporations, partnerships, buinesses trusts, tax-exempt 501(c)(3) organizations (“charitable organizations”) with total assets in excess of $5 million and which were not formed for specific purpose of acquiring the securities offered; 
+* Corporations, partnerships, buinesses trusts, tax-exempt 501(c)(3) organizations (also known as “charitable organizations”) with total assets in excess of $5 million and which were not formed for specific purpose of acquiring the securities offered; 
 * Banks, brokers or dealers registered under the <cite>Securities Exchange Act of 1934</cite>;
 * Investment companies registered under the <abbr title="Investment Company Act of 1940">ICA</abbr>;
 * Pension plans with total assets in excess of $5 million established and maintained by a state or one of its agencies or political subdivisions for its employees, i.e. public pension funds;
-* Employee benefit plans within the meaning of the Employee Retirement Income Security Act of 1974 (**ERISA**) if the investment decisions are made by a plan fiduciary that is a bank, savings and loan association, insurance company, or registered investment adviser, or if the plan has total assets in excess of $5 million;
+* Employee benefit plans within the meaning of the Employee Retirement Income Security Act of 1974 (**“ERISA”**) if the investment decisions are made by a plan fiduciary that is a bank, savings and loan association, insurance company, or registered investment adviser, or if the plan has total assets in excess of $5 million;
 * A private business development company;
 * A trust with total assets in excess of $5 million and the investment decisions of which are directed by a sophisticated person (i.e. a person with such knowledge of financial and business matters as to be able to evaluate the merits and risks of a prospective investors); or
 * Any entity in which all equity owners are accredited investors (i.e. falling within one of the above categories).
@@ -73,7 +73,9 @@ Now let us turn our attention to some general observations about limited partner
 
 <h3 id="gen-observations">General observations about limited partners</h3>
 
+The <abbr>PE</abbr> and <abbr>VC</abbr> industries have seen some significant shifs in the composition of limited partners since the beginning of the 20<sup>th</sup> century. 
 
+Prior to World War II, the majority of <abbr>PE</abbr> investments were orchestrated by family offices and individual wealthy investors. (One can argue that <abbr>VC</abbr>, in the sense that we now understand <abbr>VC</abbr>, did not exist until the 1950s.) Indeed, up until the courts and Department of Labor revised “prudent man rule”<sup><a href="#fn07" id="fref07">7</a></sup> to take into account modern portfolio theory and the role that a given investment plays in the overall portfolio, it could be fairly said that a prudent pension plan administrator or trustee empowered to invest trust assets would be highly unlikely to invest in public equities, much less private equity. 
 
 ## Summation 
 
@@ -88,5 +90,6 @@ Now let us turn our attention to some general observations about limited partner
         <li id="fn04">The <abbr>SEC</abbr> has defined “investments” as securities and assets held for investment purposes that in the <abbr>SEC</abbr>’s view demonstrate a significant degree of investment sophistication and experience, such that the investor can be deemed to have be well-informed about the risks of investing in unregulated investment funds. <a href="#fref04">&#8593;</a></li>
         <li id="fn05">Indeed, when I was at <a href="http://www.partnersgroup.com/">Partners Group</a>, one of my early projects (2008 – 2009) involved expanding the firm’s database of private placement laws and providing guidance to the firm’s fundraising professionals, a project that required me to work with legal counsel in around thirty countries where the firm was actively fundraising. <a href="#fref05">&#8593;</a></li>
         <li id="fn06">Nothing says “I have faith in you” better than a commitment to give you capital to invest. Skin in the game, to quote the excellent Nassim Nicholas Taleb. <a href="#fref06">&#8593;</a></li>
+        <li id="fn07">This rule, first developed in <cite>Harvard College v. Armory</cite>, required trustees of a trust, when investing the assets of the trust, <q>to observe how men of prudence, discretion and intelligence manage their own affairs, not in regard to speculation, but in regard to the permanent disposition of their funds, considering the probable income, as well as the probable safety of the capital to be invested.</q> <a href="#fref07">&#8593;</a></li>
     </ol>
 </div>
