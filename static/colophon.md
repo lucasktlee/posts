@@ -7,7 +7,7 @@
 
 No design emerges, like Athena, fully-formed from the mind of its creator. I drew inspiration from a number of sources when designing this blog, and in the spirit of full disclosure, I want to acknowledge the influences that have shaped this design.
 
-This blog is inspired, in part, by [Mark Boulton](http://www.markboulton.co.uk/), whose writings on typographic scales and grids influenced how I approached the typesetting and typographic layout. It also draws inspiration from the long-form article layout at [Medium](http://medium.com/), which I find to be one of the better approaches to displaying long-form content on the web. I first spotted the circular, centered profile photo on Garrett Murray's [blog](http://log.maniacalrage.net/) quite some time ago, and loved it so much that I decided to incorporate it into this design. The [Clonium](https://github.com/cparaiso/clonium/) theme from [Chris Paraiso](http://chrisparai.so/) also provided a starting point for me when trying to craft a minimalist custom theme for Ghost. 
+This blog is inspired, in part, by [Mark Boulton](http://www.markboulton.co.uk/), whose writings on typographic scales and grids influenced how I approached the typesetting and typographic layout. It also draws inspiration from the long-form article layout at [Medium](http://medium.com/), which I find to be one of the better approaches to displaying long-form content on the web. I first spotted the circular, centered profile photo on Garrett Murray's [blog](http://log.maniacalrage.net/) quite some time ago, and loved it so much that I decided to incorporate it into this design. The [Clonium](https://github.com/cparaiso/clonium/) theme from [Chris Paraiso](http://blog.chrisparaiso.com/) also provided a starting point for me when trying to craft a minimalist custom theme for Ghost. 
 
 ### Typography 
 
@@ -27,6 +27,6 @@ The fonts used on this site are served through [Cloud.typography](http://www.typ
 
 The theme used for this blog is a custom minimalist theme, called Sisirinah, that I created specifically for this blog. The source code for this theme is available (for reference and learning purposes only) on [GitHub](https://github.com/lucasktlee/sisirinah).
 
-In keeping with the whole node.js theme, I use [stylus](http://learnboost.github.io/stylus/) as my <abbr title="Cascading Style Sheets">CSS</abbr> preprocessor. Ghost uses the excellent (if slightly more verbose than I would like) [Handlebars](http://handlebarsjs.com) templating language for its templates. 
+In keeping with the whole node.js theme, I use [stylus](http://learnboost.github.io/stylus/) as my <abbr title="Cascading Style Sheets">CSS</abbr> preprocessor. Ghost uses the excellent (if slightly more verbose than I would like) [Handlebars](http://handlebarsjs.com) templating language for its templates. I use [Picturefill](http://scottjehl.github.io/picturefill/) for responsive images.
 
 The code for this blog is written in [Sublime Text](http://www.sublimetext.com/) on an [Apple Mac](http://www.apple.com/mac/). Posts are written with [Sublime Text](http://www.sublimetext.com/) on a Mac. 
