@@ -15,7 +15,7 @@ The headings on this blog are typeset in [Gotham](http://www.typography.com/font
 
 [Mercury Text](http://www.typography.com/fonts/mercury-text/overview/), also from Hoefler & Co., is used for the body copy. Mercury Text, a serif typeface  inspired by 18<sup>th</sup> century European punchcutters, is a compact typeface that works well at various body copy sizes. It evokes a sense of *history*, of thick books and old magazines, and contrasts well with the bold sans serif letters of Gotham. 
 
-Parenthetically, I *am* aware that Gotham was the signature font of the Obama 2008 and 2012 presidential campaigns, while the Romney 2012 campaign used [Mercury Display](http://www.typography.com/fonts/mercury-display/overview/)—the inspiration for Mercury Text—for its headlines. What can I say? I like the contradiction. 
+Parenthetically, I _am_ aware that Gotham was the signature font of the Obama 2008 and 2012 presidential campaigns, while the Romney 2012 campaign used [Mercury Display](http://www.typography.com/fonts/mercury-display/overview/)—the inspiration for Mercury Text—for its headlines. What can I say? I like the contradiction. 
 
 ### Technical Details 
 
