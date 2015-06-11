@@ -33,7 +33,8 @@ Third, engaging an auditor to prepared audited financial statements in connectio
 
 Fourth, the company will have to pay for ongoing compliance costs after successfully raising capital through equity crowdfunding, which would be at least the cost of audited financial statements, plus some additional fees paid to lawyers to assist with filing the appropriate disclosures with the <abbr>SEC</abbr>.
 
-In total? That’s probably between $150,000 and $250,000 of fees and other costs to raise $1 million, or approximately 15 per cent to 25 per cent in transaction costs. By contrast, in a typical private equity transaction, I would expect to see transaction costs of around one per cent to two per cent.     
+In total? That’s probably between $150,000 and $250,000 of fees and other costs to raise $1 million, or approximately 15 per cent to 25 per cent in transaction costs. By contrast, in a typical private equity transaction, I would expect to see transaction costs of around one per cent to two per cent. 
+
 As a result, I’m skeptical that equity crowdfunding, at least in the form proposed by the <abbr>SEC</abbr>, will be in any way a viable method of raising capital for entrepreneurs.
 
 
