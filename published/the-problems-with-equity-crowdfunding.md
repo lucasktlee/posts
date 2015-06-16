@@ -4,9 +4,9 @@ I knew the <abbr>SEC</abbr> had released its proposed rules in November 2013, an
 
 Over the weekend, I decided to refresh my recollections of the <abbr>SEC</abbr> proposed rules. One, I might get asked about it again, and being able to point to a post on my blog will be a lot less tiring on my voice than trying to be heard over a noisy bar or pub. Two, it might come in handy in the future, if I experiment with smaller startup ideas that might be suitable for crowdfunding.
 
-So, let’s start by looking at what equity crowdfunding is, according to the <cite>Securities Act of 1933</cite>, as amended by the <cite><abbr>JOBS</abbr> Act</cite>  and as interpreted by the <abbr>SEC</abbr> in Regulation Crowdfunding. Before we do so, however, we need to look at the situation before the <cite><abbr>JOBS</abbr> Act</cite> to understand why it is such a big deal. 
+So, let’s start by looking at what equity crowdfunding is, according to the <cite>Securities Act of 1933</cite> (the **“SA”**), as amended by the <cite><abbr>JOBS</abbr> Act</cite>  and as interpreted by the <abbr>SEC</abbr> in Regulation Crowdfunding. Before we do so, however, we need to look at the situation before the <cite><abbr>JOBS</abbr> Act</cite> to understand why it is such a big deal. 
 
-The starting point for sale of securities (equity or debt) in the United States is the <cite>Securities Act of 1933</cite> (the **“SA”**), which prevents any person from selling securities in the United States unless those securities are either regstered with the <abbr>SEC</abbr> or exempted (by law or regulation) from registration. Raising capital through equity crowdfunding, before Title III of the <cite><abbr>JOBS</abbr> Act</cite>, would have required registration, an _expensive_ and _burdensome_ endeavor to say the least. 
+The starting point for sale of securities (equity or debt) in the United States is the <abbr title="Securities Act of 1933">SA</abbr>, which prevents any person from selling securities in the United States unless those securities are either regstered with the <abbr>SEC</abbr> or exempted (by law or regulation) from registration. Raising capital through equity crowdfunding, before Title III of the <cite><abbr>JOBS</abbr> Act</cite>, would have required registration, an _expensive_ and _burdensome_ endeavor to say the least. 
 
 Moreover, before the <cite><abbr>JOBS</abbr> Act</cite>, the sites that bring entrepreneurs and potential investors together (i.e. the equity crowdfunding versions of Indigogo and Kickstarter) would be required to register as broker-dealers under the <cite>Securities and Exchange Act of 1934</cite> (the **“SEA”**) and would be required to comply with all the regulations that apply to broker-dealers.
 
@@ -39,10 +39,10 @@ As a result, I’m skeptical that equity crowdfunding, at least in the form prop
 
 
 <div class="footnotes">
-<hr class="w-50" />
-<ol>
-<li id="fn01">Basically mutual funds, closed-ended funds, private equity funds, venture capital funds, or hedge funds. <a href="#fref01">&#8593;</a></li>
-<li id="fn02">A company that was formed with no business plan or with a plan to merge with an as yet unidentified company. <a href="#fref02">&#8593;</a></li>
-<li id="fn03">This is a specialized term of securities law that refers to investors that are supposed to know how to protect themselves when making investments, for example, banks, insurance companies, corporations with more than $5 million in assets, et cetera. <a href="#fref02">&#8593;</a></li>
-</ol>
+    <hr class="w-50" />
+    <ol>
+        <li id="fn01">Basically mutual funds, closed-ended funds, private equity funds, venture capital funds, or hedge funds. <a href="#fref01">&#8593;</a></li>
+        <li id="fn02">A company that was formed with no business plan or with a plan to merge with an as yet unidentified company. <a href="#fref02">&#8593;</a></li>
+        <li id="fn03">This is a specialized term of securities law that refers to investors that are supposed to know how to protect themselves when making investments, for example, banks, insurance companies, corporations with more than $5 million in assets, et cetera. <a href="#fref02">&#8593;</a></li>
+    </ol>
 </div>
