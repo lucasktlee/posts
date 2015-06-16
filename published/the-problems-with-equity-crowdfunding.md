@@ -29,7 +29,7 @@ First, the intermediary (whether it is a funding portal or a registered broker-d
 
 Second, anyone planning to raise money through an equity crowdfunding transaction will need to engage equity capital markets and securities lawyers who know their way around disclosure documents and the related due diligence. You can expect this to cost upwards of $10,000, depending on how screwed up the company is, from a legal perspective. Some of the problems I could foresee arising include unclear intellectual property rights (i.e. whether the company, the employees or contractors, or the founder owns the intellectual property used by the company), screwed up capital structures, entrepreneurs mixing personal and corporate finances, poorly documented relationships among the founding team (especially shareholdings in the company), et cetera.
 
-Third, engaging an auditor to prepared audited financial statements in connection with raising between $500,000 and $1 million will cost around $20,000 to $50,000 (ballpark figure). 
+Third, engaging an auditor to prepare audited financial statements in connection with raising between $500,000 and $1 million will cost around $20,000 to $50,000 (ballpark figure). 
 
 Fourth, the company will have to pay for ongoing compliance costs after successfully raising capital through equity crowdfunding, which would be at least the cost of audited financial statements, plus some additional fees paid to lawyers to assist with filing the appropriate disclosures with the <abbr>SEC</abbr>.
 
