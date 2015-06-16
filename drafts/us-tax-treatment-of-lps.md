@@ -22,14 +22,24 @@ Third, we should understand how a fund is typically structured, in the absence o
 A typical, plain-vanilla <abbr>PE</abbr>/<abbr>VC</abbr> fund will be structured as a limited partnership (as shown in [Figure 1](#fig01)):
 
 <figure class="l" id="fig01">
-    <img alt="" />
+    <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/ 344w, http://media.lucasktlee.com/files/img/ 512w, http://media.lucasktlee.com/files/img/ 688w, http://media.lucasktlee.com/files/img/ 704w, http://media.lucasktlee.com/files/img/ 1024w, http://media.lucasktlee.com/files/img/ 1408w" src="http://media.lucasktlee.com/files/img/" />
 </figure>
+
+I have previously mentioned the reasons why the limited partnership is the [preferred fund structure](http://lucasktlee.com/2014/08/28/introduction-to-private-equity-fund-terms/) for most <abbr>PE</abbr>/<abbr>VC</abbr> funds, and shall not repeat myself here. It suffices to note that most funds organized in Anglo-American common law jurisdictions will use a limited partnership as their default approach.<sup><a href="#fn10" id="fref10">10</sup> 
 
 ## U.S. tax-exempt investors
 
-U.S. tax-exempt investors are one of the largest investors in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As their name implies, these investors are—as a general rule—not taxed on their share of a fund’s investment gains or income. 
+U.S. tax-exempt investors are one of the largest investors in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As their name implies, these investors are—as a general rule—not taxed on their share of a fund’s capital gains or ordinary income. The general rule is, however, subject to one significant exception: the U.S. federal government taxes the gross income of U.S. tax-exempt investors derived from commercial activities unrelated to their tax-exempt purpose, better known by its abbreviation, <abbr title="unrelated business taxable income">UBTI</abbr>. The U.S. tax-exempt investor must report—and pay U.S. federal income taxes on—investments that generate <abbr>UBTI</abbr> regardless of whether the investor has received any distributions from those investments.
 
-For them, the 
+A U.S tax-exempt investor that invests in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur <abbr>UBTI</abbr> in one of three ways: 
+
+1. Income from debt-financed investments 
+2. Income from a trade or business 
+3. Transaction fees and advisory fees earned by the <abbr>PE</abbr>/<abbr>VC</abbr> fund from its operations
+
+Before we go into the details of how fund sponsors can structure their fund to minimize the risk that U.S. tax-exempt investors incur <abbr>UBTI</abbr>, it is always instructive to understand _why_ Congress, in its—_ahem_—infinite wisdom, decided that it was necessary to enact legislation imposing this tax on U.S. tax-exempt investors. 
+
+
 
 ## U.S. taxable investors
 
@@ -59,5 +69,6 @@ In general the U.S. is quite a favorable destination for foreign investors.
         <li id="fn07"><abbr>IRC</abbr> section 509. <a href="#fref07">&#8593;</a></li>
         <li id="fn08"><abbr>IRC</abbr> section 414(d). <a href="#fref08">&#8593;</a></li>
         <li id="fn09"><abbr>IRC</abbr> section 401. <a href="#fref09">&#8593;</a></li>
+        <li id="fn10">There are some exceptions: in Australia it is not uncommon to  <a href="#fref10">&#8593;</a></li>
     </ol>
 </div>
