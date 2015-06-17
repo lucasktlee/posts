@@ -253,7 +253,7 @@ Now, let us take a look at the relevant provisions of a Regulation A+ offering.
                         </ul>
                     </li>
                     <li>The offering statement must be reviewed and qualified by the <abbr>SEC</abbr>, there is no longer an automatic qualification if the <abbr>SEC</abbr> takes no action within 20 calendar days of filing</li>
-                    <li>An issuer is subject to ongoing reporting requirements, modeled after the forms used by <abbr>SEC</abbr>-reporting companies, including annual reports, quarterly reports, and reports upon the ocurrence of specified events</li>
+                    <li>An issuer making a Tier 2 offering is subject to ongoing reporting requirements, modeled after the forms used by <abbr>SEC</abbr>-reporting companies, including annual reports, quarterly reports, and reports upon the ocurrence of specified events</li>
                 </ol>   
             </td>
         </tr>
@@ -262,19 +262,23 @@ Now, let us take a look at the relevant provisions of a Regulation A+ offering.
 
 From the above, we can note several key differences between Regulation A and Regulation A+:
 
-* **Ongoing reporting obligations:** An issuer making a Regulation A+ offering is now required to make ongoing periodic reports modeled after those made by <abbr>SEC</abbr>-reporting companies. It goes without saying that such obligations impose additional costs on issuers.
-* **Investment limitations for non-accredited investors in Tier 2 Regulation A+ offerings:** Unlike the 
+* **Ongoing reporting obligations:** An issuer making a Tier 2 Regulation A+ offering is now required to make ongoing periodic reports modeled after those made by <abbr>SEC</abbr>-reporting companies. It goes without saying that such obligations impose additional costs on issuers.
+* **Investment limitations for non-accredited investors in Tier 2 Regulation A+ offerings:** While Tier 1 Regulation A+ offerings do not differ from the position in Regulation A, Tier 2 Regulation A+ offerings impose specific investment limits on non-accredited investors.
 * **Additional categories of ineligible issuers:** The <abbr>SEC</abbr> added three new categories of ineligible issuers to Regulation A+.
 
 ### The problems with Regulation A+
 
 We have already seen that Regulation A offerings were unpopular for a number of reasons. How does Regulation A+ compare with its predecessor? Not very well, I am afraid.
 
-Regulation A+ offerings are still more expensive and time-consuming than 
+First, Regulation A+ offerings are still expensive and time-consuming. For both Tier 1 and Tier 2 Regulation A+ offerings, filing and qualifying an offering statement and circular remains just as difficult and time consuming as it was under the old Regulation A. The threat of litigation and liability for misstatements of fact or misleading statements will force prudent issuers and their directors to seek extensive assistance from attorneys and accountants to verify that their offering statements. Such work does not come cheap. For Tier 1 Regulation A+ offerings, the same issue of researching and complying with the “blue sky” securities laws in multiple states still applies, consuming both time and money that smaller issuers can ill afford to spend. 
+
+Second, for Tier 2 Regulation A+ offerings, the ongoing reporting obligations are an additional burden. To comply with such obligations, it is almost inevitable that most companies will have to engage the services of attorneys and accountants, creating a periodic outlay that may not be justified by the amount of funding raised.
+
+
 
 ## Conclusion
 
-As with the implementing regulations for Title III of the <cite><abbr>JOBS</abbr> Act</cite>, it would seem that the present state of Regulation A+ is 
+As with the implementing regulations for Title III of the <cite><abbr>JOBS</abbr> Act</cite>, it would seem that the present state of Regulation A+ is somewhat less than satisfactory, to say the least. 
 
 <div class="footnotes">
     <hr class="w-50" />
