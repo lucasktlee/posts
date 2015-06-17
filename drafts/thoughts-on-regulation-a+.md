@@ -253,7 +253,7 @@ Now, let us take a look at the relevant provisions of a Regulation A+ offering.
                         </ul>
                     </li>
                     <li>The offering statement must be reviewed and qualified by the <abbr>SEC</abbr>, there is no longer an automatic qualification if the <abbr>SEC</abbr> takes no action within 20 calendar days of filing</li>
-                    <li>An issuer making a Tier 2 offering is subject to ongoing reporting requirements, modeled after the forms used by <abbr>SEC</abbr>-reporting companies, including annual reports, quarterly reports, and reports upon the ocurrence of specified events</li>
+                    <li>An issuer making a Tier 2 offering is subject to ongoing reporting requirements, modeled after the forms used by <abbr>SEC</abbr>-reporting companies, including annual reports, quarterly reports, and reports upon the occurrence of specified events</li>
                 </ol>   
             </td>
         </tr>
@@ -274,11 +274,13 @@ First, Regulation A+ offerings are still expensive and time-consuming. For both 
 
 Second, for Tier 2 Regulation A+ offerings, the ongoing reporting obligations are an additional burden. To comply with such obligations, it is almost inevitable that most companies will have to engage the services of attorneys and accountants, creating a periodic outlay that may not be justified by the amount of funding raised.
 
-
+Third, based on the criticisms leveled at the <abbr>SEC</abbr> by various state securities regulators, including Secretary of the Commonwealth of Massachusetts, suggests that the <abbr>SEC</abbr>’s decision to pre-empt state securities laws for Tier 2 Regulation A+ offerings may be subject to legal challenges from some state securities regulators. If this were to occur, there might well be a period of uncertainty as to whether the <abbr>SEC</abbr>’s pre-emption is legal, with the result that smart investors will choose to avoid using Regulation A+ in case the courts strike down this pre-emption.
 
 ## Conclusion
 
 As with the implementing regulations for Title III of the <cite><abbr>JOBS</abbr> Act</cite>, it would seem that the present state of Regulation A+ is somewhat less than satisfactory, to say the least. 
+
+It would seem, on its face, that the only companies that might consider using Regulation A+ are likely to be late-stage companies that are preparing for an <abbr title="initial public offering">IPO</abbr> and wish to raise needed capital from the general public (rather than a pre-<abbr>IPO</abbr> financial investor). I am skeptical that any sane <abbr>CEO</abbr> and <abbr>CFO</abbr> would do so, though, given the additional burdens which they would impose on their company compared to simply doing a private placement with a pre-<abbr>IPO</abbr> financial investor.
 
 <div class="footnotes">
     <hr class="w-50" />
