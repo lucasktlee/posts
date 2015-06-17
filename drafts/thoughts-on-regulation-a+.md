@@ -69,7 +69,7 @@ First, let us summarize the relevant provisions governing a Regulation A offerin
                 Preemption of State <br/>
                 Securities Laws
             </th>
-            <td>State “blue sky” securities laws are <strong>not</strong> pre-empted by Regulation A</td>
+            <td>State “blue sky” securities laws are <strong>not</strong> pre-empted by Regulation A, therefore securities offering must meet specific regulatory requirements imposed by state securities regulators in <em>each</em> state in which the securities are offered</td>
         </tr>
         <tr>
             <th>
@@ -107,7 +107,19 @@ First, let us summarize the relevant provisions governing a Regulation A offerin
     </table> 
 </div>
 
-We can see from the above that there are a number of immediate problems with Regulation A. 
+### The problems with Regulation A
+
+We can see from the above that there were a number of problems with Regulation A. First, the maximum offering amount of $5 million was relatively low, especially compared to the _unlimited_ amounts that can be raised using a private placement under Rule 506 of Regulation D. This, by itself, would not necessarily doom Regulation A, but coupled with other factors, have made it at best a niche option.
+
+Second, unlike Regulation D, which pre-empts state “blue sky” securities laws, Regulation A does _not_ pre-empt state “blue sky” securities laws. This means that any offering of securities by an issuer pursuant to Regulation A _must_ comply with the requirements imposed by state securities regulators in _each_ state in which the securities are offered. While there have been some efforts to streamline the process of registering securities offerings across multiple states, mostly led by the <abbr title="North American Securities Administrators Association">NASAA</abbr>, their efficacy is uncertain and they have not been widely used due to the wide use of Regulation D and other exemptions that pre-empt state securities laws.
+
+As one might suspect, the cost of complying with “blue sky” securities laws in multiple states can add up very quickly. Indeed, I would not be surprised if the total fees for researching and complying with these state securities laws added up to at least 10% of a small $1 million offering. For obvious reasons that makes Regulation A unattractive to most small businesses.
+
+Third, the process of filing a Regulation A offering with the <abbr>SEC</abbr> is time consuming and costly, particularly since after 1992 the <abbr>SEC</abbr> made the offering statement similar in content and structure to a prospectus for a registered offering. The process of preparing such an offering statement requires the assistance of specialized attorneys and accountants, and many man hours of work to ensure that every statement in the offering statement can be supported by verified facts, lest the issuer and its directors become involved in litigation relating to material misstatements of fact or misleading statements. Furthermore, submitting the offering statement for qualification by the <abbr>SEC</abbr> can involve multiple rounds of comments that require hours of work by such professional advisers, adding up to a fairly hefty burden considering the maximum size of a Regulation A offering. 
+
+I would not be surprised, in fact, if a Regulation A offering costs more, in terms of professional fees, than a Regulation D offering, due to the additional burdens of state law compliance and the need to prepare an offering statement. Moreover, while a larger offering may have some incremental costs above that of a smaller offering, the costs do not scale proportionately, and as such, for large offerings they can be a relatively miniscule percentage of the total funds raised.
+
+Indeed, it should be noted that I am by no means the only person to have found fault with Regulation A; the <abbr title="Government Accountability Office">GAO</abbr>, in its 2012 [report](http://www.gao.gov/assets/600/592113.pdf) to Congress on the factors that affected the limited use of Regulation A, made similar observations.
 
 ## The new Regulation A+
 
@@ -200,7 +212,7 @@ Now, let us take a look at the relevant provisions of a Regulation A+ offering.
             </th>
             <td>
                 <ul>
-                    <li><strong>Tier 1:</strong> State “blue sky” securities laws are <strong>not</strong> pre-empted by Regulation A+</li>
+                    <li><strong>Tier 1:</strong> State “blue sky” securities laws are <strong>not</strong> pre-empted by Regulation A+, therefore securities offering must meet specific regulatory requirements imposed by state securities regulators in <em>each</em> state in which the securities are offered</li>
                     <li><strong>Tier 2:</strong> State “blue sky” securities laws are pre-empted by Regulation A+ for primary issuances but <strong>not</strong> for subsequent secondary trading of securities issued through a Tier 2 Regulation A+ offering</li>
                 </ul>
             </td>
@@ -231,7 +243,7 @@ Now, let us take a look at the relevant provisions of a Regulation A+ offering.
             </th>
             <td>
                 <ol>
-                    <li>An issuer must file—electronically via <abbr title="">EDGAR</abbr>—an offering statement and circular with the <abbr>SEC</abbr>, which is an abbreviated version of the prospectus used in a registered offering</li>
+                    <li>An issuer must file—electronically via <abbr title="Electronic Data Gathering, Analysis, and Retrieval">EDGAR</abbr>—an offering statement and circular with the <abbr>SEC</abbr>, which is an abbreviated version of the prospectus used in a registered offering</li>
                     <li>The financial statements required differ depending on the tier:
                         <ul>
                             <li><strong>Tier 1:</strong> Unaudited (unless the issuer has prepared audited financial statements for some other purpose) financial statements prepared in accordance with either U.S. <abbr>GAAP</abbr> for U.S. issuers or <abbr title="International Financial Reporting Standards">IFRS</abbr> for Canadian issuers</li>
@@ -246,9 +258,21 @@ Now, let us take a look at the relevant provisions of a Regulation A+ offering.
     </table>
 </div>
 
-## The problems with Regulation A+
+From the above, we can note several key differences between Regulation A and Regulation A+:
+
+* 
+* 
+* 
+
+### The problems with Regulation A+
+
+We have already seen that Regulation A offerings were unpopular for a number of reasons. How does Regulation A+ compare with its predecessor? Not very well, I am afraid.
 
 Regulation A+ offerings are still more expensive and time-consuming than 
+
+## Conclusion
+
+As with the implementing regulations for Title III of the <cite><abbr>JOBS</abbr> Act</cite>, it would seem that the 
 
 <div class="footnotes">
     <hr class="w-50" />
