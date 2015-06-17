@@ -62,7 +62,7 @@ First, let us summarize the relevant provisions governing a Regulation A offerin
                 Investment <br/>
                 Limitations
             </th>
-            <td>No limitations on the amount of securities that can be purchased by an investor</td>
+            <td>No limitations on the amount of securities that can be purchased by an investor, but state securities laws may prescribe limitations</td>
         </tr>        
         <tr>
             <th>
@@ -118,6 +118,8 @@ As one might suspect, the cost of complying with “blue sky” securities laws 
 Third, the process of filing a Regulation A offering with the <abbr>SEC</abbr> is time consuming and costly, particularly since after 1992 the <abbr>SEC</abbr> made the offering statement similar in content and structure to a prospectus for a registered offering. The process of preparing such an offering statement requires the assistance of specialized attorneys and accountants, and many man hours of work to ensure that every statement in the offering statement can be supported by verified facts, lest the issuer and its directors become involved in litigation relating to material misstatements of fact or misleading statements. Furthermore, submitting the offering statement for qualification by the <abbr>SEC</abbr> can involve multiple rounds of comments that require hours of work by such professional advisers, adding up to a fairly hefty burden considering the maximum size of a Regulation A offering. 
 
 I would not be surprised, in fact, if a Regulation A offering costs more, in terms of professional fees, than a Regulation D offering, due to the additional burdens of state law compliance and the need to prepare an offering statement. Moreover, while a larger offering may have some incremental costs above that of a smaller offering, the costs do not scale proportionately, and as such, for large offerings they can be a relatively miniscule percentage of the total funds raised.
+
+For all these reasons, Regulation A has largely been dead in the water; an almost forgotten sibling to the much more useful Regulation D.
 
 Indeed, it should be noted that I am by no means the only person to have found fault with Regulation A; the <abbr title="Government Accountability Office">GAO</abbr>, in its 2012 [report](http://www.gao.gov/assets/600/592113.pdf) to Congress on the factors that affected the limited use of Regulation A, made similar observations.
 
@@ -260,9 +262,9 @@ Now, let us take a look at the relevant provisions of a Regulation A+ offering.
 
 From the above, we can note several key differences between Regulation A and Regulation A+:
 
-* 
-* 
-* 
+* **Ongoing reporting obligations:** An issuer making a Regulation A+ offering is now required to make ongoing periodic reports modeled after those made by <abbr>SEC</abbr>-reporting companies. It goes without saying that such obligations impose additional costs on issuers.
+* **Investment limitations for non-accredited investors in Tier 2 Regulation A+ offerings:** Unlike the 
+* **Additional categories of ineligible issuers:** The <abbr>SEC</abbr> added three new categories of ineligible issuers to Regulation A+.
 
 ### The problems with Regulation A+
 
@@ -272,7 +274,7 @@ Regulation A+ offerings are still more expensive and time-consuming than
 
 ## Conclusion
 
-As with the implementing regulations for Title III of the <cite><abbr>JOBS</abbr> Act</cite>, it would seem that the 
+As with the implementing regulations for Title III of the <cite><abbr>JOBS</abbr> Act</cite>, it would seem that the present state of Regulation A+ is 
 
 <div class="footnotes">
     <hr class="w-50" />
