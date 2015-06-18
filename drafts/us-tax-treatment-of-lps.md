@@ -34,7 +34,7 @@ U.S. tax-exempt investors are one of the largest investors in <abbr>PE</abbr>/<a
 A U.S tax-exempt investor that invests in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur <abbr>UBTI</abbr> in one of three ways: 
 
 1. Income from a trade or business
-2. Income from debt-financed investments  
+2. Income from debt-financed investments 
 3. Transaction fees and advisory fees earned by the <abbr>PE</abbr>/<abbr>VC</abbr> fund from its operations
 
 Before we go into the details of how fund sponsors can structure their fund to minimize the risk that U.S. tax-exempt investors incur <abbr>UBTI</abbr>, it is always instructive to understand _why_ Congress, in its—_ahem_—infinite wisdom, decided that it was necessary to enact legislation imposing this tax on U.S. tax-exempt investors. 
@@ -49,7 +49,9 @@ As a result of this concern, in 1954 Congress imposed a tax on <abbr>UBTI</abbr>
 
 ### Income from a trade or business
 
+The most obvious way in which a U.S. tax-exempt investor in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur <abbr>UBTI</abbr> is when the fund invests in a portfolio company that has been incorporated or organized as a flow-through entity (a partnership or <abbr>LLC</abbr>) for U.S. federal income tax purposes. 
 
+This is more likely to occur when a U.S. tax-exempt investor invests in a <abbr>VC</abbr> fund: some startups are formed as <abbr>LLC</abbr>s rather than as corporations to avoid corporate-level U.S. federal income taxes. That being said, it is still rare to see a <abbr>VC</abbr> fund invest in a flow-through entity; most <abbr>VC</abbr>s will require the startups they invest in to either be incorporated as a C-corporation (i.e. not a flow-through entity) or convert from an <abbr>LLC</abbr> or S-corporation to a C-corporation prior to their investment.
 
 #### The solution
 
@@ -71,9 +73,9 @@ However, U.S. tax-exempt investors will be concerned that if the fund receives a
 
 #### The solution
 
-To avoid this risk, almost all <abbr>PE</abbr> funds will arrange for the these transaction, advisory, or monitoring fees to be paid to the general partner of the fund.<sup><a href="#fn12" id="fref12">12</sup> The general partner will then apply some or all of the fees it receives towards reducing the _next period’s_ management fee paid to the general partners by the limited partners. If there is any excess of fees received over the management fee payable by the limited partners, this excess will typically be carried forward to be applied against future management fees payable by the limited partners, and will _not_ be paid out to the limited partners. 
+To minimize this risk, almost all <abbr>PE</abbr> funds will arrange for the these transaction, advisory, or monitoring fees to be paid to the general partner of the fund.<sup><a href="#fn12" id="fref12">12</sup> The general partner will then apply some or all of the fees it receives towards reducing the _next period’s_ management fee paid to the general partners by the limited partners. If there is any excess of fees received over the management fee payable by the limited partners, this excess will typically be carried forward to be applied against future management fees payable by the limited partners, and will _not_ be paid out to the limited partners. 
 
-This 
+While this solution has never been fully tested in litigation, and might still run afoul of the assignment of income doctrine,<sup><a href="#fn13" id="fref13">13</a></sup> there seems to be relatively little sign—as of June 2015—that this solution is likely to be challenged by the <abbr>IRS</abbr>. I would be fairly confident in predicting that this solution, which has been extensively used in the <abbr>PE</abbr> industry, will continue to be used by most fund sponsors and limited partners. 
 
 ## U.S. taxable investors
 
@@ -108,7 +110,8 @@ In general the U.S. is quite a favorable destination for foreign investors.
         <li id="fn08"><abbr>IRC</abbr> section 414(d). <a href="#fref08">&#8593;</a></li>
         <li id="fn09"><abbr>IRC</abbr> section 401. <a href="#fref09">&#8593;</a></li>
         <li id="fn10">There are some exceptions: in Australia it is not uncommon to use a combination of a managed investment trust and a venture capital limited partnership, while in Singapore a private limited company has often been used. <a href="#fref10">&#8593;</a></li>
-        <li id="fn11"><abbr>VC</abbr> funds typically do <em>not</em> charge such transaction fees, monitoring fees, or advisory fees. <a href="#fref11">&#8593;</a></li>
+        <li id="fn11"><abbr>VC</abbr> funds typically do <em>not</em> charge such transaction, advisory, or monitoring fees. <a href="#fref11">&#8593;</a></li>
         <li id="fn12">The fees can also be paid to an affiliate of the general partner if this affiliate is the entity that typically receives the management fee, e.g. a fund manager or investment adviser that has a contractual relationship to provide investment advisory or fund management services to the general partner. In this context, a reference to the general partner shall include any fund manager or investment adviser that receives a management fee from the fund. <a href="#fref12">&#8593;</a></li>
+        <li id="fn13">This doctrine requires a taxpayer to include amounts in his or her income derived from his or her services and properties when the right to receive such amount is transferred to another as a gift or for the taxpayer’s benefit. In this case, the argument might be made that the transaction, advisory, or monitoring fees are earned by the <em>fund</em> (and thus indirectly by the U.S. tax-exempt limited partner) and assigned it to the general partner in payment for the management fees owed. <a href="#fref13">&#8593;</a></li>
     </ol>
 </div>
