@@ -23,13 +23,14 @@ A typical, plain-vanilla <abbr>PE</abbr>/<abbr>VC</abbr> fund will be structured
 
 <figure class="l" id="fig01">
     <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/ 344w, http://media.lucasktlee.com/files/img/ 512w, http://media.lucasktlee.com/files/img/ 688w, http://media.lucasktlee.com/files/img/ 704w, http://media.lucasktlee.com/files/img/ 1024w, http://media.lucasktlee.com/files/img/ 1408w" src="http://media.lucasktlee.com/files/img/" />
+    <figcaption><span>Figure 1:</span> Typical <abbr>PE</abbr>/<abbr>VC</abbr> fund structure</figcaption>
 </figure>
 
 I have previously mentioned the reasons why the limited partnership is the [preferred fund structure](http://lucasktlee.com/2014/08/28/introduction-to-private-equity-fund-terms/) for most <abbr>PE</abbr>/<abbr>VC</abbr> funds, and shall not repeat myself here. It suffices to note that most funds organized in Anglo-American common law jurisdictions will use a limited partnership as their default approach.<sup><a href="#fn10" id="fref10">10</sup> 
 
 ## U.S. tax-exempt investors
 
-U.S. tax-exempt investors are one of the largest investors in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As their name implies, these investors are—as a general rule—not taxed on their share of a fund’s capital gains or ordinary income. The general rule is, however, subject to one significant exception: the U.S. federal government taxes the gross income of U.S. tax-exempt investors derived from commercial activities unrelated to their tax-exempt purpose, better known by its abbreviation, <abbr title="unrelated business taxable income">UBTI</abbr>. The U.S. tax-exempt investor must report—and pay U.S. federal income taxes on—investments that generate <abbr>UBTI</abbr> regardless of whether the investor has received any distributions from those investments.
+U.S. tax-exempt investors are one of the largest investors in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As their name implies, these investors are—as a general rule—not taxed on their share of a fund’s capital gains or ordinary income. The general rule is, however, subject to one significant exception: the U.S. federal government taxes the gross income of U.S. tax-exempt investors derived from commercial activities unrelated to their tax-exempt purpose, better known by its abbreviation, <abbr title="unrelated business taxable income">UBTI</abbr>. The U.S. tax-exempt investor must file a U.S. federal income tax return and pay U.S. federal income taxes on investments that generate <abbr>UBTI</abbr> regardless of whether the investor has received any distributions from those investments.
 
 A U.S tax-exempt investor that invests in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur <abbr>UBTI</abbr> in one of three ways: 
 
@@ -49,15 +50,41 @@ As a result of this concern, in 1954 Congress imposed a tax on <abbr>UBTI</abbr>
 
 ### Income from a trade or business
 
-The most obvious way in which a U.S. tax-exempt investor in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur <abbr>UBTI</abbr> is when the fund invests in a portfolio company that has been incorporated or organized as a flow-through entity (a partnership or <abbr>LLC</abbr>) for U.S. federal income tax purposes. 
+<abbr>PE</abbr>/<abbr>VC</abbr> funds are typically considered as “investment partnerships”<sup><a href="#fn11" id="fref11">11</a></sup> for U.S. federal income tax purposes, and are thus deemed not to be engaged in a trade or business. Thus, an investment in a <abbr>PE</abbr>/<abbr>VC</abbr> fund will not in itself result a U.S. tax-exempt investor incurring <abbr>UBTI</abbr>. This is not to say, however, that a U.S. tax-exempt investor can never incur <abbr>UBTI</abbr> from its investment in a <abbr>PE</abbr>/<abbr>VC</abbr> fund. 
 
-This is more likely to occur when a U.S. tax-exempt investor invests in a <abbr>VC</abbr> fund: some startups are formed as <abbr>LLC</abbr>s rather than as corporations to avoid corporate-level U.S. federal income taxes. That being said, it is still rare to see a <abbr>VC</abbr> fund invest in a flow-through entity; most <abbr>VC</abbr>s will require the startups they invest in to either be incorporated as a corporation<sup><a href="#fn11" id="fref11">11</a></sup> (i.e. not a flow-through entity) or convert from an <abbr>LLC</abbr> to a C-corporation prior to their investment. 
+The most obvious way in which a U.S. tax-exempt investor in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur <abbr>UBTI</abbr> is when the fund invests in a portfolio company that has been incorporated or organized as a flow-through entity (a partnership or <abbr>LLC</abbr>) for U.S. federal income tax purposes. The income earned by such a portfolio company is characterized as income from an active business, and retains that characterization in the hands of the <abbr>PE</abbr>/<abbr>VC</abbr> fund. If the fund is itself a flow-through entity—most funds are—then the limited partners of the fund will each receive a proportionate share of this income, which continues to retain its characterization as income from an active business. In the hands of a U.S. tax-exempt investor, this active income would result in the U.S. tax-exempt investor incurring <abbr>UBTI</abbr>.
 
-<abbr>PE</abbr> funds seldom invest in portfolio companies that are treated as flow-through entities
+<figure class="l" id="fig02">
+    <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/ 344w, http://media.lucasktlee.com/files/img/ 512w, http://media.lucasktlee.com/files/img/ 688w, http://media.lucasktlee.com/files/img/ 704w, http://media.lucasktlee.com/files/img/ 1024w, http://media.lucasktlee.com/files/img/ 1408w" src="http://media.lucasktlee.com/files/img/" />
+    <figcaption><span>Figure 2:</span> Incurring <abbr>UBTI</abbr> from an active business organized as a partnership or <abbr>LLC</abbr></figcaption>
+</figure>
+
+This situation is more likely to occur when a U.S. tax-exempt investor invests in a <abbr>VC</abbr> fund: some startups are formed as <abbr>LLC</abbr>s rather than as corporations to avoid corporate-level U.S. federal income taxes. That being said, it is still rare to see a <abbr>VC</abbr> fund invest in a flow-through entity; most <abbr>VC</abbr>s will require the startups they invest in to either be incorporated as a corporation<sup><a href="#fn12" id="fref12">12</a></sup> (i.e. not a flow-through entity) or convert from an <abbr>LLC</abbr> to a corporation prior to their investment. By contrast, <abbr>PE</abbr> funds seldom invest in portfolio companies that are treated as flow-through entities: most mature companies were either incorporated as a corporation from the start, or converted to a corporation at some point in the past. 
 
 #### The solution
 
+Most fund sponsors have traditionally structure their fund to minimize <abbr>UBTI</abbr> from a trade or business by using some form of “blocker corporation”. There are three main structures that can be used to minimize <abbr>UBTI</abbr> from flow-through entities:
 
+* A blocker corporation between the fund and the U.S. tax-exempt and foreign taxable investors<sup><a href="#fn13" id="fref13">13</a></sup> ([Figure 3a](#fig03a))
+* A blocker corporation between the flow-through portfolio company and the fund ([Figure 3b](#fig03b))
+* A blocker corporation serving as a parallel fund to the main fund ([Figure 3c](#fig03c))
+
+The choice of which structure to use will often involve judgment as to the likelihood that the fund will invest in investments that incur <abbr>UBTI</abbr> (and <abbr title="Effectively Connected Income">ECI</abbr>).
+
+<figure class="l" id="fig03a">
+    <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/ 344w, http://media.lucasktlee.com/files/img/ 512w, http://media.lucasktlee.com/files/img/ 688w, http://media.lucasktlee.com/files/img/ 704w, http://media.lucasktlee.com/files/img/ 1024w, http://media.lucasktlee.com/files/img/ 1408w" src="http://media.lucasktlee.com/files/img/" />
+    <figcaption><span>Figure 3a:</span> Interposing a blocker corporation between the fund and the U.S. tax-exempt and foreign investors</figcaption>
+</figure>
+
+<figure class="l" id="fig03b">
+    <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/ 344w, http://media.lucasktlee.com/files/img/ 512w, http://media.lucasktlee.com/files/img/ 688w, http://media.lucasktlee.com/files/img/ 704w, http://media.lucasktlee.com/files/img/ 1024w, http://media.lucasktlee.com/files/img/ 1408w" src="http://media.lucasktlee.com/files/img/" />
+    <figcaption><span>Figure 3b:</span> Fund structuring to minimize the incurrence of <abbr>UBTI</abbr></figcaption>
+</figure>
+
+<figure class="l" id="fig03c">
+    <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/ 344w, http://media.lucasktlee.com/files/img/ 512w, http://media.lucasktlee.com/files/img/ 688w, http://media.lucasktlee.com/files/img/ 704w, http://media.lucasktlee.com/files/img/ 1024w, http://media.lucasktlee.com/files/img/ 1408w" src="http://media.lucasktlee.com/files/img/" />
+    <figcaption><span>Figure 3a:</span> Fund structuring to minimize the incurrence of <abbr>UBTI</abbr></figcaption>
+</figure>
 
 ### Income from debt-financed investments
 
@@ -69,15 +96,15 @@ This is more likely to occur when a U.S. tax-exempt investor invests in a <abbr>
 
 ### Transaction fees and advisory fees
 
-Many <abbr>PE</abbr> fund sponsors charge various transaction, advisory, or monitoring fees to their portfolio companies.<sup><a href="#fn12" id="fref12">12</a></sup> Such fees are paid from the assets of the portfolio companies and thereby reduce the returns to limited partners. As a general rule, limited partners will try to compel the fund sponsor to share all or part of these fees with them. 
+Many <abbr>PE</abbr> fund sponsors charge various transaction, advisory, or monitoring fees to their portfolio companies.<sup><a href="#fn14" id="fref14">14</a></sup> Such fees are paid from the assets of the portfolio companies and thereby reduce the returns to limited partners. As a general rule, limited partners will try to compel the fund sponsor to share all or part of these fees with them. 
 
 However, U.S. tax-exempt investors will be concerned that if the fund receives a share of these fees, it may be deemed to be [income from a business or trade](#incomefromatradeorbusiness), and thus <abbr>UBTI</abbr> if the fund is a flow-through entity (e.g. a limited partnership or <abbr>LLC</abbr>) for U.S. federal income tax purposes. 
 
 #### The solution
 
-To minimize this risk, almost all <abbr>PE</abbr> funds will arrange for the these transaction, advisory, or monitoring fees to be paid to the general partner of the fund.<sup><a href="#fn13" id="fref13">13</sup> The general partner will then apply some or all of the fees it receives towards reducing the _next period’s_ management fee paid to the general partners by the limited partners. If there is any excess of fees received over the management fee payable by the limited partners, this excess will typically be carried forward to be applied against future management fees payable by the limited partners, and will _not_ be paid out to the limited partners. 
+To minimize this risk, almost all <abbr>PE</abbr> funds will arrange for the these transaction, advisory, or monitoring fees to be paid to the general partner of the fund.<sup><a href="#fn15" id="fref15">15</sup> The general partner will then apply some or all of the fees it receives towards reducing the _next period’s_ management fee paid to the general partners by the limited partners. If there is any excess of fees received over the management fee payable by the limited partners, this excess will typically be carried forward to be applied against future management fees payable by the limited partners, and will _not_ be paid out to the limited partners. 
 
-While this solution has never been fully tested in litigation, and might still run afoul of the assignment of income doctrine,<sup><a href="#fn14" id="fref14">14</a></sup> there seems to be relatively little sign—as of June 2015—that this solution is likely to be challenged by the <abbr>IRS</abbr>. I would be fairly confident in predicting that this solution, which has been extensively used in the <abbr>PE</abbr> industry, will continue to be used by most fund sponsors and limited partners. 
+While this solution has never been fully tested in litigation, and might still run afoul of the assignment of income doctrine,<sup><a href="#fn16" id="fref16">16</a></sup> there seems to be relatively little sign—as of June 2015—that this solution is likely to be challenged by the <abbr>IRS</abbr>. I would be fairly confident in predicting that this solution, which has been extensively used in the <abbr>PE</abbr> industry, will continue to be used by most fund sponsors and limited partners. 
 
 ## U.S. taxable investors
 
@@ -93,7 +120,7 @@ While this solution has never been fully tested in litigation, and might still r
 
 ## Foreign taxable investors
 
-In general the U.S. is quite a favorable destination for foreign investors.
+In general the U.S. is quite a favorable destination for foreign investors. 
 
 ## Conclusions
 
@@ -112,9 +139,11 @@ In general the U.S. is quite a favorable destination for foreign investors.
         <li id="fn08"><abbr>IRC</abbr> section 414(d). <a href="#fref08">&#8593;</a></li>
         <li id="fn09"><abbr>IRC</abbr> section 401. <a href="#fref09">&#8593;</a></li>
         <li id="fn10">There are some exceptions: in Australia it is not uncommon to use a combination of a managed investment trust and a venture capital limited partnership, while in Singapore a private limited company has often been used. <a href="#fref10">&#8593;</a></li>
-        <li id="fn11">To be more precise, a “C-corporation” for U.S. federal income tax purposes, i.e. one that has elected to be taxed as a corporation, as opposed to a “S-corporation” or a <abbr>LLC</abbr>, which are taxed as a flow-trhough entity. <a href="#fref11">&#8593;</a></li>
-        <li id="fn12"><abbr>VC</abbr> funds typically do <em>not</em> charge such transaction, advisory, or monitoring fees. <a href="#fref12">&#8593;</a></li>
-        <li id="fn13">The fees can also be paid to an affiliate of the general partner if this affiliate is the entity that typically receives the management fee, e.g. a fund manager or investment adviser that has a contractual relationship to provide investment advisory or fund management services to the general partner. In this context, a reference to the general partner shall include any fund manager or investment adviser that receives a management fee from the fund. <a href="#fref13">&#8593;</a></li>
-        <li id="fn14">This doctrine requires a taxpayer to include amounts in his or her income derived from his or her services and properties when the right to receive such amount is transferred to another as a gift or for the taxpayer’s benefit. In this case, the argument might be made that the transaction, advisory, or monitoring fees are earned by the <em>fund</em> (and thus indirectly by the U.S. tax-exempt limited partner) and assigned it to the general partner in payment for the management fees owed. <a href="#fref14">&#8593;</a></li>
+        <li id="fn11">An “investment partnership” under <abbr>IRC</abbr> section 731(c)(3)(C)(i) is a partnership that has never engaged in a trade or business and substantially all of its assets (by value) have always consisted of money, stock in a corporation, notes, bonds, debentures or other evidence of indebtedness, foreign currencies, or derivatives. <a href="#fref11">&#8593;</a></li>
+        <li id="fn12">To be more precise, a “C-corporation” for U.S. federal income tax purposes, i.e. one that has elected to be taxed as a corporation, as opposed to a “S-corporation” or a <abbr>LLC</abbr>, which are taxed as a flow-through entity. <a href="#fref12">&#8593;</a></li>
+        <li id="fn13">U.S. tax-exempt investors and foreign taxable investors share a common concern with avoiding income from an active business organized as a flow-through entity. As such, structures designed for U.S. tax-exempt investors can often serve foreign taxable investors. <a href="#fref13">&#8593;</a></li>
+        <li id="fn14"><abbr>VC</abbr> funds typically do <em>not</em> charge such transaction, advisory, or monitoring fees. <a href="#fref14">&#8593;</a></li>
+        <li id="fn15">The fees can also be paid to an affiliate of the general partner if this affiliate is the entity that typically receives the management fee, e.g. a fund manager or investment adviser that has a contractual relationship to provide investment advisory or fund management services to the general partner. In this context, a reference to the general partner shall include any fund manager or investment adviser that receives a management fee from the fund. <a href="#fref15">&#8593;</a></li>
+        <li id="fn16">This doctrine requires a taxpayer to include amounts in his or her income derived from his or her services and properties when the right to receive such amount is transferred to another as a gift or for the taxpayer’s benefit. In this case, the argument might be made that the transaction, advisory, or monitoring fees are earned by the <em>fund</em> (and thus indirectly by the U.S. tax-exempt limited partner) and assigned it to the general partner in payment for the management fees owed. <a href="#fref16">&#8593;</a></li>
     </ol>
 </div>
