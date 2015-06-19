@@ -63,13 +63,13 @@ This situation is more likely to occur when a U.S. tax-exempt investor invests i
 
 #### The solution
 
-Most fund sponsors have traditionally structure their fund to minimize <abbr>UBTI</abbr> from a trade or business by using some form of “blocker corporation”. The blocker corporation is not a flow-through entity; rather, it is taxed as a corporation and pays taxes on its share of the active income from the flow-through portfolio company. When this blocker corporation distributes the income it receives to its shareholders, the income is characterized as dividend income, which does not incur <abbr>UBTI</abbr> (unless the shares in the blocker corporation are debt-financed).
+Most fund sponsors have traditionally structure their fund to minimize <abbr>UBTI</abbr> from a trade or business by using some form of “blocker corporation”. The blocker corporation is not a flow-through entity; rather, it is taxed as a corporation and reports and pays taxes on its share of the active income from the flow-through portfolio company. When this blocker corporation distributes the income it receives to its shareholders, the income is characterized as dividend income, which does not incur <abbr>UBTI</abbr> unless the shares in the blocker corporation are [debt-financed](#incomefromdebtfinancedinvestments).
 
 There are three main structures that can be used to minimize <abbr>UBTI</abbr> from flow-through entities:
 
 * A blocker corporation between the fund and the U.S. tax-exempt and foreign taxable investors<sup><a href="#fn13" id="fref13">13</a></sup> ([Figure 3a](#fig03a))
 * A blocker corporation between the flow-through portfolio company and the fund ([Figure 3b](#fig03b))
-* A blocker corporation serving as a parallel fund to the main fund ([Figure 3c](#fig03c))
+* A blocker corporation serving as either a parallel fund to the main fund or an <abbr title="Alternative Investment Vehicle">AIV</abbr> ([Figure 3c](#fig03c))
 
 The choice of which structure to use will often involve judgment as to the likelihood that the fund will invest in investments that incur <abbr>UBTI</abbr> (and <abbr title="Effectively Connected Income">ECI</abbr>). 
 
@@ -80,16 +80,20 @@ First, let us look at how a blocker corporation interposed between the investors
     <figcaption><span>Figure 3a:</span> Interposing a blocker corporation between the fund and the U.S. tax-exempt and foreign investors</figcaption>
 </figure>
 
+This 
 
+Second, let us look at how a blocker corporation interposed between the fund and the portfolio company would look:
 
 <figure class="l" id="fig03b">
     <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/ 344w, http://media.lucasktlee.com/files/img/ 512w, http://media.lucasktlee.com/files/img/ 688w, http://media.lucasktlee.com/files/img/ 704w, http://media.lucasktlee.com/files/img/ 1024w, http://media.lucasktlee.com/files/img/ 1408w" src="http://media.lucasktlee.com/files/img/" />
-    <figcaption><span>Figure 3b:</span> Fund structuring to minimize the incurrence of <abbr>UBTI</abbr></figcaption>
+    <figcaption><span>Figure 3b:</span> Interposing a blocker corporation between the flow-through portfolio company and the fund</figcaption>
 </figure>
+
+Third, let us look at how a blocker corporation serving as a parallel fund to the main fund would look:
 
 <figure class="l" id="fig03c">
     <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/ 344w, http://media.lucasktlee.com/files/img/ 512w, http://media.lucasktlee.com/files/img/ 688w, http://media.lucasktlee.com/files/img/ 704w, http://media.lucasktlee.com/files/img/ 1024w, http://media.lucasktlee.com/files/img/ 1408w" src="http://media.lucasktlee.com/files/img/" />
-    <figcaption><span>Figure 3a:</span> Fund structuring to minimize the incurrence of <abbr>UBTI</abbr></figcaption>
+    <figcaption><span>Figure 3c:</span> A blocker corporation serving as a parallel fund or <abbr>AIV</abbr> to the main fund</figcaption>
 </figure>
 
 ### Income from debt-financed investments
