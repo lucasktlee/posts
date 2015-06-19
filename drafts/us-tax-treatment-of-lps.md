@@ -17,7 +17,12 @@ Second, we must understand how the different rules promulgated by the <abbr>IRS<
 
 Each of these categories of investors have separate tax concerns that a fund sponsor must address through fund structuring or investment structuring. 
 
-Third, we should understand how a fund is typically structured, in the absence of any compelling tax structuring, in order to better understand how tax structuring for all these investors affects the basic structure. 
+Third, we should categorize the portfolio investments of a <abbr>PE</abbr>/<abbr>VC</abbr> fund into two broad categories: 
+
+* **U.S. portfolio investments:** Businesses incorporated in the U.S. and having their principal places of business in the U.S. 
+* **Foreign portfolio investments:** Businesses incorporated outside the U.S. and having their principal places of business outside the U.S.
+
+Fourth, we should understand how a fund is typically structured, in the absence of any compelling tax structuring, in order to better understand how tax structuring for all these investors affects the basic structure. 
 
 A typical, plain-vanilla <abbr>PE</abbr>/<abbr>VC</abbr> fund will be structured as a limited partnership (as shown in [Figure 1](#fig01)):
 
@@ -31,6 +36,8 @@ I have previously mentioned the reasons why the limited partnership is the [pref
 ## U.S. tax-exempt investors
 
 U.S. tax-exempt investors are one of the largest investors in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As their name implies, these investors are—as a general rule—not taxed on their share of a fund’s capital gains or ordinary income. The general rule is, however, subject to one significant exception: the U.S. federal government taxes the gross income of U.S. tax-exempt investors derived from commercial activities unrelated to their tax-exempt purpose, better known by its abbreviation, <abbr title="unrelated business taxable income">UBTI</abbr>. The U.S. tax-exempt investor must file a U.S. federal income tax return and pay U.S. federal income taxes (<abbr title="Unrelated Business Income Tax">UBIT</abbr>) on investments that generate <abbr>UBTI</abbr> regardless of whether the investor has received any distributions from those investments.
+
+U.S. tax-exempt investor can incur <abbr>UBIT</abbr> on investments in the U.S. and outside the U.S., i.e. 
 
 A U.S tax-exempt investor that invests in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur <abbr>UBTI</abbr> in one of three ways: 
 
@@ -93,6 +100,8 @@ Second, let us look at how a blocker corporation interposed between the fund and
     <figcaption><span>Figure 3b:</span> Interposing a blocker corporation between the flow-through portfolio company and the fund</figcaption>
 </figure>
 
+
+
 Third, let us look at how a blocker corporation serving as a parallel fund to the main fund would look:
 
 <figure class="l" id="fig03c">
@@ -108,14 +117,14 @@ A U.S. tax-exempt investor in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can also in
 
 There are two main structures that can be used to resolve the problem of <abbr>UBIT</abbr> from debt-financed investments where it is the fund that is borrowing money to finance its portfolio investments. 
 
-First, one can rely on a blocker corporation, either in a structure such as the one shown in [Figure 3A](#fig03a) or in [Figure 3D](#fig03d). This works best where the fund has made long-term borrowings to finance portfolio investments, and where a significant fraction of its investments are likely to incur <abbr>UBIT</abbr>. 
+First, one can rely on a blocker corporation, either in a structure such as the one shown in [Figure 3A](#fig03a) or in [Figure 4](#fig04). This works best where the fund has made long-term borrowings to finance portfolio investments, and where a significant fraction of its investments are likely to incur <abbr>UBIT</abbr>. 
 
-<figure class="l" id="fig03d">
+<figure class="l" id="fig04">
     <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/ 344w, http://media.lucasktlee.com/files/img/ 512w, http://media.lucasktlee.com/files/img/ 688w, http://media.lucasktlee.com/files/img/ 704w, http://media.lucasktlee.com/files/img/ 1024w, http://media.lucasktlee.com/files/img/ 1408w" src="http://media.lucasktlee.com/files/img/" />
-    <figcaption><span>Figure 3d:</span> A blocker corporation owned by the fund that serves as the borrower</figcaption>
+    <figcaption><span>Figure 4:</span> A blocker corporation owned by the fund that serves as the borrower</figcaption>
 </figure>
 
-In the structure shown in [Figure 3D](#fig03d), the fund incorporates a subsidiary to serve as the borrower for the subscription credit facility. This subsidiary is treated as a corporation for U.S. federal income tax purposes, and its obligations to the lenders is secured by guarantees or pledges from the fund.
+In the structure shown in [Figure 4](#fig04), the fund incorporates a subsidiary to serve as the borrower for the subscription credit facility. This subsidiary is treated as a corporation for U.S. federal income tax purposes, and its obligations to the lenders is secured by guarantees or pledges from the fund.
 
 Second, one can rely on the fact that capital gains from a debt-financed investment will not be treated as incurring <abbr>UBIT</abbr> if the following conditions are met: 
 
@@ -149,6 +158,8 @@ While this solution has never been fully tested in litigation, and might still r
 ## Foreign taxable investors
 
 In general the U.S. is quite a favorable destination for foreign investors. Foreign investors are not taxed on their share of the capital gains from the sale of U.S. securities, including portfolio investments of a <abbr>PE</abbr>/<abbr>VC</abbr> fund. 
+
+
 
 ## Conclusions
 
