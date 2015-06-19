@@ -1,4 +1,4 @@
-<p class="lede">Fund structuring is often complicated by the myriad rules and regulations promulgated by the <abbr title="Internal Revenue Service">IRS</abbr> and other tax authorities. It can, for the uninitiated fund sponsor, be a proliferation of unfamiliar acronyms and arcane section references: <abbr>CAI</abbr> <abbr>CFC</abbr>, <abbr>ECI</abbr>, <abbr>FIRPTA</abbr>, <abbr>PFIC</abbr>, <abbr>QEF</abbr>, Section 892, <abbr>UBTI</abbr>&#8230; What do these acronyms and section references mean?</p>
+<p class="lede">Fund structuring is often complicated by the myriad rules and regulations promulgated by the <abbr title="Internal Revenue Service">IRS</abbr> and other tax authorities. It can, for the uninitiated fund sponsor, be a proliferation of unfamiliar acronyms and arcane section references: <abbr>CAI</abbr> <abbr>CFC</abbr>, <abbr>ECI</abbr>, <abbr>FIRPTA</abbr>, <abbr>PFIC</abbr>, <abbr>QEF</abbr>, Section 892, <abbr>UBIT</abbr>, <abbr>UBTI</abbr>&#8230; What do these acronyms and section references mean?</p>
 
 More pertinent, why should a fund sponsor care?
 
@@ -30,7 +30,7 @@ I have previously mentioned the reasons why the limited partnership is the [pref
 
 ## U.S. tax-exempt investors
 
-U.S. tax-exempt investors are one of the largest investors in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As their name implies, these investors are—as a general rule—not taxed on their share of a fund’s capital gains or ordinary income. The general rule is, however, subject to one significant exception: the U.S. federal government taxes the gross income of U.S. tax-exempt investors derived from commercial activities unrelated to their tax-exempt purpose, better known by its abbreviation, <abbr title="unrelated business taxable income">UBTI</abbr>. The U.S. tax-exempt investor must file a U.S. federal income tax return and pay U.S. federal income taxes on investments that generate <abbr>UBTI</abbr> regardless of whether the investor has received any distributions from those investments.
+U.S. tax-exempt investors are one of the largest investors in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As their name implies, these investors are—as a general rule—not taxed on their share of a fund’s capital gains or ordinary income. The general rule is, however, subject to one significant exception: the U.S. federal government taxes the gross income of U.S. tax-exempt investors derived from commercial activities unrelated to their tax-exempt purpose, better known by its abbreviation, <abbr title="unrelated business taxable income">UBTI</abbr>. The U.S. tax-exempt investor must file a U.S. federal income tax return and pay U.S. federal income taxes (<abbr title="Unrelated Business Income Tax">UBIT</abbr>) on investments that generate <abbr>UBTI</abbr> regardless of whether the investor has received any distributions from those investments.
 
 A U.S tax-exempt investor that invests in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur <abbr>UBTI</abbr> in one of three ways: 
 
@@ -50,41 +50,41 @@ As a result of this concern, in 1954 Congress imposed a tax on <abbr>UBTI</abbr>
 
 ### Income from a trade or business
 
-<abbr>PE</abbr>/<abbr>VC</abbr> funds are typically considered as “investment partnerships”<sup><a href="#fn11" id="fref11">11</a></sup> for U.S. federal income tax purposes, and are thus deemed not to be engaged in a trade or business. Thus, an investment in a <abbr>PE</abbr>/<abbr>VC</abbr> fund will not in itself result a U.S. tax-exempt investor incurring <abbr>UBTI</abbr>. This is not to say, however, that a U.S. tax-exempt investor can never incur <abbr>UBTI</abbr> from its investment in a <abbr>PE</abbr>/<abbr>VC</abbr> fund. 
+<abbr>PE</abbr>/<abbr>VC</abbr> funds are typically considered as “investment partnerships”<sup><a href="#fn11" id="fref11">11</a></sup> for U.S. federal income tax purposes, and are thus deemed not to be engaged in a trade or business. Thus, an investment in a <abbr>PE</abbr>/<abbr>VC</abbr> fund will not in itself result a U.S. tax-exempt investor incurring <abbr>UBIT</abbr>. This is not to say, however, that a U.S. tax-exempt investor can never incur <abbr>UBIT</abbr> from its investment in a <abbr>PE</abbr>/<abbr>VC</abbr> fund. 
 
 The most obvious way in which a U.S. tax-exempt investor in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur <abbr>UBTI</abbr> is when the fund invests in a portfolio company that has been incorporated or organized as a flow-through entity (a partnership or <abbr>LLC</abbr>) for U.S. federal income tax purposes. The income earned by such a portfolio company is characterized as income from an active business, and retains that characterization in the hands of the <abbr>PE</abbr>/<abbr>VC</abbr> fund. If the fund is itself a flow-through entity—most funds are—then the limited partners of the fund will each receive a proportionate share of this income, which continues to retain its characterization as income from an active business. In the hands of a U.S. tax-exempt investor, this active income would result in the U.S. tax-exempt investor incurring <abbr>UBTI</abbr>.
 
 <figure class="l" id="fig02">
     <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/ 344w, http://media.lucasktlee.com/files/img/ 512w, http://media.lucasktlee.com/files/img/ 688w, http://media.lucasktlee.com/files/img/ 704w, http://media.lucasktlee.com/files/img/ 1024w, http://media.lucasktlee.com/files/img/ 1408w" src="http://media.lucasktlee.com/files/img/" />
-    <figcaption><span>Figure 2:</span> Incurring <abbr>UBTI</abbr> from an active business organized as a partnership or <abbr>LLC</abbr></figcaption>
+    <figcaption><span>Figure 2:</span> Incurring <abbr>UBIT</abbr> from an active business organized as a partnership or <abbr>LLC</abbr></figcaption>
 </figure>
 
 This situation is more likely to occur when a U.S. tax-exempt investor invests in a <abbr>VC</abbr> fund: some startups are formed as <abbr>LLC</abbr>s rather than as corporations to avoid corporate-level U.S. federal income taxes. That being said, it is still rare to see a <abbr>VC</abbr> fund invest in a flow-through entity; most <abbr>VC</abbr>s will require the startups they invest in to either be incorporated as a corporation<sup><a href="#fn12" id="fref12">12</a></sup> (i.e. not a flow-through entity) or convert from an <abbr>LLC</abbr> to a corporation prior to their investment. By contrast, <abbr>PE</abbr> funds seldom invest in portfolio companies that are treated as flow-through entities: most mature companies were either incorporated as a corporation from the start, or converted to a corporation at some point in the past. 
 
 #### The solution
 
-Most fund sponsors have traditionally structure their fund to minimize <abbr>UBTI</abbr> from a trade or business by using some form of “blocker corporation”. The blocker corporation is not a flow-through entity; rather, it is taxed as a corporation and reports and pays U.S. federal income tax on its share of the active income from the flow-through portfolio company. When this blocker corporation distributes the income it receives to its shareholders, the income is characterized as dividend income, which does not incur <abbr>UBTI</abbr> unless the shares in the blocker corporation are [debt-financed](#incomefromdebtfinancedinvestments).
+Most fund sponsors have traditionally structure their fund to minimize <abbr>UBIT</abbr> from a trade or business by using some form of “blocker corporation”. The blocker corporation is not a flow-through entity; rather, it is taxed as a corporation and reports and pays U.S. federal income tax on its share of the active income from the flow-through portfolio company. When this blocker corporation distributes the income it receives to its shareholders, the income is characterized as dividend income, which does not incur <abbr>UBIT</abbr> unless the shares in the blocker corporation are [debt-financed](#incomefromdebtfinancedinvestments).
 
-There are three main structures that can be used to minimize <abbr>UBTI</abbr> from flow-through entities:
+There are three main structures that can be used to minimize <abbr>UBIT</abbr> from flow-through entities:
 
 * A blocker corporation between the fund and the U.S. tax-exempt and foreign taxable investors<sup><a href="#fn13" id="fref13">13</a></sup> ([Figure 3a](#fig03a))
 * A blocker corporation between the flow-through portfolio company and the fund ([Figure 3b](#fig03b))
 * A blocker corporation serving as either a parallel fund to the main fund or an <abbr title="Alternative Investment Vehicle">AIV</abbr> ([Figure 3c](#fig03c))
 
-The choice of which structure to use will often involve judgment as to the likelihood that the fund will invest in investments that incur <abbr>UBTI</abbr> (and <abbr title="Effectively Connected Income">ECI</abbr>), and the likelihood of the fund incurring <abbr>UBTI</abbr>. 
+The choice of which structure to use will often involve judgment as to the likelihood that the fund will invest in investments that generate <abbr>UBTI</abbr> (and <abbr title="Effectively Connected Income">ECI</abbr>), and the likelihood of the fund incurring <abbr>UBIT</abbr>. Determining the appropriate structure is an exercise best done with skilled tax counsel, taking into account the investment strategy that the fund sponsor intends to pursue and the likelihood that the fund’s portfolio investments will incur <abbr>UBIT</abbr>.
 
 First, let us look at how a blocker corporation interposed between the investors and the fund would look: 
 
 <figure class="l" id="fig03a">
     <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/ 344w, http://media.lucasktlee.com/files/img/ 512w, http://media.lucasktlee.com/files/img/ 688w, http://media.lucasktlee.com/files/img/ 704w, http://media.lucasktlee.com/files/img/ 1024w, http://media.lucasktlee.com/files/img/ 1408w" src="http://media.lucasktlee.com/files/img/" />
-    <figcaption><span>Figure 3a:</span> Interposing a blocker corporation between the fund and the U.S. tax-exempt and foreign limited partners</figcaption>
+    <figcaption><span>Figure 3a:</span> Interposing a blocker corporation between the fund and the U.S. tax-exempt and foreign investors</figcaption>
 </figure>
 
-Interposing the blocker corporation between the U.S. tax-exempt and foreign taxable limited partners) and the fund will prevent the U.S. tax-exempt and foreign limited partners from incurring <abbr>UBTI</abbr> and <abbr>ECI</abbr> from the fund’s investments in flow-through portfolio companies and debt-financed investments, respectively. These limited partners will not be required to file a U.S. federal income tax return solely because of their investment in the fund, since the blocker corporation will be the recipient of the income that would otherwise be <abbr>UBTI</abbr> or <abbr>ECI</abbr>. 
+Interposing a blocker corporation (typically incorporated in a foreign, low or zero tax jurisdiction) between the U.S. tax-exempt and foreign taxable investors) and the fund will prevent the U.S. tax-exempt and foreign investors from incurring <abbr>UBIT</abbr> and <abbr>ECI</abbr> from the fund’s investments in flow-through portfolio companies and debt-financed investments, respectively. These investors will not be required to file a U.S. federal income tax return solely because of their investment in the fund, since the blocker corporation will be the recipient of the income that would otherwise be <abbr>UBTI</abbr> or <abbr>ECI</abbr>. 
 
-From the perspective of the general partner, positioning the blocker corporation as a limited partner in the fund has one _crucial_ advantage: the carried interest earned by the fund is not affected by the use of the blocker. In the interest of not making this into an intolerably long treatise, I will not detail the effect on carried interest from the use of a blocker.<sup><a href="#fn14" id="fref14">14</a></sup> 
+In this structure, _all_ investments made by the fund—not just investments that generate <abbr>UBTI</abbr> or <abbr>ECI</abbr>—will be held through the blocker corporation. Given that the blocker corporation _is_ subject to U.S. federal income taxes on its U.S. sourced income, this structure is not the most tax efficient for the U.S. tax-exempt and foreign taxable investors.
 
-The U.S. tax-exempt and foreign taxable limited partners, however, will find the use of  
+Yet, this structure may be sensible if the _fund_ intends to borrow money in order to finance its portfolio investments, thereby putting the U.S. tax-exempt investors at risk of incurring <abbr>UBIT</abbr> from debt-financed investments. By interposing the blocker corporation between the fund and the U.S. tax-exempt investors, the blocker can effectively block the 
 
 Second, let us look at how a blocker corporation interposed between the fund and the portfolio company would look:
 
@@ -102,7 +102,7 @@ Third, let us look at how a blocker corporation serving as a parallel fund to th
 
 ### Income from debt-financed investments
 
-
+A U.S. tax-exempt investor can also incur <abbr>UBIT</abbr> if the investment that produces income or gain is acquired with funds borrowed by the U.S. tax-exempt investor or the fund. 
 
 #### The solution
 
@@ -156,7 +156,7 @@ In general the U.S. is quite a favorable destination for foreign investors. Fore
         <li id="fn11">An “investment partnership” under <abbr>IRC</abbr> section 731(c)(3)(C)(i) is a partnership that has never engaged in a trade or business and substantially all of its assets (by value) have always consisted of money, stock in a corporation, notes, bonds, debentures or other evidence of indebtedness, foreign currencies, or derivatives. <a href="#fref11">&#8593;</a></li>
         <li id="fn12">To be more precise, a “C-corporation” for U.S. federal income tax purposes, i.e. one that has elected to be taxed as a corporation, as opposed to a “S-corporation” or a <abbr>LLC</abbr>, which are taxed as a flow-through entity. <a href="#fref12">&#8593;</a></li>
         <li id="fn13">U.S. tax-exempt investors and foreign taxable investors share a common concern with avoiding income from an active business organized as a flow-through entity. As such, structures designed for U.S. tax-exempt investors can often serve foreign taxable investors. <a href="#fref13">&#8593;</a></li>
-        <li id="fn14">See <a href=""></a> for a worked example. <a href="#fref14">&#8593;</a></li>
+        <li id="fn14"> <a href="#fref14">&#8593;</a></li>
         <li id="fn15"><abbr>VC</abbr> funds typically do <em>not</em> charge such transaction, advisory, or monitoring fees. <a href="#fref15">&#8593;</a></li>
         <li id="fn16">The fees can also be paid to an affiliate of the general partner if this affiliate is the entity that typically receives the management fee, e.g. a fund manager or investment adviser that has a contractual relationship to provide investment advisory or fund management services to the general partner. In this context, a reference to the general partner shall include any fund manager or investment adviser that receives a management fee from the fund. <a href="#fref16">&#8593;</a></li>
         <li id="fn17">This doctrine requires a taxpayer to include amounts in his or her income derived from his or her services and properties when the right to receive such amount is transferred to another as a gift or for the taxpayer’s benefit. In this case, the argument might be made that the transaction, advisory, or monitoring fees are earned by the <em>fund</em> (and thus indirectly by the U.S. tax-exempt limited partner) and assigned it to the general partner in payment for the management fees owed. <a href="#fref17">&#8593;</a></li>
