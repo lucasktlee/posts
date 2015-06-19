@@ -67,9 +67,9 @@ Most fund sponsors have traditionally structure their fund to minimize <abbr>UBI
 
 There are three main structures that can be used to minimize <abbr>UBIT</abbr> from flow-through entities:
 
-* A blocker corporation between the fund and the U.S. tax-exempt and foreign taxable investors<sup><a href="#fn13" id="fref13">13</a></sup> ([Figure 3a](#fig03a))
-* A blocker corporation between the flow-through portfolio company and the fund ([Figure 3b](#fig03b))
-* A blocker corporation serving as either a parallel fund to the main fund or an <abbr title="Alternative Investment Vehicle">AIV</abbr> ([Figure 3c](#fig03c))
+* A blocker corporation between the fund and the U.S. tax-exempt and foreign taxable investors<sup><a href="#fn13" id="fref13">13</a></sup> ([Figure 3A](#fig03a))
+* A blocker corporation between the flow-through portfolio company and the fund ([Figure 3B](#fig03b))
+* A blocker corporation serving as either a parallel fund to the main fund or an <abbr title="Alternative Investment Vehicle">AIV</abbr> ([Figure 3C](#fig03c))
 
 The choice of which structure to use will often involve judgment as to the likelihood that the fund will invest in investments that generate <abbr>UBTI</abbr> (and <abbr title="Effectively Connected Income">ECI</abbr>), and the likelihood of the fund incurring <abbr>UBIT</abbr>. Determining the appropriate structure is an exercise best done with skilled tax counsel, taking into account the investment strategy that the fund sponsor intends to pursue and the likelihood that the fund’s portfolio investments will incur <abbr>UBIT</abbr>.
 
@@ -84,7 +84,7 @@ Interposing a blocker corporation (typically incorporated in a foreign, low or z
 
 In this structure, _all_ investments made by the fund—not just investments that generate <abbr>UBTI</abbr> or <abbr>ECI</abbr>—will be held through the blocker corporation. Given that the blocker corporation _is_ subject to U.S. federal income taxes on its U.S. sourced income, this structure is not the most tax efficient for the U.S. tax-exempt and foreign taxable investors.
 
-Yet, this structure may be sensible if the _fund_ intends to borrow money in order to finance its portfolio investments, thereby putting the U.S. tax-exempt investors at risk of incurring <abbr>UBIT</abbr> from debt-financed investments. By interposing the blocker corporation between the fund and the U.S. tax-exempt investors, the blocker can effectively block the 
+Yet, this structure may be sensible if the _fund_ intends to borrow money in order to finance its portfolio investments, thereby putting the U.S. tax-exempt investors at risk of incurring <abbr>UBIT</abbr> from debt-financed investments. By interposing the blocker corporation between the fund and the U.S. tax-exempt investors, the U.S. tax-exempt investors will not incur <abbr>UBIT</abbr> since the blocker corporation pays taxes on its share of the income that would otherwise be tainted with <abbr>UBTI</abbr> and distributes passive income to the tax-exempt investors. 
 
 Second, let us look at how a blocker corporation interposed between the fund and the portfolio company would look:
 
@@ -102,11 +102,22 @@ Third, let us look at how a blocker corporation serving as a parallel fund to th
 
 ### Income from debt-financed investments
 
-A U.S. tax-exempt investor can also incur <abbr>UBIT</abbr> if the investment that produces income or gain is acquired with funds borrowed by the U.S. tax-exempt investor or the fund. 
+A U.S. tax-exempt investor in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can also incur <abbr>UBIT</abbr> if the investment that produces income or gain is acquired with money borrowed by the U.S. tax-exempt investor or the fund. As the U.S. tax-exempt investor is very unlikely to use leverage to acquire its interest in the fund since it is well aware of the <abbr>UBIT</abbr> risk, the main risk is likely to be that the fund will borrow money to finance acquisitions.<sup><a href="#fn14" id="fref14">14</a></sup> This can occur where the fund has a short-term revolving credit facility, a subscription credit facility, to allow it to fund portfolio investments pending receipt of moneys from capital calls. 
 
 #### The solution
 
+There are two main structures that can be used to resolve the problem of <abbr>UBIT</abbr> from debt-financed investments where it is the fund that is borrowing money to finance its portfolio investments. 
 
+First, one can rely on a blocker corporation, either in a structure such as the one shown in [Figure 3A](#fig03a) or in [Figure 3D](#fig03d). This works best where the fund has made long-term borrowings to finance portfolio investments, and where a significant fraction of its investments are likely to incur <abbr>UBIT</abbr>. 
+
+<figure class="l" id="fig03d">
+    <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/ 344w, http://media.lucasktlee.com/files/img/ 512w, http://media.lucasktlee.com/files/img/ 688w, http://media.lucasktlee.com/files/img/ 704w, http://media.lucasktlee.com/files/img/ 1024w, http://media.lucasktlee.com/files/img/ 1408w" src="http://media.lucasktlee.com/files/img/" />
+    <figcaption><span>Figure 3d:</span> A blocker corporation owned by the fund that serves as the borrower</figcaption>
+</figure>
+
+In the structure shown in [Figure 3D](#fig03d), 
+
+Second, one can rely on the fact that gains from a debt-financed investment will be 
 
 ### Transaction fees and advisory fees
 
@@ -156,7 +167,7 @@ In general the U.S. is quite a favorable destination for foreign investors. Fore
         <li id="fn11">An “investment partnership” under <abbr>IRC</abbr> section 731(c)(3)(C)(i) is a partnership that has never engaged in a trade or business and substantially all of its assets (by value) have always consisted of money, stock in a corporation, notes, bonds, debentures or other evidence of indebtedness, foreign currencies, or derivatives. <a href="#fref11">&#8593;</a></li>
         <li id="fn12">To be more precise, a “C-corporation” for U.S. federal income tax purposes, i.e. one that has elected to be taxed as a corporation, as opposed to a “S-corporation” or a <abbr>LLC</abbr>, which are taxed as a flow-through entity. <a href="#fref12">&#8593;</a></li>
         <li id="fn13">U.S. tax-exempt investors and foreign taxable investors share a common concern with avoiding income from an active business organized as a flow-through entity. As such, structures designed for U.S. tax-exempt investors can often serve foreign taxable investors. <a href="#fref13">&#8593;</a></li>
-        <li id="fn14"> <a href="#fref14">&#8593;</a></li>
+        <li id="fn14">It is imperative, though, to note that a <abbr title="leveraged buyout">LBO</abbr> will not usually result in <abbr>UBTI</abbr> because the leverage is borrowed by a holding company treated as a corporation for U.S. federal income tax purposes. <a href="#fref14">&#8593;</a></li>
         <li id="fn15"><abbr>VC</abbr> funds typically do <em>not</em> charge such transaction, advisory, or monitoring fees. <a href="#fref15">&#8593;</a></li>
         <li id="fn16">The fees can also be paid to an affiliate of the general partner if this affiliate is the entity that typically receives the management fee, e.g. a fund manager or investment adviser that has a contractual relationship to provide investment advisory or fund management services to the general partner. In this context, a reference to the general partner shall include any fund manager or investment adviser that receives a management fee from the fund. <a href="#fref16">&#8593;</a></li>
         <li id="fn17">This doctrine requires a taxpayer to include amounts in his or her income derived from his or her services and properties when the right to receive such amount is transferred to another as a gift or for the taxpayer’s benefit. In this case, the argument might be made that the transaction, advisory, or monitoring fees are earned by the <em>fund</em> (and thus indirectly by the U.S. tax-exempt limited partner) and assigned it to the general partner in payment for the management fees owed. <a href="#fref17">&#8593;</a></li>
