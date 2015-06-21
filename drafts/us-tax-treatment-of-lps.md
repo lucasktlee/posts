@@ -172,11 +172,13 @@ The objective of the controlled foreign corporation regime, enacted in 1962, was
 
 To do so, the <abbr title="Controlled Foreign Corporation">CFC</abbr> regime defines a <abbr>CFC</abbr> as a foreign corporation where, on _any day_ during the fiscal year for that corporation, more than 50% of the total value of the foreign corporation’s stock or more than 50% of the combined voting power of all classes of the foreign corporation’s voting stock is owned by U.S. shareholders, which is defined as a U.S. person<sup><a href="#fn22" id="fref22">22</a></sup> that owns more than 10% of the total value of the foreign corporation’s stock or voting power. 
 
-There are, of course, a number of attribution rules and constructive ownership rules that allow the <abbr>IRS</abbr> to aggregate shareholdings of certain related individuals to determine whether a U.S. person should be deemed to own more than 10% of the total value of the foreign corporation’s stock or voting power. Notably, a U.S. citizen or resident’s shareholding will be aggregated with the shareholdings of his or her parents, spouse, children, or grandchildren, because it is presumed that these people will share a common interest and purpose in deferring taxes.
+There are a number of attribution rules and constructive ownership rules that allow the <abbr>IRS</abbr> to aggregate shareholdings of certain related individuals to determine whether a U.S. person should be deemed to own more than 10% of the total value of the foreign corporation’s stock or voting power. Notably, a U.S. citizen or resident’s shareholding will be aggregated with the shareholdings of his or her parents, spouse, children (including by adoption), or grandchildren, because it is presumed that these people will share a common interest and purpose in deferring taxes. For that matter, under the constructive ownership rules,<sup><a href="#fn23" id="fref23">23</a></sup> a U.S. person that indirectly owns stock in a foreign corporation through another holding company (in which that U.S. person is a majority shareholder), partnership, estate or trust, will be deemed to own a proportionate share (based on his or her stockholding of the holding company or beneficial interest in the partnership, estate or trust) of the foreign corporation for the purpose of calculating whether that U.S. person is a U.S. shareholder for <abbr>CFC</abbr> purposes. 
+
+The 
 
 #### The solution
 
-
+For fund sponsors accepting U.S. taxable investors into their funds, the 
 
 ### Passive Foreign Investment Companies
 
@@ -196,7 +198,7 @@ There are, of course, a number of attribution rules and constructive ownership r
 
 ## Foreign taxable investors
 
-Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As a general rule, 
+Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As a general rule, foreign taxable investors are subject to 
 
 ### Effectively Connected Income
 
@@ -235,5 +237,6 @@ For the foreign taxable investors, there is one further disadvantage to holding 
         <li id="fn20">This doctrine requires a taxpayer to include amounts in his or her income derived from his or her services and properties when the right to receive such amount is transferred to another as a gift or for the taxpayer’s benefit. In this case, the argument might be made that the transaction, advisory, or monitoring fees are earned by the <em>fund</em> (and thus indirectly by the U.S. tax-exempt limited partner) and assigned it to the general partner in payment for the management fees owed. <a href="#fref20">&#8593;</a></li>
         <li id="fn21">In my opinion, the rules relating to <abbr title="Controlled Foreign Corporation">CFC</abbr>s represent one of the biggest headaches of fund structuring, and is one place where expert tax counsel is worth his or her weight in platinum. <a href="#fref21">&#8593;</a></li>
         <li id="fn22">Defined by <abbr>IRC</abbr> section 7701(a)(30) as: a U.S. citizen or resident, a U.S. partnership, corporation, or a trust subject to the primary supervision of a court in the U.S. or where the decision-making authority of the trust is held by a U.S. person. <a href="#fref22">&#8593;</a></li>
+        <li id="fn23"><abbr>IRC</abbr> sections 318, 958(b). <a href="#fref23">&#8593;</a></li>
     </ol>
 </div>
