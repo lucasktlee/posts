@@ -157,11 +157,22 @@ While this solution has never been fully tested in litigation, and might still r
 
 ## U.S. taxable investors
 
-U.S. taxable investors encounter no substantial tax issues as a result of investing in a U.S. <abbr>PE</abbr>/<abbr>VC</abbr> fund that invests in U.S. corporations, partnerships, trusts, or <abbr>LLC</abbr>s. Indeed, for such investors the best fund structure is a flow-through entity that permits the investor to take 
+U.S. taxable investors (typically <abbr title="High Net Worth Individuals">HNWI</abbr>s and corporate investors such as insurance companies) will typically invest directly in a <abbr>PE</abbr>/<abbr>VC</abbr> fund structured as a flow-through entity for U.S. federal income tax purposes, e.g. a limited partnership or <abbr>LLC</abbr>. For these investors, the flow-through nature of a limited partnership fulfills the following objectives: 
+
+* The fund does not bear taxes and thus there is no double taxation on distributions from portfolio investments; instead, each U.S. taxable investor bears taxes on its allocation of ordinary income and capital gains from the fund
+* The nature of the income and capital gains from the portfolio investments is unchanged in the hands of the U.S. taxable investors, and thus such investors can claim long-term capital gains on investments held for more than one year
+
+Tax structuring for U.S. taxable investors is thus fairly simple, at least in the case of a fund investing in U.S. portfolio companies. They should invest directly in a fund organized as a flow-through entity, as per [Figure 1](#fig01). 
+
+That being said, fund sponsors that invest in portfolio companies outside the U.S. do need to engage in tax structuring for U.S. taxable investors, due to the existence of extremely convoluted tax rules relating to controlled foreign corporations and passive foreign investment companies held by U.S. taxable investors.<sup><a href="#fn21" id="fref21">21</a></sup>
 
 ### Controlled Foreign Corporations
 
+The objective of the controlled foreign corporation regime, enacted in 1962, was to reduce the ability of U.S. taxable investors to defer paying U.S. federal income taxes on income earned by foreign corporations owned by these U.S. taxable investors. 
 
+To do so, the <abbr title="Controlled Foreign Corporation">CFC</abbr> regime defines a <abbr>CFC</abbr> as a foreign corporation where, on _any day_ during the fiscal year for that corporation, more than 50% of the total value of the foreign corporation’s stock or more than 50% of the combined voting power of all classes of the foreign corporation’s voting stock is owned by U.S. shareholders, which is defined as a U.S. person<sup><a href="#fn22" id="fref22">22</a></sup> that owns more than 10% of the total value of the foreign corporation’s stock or voting power. 
+
+There are, of course, a number of attribution rules and constructive ownership rules that allow the <abbr>IRS</abbr> to aggregate shareholdings of certain related individuals to determine whether a U.S. person should be deemed to own more than 10% of the total value of the foreign corporation’s stock or voting power. Notably, a U.S. citizen or resident’s shareholding will be aggregated with the shareholdings of his or her parents, spouse, children, or grandchildren, because it is presumed that these people will share a common interest and purpose in deferring taxes.
 
 #### The solution
 
@@ -189,11 +200,11 @@ Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC
 
 ### Effectively Connected Income
 
-For the foreign taxable investors, there is one further disadvantage to holding all <abbr>ECI</abbr> generating investments in a single blocker corporation. Assuming that the investments are disposed of at different times, the blocker corporation will have to distribute the proceeds of that disposal by paying a dividend rather than a liquidating distribution. 
+
 
 #### The solution
 
-
+For the foreign taxable investors, there is one further disadvantage to holding all <abbr>ECI</abbr> generating investments in a single blocker corporation. Assuming that the investments are disposed of at different times, the blocker corporation will have to distribute the proceeds of that disposal by paying a dividend rather than a liquidating distribution. 
 
 ## Conclusions
 
@@ -222,5 +233,7 @@ For the foreign taxable investors, there is one further disadvantage to holding 
         <li id="fn18"><abbr>VC</abbr> funds typically do <em>not</em> charge such transaction, advisory, or monitoring fees. <a href="#fref18">&#8593;</a></li>
         <li id="fn19">The fees can also be paid to an affiliate of the general partner if this affiliate is the entity that typically receives the management fee, e.g. a fund manager or investment adviser that has a contractual relationship to provide investment advisory or fund management services to the general partner. In this context, a reference to the general partner shall include any fund manager or investment adviser that receives a management fee from the fund. <a href="#fref19">&#8593;</a></li>
         <li id="fn20">This doctrine requires a taxpayer to include amounts in his or her income derived from his or her services and properties when the right to receive such amount is transferred to another as a gift or for the taxpayer’s benefit. In this case, the argument might be made that the transaction, advisory, or monitoring fees are earned by the <em>fund</em> (and thus indirectly by the U.S. tax-exempt limited partner) and assigned it to the general partner in payment for the management fees owed. <a href="#fref20">&#8593;</a></li>
+        <li id="fn21">In my opinion, the rules relating to <abbr title="Controlled Foreign Corporation">CFC</abbr>s represent one of the biggest headaches of fund structuring, and is one place where expert tax counsel is worth his or her weight in platinum. <a href="#fref21">&#8593;</a></li>
+        <li id="fn22">Defined by <abbr>IRC</abbr> section 7701(a)(30) as: a U.S. citizen or resident, a U.S. partnership, corporation, or a trust subject to the primary supervision of a court in the U.S. or where the decision-making authority of the trust is held by a U.S. person. <a href="#fref22">&#8593;</a></li>
     </ol>
 </div>
