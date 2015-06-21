@@ -6,7 +6,7 @@ The short answer, is “because prospective limited partners care”. A fund’s
 
 Before we embark on this somewhat torturous journey through the complications of the <abbr title="Internal Revenue Code">IRC</abbr>, I must first address a few preliminary matters, lest this journey become lost as Odysseus was, after Troy. 
 
-The first thing to do is to narrow our focus. I will discuss only the U.S. federal income tax treatment of U.S. and non-U.S. investors in a <abbr title="private equity">PE</abbr>/<abbr title="venture capital">VC</abbr> fund that invests in portfolio companies in the U.S. and outside the U.S. I will not discuss the effects of <abbr title="Foreign Account Tax Compliance Act">FATCA</abbr> on fund structuring. I will also not discuss any other country’s tax regime on investment funds and their investors. 
+The first thing to do is to narrow our focus. I will discuss only the U.S. federal income tax treatment of U.S. and non-U.S. investors in a <abbr title="private equity">PE</abbr>/<abbr title="venture capital">VC</abbr> fund that invests in portfolio companies in the U.S. and outside the U.S. I will not discuss <abbr title="Foreign Investment in Real Property Tax Act">FIRPTA</abbr>, since that is primarily an issue with companies that have real property interests. I will not discuss the effects of <abbr title="Foreign Account Tax Compliance Act">FATCA</abbr> on fund structuring. I will also not discuss any other country’s tax regime on investment funds and their investors. 
 
 Second, we must understand how the different rules promulgated by the <abbr>IRS</abbr> has divided limited partners into four broad categories: 
 
@@ -91,6 +91,8 @@ Interposing a blocker corporation (typically incorporated in a foreign, low or z
 
 In this structure, _all_ investments made by the fund—not just investments that generate <abbr>UBTI</abbr> or <abbr>ECI</abbr>—will be held through the blocker corporation. Given that the blocker corporation _is_ subject to U.S. federal income taxes on its U.S. sourced income, this structure is not the most tax efficient for the U.S. tax-exempt and foreign taxable investors.
 
+From the perspective of the general partner, however, this structure offers one key advantage: the general partner’s carried interest is determined at the fund level, _before_ any taxes paid by the blocker corporation, thus ensuring that the general partner is not “penalized” by the tax situation of the U.S. tax-exempt and foreign taxable investors.
+
 Yet, this structure may be sensible if the _fund_ intends to borrow money in order to finance its portfolio investments, thereby putting the U.S. tax-exempt investors at risk of incurring <abbr>UBIT</abbr> from debt-financed investments. By interposing the blocker corporation between the fund and the U.S. tax-exempt investors, the U.S. tax-exempt investors will not incur <abbr>UBIT</abbr> since the blocker corporation pays taxes on its share of the income that would otherwise be tainted with <abbr>UBTI</abbr> and distributes passive income to the tax-exempt investors. 
 
 Second, let us look at how a blocker corporation interposed between the fund and the portfolio company would look:
@@ -102,7 +104,9 @@ Second, let us look at how a blocker corporation interposed between the fund and
 
 The chief advantage of this structure is flexibility. Not all investments that a <abbr>PE</abbr>/<abbr>VC</abbr> fund makes will generate <abbr>UBTI</abbr> or <abbr>ECI</abbr>. By situating the blocker corporation between the flow-through portfolio company and the fund, the fund sponsor has the flexibility to use the blocker corporation _solely_ for transactions that generate <abbr>UBTI</abbr> or <abbr>ECI</abbr>. For transactions that do not generate <abbr>UBTI</abbr> or <abbr>ECI</abbr>, the fund will route the capital contributed by U.S. tax-exempt investors (and foreign taxable investors) directly into the corporate portfolio company, thereby eliminating the additional cost, complexity, and tax burden of the blocker corporation.
 
+By using a single blocker corporation to hold all investments that generate <abbr>UBTI</abbr> or <abbr>ECI</abbr>, the fund sponsor can offset income and gains from one portfolio investment with losses from another portfolio investment. This can be particularly useful to reduce the taxable income of the blocker corporation, and thus reduce the taxes payable by the blocker.
 
+The disadvantage to the general partner of this structure is that the general partner’s carried interest is computed at the level of the fund, and thus the use of a blocker corporation between the fund and the <abbr>UBTI</abbr> or <abbr>ECI</abbr> generating portfolio investments has the effect of reducing the carried interest payable to the general partner by the amount of taxes paid by the blocker corporation. A fund sponsor can, however, structure around this by interposing a flow-through entity between the blocker corporation and the portfolio investments, with the carried interest being charged at this level, i.e. before taxes paid by the blocker corporation.<sup><a href="#fn14" id="fref14">14</a></sup> 
 
 Third, let us look at how a blocker corporation serving as a parallel fund or <abbr>AIV</abbr> to the main fund would look:
 
@@ -111,11 +115,13 @@ Third, let us look at how a blocker corporation serving as a parallel fund or <a
     <figcaption><span>Figure 3c:</span> A blocker corporation serving as a parallel fund or <abbr>AIV</abbr> to the main fund</figcaption>
 </figure>
 
+Rather than situating the blocker corporation between the U.S. tax-exempt investors and the fund ([Figure 3A](#fig03a)) or between the fund and the portfolio investments ([Figure 3B](#fig03b)), in this structure the fund sponsor incorporates an <abbr>AIV</abbr> (usually but not always in a foreign low or zero tax jurisdiction) for each investment that generates <abbr>UBTI</abbr> or <abbr>ECI</abbr>. For investments that do not generate <abbr>UBTI</abbr> or <abbr>ECI</abbr>, all the limited partners invest through the fund. 
 
+The main advantage of this structure is flexibility. It allows the fund to set up <abbr>AIV</abbr>s only when necessary, and segregates portfolio investments from each other. It is also likely to be more beneficial for foreign taxable investors, as will be seen below.
 
 ### Income from debt-financed investments
 
-A U.S. tax-exempt investor in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can also incur <abbr>UBIT</abbr> if the investment that produces income or gain is acquired with money borrowed by the U.S. tax-exempt investor or the fund. As the U.S. tax-exempt investor is very unlikely to use leverage to acquire its interest in the fund since it is well aware of the <abbr>UBIT</abbr> risk, the main risk is likely to be that the fund will borrow money to finance acquisitions.<sup><a href="#fn14" id="fref14">14</a></sup> This can occur where the fund has a short-term revolving credit facility, often referred to as a “subscription credit facility”, to allow it to fund portfolio investments pending receipt of moneys from capital calls. 
+A U.S. tax-exempt investor in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can also incur <abbr>UBIT</abbr> if the investment that produces income or gain is acquired with money borrowed by the U.S. tax-exempt investor or the fund. As the U.S. tax-exempt investor is very unlikely to use leverage to acquire its interest in the fund since it is well aware of the <abbr>UBIT</abbr> risk, the main risk is likely to be that the fund will borrow money to finance acquisitions.<sup><a href="#fn15" id="fref15">15</a></sup> This can occur where the fund has a short-term revolving credit facility, often referred to as a “subscription credit facility”, to allow it to fund portfolio investments pending receipt of moneys from capital calls. 
 
 #### The solution
 
@@ -133,25 +139,25 @@ In the structure shown in [Figure 4](#fig04), the fund incorporates a subsidiary
 Second, one can rely on the fact that capital gains from a debt-financed investment will not be treated as incurring <abbr>UBIT</abbr> if the following conditions are met: 
 
 * The indebtedness that would have given rise to <abbr>UBTI</abbr> was repaid more than one year prior to the disposal of the debt-financed investment 
-* The debt-financed investment made no distributions of income (e.g. dividends, interest, rents, royalties) during the relevant fiscal year<sup><a href="#fn15" id="#fref15">15</a></sup> 
+* The debt-financed investment made no distributions of income (e.g. dividends, interest, rents, royalties) during the relevant fiscal year<sup><a href="#fn16" id="#fref16">16</a></sup> 
  
-To the extent that the fund is making use of a subscription credit facility for short-term borrowings to “bridge” a gap between the time a transaction closes and the time the fund receives capital called from its limited partners<sup><a href="#fn16" id="fref16">16</a></sup>, it will often be able to rely on the second option, since most portfolio investments held by a <abbr>PE</abbr>/<abbr>VC</abbr> fund will be held for approximately three to five years, and the borrowings under the subscription agreement will typically be repaid relatively quickly once capital is called from the fund’s limited partners.
+To the extent that the fund is making use of a subscription credit facility for short-term borrowings to “bridge” a gap between the time a transaction closes and the time the fund receives capital called from its limited partners<sup><a href="#fn17" id="fref17">17</a></sup>, it will often be able to rely on the second option to avoid incurring debt-financed <abbr>UBIT</abbr>, since most portfolio investments held by a <abbr>PE</abbr>/<abbr>VC</abbr> fund will be held for approximately three to five years, and the borrowings under the subscription agreement will typically be repaid relatively quickly once capital is called from the fund’s limited partners.
 
 ### Transaction fees and advisory fees
 
-Many <abbr>PE</abbr> fund sponsors charge various transaction, advisory, or monitoring fees to their portfolio companies.<sup><a href="#fn17" id="fref17">17</a></sup> Such fees are paid from the assets of the portfolio companies and thereby reduce the returns to limited partners. As a general rule, limited partners will try to compel the fund sponsor to share all or part of these fees with them. 
+Many <abbr>PE</abbr> fund sponsors charge various transaction, advisory, or monitoring fees to their portfolio companies.<sup><a href="#fn18" id="fref18">18</a></sup> Such fees are paid from the assets of the portfolio companies and thereby reduce the returns to limited partners. As a general rule, limited partners will try to compel the fund sponsor to share all or part of these fees with them. 
 
 However, U.S. tax-exempt investors will be concerned that if the fund receives a share of these fees, it may be deemed to be [income from a business or trade](#incomefromatradeorbusiness), and thus <abbr>UBTI</abbr> if the fund is a flow-through entity (e.g. a limited partnership or <abbr>LLC</abbr>) for U.S. federal income tax purposes. 
 
 #### The solution
 
-To minimize this risk, almost all <abbr>PE</abbr> funds will arrange for the these transaction, advisory, or monitoring fees to be paid to the general partner of the fund.<sup><a href="#fn18" id="fref18">18</a></sup> The general partner will then apply some or all of the fees it receives towards reducing the _next period’s_ management fee paid to the general partners by the limited partners. If there is any excess of fees received over the management fee payable by the limited partners, this excess will typically be carried forward to be applied against future management fees payable by the limited partners, and will _not_ be paid out to the limited partners. 
+To minimize this risk, almost all <abbr>PE</abbr> funds will arrange for the these transaction, advisory, or monitoring fees to be paid to the general partner of the fund.<sup><a href="#fn19" id="fref19">19</a></sup> The general partner will then apply some or all of the fees it receives towards reducing the _next period’s_ management fee paid to the general partners by the limited partners. If there is any excess of fees received over the management fee payable by the limited partners, this excess will typically be carried forward to be applied against future management fees payable by the limited partners, and will _not_ be paid out to the limited partners. 
 
-While this solution has never been fully tested in litigation, and might still run afoul of the assignment of income doctrine,<sup><a href="#fn19" id="fref19">19</a></sup> there seems to be relatively little sign—as of June 2015—that this solution is likely to be challenged by the <abbr>IRS</abbr>. I would be fairly confident in predicting that this solution, which has been extensively used in the <abbr>PE</abbr> industry, will continue to be used by most fund sponsors and limited partners. 
+While this solution has never been fully tested in litigation, and might still run afoul of the assignment of income doctrine,<sup><a href="#fn20" id="fref20">20</a></sup> there seems to be relatively little sign—as of June 2015—that this solution is likely to be challenged by the <abbr>IRS</abbr>. I would be fairly confident in predicting that this solution, which has been extensively used in the <abbr>PE</abbr> industry, will continue to be used by most fund sponsors and limited partners. 
 
 ## U.S. taxable investors
 
-
+U.S. taxable investors encounter no substantial tax issues as a result of investing in a U.S. <abbr>PE</abbr>/<abbr>VC</abbr> fund that invests in U.S. corporations, partnerships, trusts, or <abbr>LLC</abbr>s. Indeed, for such investors the best fund structure is a flow-through entity that permits the investor to take 
 
 ### Controlled Foreign Corporations
 
@@ -183,7 +189,7 @@ Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC
 
 ### Effectively Connected Income
 
-
+For the foreign taxable investors, there is one further disadvantage to holding all <abbr>ECI</abbr> generating investments in a single blocker corporation. Assuming that the investments are disposed of at different times, the blocker corporation will have to distribute the proceeds of that disposal by paying a dividend rather than a liquidating distribution. 
 
 #### The solution
 
@@ -209,11 +215,12 @@ Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC
         <li id="fn11">An “investment partnership” under <abbr>IRC</abbr> section 731(c)(3)(C)(i) is a partnership that has never engaged in a trade or business and substantially all of its assets (by value) have always consisted of money, stock in a corporation, notes, bonds, debentures or other evidence of indebtedness, foreign currencies, or derivatives. <a href="#fref11">&#8593;</a></li>
         <li id="fn12">To be more precise, a “C-corporation” for U.S. federal income tax purposes, i.e. one that has elected to be taxed as a corporation, as opposed to a “S-corporation” or a <abbr>LLC</abbr>, which are taxed as a flow-through entity. <a href="#fref12">&#8593;</a></li>
         <li id="fn13">U.S. tax-exempt investors and foreign taxable investors share a common concern with avoiding income from an active business organized as a flow-through entity. As such, structures designed for U.S. tax-exempt investors can often serve foreign taxable investors. <a href="#fref13">&#8593;</a></li>
-        <li id="fn14">It is imperative, though, to note that a <abbr title="leveraged buyout">LBO</abbr> will not usually result in <abbr>UBTI</abbr> because the leverage is borrowed by a holding company treated as a corporation for U.S. federal income tax purposes. <a href="#fref14">&#8593;</a></li>
-        <li id="fn15">Any income distributed during the relevant fiscal year will be treated as <abbr>UBTI</abbr> based on the average amount of acquisition indebtedness during that fiscal year. <a href="#fref15">&#8593;</a></li>
-        <li id="fn16">Subscription credit facilities are becoming more common. Fund sponsors find it advantageous to be able to draw down capital from the facility within one business day, compared to the ten or more business days typically required to call capital from the limited partners of the fund. <a href="#fref16">&#8593;</a></li>
-        <li id="fn17"><abbr>VC</abbr> funds typically do <em>not</em> charge such transaction, advisory, or monitoring fees. <a href="#fref17">&#8593;</a></li>
-        <li id="fn18">The fees can also be paid to an affiliate of the general partner if this affiliate is the entity that typically receives the management fee, e.g. a fund manager or investment adviser that has a contractual relationship to provide investment advisory or fund management services to the general partner. In this context, a reference to the general partner shall include any fund manager or investment adviser that receives a management fee from the fund. <a href="#fref18">&#8593;</a></li>
-        <li id="fn19">This doctrine requires a taxpayer to include amounts in his or her income derived from his or her services and properties when the right to receive such amount is transferred to another as a gift or for the taxpayer’s benefit. In this case, the argument might be made that the transaction, advisory, or monitoring fees are earned by the <em>fund</em> (and thus indirectly by the U.S. tax-exempt limited partner) and assigned it to the general partner in payment for the management fees owed. <a href="#fref19">&#8593;</a></li>
+        <li id="fn14">Of course, the U.S. tax-exempt and foreign taxable limited partners might not be so sanguine about such a move, given that their distributions from the fund are post-tax, but that is a matter for negotiation between the fund sponsor and the affected limited partners. <a href="#fref14">&#8593;</a></li>
+        <li id="fn15">It is imperative, though, to note that a <abbr title="leveraged buyout">LBO</abbr> will not usually result in <abbr>UBTI</abbr> because the leverage is borrowed by a holding company treated as a corporation for U.S. federal income tax purposes. <a href="#fref15">&#8593;</a></li>
+        <li id="fn16">Any income distributed during the relevant fiscal year will be treated as <abbr>UBTI</abbr> and incur taxes based on the average amount of acquisition indebtedness during that fiscal year. <a href="#fref16">&#8593;</a></li>
+        <li id="fn17">Subscription credit facilities are becoming more common. Fund sponsors find it advantageous to be able to draw down capital from the facility within one business day, compared to the ten or more business days typically required to call capital from the limited partners of the fund. <a href="#fref17">&#8593;</a></li>
+        <li id="fn18"><abbr>VC</abbr> funds typically do <em>not</em> charge such transaction, advisory, or monitoring fees. <a href="#fref18">&#8593;</a></li>
+        <li id="fn19">The fees can also be paid to an affiliate of the general partner if this affiliate is the entity that typically receives the management fee, e.g. a fund manager or investment adviser that has a contractual relationship to provide investment advisory or fund management services to the general partner. In this context, a reference to the general partner shall include any fund manager or investment adviser that receives a management fee from the fund. <a href="#fref19">&#8593;</a></li>
+        <li id="fn20">This doctrine requires a taxpayer to include amounts in his or her income derived from his or her services and properties when the right to receive such amount is transferred to another as a gift or for the taxpayer’s benefit. In this case, the argument might be made that the transaction, advisory, or monitoring fees are earned by the <em>fund</em> (and thus indirectly by the U.S. tax-exempt limited partner) and assigned it to the general partner in payment for the management fees owed. <a href="#fref20">&#8593;</a></li>
     </ol>
 </div>
