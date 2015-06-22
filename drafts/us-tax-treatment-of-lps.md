@@ -193,9 +193,13 @@ For fund sponsors that accept investments from U.S. taxable investors, one way o
     <figcaption><span>Figure 5:</span> Structuring the fund and fund manager offshore</figcaption>
 </figure>
 
-This structure works on the premise that a fund incorporated as a U.S. partnership is treated as a single U.S. person for the purpose of determining whether any U.S. person meets the definition of a “U.S. shareholder” and for the purpose of determining whether a foreign corporation is a <abbr>CFC</abbr>. So, to take an example, a U.S. <abbr>PE</abbr> fund that 
+This structure works on the premise that a fund incorporated as a U.S. partnership is treated as a single U.S. person for the purpose of determining whether any U.S. person meets the definition of a “U.S. shareholder” and for the purpose of determining whether a foreign corporation is a <abbr>CFC</abbr>. 
 
-A fund incorporated in a foreign jurisdiction such as the Cayman Islands, however, is not. Instead, 
+So, to take an example, a U.S. <abbr>PE</abbr> fund that has ten investors—consisting of seven foreign investors and three U.S. taxable investors—acquires 90% of the shares a company incorporated in Singapore (the remaining 10% of the shares of the company are owned by Singaporean citizens). The Singapore company is a <abbr>CFC</abbr> because the U.S. <abbr>PE</abbr> fund owns 90% of its shares, and thus 90% of its shares are owned by a single U.S. shareholder. This is the case notwithstanding the fact that only 27% of the shares of the Singapore company (30% of 90%) is in fact owned by U.S. investors in the <abbr>PE</abbr> fund.
+
+A fund incorporated in a foreign jurisdiction such as the Cayman Islands, however, is not. Instead, each U.S. taxable investor in the partnership is treated separately for the purpose of determining whether more than 50% of the shares of the foreign company are owned by U.S. taxable investors. 
+
+So, returning to the Singapore company example above, assume that the number of foreign and U.S. taxable investors in the <abbr>PE</abbr> fund is the same (seven foreign investors and three U.S. taxable investors), but the fund is organized in the Cayman Islands. 
 
 ### Passive Foreign Investment Companies
 
