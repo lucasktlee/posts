@@ -199,11 +199,15 @@ So, to take an example, a U.S. <abbr>PE</abbr> fund that has ten investors—con
 
 A fund incorporated in a foreign jurisdiction such as the Cayman Islands, however, is not. Instead, each U.S. taxable investor in the partnership is treated separately for the purpose of determining whether more than 50% of the shares of the foreign company are owned by U.S. taxable investors. 
 
-So, returning to the Singapore company example above, assume that the number of foreign and U.S. taxable investors in the <abbr>PE</abbr> fund is the same (seven foreign investors and three U.S. taxable investors), but the fund is organized in the Cayman Islands. Assume also that the <abbr>PE</abbr> fund acquires the same 90% of the shares in the Singapore company, and the remaining 10% are owned by Singaporean citizens. Here, the Singapore company is _not_ a <abbr>CFC</abbr>. First, the fund is _not_ treated as a single U.S. person. Second, each U.S. taxable investor in the fund is treated as a separate U.S. person, and each holds 9% of the shares in the Singapore company, below the threshold to be deemed a U.S. shareholder for the purpose of the <abbr>CFC</abbr> regime. Even if the ownership of one of the U.S. taxable investors was attributed to another using the attribution rules or constructive ownership rules, that would mean there was only one U.S. taxable investor that was classified as a U.S. shareholder (holding 18% of the shares). Third, less than 50% of the shares of the Singapore company are owned by U.S. shareholders (following from the fact that no individual U.S. person is a U.S. shareholder under the <abbr>CFC</abbr> regime). 
+So, returning to the Singapore company example above, assume that the number of foreign and U.S. taxable investors in the <abbr>PE</abbr> fund is the same (seven foreign investors and three U.S. taxable investors), but the fund is organized in the Cayman Islands. Assume also that the <abbr>PE</abbr> fund acquires the same 90% of the shares in the Singapore company, and the remaining 10% are owned by Singaporean citizens. Here, the Singapore company is _not_ a <abbr>CFC</abbr>. First, the fund is _not_ treated as a single U.S. person. Second, each U.S. taxable investor in the fund is treated as a separate U.S. person, and each holds 9% of the shares in the Singapore company, below the threshold to be deemed a U.S. shareholder for the purpose of the <abbr>CFC</abbr> regime. Even if the ownership of one of the U.S. taxable investors was attributed to another using the attribution rules or constructive ownership rules, that would mean there was only one U.S. taxable investor that was classified as a U.S. shareholder (holding 18% of the shares). Third, less than 50% of the shares of the Singapore company are owned by U.S. shareholders (following from the fact that either no individual U.S. person is a U.S. shareholder under the <abbr>CFC</abbr> regime or at most one U.S. person is a U.S. shareholder holding 18% of the shares of the Singapore company). 
 
 ### Passive Foreign Investment Companies
 
-Unlike the <abbr>CFC</abbr> regime, the <abbr>PFIC</abbr> regime has no threshold below which a U.S. taxable investor is not deemed to be invested in a <abbr>PFIC</abbr>. Where a foreign corporation falls within the definition of both the <abbr>CFC</abbr> and <abbr>PFIC</abbr> regimes, the <abbr>CFC</abbr> regime will apply.
+Not content with dealing with the risk of tax deferral through foreign corporations controlled by U.S. taxable investors meeting certain defined shareholding criteria, Congress passed a set of rules to deal U.S. investments in foreign investment companies, the <abbr title="Passive Foreign Investment Company">PFIC</abbr> regime. 
+
+The  
+
+Unlike the <abbr>CFC</abbr> regime, the <abbr>PFIC</abbr> regime has no threshold below which a U.S. taxable investor is not deemed to be invested in a <abbr>PFIC</abbr>. Even owning one share in a company that meets the definition of a <abbr>PFIC</abbr> exposes . Where a foreign corporation falls within the definition of both the <abbr>CFC</abbr> and <abbr>PFIC</abbr> regimes, the <abbr>CFC</abbr> regime will apply.<sup><a href="#fn2" id="fref2">2</a></sup>
 
 #### The solution
 
@@ -260,6 +264,7 @@ For the foreign taxable investors, there is one further disadvantage to holding 
         <li id="fn22">Defined by <abbr>IRC</abbr> section 7701(a)(30) as: a U.S. citizen or resident, a U.S. partnership, corporation, or a trust subject to the primary supervision of a court in the U.S. or where the decision-making authority of the trust is held by a U.S. person. <a href="#fref22">&#8593;</a></li>
         <li id="fn23"><abbr>IRC</abbr> sections 318, 958(b). <a href="#fref23">&#8593;</a></li>
         <li id="fn24"><abbr>IRC</abbr> section 951. <a href="#fref24">&#8593;</a></li>
-        <li id="fn24"><abbr>IRC</abbr> section 1248. <a href="#fref24">&#8593;</a></li>
+        <li id="fn25"><abbr>IRC</abbr> section 1248. <a href="#fref25">&#8593;</a></li>
+        <li id="fn2"><abbr>IRC</abbr> section 951(c). <a href="#fref2">&#8593;</a></li>
     </ol>
 </div>
