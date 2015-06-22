@@ -170,19 +170,36 @@ That being said, fund sponsors that invest in portfolio companies outside the U.
 
 The objective of the controlled foreign corporation regime, enacted in 1962, was to reduce the ability of U.S. taxable investors to defer paying U.S. federal income taxes on income earned by foreign corporations owned by these U.S. taxable investors. 
 
-To do so, the <abbr title="Controlled Foreign Corporation">CFC</abbr> regime defines a <abbr>CFC</abbr> as a foreign corporation where, on _any day_ during the fiscal year for that corporation, more than 50% of the total value of the foreign corporation’s stock or more than 50% of the combined voting power of all classes of the foreign corporation’s voting stock is owned by U.S. shareholders, which is defined as a U.S. person<sup><a href="#fn22" id="fref22">22</a></sup> that owns more than 10% of the total value of the foreign corporation’s stock or voting power. 
+To do so, the <abbr title="Controlled Foreign Corporation">CFC</abbr> regime defines a <abbr>CFC</abbr> as a foreign corporation where, on _any day_ during the fiscal year for that corporation, more than 50% of the total value of the foreign corporation’s stock or more than 50% of the combined voting power of all classes of the foreign corporation’s voting stock is owned by U.S. shareholders, which is <span id="usshareholder">defined as a U.S. person<sup><a href="#fn22" id="fref22">22</a></sup> that owns more than 10% of the total value of the foreign corporation’s stock or voting power</span>. The rationale behind the definition of U.S. shareholders as U.S. persons owning more than 10% of the total value or voting power was to ensure that only foreign corporations where a group of U.S. persons had some ability to influence the decisions of the foreign corporation were included in the <abbr>CFC</abbr> regime. 
 
-There are a number of attribution rules and constructive ownership rules that allow the <abbr>IRS</abbr> to aggregate shareholdings of certain related individuals to determine whether a U.S. person should be deemed to own more than 10% of the total value of the foreign corporation’s stock or voting power. Notably, a U.S. citizen or resident’s shareholding will be aggregated with the shareholdings of his or her parents, spouse, children (including by adoption), or grandchildren, because it is presumed that these people will share a common interest and purpose in deferring taxes. For that matter, under the constructive ownership rules,<sup><a href="#fn23" id="fref23">23</a></sup> a U.S. person that indirectly owns stock in a foreign corporation through another holding company (in which that U.S. person is a majority shareholder), partnership, estate or trust, will be deemed to own a proportionate share (based on his or her stockholding of the holding company or beneficial interest in the partnership, estate or trust) of the foreign corporation for the purpose of calculating whether that U.S. person is a U.S. shareholder for <abbr>CFC</abbr> purposes. 
+There are a number of attribution rules and constructive ownership rules that allow the <abbr>IRS</abbr> to aggregate shareholdings of certain related individuals to determine whether a U.S. person should be deemed to own more than 10% of the total value of the foreign corporation’s stock or voting power. Notably, a U.S. citizen or resident’s shareholding will be aggregated with the shareholdings of his or her parents, spouse, children (including by adoption), or grandchildren, because it is presumed that these people will share a common interest and purpose in deferring taxes. For that matter, under the constructive ownership rules,<sup><a href="#fn23" id="fref23">23</a></sup> a U.S. person that indirectly owns stock in a foreign corporation through another holding company (in which that U.S. person is a majority shareholder), partnership, estate or trust, will be deemed to own a proportionate share (based on his or her stockholding of the holding company or beneficial interest in the partnership, estate or trust) of the foreign corporation for the purpose of calculating whether that U.S. person is a U.S. shareholder for <abbr>CFC</abbr> purposes. In the interest of brevity, and because yours truly is not an expert tax counsel, I will refrain from going into the details of the attribution and constructive ownership rules, since there are minefields for the unwary. 
 
-The 
+If a foreign corporation is a <abbr>CFC</abbr> for an uninterrupted period of 30 days during the taxable year,<sup><a href="#fn24" id="fref24">24</a></sup> the U.S. taxable investors will owe U.S. federal income taxes on certain forms of income earned by a <abbr>CFC</abbr>, known as “Subpart F” income, and regardless of whether the <abbr>CFC</abbr> has made any distributions of such income. While going into the details of Subpart F is beyond the scope of this survey, I will make a few general observations. 
+
+First, U.S. taxable investors in a <abbr>CFC</abbr> are not required to include in their current year taxable income any income of the <abbr>CFC</abbr> derived from the conduct of a trade or business entirely outside of the U.S. Taxation of this income is deferred until it is repatriated to the U.S. by way of dividends paid to the U.S. taxable investors.
+
+Second, U.S. taxable investors must include in their current year taxable income any income of the <abbr>CFC</abbr> foreign personal holding company income. The <abbr>IRC</abbr> defines this as income derived from passive investments held by the <abbr>CFC</abbr>, such as dividends, interest, rents, royalties and capital gains on investments in commodities, foreign currencies, derivatives, equity or debt instruments. 
+
+Third, gains from the sale of equity in a <abbr>CFC</abbr> will be treated as ordinary income rather than capital gains in the hands of a U.S. shareholder (as [previously defined](#usshareholder)) to the extent of the <abbr>CFC</abbr>’s accumulated earnings (less any applicable foreign tax credits) during the period that the U.S. shareholder held the equity and the foreign corporation was a <abbr>CFC</abbr>.<sup><a href="#fn25" id="fref25">25</a></sup> 
+
+For these reasons, a U.S. taxable investor will be very interested in ensuring that the fund sponsor has taken positive steps to minimize the impact of the <abbr>CFC</abbr> regime. 
 
 #### The solution
 
-For fund sponsors accepting U.S. taxable investors into their funds, the 
+For fund sponsors that accept investments from U.S. taxable investors, one way of dealing with the <abbr>CFC</abbr> is to structure the fund and the general partner in a foreign jurisdiction. 
+
+<figure class="border l" id="fig05">
+    <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/20150622-fig05-s.png 344w, http://media.lucasktlee.com/files/img/20150622-fig05-m.png 512w, http://media.lucasktlee.com/files/img/20150622-fig05-s-@2x.png 688w, http://media.lucasktlee.com/files/img/20150622-fig05-l.png 704w, http://media.lucasktlee.com/files/img/20150622-fig04-5-@2x.png 1024w, http://media.lucasktlee.com/files/img/20150622-fig04-5-@2x.png 1408w" src="http://media.lucasktlee.com/files/img/20150622-fig05-s.png" />
+    <figcaption><span>Figure 5:</span> Structuring the fund and fund manager offshore</figcaption>
+</figure>
+
+This structure works on the premise that a fund incorporated as a U.S. partnership is treated as a single U.S. person for the purpose of determining whether any U.S. person meets the definition of a “U.S. shareholder” and for the purpose of determining whether a foreign corporation is a <abbr>CFC</abbr>. So, to take an example, a U.S. <abbr>PE</abbr> fund that 
+
+A fund incorporated in a foreign jurisdiction such as the Cayman Islands, however, is not. Instead, 
 
 ### Passive Foreign Investment Companies
 
-
+Unlike the <abbr>CFC</abbr> regime, the <abbr>PFIC</abbr> regime has no threshold below which a U.S. taxable investor is not deemed to be invested in a <abbr>PFIC</abbr>. Where a foreign corporation falls within the definition of both the <abbr>CFC</abbr> and <abbr>PFIC</abbr> regimes, the <abbr>CFC</abbr> regime will apply.
 
 #### The solution
 
@@ -194,7 +211,7 @@ For fund sponsors accepting U.S. taxable investors into their funds, the
 
 #### The solution
 
-
+For the most part, tax structuring for foreign tax-exempt investors is relatively similar to the tax structuring necessary for U.S. tax-exempt investors. 
 
 ## Foreign taxable investors
 
@@ -238,5 +255,7 @@ For the foreign taxable investors, there is one further disadvantage to holding 
         <li id="fn21">In my opinion, the rules relating to <abbr title="Controlled Foreign Corporation">CFC</abbr>s represent one of the biggest headaches of fund structuring, and is one place where expert tax counsel is worth his or her weight in platinum. <a href="#fref21">&#8593;</a></li>
         <li id="fn22">Defined by <abbr>IRC</abbr> section 7701(a)(30) as: a U.S. citizen or resident, a U.S. partnership, corporation, or a trust subject to the primary supervision of a court in the U.S. or where the decision-making authority of the trust is held by a U.S. person. <a href="#fref22">&#8593;</a></li>
         <li id="fn23"><abbr>IRC</abbr> sections 318, 958(b). <a href="#fref23">&#8593;</a></li>
+        <li id="fn24"><abbr>IRC</abbr> section 951. <a href="#fref24">&#8593;</a></li>
+        <li id="fn24"><abbr>IRC</abbr> section 1248. <a href="#fref24">&#8593;</a></li>
     </ol>
 </div>
