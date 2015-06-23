@@ -189,7 +189,7 @@ For these reasons, a U.S. taxable investor will be very interested in ensuring t
 For fund sponsors that accept investments from U.S. taxable investors, one way of dealing with the <abbr>CFC</abbr> is to structure the fund and the general partner in a foreign jurisdiction. 
 
 <figure class="border l" id="fig05">
-    <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/20150622-fig05-s.png 344w, http://media.lucasktlee.com/files/img/20150622-fig05-m.png 512w, http://media.lucasktlee.com/files/img/20150622-fig05-s-@2x.png 688w, http://media.lucasktlee.com/files/img/20150622-fig05-l.png 704w, http://media.lucasktlee.com/files/img/20150622-fig04-5-@2x.png 1024w, http://media.lucasktlee.com/files/img/20150622-fig04-5-@2x.png 1408w" src="http://media.lucasktlee.com/files/img/20150622-fig05-s.png" />
+    <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/20150622-fig05-s.png 344w, http://media.lucasktlee.com/files/img/20150622-fig05-m.png 512w, http://media.lucasktlee.com/files/img/20150622-fig05-s-@2x.png 688w, http://media.lucasktlee.com/files/img/20150622-fig05-l.png 704w, http://media.lucasktlee.com/files/img/20150622-fig05-m-@2x.png 1024w, http://media.lucasktlee.com/files/img/20150622-fig05-l-@2x.png 1408w" src="http://media.lucasktlee.com/files/img/20150622-fig05-s.png" />
     <figcaption><span>Figure 5:</span> Structuring the fund and fund manager offshore</figcaption>
 </figure>
 
@@ -257,7 +257,7 @@ He makes a <abbr title="Qualified Electing Fund">QEF</abbr> election, obviously.
 
 Once a <abbr>QEF</abbr> election is made, the U.S. taxable investor must report in each fiscal year its pro rata share of the ordinary income and capital gains of the <abbr>PFIC</abbr>, and pay taxes on that amount regardless of whether the <abbr>PFIC</abbr> has made any distributions to the U.S. taxable investor. The benefit of this election, though, is that when the <abbr>PFIC</abbr> does make a distribution, such distribution is not subject to tax to the extent that it relates to amounts that the U.S. taxable investor has already paid taxes on.
 
-To make this election, though, the fund sponsor must ensure that any <abbr>PFIC</abbr>s that it invests in provides specified information on a “<abbr>PFIC</abbr> Annual Information Statement” to allow the U.S. taxable investors to calculate its share of the corporation’s ordinary earnings and net capital gains for the fiscal year. 
+To make this election, though, the fund sponsor must ensure that any <abbr>PFIC</abbr> that it invests in provides specified information on a “<abbr>PFIC</abbr> Annual Information Statement” to allow the U.S. taxable investors to calculate its share of the corporation’s ordinary earnings and net capital gains for the fiscal year. This can be a point of some contention between the fund sponsor and the U.S. taxable investors, particularly if the investment strategy of the fund involves taking minority positions in portfolio companies rather than acquiring a controlling stake. 
 
 ## Foreign tax-exempt investors
 
@@ -265,7 +265,7 @@ To make this election, though, the fund sponsor must ensure that any <abbr>PFIC<
 
 #### The solution
 
-For the most part, tax structuring for foreign tax-exempt investors is relatively similar to the tax structuring necessary for U.S. tax-exempt investors. 
+For the most part, tax structuring for foreign tax-exempt investors is relatively similar to the tax structuring necessary for U.S. tax-exempt investors. A blocker corporation is used to block the foreign tax-exempt investors from incurring <abbr>CAI</abbr>. This blocker corporation can be interposed between the foreign tax-exempt investors and the fund (see [Figure 3A](#fig03a)), between the fund and the portfolio companies (see [Figure 3B](#fig03b)), or as a parallel investment vehicle alongside the fund (see [Figure 3C](#fig03c)).
 
 ## Foreign taxable investors
 
@@ -311,7 +311,7 @@ For the foreign taxable investors, there is one further disadvantage to holding 
         <li id="fn23"><abbr>IRC</abbr> sections 318, 958(b). <a href="#fref23">&#8593;</a></li>
         <li id="fn24"><abbr>IRC</abbr> section 951. <a href="#fref24">&#8593;</a></li>
         <li id="fn25"><abbr>IRC</abbr> section 1248. <a href="#fref25">&#8593;</a></li>
-        <li id="fn25">Defined as income from dividends, interest, royalties, rents, annuities and certain gains from transactions involving property, foreign currency, or commodities. <a href="#fref25">&#8593;</a></li>
-        <li id="fn2"><abbr>IRC</abbr> section 951(c). <a href="#fref2">&#8593;</a></li>
+        <li id="fn26">Defined as income from dividends, interest, royalties, rents, annuities and certain gains from transactions involving property, foreign currency, or commodities. <a href="#fref26">&#8593;</a></li>
+        <li id="fn27"><abbr>IRC</abbr> section 951(c). <a href="#fref27">&#8593;</a></li>
     </ol>
 </div>
