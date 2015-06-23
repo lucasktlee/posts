@@ -261,7 +261,7 @@ To make this election, though, the fund sponsor must ensure that any <abbr>PFIC<
 
 ## Foreign taxable investors
 
-Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As a general rule, foreign taxable investors are subject to 
+Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As a general rule, foreign taxable investors are subject to withholding taxes on <abbr title="Fixed, Determinable, Annual or Periodic">FDAP</abbr> income from U.S. sources. They are not subject to taxes on capital gains from U.S. sources. 
 
 ### Effectively Connected Income
 
@@ -276,15 +276,17 @@ For the foreign taxable investors, there is one further disadvantage to holding 
 There are two main categories of foreign tax-exempt investors: 
 
 * **Foreign tax-exempt charitable organizations:** Organizations that fall within the <abbr>IRC</abbr> section 501(c)(3) exemption for charitable organizations. For these organizations to claim tax-exempt status and be eligible to be exempt from withholding taxes on <abbr>FDAP</abbr> income, they must obtain either an <abbr>IRS</abbr> private letter ruling or (more commonly) a tax opinion from reputable (in the opinion of the withholding agent) U.S. tax counsel attesting that they satisfy the criteria to claim tax-exempt status. 
-* **Foreign governments and sovereign wealth funds:**
+* **Foreign governments and sovereign wealth funds:** 
 
 ### Foreign tax-exempt charitable organizations
 
+Foreign tax-exempt charitable organizations are essentially treated identically to their U.S. tax-exempt counterparts. No taxes are imposed on capital gains or ordinary income ()
 
+Foreign private foundations (equivalent to U.S. private foundations under <abbr>IRC</abbr> section 509) are subject to a 4% excise tax on gross income from U.S. sources, other than <abbr>UBTI</abbr>, collected by way of withholding. Incongruously, this excise tax is applied even to _capital gains_ and _portfolio interest,_ which are not normally taxed in the hands of other foreign taxable and tax-exempt investors. 
 
 #### The solution
 
-For foreign tax-exempt charitable organizations, their primary concern is identical to U.S. tax-exempt investors: they wish to avoid incurring <abbr>UBIT</abbr>. As such, the same blocker corporation structures (see [Figure 3A](#fig03a), [Figure 3B](#fig03b)), and [Figure 3C](#fig03c)) that work for U.S. tax-exempt investors will also work for foreign tax-exempt charitable organizations. As a general rule, a fund sponsor can arrange for U.S. tax-exempt and foreign tax-exempt charitable organizations to use the same blocker corporation, parallel fund, or <abbr>AIV</abbr>.
+For foreign tax-exempt charitable organizations, their primary concern is identical to U.S. tax-exempt investors: they wish to avoid incurring <abbr>UBIT</abbr>. As such, the same blocker corporation structures (see [Figure 3A](#fig03a), [Figure 3B](#fig03b), and [Figure 3C](#fig03c)) that work for U.S. tax-exempt investors will also work for foreign tax-exempt charitable organizations. As a general rule, a fund sponsor can arrange for U.S. tax-exempt and foreign tax-exempt charitable organizations to use the same blocker corporation, parallel fund, or <abbr>AIV</abbr>.
 
 ### Foreign governments and sovereign wealth funds
 
@@ -296,7 +298,7 @@ For the most part, tax structuring for foreign governments and sovereign wealth 
 
 ## Conclusions
 
-
+Structuring a <abbr>PE</abbr>/<abbr>VC</abbr> fund that satisfies the tax structuring needs of the four major categories of investors for U.S. federal income tax purposes is by no means a simple task. 
 
 <div class="footnotes">
     <hr class="w-50" />
