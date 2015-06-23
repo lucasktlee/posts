@@ -205,9 +205,43 @@ So, returning to the Singapore company example above, assume that the number of 
 
 Not content with dealing with the risk of tax deferral through foreign corporations controlled by U.S. taxable investors meeting certain defined shareholding criteria, Congress passed a set of rules to deal U.S. investments in foreign investment companies, the <abbr title="Passive Foreign Investment Company">PFIC</abbr> regime. 
 
-The  
+A <abbr>PFIC</abbr> is defined as a foreign corporation where either 75% or more of its gross income for the year is passive income or 50% or more of its assets produce passive income or are held for the purpose of producing passive income.<sup><a href="#fn26" id="fref26">26</a></sup> Note that unlike the <abbr>CFC</abbr> regime, the <abbr>PFIC</abbr> regime has no threshold below which a U.S. taxable investor is not deemed to be invested in a <abbr>PFIC</abbr>. Even owning one share in a company that meets the definition of a <abbr>PFIC</abbr> exposes a U.S. taxable investor to the <abbr>PFIC</abbr> regime. Unlike a <abbr>CFC</abbr>, once a foreign corporation is classified as a <abbr>PFIC</abbr>, it is _always_ a <abbr>PFIC</abbr>, even if it no longer meets the definition in subsequent years. 
 
-Unlike the <abbr>CFC</abbr> regime, the <abbr>PFIC</abbr> regime has no threshold below which a U.S. taxable investor is not deemed to be invested in a <abbr>PFIC</abbr>. Even owning one share in a company that meets the definition of a <abbr>PFIC</abbr> exposes . Where a foreign corporation falls within the definition of both the <abbr>CFC</abbr> and <abbr>PFIC</abbr> regimes, the <abbr>CFC</abbr> regime will apply.<sup><a href="#fn2" id="fref2">2</a></sup>
+There is an exception to the 
+
+When a U.S. taxable investor invested in a <abbr>PFIC</abbr> and receives distributions or sells its interest in the <abbr>PFIC</abbr>, it is subject to the following tax treatment:
+
+<div class="responsive-wrapper">
+    <table id="table01">
+        <caption><span>Table 1:</span> Tax treatment of distributions or gains from a <abbr>PFIC</abbr></caption>
+        <tr>
+            <th>Triggering<br/> Event</th>
+            <th>Classification</th>
+            <th>Tax Consequence</th>
+        </tr>
+        <tr>
+            <td>Sale of interest in <abbr>PFIC</abbr></td>
+            <td>Proceeds in excess of tax basis in <abbr>PFIC</abbr> interest classified as excess distributions (not capital gains)</td>
+            <td>Taxed as ordinary income deemed to have been distributed ratably over the U.S. taxable investor’s holding period and taxed at the highest applicable marginal income tax rate for each relevant year, and with interest charged at the relevant federal underpayment rate for each year</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Distributions from <abbr>PFIC</abbr></td>
+            <td>Excess distribution (any amount greater than 125% of the average distributions made to the U.S. taxable investor within the lesser of the last 3 years or the actual holding period of that investor)</td>
+            <td>
+                <p><strong>Amount allocated to the current year:</strong> Taxed as ordinary income at the current year’s marginal income tax rate</p>
+                <p><strong>Amounts allocated to previous years:</strong> Taxed as ordinary income deemed to have been distributed ratably over the U.S. taxable investor’s holding period and taxed at the highest applicable marginal income tax rate for each relevant year, and with interest charged at the relevant federal underpayment rate for each year</p>
+            </td>
+        </tr>
+        <tr>
+            <td>Non-excess distribution</td>
+            <td>Taxed as ordinary income at the current year’s marginal income tax rate</td>
+        </tr>
+    </table>
+</div>
+
+Where a foreign corporation falls within the definition of both the <abbr>CFC</abbr> and <abbr>PFIC</abbr> regimes, the <abbr>CFC</abbr> regime will apply.<sup><a href="#fn2" id="fref2">2</a></sup>
+
+As we can see, the overall impact of the <abbr>PFIC</abbr> regime is to convert what might otherwise have been capital gains from disposing of an interest in a <abbr>PFIC</abbr> into ordinary income taxed at the highest marginal income tax rate _and_ with an interest penalty. Not exactly something guaranteed to endear the <abbr>IRS</abbr> to U.S. taxable investors.  
 
 #### The solution
 
@@ -265,6 +299,7 @@ For the foreign taxable investors, there is one further disadvantage to holding 
         <li id="fn23"><abbr>IRC</abbr> sections 318, 958(b). <a href="#fref23">&#8593;</a></li>
         <li id="fn24"><abbr>IRC</abbr> section 951. <a href="#fref24">&#8593;</a></li>
         <li id="fn25"><abbr>IRC</abbr> section 1248. <a href="#fref25">&#8593;</a></li>
+        <li id="fn25">Defined as income from dividends, interest, royalties, rents, annuities and certain gains from transactions involving property, foreign currency, or commodities. <a href="#fref25">&#8593;</a></li>
         <li id="fn2"><abbr>IRC</abbr> section 951(c). <a href="#fref2">&#8593;</a></li>
     </ol>
 </div>
