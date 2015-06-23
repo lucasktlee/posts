@@ -207,7 +207,11 @@ Not content with dealing with the risk of tax deferral through foreign corporati
 
 A <abbr>PFIC</abbr> is defined as a foreign corporation where either 75% or more of its gross income for the year is passive income or 50% or more of its assets produce passive income or are held for the purpose of producing passive income.<sup><a href="#fn26" id="fref26">26</a></sup> Note that unlike the <abbr>CFC</abbr> regime, the <abbr>PFIC</abbr> regime has no threshold below which a U.S. taxable investor is not deemed to be invested in a <abbr>PFIC</abbr>. Even owning one share in a company that meets the definition of a <abbr>PFIC</abbr> exposes a U.S. taxable investor to the <abbr>PFIC</abbr> regime. Unlike a <abbr>CFC</abbr>, once a foreign corporation is classified as a <abbr>PFIC</abbr>, it is _always_ a <abbr>PFIC</abbr>, even if it no longer meets the definition in subsequent years. 
 
-There is an exception to the <abbr>PFIC</abbr> regime 
+There is an exception to the <abbr>PFIC</abbr> regime for startups, which often have only passive income (most likely interest on a working capital bank account) in their early years. A startup is not treated as a <abbr>PFIC</abbr> during the first year it has gross income if it meets certain conditions: 
+
+* No predecessor corporation of the startup was a <abbr>PFIC</abbr>
+* The startup can establish to the satisfaction of the <abbr>IRS</abbr> that it will not be a <abbr>PFIC</abbr> in either of the two years following the startup year  
+* The startup is _in fact_ not a <abbr>PFIC</abbr> in either of the two years following the startup year
 
 When a U.S. taxable investor invested in a <abbr>PFIC</abbr> and receives distributions or sells its interest in the <abbr>PFIC</abbr>, it is subject to the following tax treatment:
 
@@ -239,15 +243,17 @@ When a U.S. taxable investor invested in a <abbr>PFIC</abbr> and receives distri
     </table>
 </div>
 
-Where a foreign corporation falls within the definition of both the <abbr>CFC</abbr> and <abbr>PFIC</abbr> regimes, the <abbr>CFC</abbr> regime will apply.<sup><a href="#fn2" id="fref2">2</a></sup>
+Where a foreign corporation falls within the definition of both the <abbr>CFC</abbr> and <abbr>PFIC</abbr> regimes, the <abbr>CFC</abbr> regime will apply.<sup><a href="#fn27" id="fref27">27</a></sup>
 
 As we can see, the overall impact of the <abbr>PFIC</abbr> regime is to convert what might otherwise have been capital gains from disposing of an interest in a <abbr>PFIC</abbr> into ordinary income taxed at the highest marginal income tax rate _and_ with an interest penalty, and tax “excess” distributions at the same punitive rate. Not exactly something guaranteed to endear the <abbr>IRS</abbr> to U.S. taxable investors. 
 
-A wise fund sponsor tries not to invest in companies that are <abbr>PFIC</abbr>s. As a general rule, I would be quite surprised if the average <abbr>PE</abbr>investment turns out to be a <abbr>PFIC</abbr>. 
+A wise fund sponsor tries not to invest in companies that are <abbr>PFIC</abbr>s. As a general rule, I would be quite surprised if the average <abbr>PE</abbr>investment turns out to be a <abbr>PFIC</abbr>, given that the vast majority of such companies are active operating companies. <abbr>VC</abbr> funds investing abroad _may_ end up investing in startups that, at least for the first few years of their operations, are <abbr>PFIC</abbr>s, and thanks to the rule “once a <abbr>PFIC</abbr>, always a <abbr>PFIC</abbr>”, may end up having to find a solution for their U.S. taxable investors. 
 
 #### The solution
 
+So, what can a sensible U.S. taxable investor, who wants avoid paying the exorbitant tax rates on <abbr>PFIC</abbr>s, do? 
 
+He makes a <abbr title="Qualified Electing Fund">QEF</abbr> election, obviously. No, not really _obviously,_ unless you’re one of those unusual persons who devote years of their life to understanding the U.S. tax code. This election must be made 
 
 ## Foreign tax-exempt investors
 
