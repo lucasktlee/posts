@@ -253,7 +253,11 @@ A wise fund sponsor tries not to invest in companies that are <abbr>PFIC</abbr>s
 
 So, what can a sensible U.S. taxable investor, who wants avoid paying the exorbitant tax rates on <abbr>PFIC</abbr>s, do? 
 
-He makes a <abbr title="Qualified Electing Fund">QEF</abbr> election, obviously. No, not really _obviously,_ unless you’re one of those unusual persons who devote years of their life to understanding the U.S. tax code. This election must be made 
+He makes a <abbr title="Qualified Electing Fund">QEF</abbr> election, obviously. No, not really _obviously,_ unless you’re one of those unusual persons who devote years of their life to understanding the U.S. tax code. This election must be made in the _first year_ that the U.S. taxable investor is deemed to be invested in a <abbr>PFIC</abbr>. If this is not done, the U.S. taxable investor may have to apply for a private letter ruling from the <abbr>IRS</abbr> to allow it to make a retrospective <abbr>QEF</abbr> election. 
+
+Once a <abbr>QEF</abbr> election is made, the U.S. taxable investor must report in each fiscal year its pro rata share of the ordinary income and capital gains of the <abbr>PFIC</abbr>, and pay taxes on that amount regardless of whether the <abbr>PFIC</abbr> has made any distributions to the U.S. taxable investor. The benefit of this election, though, is that when the <abbr>PFIC</abbr> does make a distribution, such distribution is not subject to tax to the extent that it relates to amounts that the U.S. taxable investor has already paid taxes on.
+
+To make this election, though, the fund sponsor must ensure that any <abbr>PFIC</abbr>s that it invests in provides specified information on a “<abbr>PFIC</abbr> Annual Information Statement” to allow the U.S. taxable investors to calculate its share of the corporation’s ordinary earnings and net capital gains for the fiscal year. 
 
 ## Foreign tax-exempt investors
 
