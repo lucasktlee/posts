@@ -259,14 +259,6 @@ Once a <abbr>QEF</abbr> election is made, the U.S. taxable investor must report 
 
 To make this election, though, the fund sponsor must ensure that any <abbr>PFIC</abbr> that it invests in provides specified information on a “<abbr>PFIC</abbr> Annual Information Statement” to allow the U.S. taxable investors to calculate its share of the corporation’s ordinary earnings and net capital gains for the fiscal year. This can be a point of some contention between the fund sponsor and the U.S. taxable investors, particularly if the investment strategy of the fund involves taking minority positions in portfolio companies rather than acquiring a controlling stake. 
 
-## Foreign tax-exempt investors
-
-
-
-#### The solution
-
-For the most part, tax structuring for foreign tax-exempt investors is relatively similar to the tax structuring necessary for U.S. tax-exempt investors. A blocker corporation is used to block the foreign tax-exempt investors from incurring <abbr>CAI</abbr>. This blocker corporation can be interposed between the foreign tax-exempt investors and the fund (see [Figure 3A](#fig03a)), between the fund and the portfolio companies (see [Figure 3B](#fig03b)), or as a parallel investment vehicle alongside the fund (see [Figure 3C](#fig03c)).
-
 ## Foreign taxable investors
 
 Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As a general rule, foreign taxable investors are subject to 
@@ -278,6 +270,16 @@ Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC
 #### The solution
 
 For the foreign taxable investors, there is one further disadvantage to holding all <abbr>ECI</abbr> generating investments in a single blocker corporation. Assuming that the investments are disposed of at different times, the blocker corporation will have to distribute the proceeds of that disposal by paying a dividend rather than a liquidating distribution. 
+
+## Foreign tax-exempt investors
+
+There are two main categories of foreign tax-exempt investors. The first category comprises organizations that fall within the <abbr>IRC</abbr> section 501(c)(3) exemption for charitable organizations, which I will refer to as “foreign tax-exempt charitable organizations”. For these organizations to claim tax-exempt status and be eligible to be exempt from withholding taxes on <abbr>FDAP</abbr> income, they must obtain either an <abbr>IRS</abbr> private letter ruling or (more commonly) a tax opinion from reputable (in the opinion of the withholding agent) U.S. tax counsel attesting that they satisfy the criteria to claim tax-exempt status. 
+
+#### The solution
+
+For foreign tax-exempt charitable organizations, their primary concern is identical to U.S. tax-exempt investors: they wish to avoid incurring <abbr>UBIT</abbr>. 
+
+For the most part, tax structuring for foreign tax-exempt investors that fall under <abbr>IRC</abbr> section 892 is relatively similar to the tax structuring necessary for U.S. tax-exempt investors. A blocker corporation is used to block the foreign tax-exempt investors from incurring <abbr>CAI</abbr>. This blocker corporation can be interposed between the foreign tax-exempt investors and the fund (see [Figure 3A](#fig03a)), between the fund and the portfolio companies (see [Figure 3B](#fig03b)), or as a parallel investment vehicle alongside the fund (see [Figure 3C](#fig03c)). 
 
 ## Conclusions
 
