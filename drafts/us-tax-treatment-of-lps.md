@@ -12,7 +12,7 @@ Second, we must understand how the different rules promulgated by the <abbr>IRS<
 
 * **U.S. tax-exempt investors:** The <abbr>IRS</abbr> prescribes a fairly long list of entities that qualify as a tax-exempt organization, which I will not enumerate in toto here. These include corporations organized under an Act of Congress and that have been explicitly exempted from federal income taxes,<sup><a href="fn01" id="fref01">1</a></sup> religious, educational, charitable, scientific, literary organizations,<sup><a href="#fn02" id="fref02">2</a></sup> chambers of commerce,<sup><a href="#fn03" id="fref03">3</a></sup> social and recreational clubs,<sup><a href="#fn04" id="fref04">4</a></sup> political organizations,<sup><a href="fref05" id="fref05">5</a></sup> farmers’ cooperatives,<sup><a href="#fn06" id="fref06">6</a></sup> private foundations,<sup><a href="#fn07" id="fref07">7</a></sup>, federal, state, and local governmental plans,<sup><a href="#fn08" id="fref08">8</a></sup> and employee benefit plans.<sup><a href="#fn09" id="fref09">9</a></sup>
 * **U.S. taxable investors:** Broadly speaking, taxable investors in the United States should be thought of as a “catch-all” category for any U.S. investor that cannot be categorized as a U.S. tax-exempt organization. Investors falling into this category include high net worth individuals, corporations, family offices and private trusts. 
-* **Foreign tax-exempt investors:** Per the well-established principle of sovereign immunity, foreign governments, their political subdivisions, and their controlled entities are exempt from taxes on certain (but not all) forms of U.S. income (principally U.S. investment income). Foreign tax-exempt organizations are exempt from taxes on certain (but not all) forms of U.S. income (principally U.S. investment income). Certain international organizations designated by executive orders are exempt from taxes on all U.S. source income.
+* **Foreign tax-exempt investors:** Per the well-established principle of sovereign immunity, foreign governments, their political subdivisions, and their controlled entities are exempt from taxes on certain (but not all) forms of U.S. income (principally U.S. investment income). Foreign tax-exempt organizations (here more narrowly defined as <abbr>IRC</abbr> section 501(c)(3) equivalent organizations) are exempt from taxes on certain (but not all) forms of U.S. income (principally U.S. investment income). Certain international organizations designated by executive orders are exempt from taxes on all U.S. source income.
 * **Foreign taxable investors:** Like their American counterparts, foreign taxable investors should be thought of as a “catch-all” category for any foreign investor that cannot be categorized as a foreign government, tax-exempt organization, or designated international organization. Investors falling into this category include high net worth individuals, corporations, family offices and private trusts. 
 
 Each of these categories of investors have separate tax concerns that a fund sponsor must address through fund structuring or investment structuring. 
@@ -263,9 +263,7 @@ To make this election, though, the fund sponsor must ensure that any <abbr>PFIC<
 
 ## Foreign taxable investors
 
-Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As a general rule, foreign taxable investors are subject to withholding taxes on <abbr title="Fixed, Determinable, Annual or Periodic">FDAP</abbr> income from U.S. sources. They are not subject to taxes on capital gains from U.S. sources. 
-
-
+Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As a general rule, foreign taxable investors are subject to withholding taxes on <abbr title="Fixed, Determinable, Annual or Periodic">FDAP</abbr> income from U.S. sources. They are not subject to taxes on capital gains from U.S. investments. Moreover, foreign taxable investors are not taxed on income or gains from non-U.S. investments, since there is insufficient . 
 
 ### Effectively Connected Income
 
@@ -273,34 +271,44 @@ Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC
 
 #### The solution
 
-For the foreign taxable investors, there is one further disadvantage to holding all <abbr>ECI</abbr> generating investments in a single blocker corporation. Assuming that the investments are disposed of at different times, the blocker corporation will have to distribute the proceeds of that disposal by paying a dividend rather than a liquidating distribution. 
+For the foreign taxable investors, there is one further disadvantage to holding all <abbr>ECI</abbr> generating investments in a single blocker corporation. Assuming that the investments are disposed of at different times, the blocker corporation will have to distribute the proceeds of that disposal by paying a dividend rather than a liquidating distribution.
+
+### Portfolio Interest Rule
+
+The portfolio interest rule is a method by which some <abbr>FDAP</abbr> income that meets certain criteria can be exempted from the 30% withholding tax on interest income from U.S. sources. 
 
 ## Foreign tax-exempt investors
 
 There are two main categories of foreign tax-exempt investors: 
 
 * **Foreign tax-exempt charitable organizations:** Organizations that fall within the <abbr>IRC</abbr> section 501(c)(3) exemption for charitable organizations. For these organizations to claim tax-exempt status and be eligible to be exempt from withholding taxes on <abbr>FDAP</abbr> income, they must obtain either an <abbr>IRS</abbr> private letter ruling on their tax-exempt status or (more commonly) a tax opinion from reputable (in the opinion of the withholding agent) U.S. tax counsel attesting that they satisfy the criteria to claim tax-exempt status. 
-* **Foreign governments and sovereign wealth funds:** Governments and certain “controlled commercial entities”<sup><a href="#fn" id="fref"></a></sup> of foreign governments, e.g. pension funds and sovereign wealth funds owned by foreign governments. 
+* **Foreign governments and sovereign wealth funds:** Governments and certain  of foreign governments, e.g. pension funds and sovereign wealth funds owned by foreign governments. 
 
 ### Foreign tax-exempt charitable organizations
 
 Foreign tax-exempt charitable organizations are essentially treated identically to their U.S. tax-exempt counterparts once they have either an <abbr>IRS</abbr> private letter ruling on their tax-exempt status or a tax opinion attesting that they qualify for tax-exempt status. No taxes, including withholding taxes, are imposed on ordinary income (dividends, interest, rents, and royalties) and capital gains earned by these organizations. 
 
-This general rule is subject to the <abbr>UBIT</abbr> exception: a foreign tax-exempt charitable organization that invests in _U.S. investments_ that generate <abbr>UBTI</abbr> will be taxed on that income in the same manner as a U.S. tax-exempt investor. Thus, the foreign tax-exempt charitable organization will need to file a U.S. federal income tax return and pay U.S. federal income taxes, which most foreign investors (taxable and tax exempt) would prefer to avoid.
+This general rule exempting foreign tax-exempt charitable organizations from U.S. taxes is subject to the <abbr>UBIT</abbr> rules: a foreign tax-exempt charitable organization that invests in _U.S. investments_ that generate <abbr>UBTI</abbr> will be taxed on that income in the same manner as a U.S. tax-exempt investor. Thus, the foreign tax-exempt charitable organization will need to file a U.S. federal income tax return and pay U.S. federal income taxes on such <abbr>UBTI</abbr>, which most foreign investors (taxable and tax exempt) would prefer to avoid. 
 
-However, foreign private foundations (equivalent to U.S. private foundations under <abbr>IRC</abbr> section 509) are subject to a 4% excise tax on gross income from U.S. sources, other than <abbr>UBTI</abbr>, collected by way of withholding. Incongruously, this excise tax is applied even to _capital gains_ and _portfolio interest,_ which are _not_ normally taxed in the hands of other foreign taxable and tax-exempt investors. 
+However, foreign private foundations (equivalent to U.S. private foundations under <abbr>IRC</abbr> section 509) are subject to a 4% excise tax on gross income from U.S. sources, other than <abbr>UBTI</abbr>, collected by way of withholding. Incongruously, this excise tax is applied even to _capital gains_ and _[portfolio interest](#portfoliointerestrule),_ which are _not_ normally taxed in the hands of other foreign taxable and tax-exempt investors. 
 
 #### The solution
 
-For foreign tax-exempt charitable organizations, their primary concern is identical to U.S. tax-exempt investors: they wish to avoid incurring <abbr>UBIT</abbr>. As such, the same blocker corporation structures (see [Figure 3A](#fig03a), [Figure 3B](#fig03b), and [Figure 3C](#fig03c)) that work for U.S. tax-exempt investors will also work for foreign tax-exempt charitable organizations. As a general rule, a fund sponsor can arrange for U.S. tax-exempt and foreign tax-exempt charitable organizations to use the same blocker corporation, parallel fund, or <abbr>AIV</abbr>.
+For foreign tax-exempt charitable organizations, their primary concern is identical to U.S. tax-exempt investors: they wish to avoid incurring <abbr>UBIT</abbr>. As such, the same blocker corporation structures (see [Figure 3A](#fig03a), [Figure 3B](#fig03b), and [Figure 3C](#fig03c)) that work for U.S. tax-exempt investors will also work for foreign tax-exempt charitable organizations. As a general rule, a fund sponsor can arrange for U.S. tax-exempt and foreign tax-exempt charitable organizations to use the same blocker corporation, parallel fund, or <abbr>AIV</abbr>. 
+
+As I have already discussed the blocker corporation solution, I will not rehash it here.
 
 ### Foreign governments and sovereign wealth funds
 
 Ordinary income (dividends, interest, rents, and royalties) and capital gains earned by foreign governments and sovereign wealth funds are not taxed by the U.S. government. This broadly follows from the general principle of sovereign immunity, i.e. that one sovereign government does not have the power to tax another sovereign government. 
 
+This general principle is subject to some limitations, of course. 
+
 #### The solution
 
-For the most part, tax structuring for foreign governments and sovereign wealth funds is relatively similar to the tax structuring necessary for U.S. tax-exempt investors. A blocker corporation is used to block the foreign tax-exempt investors from incurring <abbr>CAI</abbr>. This blocker corporation can be interposed between the foreign tax-exempt investors and the fund (see [Figure 3A](#fig03a)), between the fund and the portfolio companies (see [Figure 3B](#fig03b)), or as a parallel investment vehicle alongside the fund (see [Figure 3C](#fig03c)). 
+For the most part, tax structuring for foreign governments and sovereign wealth funds is relatively similar to the tax structuring necessary for U.S. tax-exempt investors. As such, the same blocker corporation structures (see [Figure 3A](#fig03a), [Figure 3B](#fig03b), and [Figure 3C](#fig03c)) that work to block <abbr>UBTI</abbr> for U.S. tax-exempt investors will also work to block <abbr>CAI</abbr> for foreign governments and sovereign wealth funds. 
+
+As I have already discussed the blocker corporation solution, I will not rehash it here.
 
 ## Conclusions
 
