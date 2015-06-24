@@ -263,7 +263,13 @@ To make this election, though, the fund sponsor must ensure that any <abbr>PFIC<
 
 ## Foreign taxable investors
 
-Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As a general rule, foreign taxable investors are subject to withholding taxes on <abbr title="Fixed, Determinable, Annual or Periodic">FDAP</abbr> income from U.S. sources. They are not subject to taxes on capital gains from U.S. investments. Moreover, foreign taxable investors are not taxed on income or gains from non-U.S. investments, since there is insufficient . 
+Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As a general rule, foreign taxable investors are subject to withholding taxes on <abbr title="Fixed, Determinable, Annual or Periodic">FDAP</abbr> income from U.S. sources. They are not subject to taxes on capital gains from U.S. investments. Moreover, foreign taxable investors are not taxed on income or gains from non-U.S. investments, since there is insufficient connection with the U.S. to allow the U.S. to tax such income or gains in the hands of _foreign_ taxable investors. 
+
+The withholding tax on <abbr>FDAP</abbr> income is generally 30%, though this can be reduced by tax treaties between the U.S. and the home country of the foreign taxable investor. For example, the U.S. and Canada tax treaty provides for a lower dividend withholding tax rate of 15% if a Canadian investor holds less than 10% of the equity in the U.S. corporation or 10% if a Canadian investor incorporated as a company in Canada owns more than 10% of the equity in the U.S. corporation. Establishing bona fide tax residency for the purpose of claiming these tax treaty benefits though, can be difficult as all countries are well aware that investors may establish holding companies in countries with favorable tax treaties and will have anti-avoidance rules to preclude such “tax treaty shopping”. 
+
+Beyond the withholding tax on <abbr>FDAP</abbr> income, foreign taxable investors must also content with <abbr title="Effectively Connected Income">ECI</abbr> rules that permit the U.S. government to tax foreign taxable investors on income effectively connected with a U.S. trade or business.
+
+
 
 ### Effectively Connected Income
 
@@ -282,7 +288,7 @@ The portfolio interest rule is a method by which some <abbr>FDAP</abbr> income t
 There are two main categories of foreign tax-exempt investors: 
 
 * **Foreign tax-exempt charitable organizations:** Organizations that fall within the <abbr>IRC</abbr> section 501(c)(3) exemption for charitable organizations. For these organizations to claim tax-exempt status and be eligible to be exempt from withholding taxes on <abbr>FDAP</abbr> income, they must obtain either an <abbr>IRS</abbr> private letter ruling on their tax-exempt status or (more commonly) a tax opinion from reputable (in the opinion of the withholding agent) U.S. tax counsel attesting that they satisfy the criteria to claim tax-exempt status. 
-* **Foreign governments and sovereign wealth funds:** Governments and certain  of foreign governments, e.g. pension funds and sovereign wealth funds owned by foreign governments. 
+* **Foreign governments and sovereign wealth funds:** Governments and certain instrumentalities of foreign governments, e.g. pension funds and sovereign wealth funds owned by foreign governments. 
 
 ### Foreign tax-exempt charitable organizations
 
@@ -302,7 +308,7 @@ As I have already discussed the blocker corporation solution, I will not rehash 
 
 Ordinary income (dividends, interest, rents, and royalties) and capital gains earned by foreign governments and sovereign wealth funds are not taxed by the U.S. government. This broadly follows from the general principle of sovereign immunity, i.e. that one sovereign government does not have the power to tax another sovereign government. 
 
-This general principle is subject to some limitations, of course. 
+This general principle is subject to some limitations, of course. First, income derived by the foreign government or sovereign wealth fund from the conduct of commercial activities anywhere in the the world (known as <abbr title="Commercial Activity Income">CAI</abbr>) is not exempt from taxation. Second, income received from or proceeds from the disposition of an interest in a “controlled commercial entity” are not exempt from taxation. The <abbr>IRS</abbr> defines a “controlled commercial entity” as an entity that is engaged in commercial activities anywhere in the world where a foreign government either holds (directly or indirectly) 50% or more (by value or voting interest) in the entity or holds an interest in the entity that provides it with effective control over that entity.<sup><a href="" id=""></a></sup>
 
 #### The solution
 
