@@ -37,7 +37,9 @@ I have previously mentioned the reasons why the limited partnership is the [pref
 
 U.S. tax-exempt investors are one of the largest investors in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As their name implies, these investors are—as a general rule—not taxed on their share of a fund’s capital gains or ordinary income. The general rule is, however, subject to one significant exception: the U.S. federal government taxes the gross income of U.S. tax-exempt investors derived from commercial activities unrelated to their tax-exempt purpose, better known by its abbreviation, <abbr title="unrelated business taxable income">UBTI</abbr>. The U.S. tax-exempt investor must file a U.S. federal income tax return and pay U.S. federal income taxes (<abbr title="Unrelated Business Income Tax">UBIT</abbr>) on investments that generate <abbr>UBTI</abbr> regardless of whether the investor has received any distributions from those investments.
 
-U.S. tax-exempt investors can incur <abbr>UBIT</abbr> on investments in the U.S. and outside the U.S.; it does not matter where the 
+U.S. tax-exempt investors can incur <abbr>UBIT</abbr> on investments in the U.S. and outside the U.S.; it does not matter where the <abbr>UBTI</abbr> is generated. 
+
+Generating excessive amounts of <abbr>UBTI</abbr> can jeopardize a U.S. tax-exempt investor’s tax-exempt status, as it may no longer be viewed as primarily organized for an exempt purpose. As such, most tax-exempt investors are extremely cautious about investing in investments that generate <abbr>UBTI</abbr>.
 
 A U.S tax-exempt investor that invests in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur <abbr>UBTI</abbr> in one of three ways: 
 
@@ -263,6 +265,8 @@ To make this election, though, the fund sponsor must ensure that any <abbr>PFIC<
 
 Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As a general rule, foreign taxable investors are subject to withholding taxes on <abbr title="Fixed, Determinable, Annual or Periodic">FDAP</abbr> income from U.S. sources. They are not subject to taxes on capital gains from U.S. sources. 
 
+
+
 ### Effectively Connected Income
 
 
@@ -275,14 +279,16 @@ For the foreign taxable investors, there is one further disadvantage to holding 
 
 There are two main categories of foreign tax-exempt investors: 
 
-* **Foreign tax-exempt charitable organizations:** Organizations that fall within the <abbr>IRC</abbr> section 501(c)(3) exemption for charitable organizations. For these organizations to claim tax-exempt status and be eligible to be exempt from withholding taxes on <abbr>FDAP</abbr> income, they must obtain either an <abbr>IRS</abbr> private letter ruling or (more commonly) a tax opinion from reputable (in the opinion of the withholding agent) U.S. tax counsel attesting that they satisfy the criteria to claim tax-exempt status. 
-* **Foreign governments and sovereign wealth funds:** 
+* **Foreign tax-exempt charitable organizations:** Organizations that fall within the <abbr>IRC</abbr> section 501(c)(3) exemption for charitable organizations. For these organizations to claim tax-exempt status and be eligible to be exempt from withholding taxes on <abbr>FDAP</abbr> income, they must obtain either an <abbr>IRS</abbr> private letter ruling on their tax-exempt status or (more commonly) a tax opinion from reputable (in the opinion of the withholding agent) U.S. tax counsel attesting that they satisfy the criteria to claim tax-exempt status. 
+* **Foreign governments and sovereign wealth funds:** Governments and certain “controlled commercial entities”<sup><a href="#fn" id="fref"></a></sup> of foreign governments, e.g. pension funds and sovereign wealth funds owned by foreign governments. 
 
 ### Foreign tax-exempt charitable organizations
 
-Foreign tax-exempt charitable organizations are essentially treated identically to their U.S. tax-exempt counterparts. No taxes are imposed on capital gains or ordinary income ()
+Foreign tax-exempt charitable organizations are essentially treated identically to their U.S. tax-exempt counterparts once they have either an <abbr>IRS</abbr> private letter ruling on their tax-exempt status or a tax opinion attesting that they qualify for tax-exempt status. No taxes, including withholding taxes, are imposed on ordinary income (dividends, interest, rents, and royalties) and capital gains earned by these organizations. 
 
-Foreign private foundations (equivalent to U.S. private foundations under <abbr>IRC</abbr> section 509) are subject to a 4% excise tax on gross income from U.S. sources, other than <abbr>UBTI</abbr>, collected by way of withholding. Incongruously, this excise tax is applied even to _capital gains_ and _portfolio interest,_ which are not normally taxed in the hands of other foreign taxable and tax-exempt investors. 
+This general rule is subject to the <abbr>UBIT</abbr> exception: a foreign tax-exempt charitable organization that invests in _U.S. investments_ that generate <abbr>UBTI</abbr> will be taxed on that income in the same manner as a U.S. tax-exempt investor. Thus, the foreign tax-exempt charitable organization will need to file a U.S. federal income tax return and pay U.S. federal income taxes, which most foreign investors (taxable and tax exempt) would prefer to avoid.
+
+However, foreign private foundations (equivalent to U.S. private foundations under <abbr>IRC</abbr> section 509) are subject to a 4% excise tax on gross income from U.S. sources, other than <abbr>UBTI</abbr>, collected by way of withholding. Incongruously, this excise tax is applied even to _capital gains_ and _portfolio interest,_ which are _not_ normally taxed in the hands of other foreign taxable and tax-exempt investors. 
 
 #### The solution
 
@@ -290,7 +296,7 @@ For foreign tax-exempt charitable organizations, their primary concern is identi
 
 ### Foreign governments and sovereign wealth funds
 
-
+Ordinary income (dividends, interest, rents, and royalties) and capital gains earned by foreign governments and sovereign wealth funds are not taxed by the U.S. government. This broadly follows from the general principle of sovereign immunity, i.e. that one sovereign government does not have the power to tax another sovereign government. 
 
 #### The solution
 
@@ -330,5 +336,6 @@ Structuring a <abbr>PE</abbr>/<abbr>VC</abbr> fund that satisfies the tax struct
         <li id="fn25"><abbr>IRC</abbr> section 1248. <a href="#fref25">&#8593;</a></li>
         <li id="fn26">Defined as income from dividends, interest, royalties, rents, annuities and certain gains from transactions involving property, foreign currency, or commodities. <a href="#fref26">&#8593;</a></li>
         <li id="fn27"><abbr>IRC</abbr> section 951(c). <a href="#fref27">&#8593;</a></li>
+        <li id="fn"><abbr>IRC</abbr> section 892(a)(2)(B). <a href="#fref">&#8593;</a></li>
     </ol>
 </div>
