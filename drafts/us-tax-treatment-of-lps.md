@@ -267,21 +267,32 @@ Foreign taxable investors are another major investor in <abbr>PE</abbr>/<abbr>VC
 
 The withholding tax on <abbr>FDAP</abbr> income is generally 30%, though this can be reduced by tax treaties between the U.S. and the home country of the foreign taxable investor. For example, the U.S. and Canada tax treaty provides for a lower dividend withholding tax rate of 15% if a Canadian investor holds less than 10% of the equity in the U.S. corporation or 10% if a Canadian investor incorporated as a company in Canada owns more than 10% of the equity in the U.S. corporation. Establishing bona fide tax residency for the purpose of claiming these tax treaty benefits though, can be difficult as all countries are well aware that investors may establish holding companies in countries with favorable tax treaties and will have anti-avoidance rules to preclude such “tax treaty shopping”. 
 
-Beyond the withholding tax on <abbr>FDAP</abbr> income, foreign taxable investors must also content with <abbr title="Effectively Connected Income">ECI</abbr> rules that permit the U.S. government to tax foreign taxable investors on income effectively connected with a U.S. trade or business.
-
-
+Beyond the withholding tax on <abbr>FDAP</abbr> income, foreign taxable investors must also contend with <abbr title="Effectively Connected Income">ECI</abbr> regime that permits the U.S. government to tax foreign taxable investors on income effectively connected with a U.S. trade or business.
 
 ### Effectively Connected Income
 
+The <abbr>ECI</abbr> regime had its origin in the <cite>Foreign Investors Tax Act of 1966</cite>. The <abbr>ECI</abbr> regime provides that where a foreign taxable investor receives income effectively connected with a U.S. trade or business, it shall pay income taxes on the income received at the effective U.S. federal income tax rates for individuals or corporations (as the case may be). 
 
+Because most <abbr>PE</abbr>/<abbr>VC</abbr> funds are structured as flow-through entities, there is a risk that if the fund invests in portfolio companies that are structured as flow-through entities (e.g. <abbr>LLC</abbr>s or partnerships), the foreign taxable investors could recognize <abbr>ECI</abbr> and be required to file U.S. federal income tax returns and pay U.S. federal income taxes on that income. 
+
+Foreign taxable investors structured as foreign corporations may also face an additional tax on their <abbr>ECI</abbr>: the “branch profits tax”. This additional tax was intended to subsitute for the 30% dividend withholding tax that would otherwise apply if the foreign corporation had conducted its U.S. commercial activities through a U.S. subsidiary rather than a flow-through entity or branch. Combined with the highest marginal income tax rate of 35%, this can result in an effective tax rate on the foreign corporation of 54.5%. This tax is generally not applicable in the year in which the foreign corporation completely terminates all of its U.S. trade or business. It is also generally reduced to the same amount as dividend withholding tax by any applicable tax treaty between the U.S. and the country where the foreign corporation is incorporated. 
 
 #### The solution
 
-For the foreign taxable investors, there is one further disadvantage to holding all <abbr>ECI</abbr> generating investments in a single blocker corporation. Assuming that the investments are disposed of at different times, the blocker corporation will have to distribute the proceeds of that disposal by paying a dividend rather than a liquidating distribution.
+<abbr>ECI</abbr> shares many similar characteristics with <abbr>UBTI</abbr>: it is generated when a foreign taxable investor invests, directly or through a <abbr>PE</abbr>/<abbr>VC</abbr> fund structured as limited partnership or <abbr>LCC</abbr>, in a flow-through entity that conducts a U.S. business or trade. As such, the solution most commonly pursued by fund sponsors is to interpose a blocker corporation between the foreign taxable investors and the investment generating <abbr>ECI</abbr> (see [Figure 3A](#fig03a), [Figure 3B](#fig03b), and [Figure 3C](#fig03c)). 
+
+Because the branch profits tax is generally not applicable in the year that the foreign corporation completely terminates its U.S. trade or business, the foreign taxable investors will generally prefer to structure its investments in <abbr>ECI</abbr> generating portfolio companies through a blocker corporation that holds only one investment. This allows the blocker corporation to be liquidated at the end of the investment holding period and the proceeds distributed to the foreign taxable investors without incurring branch profits tax.
 
 ### Portfolio Interest Rule
 
-The portfolio interest rule is a method by which some <abbr>FDAP</abbr> income that meets certain criteria can be exempted from the 30% withholding tax on interest income from U.S. sources. 
+The portfolio interest rule is a method by which some <abbr>FDAP</abbr> income that meets certain criteria can be exempted from the 30% withholding tax on interest income from U.S. sources. These criteria are: 
+
+* The debt instrument must be in a registered form that cannot be transferred to U.S. persons and cannot be transferred directly between two non-U.S. persons (i.e. only through a book-entry system kept by the U.S. borrower or through the surrender of the debt instrument to the U.S. borrower and the issuance of a new debt instrument to the transferee)
+* Interest on the debt instrument cannot be determined by reference to contingent events like income, cash flow, or the value of property held by the borrower
+* The non-U.S. lender must not be a <abbr>CFC</abbr>, cannot be conducting a U.S. trade or business relating to the loan, and cannot be a bank. 
+* The non-U.S. lender cannot own more than 10% of the equity in the borrower, which, for partnerships, is calculated at the partner level rather than at the partnership level
+
+To the extend that an investment can be structured to qualify for the portfolio interest rule, it will often be advantageous for the foreign taxable investors.  
 
 ## Foreign tax-exempt investors
 
@@ -300,15 +311,17 @@ However, foreign private foundations (equivalent to U.S. private foundations und
 
 #### The solution
 
-For foreign tax-exempt charitable organizations, their primary concern is identical to U.S. tax-exempt investors: they wish to avoid incurring <abbr>UBIT</abbr>. As such, the same blocker corporation structures (see [Figure 3A](#fig03a), [Figure 3B](#fig03b), and [Figure 3C](#fig03c)) that work for U.S. tax-exempt investors will also work for foreign tax-exempt charitable organizations. As a general rule, a fund sponsor can arrange for U.S. tax-exempt and foreign tax-exempt charitable organizations to use the same blocker corporation, parallel fund, or <abbr>AIV</abbr>. 
+For foreign tax-exempt charitable organizations, their primary concern is identical to U.S. tax-exempt investors: they wish to avoid incurring <abbr>UBIT</abbr>. As such, the same blocker corporation structures (see [Figure 3A](#fig03a), [Figure 3B](#fig03b), and [Figure 3C](#fig03c)) that work for U.S. tax-exempt investors will also work for foreign tax-exempt charitable organizations. As a general rule, a fund sponsor can arrange for U.S. tax-exempt and foreign tax-exempt charitable organizations to use the same blocker corporation, parallel fund, or <abbr>AIV</abbr>, unless the <abbr>UBTI</abbr> generating portfolio investment is outside the U.S., in which case the foreign tax-exempt charitable organizations may be better off, from a tax perspective, investing directly in the portfolio investment. 
 
-As I have already discussed the blocker corporation solution, I will not rehash it here.
+As I have already discussed the blocker corporation solution, I will not rehash it here. 
 
 ### Foreign governments and sovereign wealth funds
 
 Ordinary income (dividends, interest, rents, and royalties) and capital gains earned by foreign governments and sovereign wealth funds are not taxed by the U.S. government. This broadly follows from the general principle of sovereign immunity, i.e. that one sovereign government does not have the power to tax another sovereign government. 
 
-This general principle is subject to some limitations, of course. First, income derived by the foreign government or sovereign wealth fund from the conduct of commercial activities anywhere in the the world (known as <abbr title="Commercial Activity Income">CAI</abbr>) is not exempt from taxation. Second, income received from or proceeds from the disposition of an interest in a “controlled commercial entity” are not exempt from taxation. The <abbr>IRS</abbr> defines a “controlled commercial entity” as an entity that is engaged in commercial activities anywhere in the world where a foreign government either holds (directly or indirectly) 50% or more (by value or voting interest) in the entity or holds an interest in the entity that provides it with effective control over that entity.<sup><a href="" id=""></a></sup>
+This general principle is subject to some limitations, of course. First, income derived by the foreign government or sovereign wealth fund from the conduct of commercial activities anywhere in the the world (known as <abbr title="Commercial Activity Income">CAI</abbr>) is not exempt from taxation. Second, income received from or proceeds from the disposition of an interest in a “controlled commercial entity” are not exempt from taxation. The <abbr>IRS</abbr> defines a “controlled commercial entity” as an entity that is engaged in commercial activities anywhere in the world where a foreign government either holds (directly or indirectly) 50% or more (by value or voting interest) in the entity or holds an interest in the entity that provides it with effective control over that entity.<sup><a href="#fn28" id="fref28">28</a></sup> 
+
+As a result of the former, foreign governments and sovereign wealth funds will be concerned to avoid investing (directly or indirectly) in flow-through entities that could seriously affect its tax status in the U.S. 
 
 #### The solution
 
@@ -318,7 +331,7 @@ As I have already discussed the blocker corporation solution, I will not rehash 
 
 ## Conclusions
 
-Structuring a <abbr>PE</abbr>/<abbr>VC</abbr> fund that satisfies the tax structuring needs of the four major categories of investors for U.S. federal income tax purposes is by no means a simple task. 
+Structuring a <abbr>PE</abbr>/<abbr>VC</abbr> fund that satisfies the tax structuring needs of the four major categories of investors for U.S. federal income tax purposes is by no means a simple task. Looking at all of the materials above, we can see that a fund sponsor will inevitably end up balancing a number of competing considerations. The structuring of each fund is, therefore, a  bespoke process, involving considerations of the investment strategy and investor base that the fund sponsor expects to have in the fund.
 
 <div class="footnotes">
     <hr class="w-50" />
@@ -350,6 +363,6 @@ Structuring a <abbr>PE</abbr>/<abbr>VC</abbr> fund that satisfies the tax struct
         <li id="fn25"><abbr>IRC</abbr> section 1248. <a href="#fref25">&#8593;</a></li>
         <li id="fn26">Defined as income from dividends, interest, royalties, rents, annuities and certain gains from transactions involving property, foreign currency, or commodities. <a href="#fref26">&#8593;</a></li>
         <li id="fn27"><abbr>IRC</abbr> section 951(c). <a href="#fref27">&#8593;</a></li>
-        <li id="fn"><abbr>IRC</abbr> section 892(a)(2)(B). <a href="#fref">&#8593;</a></li>
+        <li id="fn28"><abbr>IRC</abbr> section 892(a)(2)(B). <a href="#fref28">&#8593;</a></li>
     </ol>
 </div>
