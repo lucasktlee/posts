@@ -98,7 +98,7 @@ The consequence of tax laws deeming debt-financed income to be <abbr>UBTI</abbr>
 
 Many <abbr>PE</abbr> fund sponsors charge various transaction, break-up, advisory, or monitoring fees to their portfolio companies.<sup><a href="#fn15" id="fref15">15</a></sup> Such fees are paid from the assets of the portfolio companies and thereby reduce the returns to limited partners, and as such limited partners will try to compel the fund sponsor to share all or part of these fees with them. 
 
-It is possible, though, that the receipt of these fees by the fund could result in the <abbr>IRS</abbr> taking the view that the fund is not an investment partnership, but is carrying on an active business of providing advice or monitoring portfolio companies. This is especially the case for advisory and monitoring fees which involve a fee for services rendered by the general partner of the <abbr>PE</abbr> fund; transaction fees and break-up fees are arguably less likely to be so characterized as they are not in the nature of income.<sup><a href="#fn16" id="fref16">16</a></sup> In any event, it is a non-trivial risk for U.S. tax-exempt investors. 
+It is possible, though, that the receipt of these fees by the fund could result in the <abbr>IRS</abbr> taking the view that the fund is not an investment partnership, but is carrying on an active business of providing advice or monitoring portfolio companies. This is especially the case for advisory and monitoring fees which involve a fee for services rendered by the general partner of the <abbr>PE</abbr> fund; transaction fees and break-up fees are arguably less likely to be so characterized as they are not in the nature of income.<sup><a href="#fn16" id="fref16">16</a></sup> In any event, it is a non-trivial risk for U.S. tax-exempt investors and one that will often be negotiated before the U.S. tax-exempt investors make an investment in the fund. 
 
 ## U.S. taxable investors
 
@@ -135,13 +135,34 @@ To understand the <abbr>CFC</abbr> regime, I must set out the definitions of thr
 
 There are a number of attribution rules and constructive ownership rules that allow the <abbr>IRS</abbr> to aggregate the shareholdings of certain related individuals to determine whether a U.S. person should be classified as a [U.S. shareholder](#usshareholder). A U.S. citizen or resident’s shareholding will be aggregated with the shareholdings of his or her parents, spouse, children (including by adoption), or grandchildren (including by adoption), because it is presumed that these people will share a common interest and purpose in deferring taxes. The constructive ownership rules<sup><a href="#fn18" id="fref18">18</a></sup> also provide that if a U.S. person indirectly owns stock in a foreign corporation, _A,_ through a foreign holding company, partnership, estate or trust, that U.S. person will be deemed to hold a stake in _A_ proportionate to its share in the foreign holding company, paratnership, estate or trust.
 
-If a foreign corporation is a <abbr>CFC</abbr> for an uninterrupted period of 30 days during the taxable year,<sup><a href="#fn19" id="fref19">19</a></sup> the U.S. taxable investors will owe U.S. federal income taxes on [Subpart F income](#subpartf) earned by the <abbr>CFC</abbr>, regardless of whether the <abbr>CFC</abbr> has made any distributions of such Subpart F income. 
+If a foreign corporation is a <abbr>CFC</abbr> for an uninterrupted period of 30 days during the taxable year,<sup><a href="#fn19" id="fref19">19</a></sup> the U.S. taxable investors face a number of consequences: 
 
-For the most part, U.S. taxable investors in a <abbr>PE</abbr>/<abbr>VC</abbr> fund will find that 
+1. The U.S. taxable investors will owe U.S. federal income taxes on [Subpart F income](#subpartf) earned by the <abbr>CFC</abbr>, regardless of whether the <abbr>CFC</abbr> has made any distributions of such Subpart F income to these investors. 
+2. The Subpart F income attributed to a U.S. taxable investor will be taxed as ordinary income rather than the lower rates that typically apply to dividends and capital gains.
+3. When the fund disposes of its interest in the <abbr>CFC</abbr>, an amount of the capital gains equal to the accumulated earnings of the <abbr>CFC</abbr> during the holding period of the fund will be treated as a dividend and taxed as such rather than as capital gains.
+
+As one might imagine, paying U.S. federal income taxes at a marginal rate of 39.6% rather than 20% has quite an impact on the returns that a U.S. taxable investor will obtain from an investment in a <abbr>PE</abbr>/<abbr>VC</abbr> fund. Avoiding <abbr>CFC</abbr> status and the receipt of Subpart F income are therefore goals that most U.S. taxable investors will pursue when negotiating the terms of their investment in the fund.
+
+For the most part, U.S. taxable investors in a <abbr>PE</abbr>/<abbr>VC</abbr> fund will find that a portfolio investment that is deemed to be a <abbr>CFC</abbr> can generate Subpart F income in the following ways: 
+
+* Acquiring U.S. real or personal property—stock in U.S. corporations, debt obligations of U.S. persons, real estate, mineral rights, or intellectual property—with undistributed earnings 
+* Transactions between a <abbr>CFC</abbr> and its related corporations (e.g. subsidiaries, affiliates, or parents)
+* Dividends or interest paid by a related corporation to a <abbr>CFC</abbr> 
+* Passive income earned by a <abbr>CFC</abbr> from investing its retained earnings 
+
+For the avoidance of doubt, the income of a <abbr>CFC</abbr> from a trade or business conducted outside the U.S. and not done with related parties is _not_ Subpart F income. For example, if a company in the UK manufactures leather shoes and sells them to independent retailers who then sell these to customers in the UK, the earnings from this investment will not be Subpart F income and will not be subject to U.S. federal income tax in the hands of the U.S. taxable investors until it is repatriated to the U.S.
 
 ### Passive Foreign Investment Companies 
 
-The 
+If a fund sponsor, through some clever structuring, manages to avoid its foreign portfolio investments being classified as <abbr>CFC</abbr>s, it will still have to contend with another headache generated by the U.S. <abbr>IRC</abbr>: the passive foreign investment company (<abbr title="Passive Foreign Investment Company">PFIC</abbr>) regime. The rationale for the <abbr>PFIC</abbr> regime, which was enacted by Congress in 1986, was to reduce the incentive for U.S. investors to make investments in foreign investment funds.<sup><a href="#fn20" id="fref20">20</a></sup> By way of background, most U.S. mutual funds must distribute substantially all of its income and gains annually to its investors in order to comply with the provisions of <abbr>IRC</abbr> Subchapter M, which treats a mutual fund as a flow-through entity if it distributes substantially all of its income and gains annually to its investors.
+
+What is a <abbr>PFIC</abbr>? It is a foreign corporation where either 75% or more of its gross income for the year is passive income (the **“income test”**) or 50% or more of its assets produce passive income or are held for the purpose of producing passive income (the **“asset test”**).<sup><a href="#fn21" id="fref21">21</a></sup> 
+
+Where a foreign corporation falls within the definition of both the <abbr>CFC</abbr> and <abbr>PFIC</abbr> regimes, the <abbr>CFC</abbr> regime will apply. Because a U.S. taxable investor in such a foreign corporation is currently taxed on its Subpart F income per the <abbr>CFC</abbr> regime, there is no need for the <abbr>PFIC</abbr> regime; the anti-deferral objective is accomplished  
+
+## Foreign taxable investors 
+
+
 
 ## Foreign tax-exempt investors
 
@@ -197,5 +218,7 @@ As mentioned in my survey of the key principles of the [<abbr>CFC</abbr> regime]
         <li id="fn17">Defined by <abbr>IRC</abbr> section 7701(a)(30) as: a U.S. citizen or resident, a U.S. partnership, corporation, or a trust subject to the primary supervision of a court in the U.S. or where the decision-making authority of the trust is held by a U.S. person. <a href="#fref17">&#8593;</a></li>
         <li id="fn18"><abbr>IRC</abbr> sections 318, 958(b). <a href="#fref18">&#8593;</a></li>
         <li id="fn19"><abbr>IRC</abbr> section 951. <a href="#fref19">&#8593;</a></li>
+        <li id="fn20">Based on the reports prepared by the House Ways and Means Committee in connection with the legislation. <a href="#fref20">&#8593;</a></li>
+        <li id="fn21">Defined as income from dividends, interest, royalties, rents, annuities and certain gains from transactions involving property, foreign currency, or commodities. By way of connecting this with the <abbr>CFC</abbr> regime, passive income for a <abbr>PFIC</abbr> is largely the same as foreign personal holding company income under Subpart F. <a href="#fref21">&#8593;</a></li>
     </ol>
 </div> 
