@@ -230,7 +230,16 @@ Loan commitment fees earned from originating loans is expressly excluded from <a
 
 ## Foreign tax-exempt investors
 
+There are two main categories of foreign tax-exempt investors: 
 
+* **Foreign tax-exempt charitable organizations:** Organizations that fall within the <abbr>IRC</abbr> section 501(c)(3) exemption for charitable organizations. For these organizations to claim tax-exempt status and be eligible to be exempt from withholding taxes on <abbr>FDAP</abbr> income, they must obtain either an <abbr>IRS</abbr> private letter ruling on their tax-exempt status or (more commonly) a tax opinion from reputable (in the opinion of the withholding agent) U.S. tax counsel attesting that they satisfy the criteria to claim tax-exempt status. 
+* **Foreign governments and sovereign wealth funds:** Governments and certain instrumentalities of foreign governments, e.g. pension funds and sovereign wealth funds owned by foreign governments. 
+
+### Foreign tax-exempt charitable organizations
+
+Foreign tax-exempt charitable organizations are essentially treated identically to their U.S. tax-exempt counterparts once they have either an <abbr>IRS</abbr> private letter ruling on their tax-exempt status or a tax opinion attesting that they qualify for tax-exempt status.
+
+### Foreign governments and sovereign wealth funds
 
 ## Tax structuring solutions
 
