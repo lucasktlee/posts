@@ -158,7 +158,7 @@ If a fund sponsor, through some clever structuring, manages to avoid its foreign
 
 By way of background, most U.S. mutual funds must distribute substantially all of their income and gains annually to their investors in order to comply with the provisions of <abbr>IRC</abbr> Subchapter M, which treats a mutual fund as a flow-through entity if it distributes substantially all of its income and gains annually to its investors. As such, Congress perceived a disparity between the position of U.S. taxable investors in U.S. mutual funds, who are taxed annually on their share of the income and gains from their investments in these U.S. funds, and the position of U.S. taxable investors in foreign mutual funds, who—but for the <abbr>PFIC</abbr> regime—would be permitted to defer paying taxes on the income and gains from these foreign funds until such time as the fund makes a distribution to them. (This would typically have had the effect of permitting investors in foreign mutual funds to pay the lower long-term capital gains rates on such distributions.)
 
-What is a <abbr>PFIC</abbr>? It is a foreign corporation where either 75% or more of its gross income for the year is passive income (the **“income test”**) or 50% or more of its assets produce passive income or are held for the purpose of producing passive income (the **“asset test”**).<sup><a href="#fn21" id="fref21">21</a></sup> 
+What is a <abbr>PFIC</abbr>? It is a foreign corporation where either 75% or more of its gross income for the year is passive income (the **“income test”**) or 50% or more of its assets produce passive income or are held for the purpose of producing passive income (the **“asset test”**).<sup><a href="#fn21" id="fref21">21</a></sup> A foreign corporation that is treated as a <abbr>PFIC</abbr> for any year included in the holding period of a U.S. taxable investor will be treated as a <abbr>PFIC</abbr> with respect to that U.S. taxable investor for all subsequent years, i.e. “Once a <abbr>PFIC</abbr>, always a <abbr>PIFC</abbr>”.
 
 When a U.S. taxable investor invested in a <abbr>PFIC</abbr> and receives distributions or sells its interest in the <abbr>PFIC</abbr>, it is subject to the following tax treatment:
 
@@ -193,6 +193,12 @@ When a U.S. taxable investor invested in a <abbr>PFIC</abbr> and receives distri
 As we can see, the overall impact of the <abbr>PFIC</abbr> regime is to convert what might otherwise have been capital gains from disposing of an interest in a <abbr>PFIC</abbr> into ordinary income taxed at the highest marginal income tax rate _and_ with an interest penalty, and tax “excess” distributions at the same punitive rate. Not exactly something guaranteed to endear the <abbr>IRS</abbr> to U.S. taxable investors.
 
 For a <abbr>VC</abbr> fund investing in foreign startups, there is a risk that these foreign portfolio investments could be classified as <abbr>PFIC</abbr>s, because during the first few years of a startup’s operations, it may only have passive income in the form of interest on a working capital bank account. 
+
+To alleviate this risk, the <abbr>IRS</abbr> has implemented a startup exception to the <abbr>PFIC</abbr> regime, which exempts a startup that meets all of the following criteria from being treated as a <abbr>PFIC</abbr>:
+
+* No predecessor corporation of the startup was a <abbr>PFIC</abbr>
+* The startup can establish to the satisfaction of the <abbr>IRS</abbr> that it will not be a <abbr>PFIC</abbr> in either of the two years following the startup year 
+* The startup is _in fact_ not a <abbr>PFIC</abbr> in either of the two years following the startup year
 
 Where a foreign corporation falls within the definition of both the <abbr>CFC</abbr> and <abbr>PFIC</abbr> regimes, the <abbr>CFC</abbr> regime will apply. Because a U.S. taxable investor in such a foreign corporation is currently taxed on its Subpart F income per the <abbr>CFC</abbr> regime, there is no need for the <abbr>PFIC</abbr> regime; the anti-deferral objective is accomplished through the <abbr>CFC</abbr> regime. 
 
