@@ -206,9 +206,15 @@ Where a foreign corporation falls within the definition of both the <abbr>CFC</a
 
 ## Foreign taxable investors 
 
-Foreign taxable investors, including foreign private pension plans, corporations, and <abbr>HNWI</abbr>s, are another major category of investors in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As such, it is often necessary for fund sponsors to structure their investments to take into account the unique requirements of such investors, which include minimizing income effectively connected with a U.S. trade or business, minimizing income and gains subject to the provisions of the <cite>Foreign Investment in Real Property Tax Act of 1980</cite>, and—to the extent possible—permitting the foreign taxable investor to make use of applicable tax treaties between the foreign taxable investor’s country of tax residence and the U.S. 
+Foreign taxable investors, including foreign private pension plans, corporations, and <abbr>HNWI</abbr>s, are another major category of investors in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As such, it is often necessary for fund sponsors to structure their investments to take into account the unique requirements of such investors, which include minimizing income effectively connected with a U.S. trade or business, minimizing income and gains subject to the provisions of the <cite>Foreign Investment in Real Property Tax Act of 1980</cite>, and—to the extent possible—permitting the foreign taxable investor to make use of applicable tax treaties between the foreign taxable investor’s country of tax residence and the U.S. to reduce withholding taxes on U.S. investment income.
 
+Foreign taxable investors are not typically taxed on capital gains from the U.S. portfolio investments of U.S. <abbr>PE</abbr>/<abbr>VC</abbr> funds. They are, however, subject to withholding taxes on certain forms of passive income—called <abbr title="Fixed, Determinable, Annual or Periodic">FDAP</abbr> income—from U.S. investments. <abbr>FDAP</abbr> income include dividends, interest, rents, royalties, and annuities. As of June 2015, the withholding tax rate on <abbr>FDAP</abbr> income is 30%, unless reduced by an applicable tax treaty<sup><a href="#fn22" id="fref22">22</a></sup> or by the [portfolio interest rule](#portfoliointerestrule).
 
+The generally favorable U.S. treatment of foreign taxable investors is, however, subject to one very significant exception, the tax on income effectively connected with a U.S. trade or business (<abbr title="Effectively Connected Income">ECI</abbr>). 
+
+### Income effectively connected with a U.S. trade or business
+
+A foreign taxable investor will receive <abbr>ECI</abbr> if 
 
 ## Foreign tax-exempt investors
 
@@ -216,7 +222,7 @@ Foreign taxable investors, including foreign private pension plans, corporations
 
 ## Tax structuring solutions
 
-Now that we have an understanding of the different concerns that investors in a <abbr>PE</abbr>/<abbr>VC</abbr> fund face, it is time to turn to the question of providing solutions to these concerns. For reasons of brevity and to consolidate similar solutions, I have divide the solutions into three major categories:
+Now that we have an understanding of the different concerns that investors in a <abbr>PE</abbr>/<abbr>VC</abbr> fund face, it is time to turn to the question of providing solutions to these concerns. For reasons of brevity and to consolidate similar solutions, I have divide the solutions into four major categories:
 
 * 
 * 
@@ -242,6 +248,12 @@ As mentioned in my survey of the key principles of the [<abbr>CFC</abbr> regime]
 
 ### Solutions for <abbr>PFIC</abbr>
 
+
+
+### Solutions for minimizing withholding taxes on <abbr>FDAP</abbr> income
+
+
+
 <div class="footnotes">
     <hr class="w-50" />
     <ol>
@@ -266,5 +278,6 @@ As mentioned in my survey of the key principles of the [<abbr>CFC</abbr> regime]
         <li id="fn19"><abbr>IRC</abbr> section 951. <a href="#fref19">&#8593;</a></li>
         <li id="fn20">Based on the reports prepared by the House Ways and Means Committee in connection with the legislation. <a href="#fref20">&#8593;</a></li>
         <li id="fn21">Defined as income from dividends, interest, royalties, rents, annuities and certain gains from transactions involving property, foreign currency, or commodities. By way of connecting this with the <abbr>CFC</abbr> regime, passive income for a <abbr>PFIC</abbr> is largely the same as foreign personal holding company income under Subpart F. <a href="#fref21">&#8593;</a></li>
+        <li id="fn22">As of June 2015, the U.S. has tax treaties with 68 countries. <a href="#fref22">&#8593;</a></li>
     </ol>
 </div> 
