@@ -214,7 +214,14 @@ The generally favorable U.S. treatment of foreign taxable investors is, however,
 
 ### Income effectively connected with a U.S. trade or business
 
-A foreign taxable investor will receive <abbr>ECI</abbr> if 
+A foreign taxable investor will be required to file U.S. federal, state and municipal income tax returns and be subject to U.S. federal, state, and municipal income taxes if it receives income effectively connected with a U.S. trade or business. 
+
+A foreign taxable investor in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur U.S. federal and state income taxes on <abbr>ECI</abbr> in one of two ways:
+
+1. Investing in a flow-through entity that conducts a U.S. trade or business
+2. Transaction fees and advisory fees earned by the <abbr>PE</abbr>/<abbr>VC</abbr> fund from its operations
+
+An astute reader will of course notice that these two methods of incurring taxes on <abbr>ECI</abbr> are remarkably similar to the way that U.S. tax-exempt investors can incur <abbr>UBIT</abbr>. 
 
 ## Foreign tax-exempt investors
 
