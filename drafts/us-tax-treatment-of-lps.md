@@ -200,9 +200,13 @@ To alleviate this risk, the <abbr>IRS</abbr> has implemented a startup exception
 * The startup can establish to the satisfaction of the <abbr>IRS</abbr> that it will not be a <abbr>PFIC</abbr> in either of the two years following the startup year 
 * The startup is _in fact_ not a <abbr>PFIC</abbr> in either of the two years following the startup year
 
+Because a startup that is classified as a <abbr>PFIC</abbr> in its first year of operations will forever be a <abbr>PFIC</abbr> for U.S. taxable investors that invested in its first year, it is essential that fund sponsors take due care to ensure that the foreign startup is able to rely on the startup exception when investing in foreign startups. 
+
 Where a foreign corporation falls within the definition of both the <abbr>CFC</abbr> and <abbr>PFIC</abbr> regimes, the <abbr>CFC</abbr> regime will apply. Because a U.S. taxable investor in such a foreign corporation is currently taxed on its Subpart F income per the <abbr>CFC</abbr> regime, there is no need for the <abbr>PFIC</abbr> regime; the anti-deferral objective is accomplished through the <abbr>CFC</abbr> regime. 
 
 ## Foreign taxable investors 
+
+Foreign taxable investors, including foreign private pension plans, corporations, and <abbr>HNWI</abbr>s, are another major category of investors in <abbr>PE</abbr>/<abbr>VC</abbr> funds. As such, it is often necessary for fund sponsors to structure their investments to take into account the unique requirements of such investors, which include minimizing income effectively connected with a U.S. trade or business, minimizing income and gains subject to the provisions of the <cite>Foreign Investment in Real Property Tax Act of 1980</cite>, and—to the extent possible—permitting the foreign taxable investor to make use of applicable tax treaties between the foreign taxable investor’s country of tax residence and the U.S. 
 
 
 
