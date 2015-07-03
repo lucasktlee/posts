@@ -247,19 +247,26 @@ Foreign tax-exempt charitable organizations do differ from their U.S. counterpar
 
 #### Foreign private foundations 
 
-Foreign private foundations, which are equivalent to U.S. private foundations under <abbr>IRC</abbr> section 509, are subject to an additional 4% excise tax on gross income from U.S. sources, other than income that is treated as <abbr>UBTI</abbr>. This excise tax is to be withheld by the U.S. paying agent. Incongruously, this excise tax applies even to _capital gains_ and _portfolio interest income,_ which are not taxed for foreign taxable investors or foreign tax-exempt charitable organizations.
+Foreign private foundations, which are equivalent to U.S. private foundations under <abbr>IRC</abbr> section 509, are subject to an additional 4% excise tax on gross income from U.S. sources, other than income that is treated as <abbr>UBTI</abbr>. This excise tax is to be withheld by the U.S. paying agent. Incongruously, this excise tax applies even to _capital gains<sup><a href="#fn24" id="fref24">24</a></sup>_ and _portfolio interest income,_ which are not taxed for foreign taxable investors or foreign tax-exempt charitable organizations.
 
 ### Foreign governments and sovereign wealth funds
 
-The 
+The U.S. follows the generally accepted public international law doctrine of sovereign immunity: one sovereign government does not have the power to tax another sovereign government. This has been codified into law by way of provisions in the <abbr>IRC</abbr>, primarily section 892 and the regulations made pursuant to this section.
+
+By default, even without the provisions of <abbr>IRC</abbr> section 892, foreign sovereigns would be treated as foreign corporations and be entitled to exemption from taxes on U.S. sourced capital gains. They would also be subject to the 30% withholding tax on <abbr>FDAP</abbr> income. 
+
+<abbr>IRC</abbr> section 892 takes this one step further, exempting foreign governments and their controlled entities (i.e. wholly-owned sovereign wealth funds) from U.S. federal income taxes on investment income<sup><a href="#fn25" id="fref25">25</a></sup>. This essentially eliminates the 30% withholding tax on <abbr>FDAP</abbr> income for foreign governments and their controlled entities.
+
+That being said, to maintain their exemption from U.S. federal income taxes, foreign governments and their controlled entities must not engage in commercial activities anywhere in the world,<sup><a href="#fn26" id="fref26">26</a></sup> i.e. it must have no commercial activity income (<abbr title="Commercial Activity Income">CAI</abbr>) whatsoever. 
 
 ## Tax structuring solutions
 
 Now that we have an understanding of the different concerns that investors in a <abbr>PE</abbr>/<abbr>VC</abbr> fund face, it is time to turn to the question of providing solutions to these concerns. For reasons of brevity and to consolidate similar solutions, I have divide the solutions into four major categories:
 
-* 
-* 
-* 
+* Solutions for <abbr>UBTI</abbr>, <abbr>ECI</abbr>, and <abbr>CAI</abbr>
+* Solutions for <abbr>CFC</abbr>s
+* Solutions for <abbr>PFIC</abbr>s
+* Solutions for withholding taxes on <abbr>FDAP</abbr> income
 
 ### Solutions for <abbr>UBTI</abbr>, <abbr>ECI</abbr>, and <abbr>CAI</abbr>
 
@@ -269,11 +276,11 @@ Now that we have an understanding of the different concerns that investors in a 
 
 #### Income from debt-financed investments 
 
-A 
+
 
 #### Transaction fees and advisory fees
 
-
+U.S. tax-exempt investors, foreign tax-exempt charitable organizations, and foreign taxable investors have a vested interest in ensuring that the _fund_ does not earn advisory fees from advising its portfolio investments, in order to minimize the risk of incurring <abbr>UBIT</abbr> or taxes on <abbr>ECI</abbr>.
 
 ### Solutions for <abbr>CFC</abbr>
 
@@ -313,5 +320,8 @@ As mentioned in my survey of the key principles of the [<abbr>CFC</abbr> regime]
         <li id="fn21">Defined as income from dividends, interest, royalties, rents, annuities and certain gains from transactions involving property, foreign currency, or commodities. By way of connecting this with the <abbr>CFC</abbr> regime, passive income for a <abbr>PFIC</abbr> is largely the same as foreign personal holding company income under Subpart F. <a href="#fref21">&#8593;</a></li>
         <li id="fn22">As of June 2015, the U.S. has tax treaties with 68 countries. <a href="#fref22">&#8593;</a></li>
         <li id="fn23">Note that obtaining a private letter ruling or tax opinion can be costly, but given the size of most limited partner investments in <abbr>PE</abbr>/<abbr>VC</abbr> funds, this is not likely to be large relative to the investment and the potential tax savings. What may deter some foreign tax-exempt organizations may be the requirement to file an annual U.S. federal income tax return under <abbr>IRC</abbr> section 6033(a). <a href="#fref23">&#8593;</a></li>
+        <li id="fn24">Since the rules for determining the source of capital gains on the sale of securities will typically allocate it to the <em>residence of the recipient</em>, in practice it will be fairly rare for the excise tax on capital gains to apply. <a href="#fref24">&#8593;</a></li>
+        <li id="fn25">Per section 892(a)(1)(A), this includes income from stocks, bonds, and other domestic securities, plus under the relevant 2011 Treasury Regulations, any other financial instruments like options, futures, swaps and other derivatives. <a href="#fref25">&#8593;</a></li>
+        <li id="fn26"><abbr>IRC</abbr> section 892(a)(2) <a href="#fref26">&#8593;</a></li>
     </ol>
 </div> 
