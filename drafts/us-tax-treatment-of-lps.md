@@ -253,11 +253,17 @@ Foreign private foundations, which are equivalent to U.S. private foundations un
 
 The U.S. follows the generally accepted public international law doctrine of sovereign immunity: one sovereign government does not have the power to tax another sovereign government. This has been codified into law by way of provisions in the <abbr>IRC</abbr>, primarily section 892 and the regulations made pursuant to this section.
 
-By default, even without the provisions of <abbr>IRC</abbr> section 892, foreign sovereigns would be treated as foreign corporations and be entitled to exemption from taxes on U.S. sourced capital gains. They would also be subject to the 30% withholding tax on <abbr>FDAP</abbr> income. 
+By default, foreign sovereigns are be treated as foreign corporations<sup><a href="#fn25" id="fref25">25</a></sup> and be entitled to exemption from taxes on U.S. sourced capital gains. They would also be subject to the 30% withholding tax on <abbr>FDAP</abbr> income. 
 
-<abbr>IRC</abbr> section 892 takes this one step further, exempting foreign governments and their controlled entities (i.e. wholly-owned sovereign wealth funds) from U.S. federal income taxes on investment income<sup><a href="#fn25" id="fref25">25</a></sup>. This essentially eliminates the 30% withholding tax on <abbr>FDAP</abbr> income for foreign governments and their controlled entities.
+<abbr>IRC</abbr> section 892 takes this one step further, exempting foreign governments and their controlled entities (i.e. wholly-owned sovereign wealth funds) from U.S. federal income taxes on investment income<sup><a href="#fn26" id="fref26">26</a></sup>. This essentially eliminates the 30% withholding tax on <abbr>FDAP</abbr> income for foreign governments and their controlled entities.
 
-That being said, to maintain their exemption from U.S. federal income taxes, foreign governments and their controlled entities must not engage in commercial activities anywhere in the world,<sup><a href="#fn26" id="fref26">26</a></sup> i.e. it must have no commercial activity income (<abbr title="Commercial Activity Income">CAI</abbr>) whatsoever. 
+That being said, to maintain their exemption from U.S. federal income taxes, foreign governments and their controlled entities must not engage in commercial activities anywhere in the world,<sup><a href="#fn27" id="fref27">27</a></sup> i.e. it must have no commercial activity income (<abbr title="Commercial Activity Income">CAI</abbr>) whatsoever. Because of the way that <abbr>IRC</abbr> section 892 is drafted, if a foreign government or sovereign wealth fund earns any <abbr>CAI</abbr>, all its income, even investment income that would otherwise be exempt from taxes under <abbr>IRC</abbr> section 892, will be “tainted” and subject to U.S. federal income tax. 
+
+A foreign government or sovereign wealth fund can generate <abbr>CAI</abbr> from:
+
+* Conducting commercial activities directly<sup><a href="#fn28" id="fref28">28</a></sup> 
+* Holding—directly or indirectly—more than 50% of the total interest (by value or by voting rights) in an entity that conducts commercial activities
+* Holding—directly or indirectly—a interest that grants the foreign government or sovereign wealth fund control of an entity that conducts commercial activities
 
 ## Tax structuring solutions
 
@@ -321,7 +327,9 @@ As mentioned in my survey of the key principles of the [<abbr>CFC</abbr> regime]
         <li id="fn22">As of June 2015, the U.S. has tax treaties with 68 countries. <a href="#fref22">&#8593;</a></li>
         <li id="fn23">Note that obtaining a private letter ruling or tax opinion can be costly, but given the size of most limited partner investments in <abbr>PE</abbr>/<abbr>VC</abbr> funds, this is not likely to be large relative to the investment and the potential tax savings. What may deter some foreign tax-exempt organizations may be the requirement to file an annual U.S. federal income tax return under <abbr>IRC</abbr> section 6033(a). <a href="#fref23">&#8593;</a></li>
         <li id="fn24">Since the rules for determining the source of capital gains on the sale of securities will typically allocate it to the <em>residence of the recipient</em>, in practice it will be fairly rare for the excise tax on capital gains to apply. <a href="#fref24">&#8593;</a></li>
-        <li id="fn25">Per section 892(a)(1)(A), this includes income from stocks, bonds, and other domestic securities, plus under the relevant 2011 Treasury Regulations, any other financial instruments like options, futures, swaps and other derivatives. <a href="#fref25">&#8593;</a></li>
-        <li id="fn26"><abbr>IRC</abbr> section 892(a)(2) <a href="#fref26">&#8593;</a></li>
+        <li id="fn25"><abbr>IRC</abbr> section 892(a)(3). <a href="#fref25">&#8593;</a></li>
+        <li id="fn26">Per section 892(a)(1)(A), this includes income from stocks, bonds, and other domestic securities, plus under the relevant 2011 Treasury Regulations, any other financial instruments like options, futures, swaps and other derivatives. <a href="#fref26">&#8593;</a></li>
+        <li id="fn27"><abbr>IRC</abbr> section 892(a)(2) <a href="#fref27">&#8593;</a></li>
+        <li id="fn28">Treasury Regulations define this broadly as any activity that is conducted with a view towards the current or future production of income or gain, but excludes investing or trading in securities. <a href="#fref28">&#8593;</a></li>
     </ol>
 </div> 
