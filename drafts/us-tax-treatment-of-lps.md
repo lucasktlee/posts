@@ -296,7 +296,9 @@ Now that we have an understanding of the different concerns that investors in a 
 
 U.S. tax-exempt investors, foreign tax-exempt charitable organizations, and foreign taxable investors have a vested interest in ensuring that the _fund_ does not earn advisory fees from advising its portfolio investments, in order to minimize the risk of incurring <abbr>UBIT</abbr> or taxes on <abbr>ECI</abbr> or <abbr>CAI</abbr>. 
 
+The longstanding practice of <abbr>PE</abbr> fund sponsors is to arrange for any transaction, break-up, advisory, or monitoring fees to be paid to the general partner or investment adviser of the fund. The general partner or investment adviser then credits some or all of the fees it receives to reduce the _next period’s_ management fee. If there is any excess of fees received over the management fee payable by the limited partners, this excess will typically be carried forward to be applied against future management fees. 
 
+Since the fees are earned by the general partner or investment adviser, the fund is not engaged in the business of providing advice to its portfolio investments, and therefore is not engaged in a trade or business that could trigger <abbr>UBIT</abbr> or taxes on <abbr>ECI</abbr> or <abbr>CAI</abbr>.
 
 ### Solutions for <abbr>CFC</abbr>
 
