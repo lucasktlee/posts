@@ -316,9 +316,21 @@ To calculate its pro rata share of ordinary income and capital gains attributabl
 
 ### Solutions for minimizing withholding taxes on <abbr>FDAP</abbr> income
 
+
+
 #### Portfolio interest
 
+While interest income is typically <abbr>FDAP</abbr> income and subject to a 30% withholding tax, there is a way for foreign taxable investors to reduce the withholding tax due on certain forms of interest income to 0% by using the “portfolio interest rule”. 
 
+The portfolio interest rule applies to interest income where all of the following conditions are satisfied: 
+
+* The debt instrument to which the interest income relates is in a registered form
+* The debt instrument to which the interest income cannot be transferred to U.S. persons or transferred directly between two non-U.S. persons 
+* The interest on the debt instrument cannot be determined by reference to contingent events such as income, cash flow, or the value of property held by the borrower
+* The foreign lender is not a <abbr>CFC</abbr>, is not a bank, and is not conducting a U.S. trade or business 
+* The foreign lender holds less than 10% of the equity of the borrower (after giving effect to the attribution rules and constructive ownership rules in the <abbr>IRC</abbr>) <sup><a href="#fn31" id="fref31">31</a></sup> 
+
+Unless there are countervailing considerations, a shrewd fund sponsor will typically structure its investments such that foreign taxable investors can use the portfolio interest rule to reduce the amount of taxes paid on at least some part of its investment in a U.S. portfolio investment. This can be done by structuring part of the investment in the U.S. portfolio investment to be in the form of interest-bearing debt lent to an intermediate holding company, which reduces the taxable income of this company and minimizes the withholding tax on interest paid to the foreign taxable investors.
 
 #### Tax Treaties
 
@@ -357,5 +369,6 @@ To calculate its pro rata share of ordinary income and capital gains attributabl
         <li id="fn28">Treasury Regulations define this broadly as any activity that is conducted with a view towards the current or future production of income or gain, but excludes investing or trading in securities. <a href="#fref28">&#8593;</a></li>
         <li id="fn29"><abbr>IRC</abbr> section 892(a)(2)(B)(i) <a href="#fref29">&#8593;</a></li>
         <li id="fn30"><abbr>IRC</abbr> section 892(a)(2)(B)(ii) <a href="#fref30">&#8593;</a></li>
+        <li id="fn31">If the foreign taxable investor lends money through a <abbr>PE</abbr>/<abbr>VC</abbr> fund organized as a partnership, the <abbr>IRS</abbr> will determine the 10% equity holding limit based on the proportion of the equity in the borrower that each partner in the partnership owns, rather than the amount that the partnership owns. <a href="#fref31">&#8593;</a></li>
     </ol>
 </div> 
