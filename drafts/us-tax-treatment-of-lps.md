@@ -232,14 +232,24 @@ Loan commitment fees earned from originating loans is expressly excluded from <a
 
 There are two main categories of foreign tax-exempt investors: 
 
-* **Foreign tax-exempt charitable organizations:** Organizations that fall within the <abbr>IRC</abbr> section 501(c)(3) exemption for charitable organizations. For these organizations to claim tax-exempt status and be eligible to be exempt from withholding taxes on <abbr>FDAP</abbr> income, they must obtain either an <abbr>IRS</abbr> private letter ruling on their tax-exempt status or (more commonly) a tax opinion from reputable (in the opinion of the withholding agent) U.S. tax counsel attesting that they satisfy the criteria to claim tax-exempt status. 
+* **Foreign tax-exempt charitable organizations:** Organizations that fall within the <abbr>IRC</abbr> section 501(c)(3) exemption for charitable organizations. For these organizations to claim tax-exempt status and be eligible to be exempt from withholding taxes on <abbr>FDAP</abbr> income, they must obtain either an <abbr>IRS</abbr> private letter ruling on their tax-exempt status or (more commonly) a tax opinion from reputable (in the opinion of the withholding agent) U.S. tax counsel attesting that they satisfy the criteria to claim tax-exempt status.<sup><a href="#fn23" id="fref23">23</a></sup>
 * **Foreign governments and sovereign wealth funds:** Governments and certain instrumentalities of foreign governments, e.g. pension funds and sovereign wealth funds owned by foreign governments. 
 
 ### Foreign tax-exempt charitable organizations
 
-Foreign tax-exempt charitable organizations are essentially treated identically to their U.S. tax-exempt counterparts once they have either an <abbr>IRS</abbr> private letter ruling on their tax-exempt status or a tax opinion attesting that they qualify for tax-exempt status.
+Foreign tax-exempt charitable organizations are essentially treated identically to their U.S. tax-exempt counterparts once they have either an <abbr>IRS</abbr> private letter ruling on their tax-exempt status or a tax opinion attesting that they qualify for tax-exempt status. Unlike foreign taxable investors, which are subject to a 30% withholding tax on <abbr>FDAP</abbr> income, foreign tax-exempt charitable organizations are not subject to tax on <abbr>FDAP</abbr> income once their tax-exempt status has been confirmed. 
+
+The one sticking point for foreign tax-exempt charitable organizations is that they, like their U.S. tax-exempt counterparts, are subject to tax on <abbr>UBTI</abbr> generated from their investments in <abbr>PE</abbr>/<abbr>VC</abbr> funds. Like their U.S. counterparts, they can incur <abbr>UBIT</abbr> from portfolio investments in a flow-through entity that conducts a trade or business, portfolio investments financed by acquisition indebtedness, or through the transaction fees and advisory fees received by the fund from portfolio investments. 
+
+As I have discussed each of these three situations in the context of U.S. tax-exempt investors, I will not repeat myself here.
+
+Foreign tax-exempt charitable organizations do differ from their U.S. counterparts in one crucial way, though.  
+
+#### 
 
 ### Foreign governments and sovereign wealth funds
+
+The 
 
 ## Tax structuring solutions
 
@@ -300,5 +310,6 @@ As mentioned in my survey of the key principles of the [<abbr>CFC</abbr> regime]
         <li id="fn20">Based on the reports prepared by the House Ways and Means Committee in connection with the legislation. <a href="#fref20">&#8593;</a></li>
         <li id="fn21">Defined as income from dividends, interest, royalties, rents, annuities and certain gains from transactions involving property, foreign currency, or commodities. By way of connecting this with the <abbr>CFC</abbr> regime, passive income for a <abbr>PFIC</abbr> is largely the same as foreign personal holding company income under Subpart F. <a href="#fref21">&#8593;</a></li>
         <li id="fn22">As of June 2015, the U.S. has tax treaties with 68 countries. <a href="#fref22">&#8593;</a></li>
+        <li id="fn23">Note that obtaining a private letter ruling or tax opinion can be costly, but given the size of most limited partner investments in <abbr>PE</abbr>/<abbr>VC</abbr> funds, this is not likely to be large relative to the investment and the potential tax savings. What may deter some foreign tax-exempt organizations may be the requirement to file an annual U.S. federal income tax return under <abbr>IRC</abbr> section 6033(a). <a href="#fref23">&#8593;</a></li>
     </ol>
 </div> 
