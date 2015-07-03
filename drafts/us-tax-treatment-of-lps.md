@@ -316,6 +316,12 @@ To calculate its pro rata share of ordinary income and capital gains attributabl
 
 ### Solutions for minimizing withholding taxes on <abbr>FDAP</abbr> income
 
+#### Portfolio interest
+
+
+
+#### Tax Treaties
+
 
 
 <div class="footnotes">
