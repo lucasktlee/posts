@@ -257,13 +257,19 @@ By default, foreign sovereigns are be treated as foreign corporations<sup><a hre
 
 <abbr>IRC</abbr> section 892 takes this one step further, exempting foreign governments and their controlled entities (i.e. wholly-owned sovereign wealth funds) from U.S. federal income taxes on investment income<sup><a href="#fn26" id="fref26">26</a></sup>. This essentially eliminates the 30% withholding tax on <abbr>FDAP</abbr> income for foreign governments and their controlled entities.
 
-That being said, to maintain their exemption from U.S. federal income taxes, foreign governments and their controlled entities must not engage in commercial activities anywhere in the world,<sup><a href="#fn27" id="fref27">27</a></sup> i.e. it must have no commercial activity income (<abbr title="Commercial Activity Income">CAI</abbr>) whatsoever. Because of the way that <abbr>IRC</abbr> section 892 is drafted, if a foreign government or sovereign wealth fund earns any <abbr>CAI</abbr>, all its income, even investment income that would otherwise be exempt from taxes under <abbr>IRC</abbr> section 892, will be “tainted” and subject to U.S. federal income tax. 
+That being said, to maintain their exemption from U.S. federal income taxes, foreign governments and their controlled entities must not engage in commercial activities anywhere in the world,<sup><a href="#fn27" id="fref27">27</a></sup> i.e. it must have no commercial activity income (<abbr title="Commercial Activity Income">CAI</abbr>) whatsoever. Because of the way that <abbr>IRC</abbr> section 892 is drafted (particularly the distinction drawn by the U.S. between an “integral part” of a foreign government and a “controlled entity”), if a foreign sovereign wealth fund earns any <abbr>CAI</abbr>, all its income, even investment income that would otherwise be exempt from taxes under <abbr>IRC</abbr> section 892, will be “tainted” and subject to U.S. federal income tax. 
 
 A foreign government or sovereign wealth fund can generate <abbr>CAI</abbr> from:
 
 * Conducting commercial activities directly<sup><a href="#fn28" id="fref28">28</a></sup> 
-* Holding—directly or indirectly—more than 50% of the total interest (by value or by voting rights) in an entity that conducts commercial activities
-* Holding—directly or indirectly—a interest that grants the foreign government or sovereign wealth fund control of an entity that conducts commercial activities
+* Holding—directly or indirectly—more than 50% of the total interest (by value or by voting rights) in an entity that conducts commercial activities<sup><a href="#fn29" id="fref29">29</a></sup> 
+* Holding—directly or indirectly—a interest that grants the foreign government or sovereign wealth fund control of an entity that conducts commercial activities<sup><a href="#fn30" id="fref30">30</a></sup>
+
+For a sovereign wealth fund invested in a <abbr>PE</abbr>/<abbr>VC</abbr> fund, prior to the 2011 Treasury Regulations, it was possible that the investment in the fund might give rise to <abbr>CAI</abbr>, because the commercial activities of a partnership would be attributed to its general partner and limited partners. If any of the activities of the fund any where in the world constituted commercial activities, it would result in the sovereign wealth fund being treated as having commercial activities and being a controlled commercial entity that cannot rely on the <abbr>IRC</abbr> section 892 exemption. This position was, to be blunt, extremely draconian, and resulted in a _lot_ of extra work for tax and fund structuring attorneys to ensure that the investment structure used by the sovereign wealth fund would ring-fence each potential <abbr>CAI</abbr> generating investment. 
+
+Since 2011, this position has been relaxed slightly by the “limited partner exception”. A sovereign wealth fund that is not otherwise engaged in commercial activities will not be treated as engaged in commercial activities solely because it holds an interest as a limited partner in a fund, provided that the sovereign wealth fund does not hold 50% or more of the interest in the fund (which would be _extremely_ unusual for any limited partner). Instead, the sovereign wealth fund would lose its <abbr>IRC</abbr> section 892 exemption from taxes _only_ on its _pro rata share_ of the income derived from commercial activities. 
+
+Nevertheless, it is still essential for most fund sponsors to carefully consider the fund structure if they intend to raise capital from sovereign wealth funds and governmental pension plans. 
 
 ## Tax structuring solutions
 
@@ -276,6 +282,8 @@ Now that we have an understanding of the different concerns that investors in a 
 
 ### Solutions for <abbr>UBTI</abbr>, <abbr>ECI</abbr>, and <abbr>CAI</abbr>
 
+
+
 #### Income from trade or business 
 
 
@@ -286,13 +294,17 @@ Now that we have an understanding of the different concerns that investors in a 
 
 #### Transaction fees and advisory fees
 
-U.S. tax-exempt investors, foreign tax-exempt charitable organizations, and foreign taxable investors have a vested interest in ensuring that the _fund_ does not earn advisory fees from advising its portfolio investments, in order to minimize the risk of incurring <abbr>UBIT</abbr> or taxes on <abbr>ECI</abbr>.
+U.S. tax-exempt investors, foreign tax-exempt charitable organizations, and foreign taxable investors have a vested interest in ensuring that the _fund_ does not earn advisory fees from advising its portfolio investments, in order to minimize the risk of incurring <abbr>UBIT</abbr> or taxes on <abbr>ECI</abbr> or <abbr>CAI</abbr>. 
+
+
 
 ### Solutions for <abbr>CFC</abbr>
 
 As mentioned in my survey of the key principles of the [<abbr>CFC</abbr> regime](#controlledforeigncorporations), the <abbr>CFC</abbr> regime applies when a U.S. person owns more than 50% of the voting rights of a foreign corporation or 50% of the total value of the stock of the foreign corporation. 
 
 ### Solutions for <abbr>PFIC</abbr>
+
+Recall that once a foreign corporation is treated as a <abbr>PFIC</abbr> with respect to a U.S. taxable investor, it retains that characteristic for as long as that investor holds an interest in the foreign corporation. To avoid the incredibly punitive <abbr>PFIC</abbr> tax regime, a U.S. taxable investor can either make a qualified electing fund election (<abbr title="Qualified Electing Fund">QEF</abbr>) or a mark-to-market election. For most U.S. taxable investors in <abbr>PE</abbr>/<abbr>VC</abbr> funds (and hedge funds that trade in illiquid securities), the <abbr>QEF</abbr> election is the only real option. 
 
 
 
@@ -331,5 +343,7 @@ As mentioned in my survey of the key principles of the [<abbr>CFC</abbr> regime]
         <li id="fn26">Per section 892(a)(1)(A), this includes income from stocks, bonds, and other domestic securities, plus under the relevant 2011 Treasury Regulations, any other financial instruments like options, futures, swaps and other derivatives. <a href="#fref26">&#8593;</a></li>
         <li id="fn27"><abbr>IRC</abbr> section 892(a)(2) <a href="#fref27">&#8593;</a></li>
         <li id="fn28">Treasury Regulations define this broadly as any activity that is conducted with a view towards the current or future production of income or gain, but excludes investing or trading in securities. <a href="#fref28">&#8593;</a></li>
+        <li id="fn29"><abbr>IRC</abbr> section 892(a)(2)(B)(i) <a href="#fref29">&#8593;</a></li>
+        <li id="fn30"><abbr>IRC</abbr> section 892(a)(2)(B)(ii) <a href="#fref30">&#8593;</a></li>
     </ol>
 </div> 
