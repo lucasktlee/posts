@@ -27,7 +27,7 @@ Fourth, we should understand how a fund is typically structured, in the absence 
 A typical, plain-vanilla <abbr>PE</abbr>/<abbr>VC</abbr> fund will be structured as a limited partnership (as shown in [Figure 1](#fig01)):
 
 <figure class="border l" id="fig01">
-    <img alt="" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/20150622-fig01-s.png 344w, http://media.lucasktlee.com/files/img/20150622-fig01-m.png 512w, http://media.lucasktlee.com/files/img/20150622-fig01-s-@2x.png 688w, http://media.lucasktlee.com/files/img/20150622-fig01-l.png 704w, http://media.lucasktlee.com/files/img/20150622-fig01-m-@2x.png 1024w, http://media.lucasktlee.com/files/img/20150622-fig01-l-@2x.png 1408w" src="http://media.lucasktlee.com/files/img/20150622-fig01-s.png" />
+    <img alt="Typical PE/VC fund structure" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/20150622-fig01-s.png 344w, http://media.lucasktlee.com/files/img/20150622-fig01-m.png 512w, http://media.lucasktlee.com/files/img/20150622-fig01-s-@2x.png 688w, http://media.lucasktlee.com/files/img/20150622-fig01-l.png 704w, http://media.lucasktlee.com/files/img/20150622-fig01-m-@2x.png 1024w, http://media.lucasktlee.com/files/img/20150622-fig01-l-@2x.png 1408w" src="http://media.lucasktlee.com/files/img/20150622-fig01-s.png" />
     <figcaption><span>Figure 1:</span> Typical <abbr>PE</abbr>/<abbr>VC</abbr> fund structure</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ As a result of this concern, in 1954 Congress imposed a tax on <abbr>UBTI</abbr>
 The most obvious way in which a U.S. tax-exempt investor in a <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur <abbr>UBTI</abbr> is when the fund invests in a portfolio company that has been incorporated or organized as a flow-through entity (a partnership or <abbr>LLC</abbr>) for U.S. federal income tax purposes. The income earned by such a portfolio company is characterized as income from an active business, and retains that characterization in the hands of the <abbr>PE</abbr>/<abbr>VC</abbr> fund. If the fund is itself a flow-through entity—most funds are—then the limited partners of the fund will each receive a proportionate share of this income, which continues to retain its characterization as income from an active business. In the hands of a U.S. tax-exempt investor, this active income would result in the U.S. tax-exempt investor incurring <abbr>UBTI</abbr>.
 
 <figure class="border m" id="fig02">
-    <img alt="" size="34.4rem, (min-width: 37.5625rem) 51.2rem" srcset="http://media.lucasktlee.com/files/img/20150622-fig02-s.png 344w, http://media.lucasktlee.com/files/img/20150622-fig02-m.png 512w, http://media.lucasktlee.com/files/img/20150622-fig02-s-@2x.png 688w, http://media.lucasktlee.com/files/img/20150622-fig02-m-@2x.png 1024w" src="http://media.lucasktlee.com/files/img/20150622-fig02-s.png" />
+    <img alt="Incurring UBIT from an active business organized as a partnership or LLC" size="34.4rem, (min-width: 37.5625rem) 51.2rem" srcset="http://media.lucasktlee.com/files/img/20150622-fig02-s.png 344w, http://media.lucasktlee.com/files/img/20150622-fig02-m.png 512w, http://media.lucasktlee.com/files/img/20150622-fig02-s-@2x.png 688w, http://media.lucasktlee.com/files/img/20150622-fig02-m-@2x.png 1024w" src="http://media.lucasktlee.com/files/img/20150622-fig02-s.png" />
     <figcaption><span>Figure 2:</span> Incurring <abbr>UBIT</abbr> from an active business organized as a partnership or <abbr>LLC</abbr></figcaption>
 </figure>
 
@@ -282,15 +282,29 @@ Now that we have an understanding of the different concerns that investors in a 
 
 ### Solutions for <abbr>UBTI</abbr>, <abbr>ECI</abbr>, and <abbr>CAI</abbr>
 
-
+The solution for U.S. and foreign tax-exempt charitable organizations concerned with taxes on <abbr>UBTI</abbr>, foreign taxable investors concerned with U.S. federal income taxes on <abbr>ECI</abbr>, and foreign governments and sovereign wealth funds worried about generating <abbr>CAI</abbr> share certain similarities. As a general rule, some form of blocker corporation that is not treated as a flow-through entity for U.S. federal income tax purposes will be interposed between these investors and the investment that might otherwise generate <abbr>UBTI</abbr>, <abbr>ECI</abbr>, or <abbr>CAI</abbr>.
 
 #### Income from trade or business 
 
-
+A blocker corporation can be interposed between the fund and the portfolio investments that generate <abbr>UBTI</abbr>, <abbr>ECI</abbr>, or <abbr>CAI</abbr> in one of several ways. 
 
 #### Income from debt-financed investments 
 
+A <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur <abbr>UBTI</abbr> from [debt-financed investments](#incomefromdebtfinancedinvestments) if the fund either borrows money under a subscription credit facility or guarantees the borrowings to acquire or improve a portfolio investment, and the lender extends credit based on the creditworthiness of the fund rather than the borrower.
 
+Where the fund borrows money under a subscription credit facility in order to bridge the gap between the time an investment in a portfolio company closes and the time the fund receives capital called from its limited partners, it may be possible to avoid having the <abbr>IRS</abbr> characterize distributions from the portfolio company as <abbr>UBTI</abbr> by ensuring that the following conditions are met:
+
+* The indebtedness that would have given rise to <abbr>UBTI</abbr> was repaid more than one year prior to the disposal of the debt-financed investment
+* The debt-financed investment made no distributions of income during the year that the investment was disposed of<sup><a href="#fn" id="fref"></a></sup>
+
+As a general rule, this approach is preferable where the majority of the gains from the portfolio investment is likely to be in the form of capital gains, and the indebtedness is short-term under a subscription credit facility that will be repaid at least a year before the portfolio investment is disposed of. 
+
+Alternatively, the fund may use a subsidiary blocker corporation formed in a tax haven jurisdiction to borrow money under a subscription credit facility, with the borrowings being secured by “cascading” pledges of the uncalled capital commitments of the limited partners in the fund (see [Figure 4](#fig04)). (In a cascading pledge scenario, the fund secures its capital commitment to the subsidiary blocker corporation by pledging the unfunded capital commitments of its limited partners. The subsidiary blocker corporation in turn pledges these unfunded capital commitments to the lender to secure its obligations under the subscription credit facility.)
+
+<figure class="border m" id="fig04">
+    <img alt="A blocker corporation used to block UBTI from a subscription credit facility" size="34.4rem, (min-width: 37.5625rem) 51.2rem" srcset="http://media.lucasktlee.com/files/img/20150622-fig04-s.png 344w, http://media.lucasktlee.com/files/img/20150622-fig04-m.png 512w, http://media.lucasktlee.com/files/img/20150622-fig04-s-@2x.png 688w, http://media.lucasktlee.com/files/img/20150622-fig04-m-@2x.png 1024w" src="http://media.lucasktlee.com/files/img/20150622-fig04-s.png" />
+    <figcaption><span>Figure 4:</span> A blocker corporation used to block <abbr>UBTI</abbr> from a subscription credit facility</figcaption>
+</figure> 
 
 #### Transaction fees and advisory fees
 
@@ -321,7 +335,7 @@ To make this more concrete, consider the following two examples, as shown in [Ta
         <tr>
             <th>Jurisdiction and form <br/>of general partner</th>
             <td>Delaware Limited Liability Company</td>
-            <td>Cayman Islands Limited Partnership<sup><a href="" id=""></a></sup></td>
+            <td>Cayman Islands Limited Partnership<sup><a href="#fn" id="fref"></a></sup></td>
         </tr>
         <tr>
             <th>Foreign portfolio <br/>investment</th>
@@ -434,6 +448,7 @@ As of June 2015, the U.S. has [tax treaties with 68 countries](http://www.irs.go
         <li id="fn29"><abbr>IRC</abbr> section 892(a)(2)(B)(i) <a href="#fref29">&#8593;</a></li>
         <li id="fn30"><abbr>IRC</abbr> section 892(a)(2)(B)(ii) <a href="#fref30">&#8593;</a></li>
         <li id="fn31">If the foreign taxable investor lends money through a <abbr>PE</abbr>/<abbr>VC</abbr> fund organized as a partnership, the <abbr>IRS</abbr> will determine the 10% equity holding limit based on the proportion of the equity in the borrower that each partner in the partnership owns, rather than the amount that the partnership owns. <a href="#fref31">&#8593;</a></li>
-        <li id="">The rationale for using a limited partnership structure is to enable flow-through of capital gains and ordinary income to the investment professionals of the fund sponsor while maintaining limited liability protection. <a href="">&#8593;</a></li>
+        <li id="fn">Any income distributed during the year that the investment was disposed of will be <abbr>UBTI</abbr> and incur U.S. federal income taxes on based on the average amount of acquisition indebtedness during that year. <a href="#fref">&#8593;</a></li>
+        <li id="fn">The rationale for using a limited partnership structure is to enable flow-through of capital gains and ordinary income to the investment professionals of the fund sponsor while maintaining limited liability protection. <a href="#fref">&#8593;</a></li>
     </ol>
 </div> 
