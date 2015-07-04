@@ -87,7 +87,7 @@ The <abbr>IRC</abbr> defines “acquisition indebtedness” as the unpaid amount
 
 A U.S. tax-exempt investor will include as <abbr>UBTI</abbr> the percentage of the income that is equal to the percentage of the acquisition cost of the investment that is financed by acquisition indebtedness.<sup><a href="#fn13" id="fref13">13</a></sup> (This is, of course, a simplification. A more fuller treatment of this calculation is beyond the scope of this survey.)
 
-There are two primary ways in which a <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur debt-financed <abbr>UBTI</abbr>:
+There are two principal ways in which a <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur debt-financed <abbr>UBTI</abbr>:
 
 * **Subscription credit facility:** It is increasingly common<sup><a href="#fn14" id="fref14">14</a></sup> for fund sponsors to arrange for a subscription credit facility to provide to allow it to fund portfolio investments pending receipt of proceeds from capital calls.
 * **Fund guarantees borrowings to acquire or improve portfolio investment and credit extended based on financial strength of fund:** A fund may be treated as having borrowed amounts used to acquire or improve a portfolio investment if the lender extended credit on the strength of the fund’s guarantee of the loan rather than the financial strength of the portfolio investment that borrowed the money. This is comparatively rare: in most <abbr title="leveraged buyout">LBO</abbr>s the lender extends credit on the strength of the <abbr>LBO</abbr> target’s assets and cash flows.
@@ -282,11 +282,19 @@ Now that we have an understanding of the different concerns that investors in a 
 
 ### Solutions for <abbr>UBTI</abbr>, <abbr>ECI</abbr>, and <abbr>CAI</abbr>
 
-The solution for U.S. and foreign tax-exempt charitable organizations concerned with taxes on <abbr>UBTI</abbr>, foreign taxable investors concerned with U.S. federal income taxes on <abbr>ECI</abbr>, and foreign governments and sovereign wealth funds worried about generating <abbr>CAI</abbr> share certain similarities. As a general rule, some form of blocker corporation that is not treated as a flow-through entity for U.S. federal income tax purposes will be interposed between these investors and the investment that might otherwise generate <abbr>UBTI</abbr>, <abbr>ECI</abbr>, or <abbr>CAI</abbr>.
+The solution for U.S. and foreign tax-exempt charitable organizations concerned with taxes on <abbr>UBTI</abbr>, foreign taxable investors concerned with U.S. federal income taxes on <abbr>ECI</abbr>, and foreign governments and sovereign wealth funds worried about generating <abbr>CAI</abbr> share certain similarities. As a general rule, some form of blocker corporation that is not treated as a flow-through entity for U.S. federal income tax purposes will be interposed between these investors and the investment that might otherwise generate <abbr>UBTI</abbr>, <abbr>ECI</abbr>, or <abbr>CAI</abbr>. 
 
 #### Income from trade or business 
 
-A blocker corporation can be interposed between the fund and the portfolio investments that generate <abbr>UBTI</abbr>, <abbr>ECI</abbr>, or <abbr>CAI</abbr> in one of several ways. 
+A blocker corporation can be interposed between the fund and the portfolio investments that generate <abbr>UBTI</abbr>, <abbr>ECI</abbr>, or <abbr>CAI</abbr> in one of three principal ways: 
+
+* The fund sponsor can interpose a blocker corporation between the fund and the U.S. tax-exempt investors, foreign tax-exempt investors, and foreign taxable investors, i.e. a “feeder fund” structure
+* The fund sponsor can interpose a blocker corporation between the portfolio investments and the fund, i.e. a “subsidiary blocker” structure
+* The fund sponsor can establish a blocker corporation to invest alongside the fund, and allocate the capital commitments of the U.S. tax-exempt investors, foreign tax-exempt investors, and foreign taxable investors (as necessary) to the blocker corporation, i.e. a “parallel fund” or “alternative investment vehicle” structure
+
+This blocker corporation is taxed as a corporation. As such, when it receives income that would be <abbr>UBTI</abbr> or <abbr>ECI</abbr>, it pays U.S. federal income taxes on the income. This has the effect of “cleansing” the otherwise <abbr>UBTI</abbr> or <abbr>ECI</abbr> ”tainted” income from the portfolio investment, since when the blocker corporation pays a dividend to the investors, that dividend is not income from a trade of business but rather is simply a dividend paid from retained earnings for which corporate taxes have already been paid. 
+
+
 
 #### Income from debt-financed investments 
 
@@ -412,7 +420,7 @@ As of June 2015, the U.S. has [tax treaties with 68 countries](http://www.irs.go
 
 ## Conclusion
 
-
+Structuring a <abbr>PE</abbr>/<abbr>VC</abbr> fund that satisfies the tax structuring needs of the diverse U.S. and foreign investors that form the typical <abbr>PE</abbr>/<abbr>VC</abbr> limited partner base is not an easy task. 
 
 <div class="footnotes">
     <hr class="w-50" />
