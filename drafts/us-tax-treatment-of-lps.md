@@ -304,6 +304,8 @@ Since the fees are earned by the general partner or investment adviser, the fund
 
 As mentioned in my survey of the key principles of the [<abbr>CFC</abbr> regime](#controlledforeigncorporations), the <abbr>CFC</abbr> regime applies when a U.S. person owns more than 50% of the voting rights of a foreign corporation or 50% of the total value of the stock of the foreign corporation. 
 
+
+
 ### Solutions for <abbr>PFIC</abbr>
 
 Recall that once a foreign corporation is treated as a <abbr>PFIC</abbr> with respect to a U.S. taxable investor, it retains that characteristic for as long as that investor holds an interest in the foreign corporation. To avoid the incredibly punitive <abbr>PFIC</abbr> tax regime, a U.S. taxable investor can either make a qualified electing fund election (<abbr title="Qualified Electing Fund">QEF</abbr>) or a mark-to-market election. For most U.S. taxable investors in <abbr>PE</abbr>/<abbr>VC</abbr> funds (and hedge funds that trade in illiquid securities), the <abbr>QEF</abbr> election is the only real option, since marking to market would require there to be a regularly traded market for such securities. 
@@ -316,7 +318,10 @@ To calculate its pro rata share of ordinary income and capital gains attributabl
 
 ### Solutions for minimizing withholding taxes on <abbr>FDAP</abbr> income
 
+There are two principal methods used by foreign taxable investors to minimize withholding taxes on <abbr>FDAP</abbr> income: 
 
+* The portfolio interest exemption
+* Tax treaties between the foreign taxable investor’s country of residence and the U.S.
 
 #### Portfolio interest
 
@@ -330,9 +335,13 @@ The portfolio interest rule applies to interest income where all of the followin
 * The foreign lender is not a <abbr>CFC</abbr>, is not a bank, and is not conducting a U.S. trade or business 
 * The foreign lender holds less than 10% of the equity of the borrower (after giving effect to the attribution rules and constructive ownership rules in the <abbr>IRC</abbr>) <sup><a href="#fn31" id="fref31">31</a></sup> 
 
-Unless there are countervailing considerations, a shrewd fund sponsor will typically structure its investments such that foreign taxable investors can use the portfolio interest rule to reduce the amount of taxes paid on at least some part of its investment in a U.S. portfolio investment. This can be done by structuring part of the investment in the U.S. portfolio investment to be in the form of interest-bearing debt lent to an intermediate holding company, which reduces the taxable income of this company and minimizes the withholding tax on interest paid to the foreign taxable investors.
+Unless there are countervailing considerations, a shrewd fund sponsor will typically structure its investments such that foreign taxable investors can use the portfolio interest rule to reduce the amount of taxes paid on at least some part of its investment in a U.S. portfolio investment. This can be done by structuring part of the investment in the U.S. portfolio investment to be in the form of interest-bearing debt lent to an intermediate holding company, which reduces the taxable income of this company and minimizes the withholding tax on interest paid to the foreign taxable investors. This structuring will often involve balancing thin capitalization considerations, especially in light of the <abbr>IRS</abbr>’s interest in ensuring that intercompany debt is not used in an abusive manner.
 
 #### Tax Treaties
+
+As of June 2015, the U.S. has [tax treaties with 68 countries](http://www.irs.gov/Businesses/International-Businesses/United-States-Income-Tax-Treaties---A-to-Z). These treaties frequently reduce the applicable withholding tax on dividends to 10 – 25%, while the withholding tax on interest is reduced to 0 – 17.5%. As such, to the extent that a foreign taxable investor is resident in a tax treaty jurisdiction, and provided that the U.S. portfolio investment will not generate <abbr>ECI</abbr> or be subject to the <abbr>FIRPTA</abbr> rules for real property holding companies, the foreign taxable investor will likely find it preferable for the fund to invest directly in the U.S. portfolio investment, such that the foreign taxable investor can make use of the preferential tax treaty rate for dividends and interest, while also relying on the general exemption of foreign investors from long-term capital gains taxes on the disposal of a U.S. investment. 
+
+## Conclusion
 
 
 
