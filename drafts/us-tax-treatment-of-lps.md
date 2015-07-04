@@ -304,11 +304,66 @@ Since the fees are earned by the general partner or investment adviser, the fund
 
 As mentioned in my survey of the key principles of the [<abbr>CFC</abbr> regime](#controlledforeigncorporations), the <abbr>CFC</abbr> regime applies when a U.S. person owns more than 50% of the voting rights of a foreign corporation or 50% of the total value of the stock of the foreign corporation. 
 
+Per the definition of a U.S. person under the <abbr>IRC</abbr>, a partnership organized in the U.S. will be treated as a single U.S. person for the purpose of determining if a foreign corporation is a <abbr>CFC</abbr>. Assuming that the <abbr>PE</abbr>/<abbr>VC</abbr> fund is organized as a limited partnership in a U.S. state, it will be treated as one U.S. person. For many <abbr>PE</abbr> funds that engage in a buyout strategy, this will result in the fund’s foreign portfolio investments being treated as a <abbr>CFC</abbr>, since the fund will hold a majority interest in the foreign corporation. 
 
+However, if the fund is organized as a limited partnership in a foreign jurisdiction such as the Cayman Islands, the UK, or the Chanel Islands, under the <abbr>CFC</abbr> rules the fund is not a U.S. person. Instead, the <abbr>CFC</abbr> rules would require the <abbr>IRS</abbr> to determine whether each partner in the fund separately is a U.S. person for the purpose of testing whether a foreign corporation is a <abbr>CFC</abbr>. 
+
+To make this more concrete, consider the following two examples, as shown in [Table 2](#table02):
+
+<div class="responsive-wrapper">
+    <table class="striped" id="table02"> 
+        <caption><span>Table 2:</span> Comparing U.S. and foreign jurisdictions for <abbr>CFC</abbr> rules</caption>
+        <tr>
+            <th>Jurisdiction and form <br/>of fund</th>
+            <td>Delaware Limited Partnership</td>
+            <td>Cayman Islands Limited Partnership </td>
+        </tr>
+        <tr>
+            <th>Jurisdiction and form <br/>of general partner</th>
+            <td>Delaware Limited Liability Company</td>
+            <td>Cayman Islands Limited Partnership<sup><a href="" id=""></a></sup></td>
+        </tr>
+        <tr>
+            <th>Foreign portfolio <br/>investment</th>
+            <td colspan="2">90% of the shares in Singapore intermediate holding company, which holds 100% of the shares in an Indian operating company, with the remaining 10% of the shares in the Singapore intermediate holding company held by Indian citizens resident in India</td>
+        </tr>
+        <tr>
+            <th>Composition of <br/>limited partners <br/>in the fund</th>
+            <td colspan="2">
+                <ul>
+                    <li><strong>Foreign and U.S. tax-exempt limited partners:</strong> 6</li>
+                    <li><strong>U.S. taxable limited partners:</strong> 4</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <th>Is the fund a <br/>U.S. person</th>
+            <td>Yes</td>
+            <td>No</td>
+        </tr>
+        <tr>
+            <th>Percentage of foreign <br/>portfolio investment <br/>held by U.S. persons</th>
+            <td>90% held by fund</td>
+            <td>36% in aggregate held by 4 U.S. taxable limited partners (each holds 9%)</td>
+        </tr>
+        <tr>
+            <th>Percentage of foreign <br/>portfolio investment <br/>held by <a href="#usshareholder">U.S. shareholders</a></th>
+            <td>90%</td>
+            <td>0%</td>
+        </tr>
+        <tr>
+            <th>Is the Singapore <br/>intermediate holding <br/>company a <a href="#controlledforeigncorporation"><abbr>CFC</abbr></a></th>
+            <td>Yes</td>
+            <td>No</td>
+        </tr>
+    </table>
+</div>
+
+As such, if a fund sponsor expects to invest in foreign portfolio investments, and expects to include U.S. taxable investors among the limited partners of the fund, the fund sponsor often structure the fund as an “offshore” fund in a suitable jurisdiction like the Cayman Islands or the UK to minimize the risk of its foreign portfolio investments being deemed to be <abbr>CFC</abbr>s.
 
 ### Solutions for <abbr>PFIC</abbr>
 
-Recall that once a foreign corporation is treated as a <abbr>PFIC</abbr> with respect to a U.S. taxable investor, it retains that characteristic for as long as that investor holds an interest in the foreign corporation. To avoid the incredibly punitive <abbr>PFIC</abbr> tax regime, a U.S. taxable investor can either make a qualified electing fund election (<abbr title="Qualified Electing Fund">QEF</abbr>) or a mark-to-market election. For most U.S. taxable investors in <abbr>PE</abbr>/<abbr>VC</abbr> funds (and hedge funds that trade in illiquid securities), the <abbr>QEF</abbr> election is the only real option, since marking to market would require there to be a regularly traded market for such securities. 
+Recall that once a foreign corporation is treated as a [<abbr>PFIC</abbr>](#passiveforeigninvestmentcompanies) with respect to a U.S. taxable investor, it retains that characteristic for as long as that investor holds an interest in the foreign corporation. To avoid the incredibly punitive <abbr>PFIC</abbr> tax regime, a U.S. taxable investor can either make a qualified electing fund election (<abbr title="Qualified Electing Fund">QEF</abbr>) or a mark-to-market election. For most U.S. taxable investors in <abbr>PE</abbr>/<abbr>VC</abbr> funds (and hedge funds that trade in illiquid securities), the <abbr>QEF</abbr> election is the only real option, since marking to market would require there to be a regularly traded market for such securities. 
 
 The <abbr>QEF</abbr> election must be made in the first year that a foreign corporation is classified as a <abbr>PFIC</abbr>, otherwise the U.S. taxable investor will have to apply for a private letter ruling from the <abbr>IRS</abbr> to allow it to make a retrospective <abbr>QEF</abbr> election.
 
@@ -379,5 +434,6 @@ As of June 2015, the U.S. has [tax treaties with 68 countries](http://www.irs.go
         <li id="fn29"><abbr>IRC</abbr> section 892(a)(2)(B)(i) <a href="#fref29">&#8593;</a></li>
         <li id="fn30"><abbr>IRC</abbr> section 892(a)(2)(B)(ii) <a href="#fref30">&#8593;</a></li>
         <li id="fn31">If the foreign taxable investor lends money through a <abbr>PE</abbr>/<abbr>VC</abbr> fund organized as a partnership, the <abbr>IRS</abbr> will determine the 10% equity holding limit based on the proportion of the equity in the borrower that each partner in the partnership owns, rather than the amount that the partnership owns. <a href="#fref31">&#8593;</a></li>
+        <li id="">The rationale for using a limited partnership structure is to enable flow-through of capital gains and ordinary income to the investment professionals of the fund sponsor while maintaining limited liability protection. <a href="">&#8593;</a></li>
     </ol>
 </div> 
