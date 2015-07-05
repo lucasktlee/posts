@@ -72,10 +72,10 @@ The most obvious way in which a U.S. tax-exempt investor in a <abbr>PE</abbr>/<a
     <figcaption><span>Figure 2:</span> Incurring <abbr>UBIT</abbr> from an active business organized as a partnership or <abbr>LLC</abbr></figcaption>
 </figure>
 
-This situation is more likely to occur when a fund invests in:
+This situation is more likely to occur when a U.S. tax-exempt investor invests in:
 
-* **<abbr>VC</abbr>:** Startups are often organized as flow-through entities to minimize the overall tax burden the founders bear. That being said, it _is_ still rare to see a <abbr>VC</abbr> fund invest in a flow-through entity: most <abbr>VC</abbr>s will require the startups they invest in to either be incorporated as a corporation or convert to a corporation prior to the <abbr>VC</abbr> investment. 
-* **<abbr>PE</abbr> fund investing in the natural resources and energy sectors:** Many privately-held companies operating in the natural resource and energy sectors will be structured as flow-through entities (partnerships or <abbr>LLC</abbr>s) to allow investors to take advantage of the tax benefits—deductions and tax credits—typically accorded to such companies. 
+* **<abbr>VC</abbr> funds:** Startups are often organized as flow-through entities to minimize the overall tax burden the founders bear. That being said, it _is_ still rare to see a <abbr>VC</abbr> fund invest in a flow-through entity: most <abbr>VC</abbr>s will require the startups they invest in to either be incorporated as a corporation or convert to a corporation prior to the <abbr>VC</abbr> investment. 
+* **<abbr>PE</abbr> funds investing in the natural resources and energy sectors:** Many privately-held companies operating in the natural resource and energy sectors will be structured as flow-through entities (partnerships or <abbr>LLC</abbr>s) to allow investors to take advantage of the tax benefits—deductions and tax credits—typically accorded to such companies. 
 
 ### Income from debt-financed investments
 
@@ -92,7 +92,7 @@ There are two principal ways in which a <abbr>PE</abbr>/<abbr>VC</abbr> fund can
 * **Subscription credit facility:** It is increasingly common<sup><a href="#fn14" id="fref14">14</a></sup> for fund sponsors to arrange for a subscription credit facility to provide to allow it to fund portfolio investments pending receipt of proceeds from capital calls.
 * **Fund guarantees borrowings to acquire or improve portfolio investment and credit extended based on financial strength of fund:** A fund may be treated as having borrowed amounts used to acquire or improve a portfolio investment if the lender extended credit on the strength of the fund’s guarantee of the loan rather than the financial strength of the portfolio investment that borrowed the money. This is comparatively rare: in most <abbr title="leveraged buyout">LBO</abbr>s the lender extends credit on the strength of the <abbr>LBO</abbr> target’s assets and cash flows.
 
-The consequence of tax laws deeming debt-financed income to be <abbr>UBTI</abbr> is to limit the ability of U.S. tax-exempt investors to directly hold interests in a <abbr>PE</abbr> fund organized as a limited partnership or <abbr>LLC</abbr> that makes use of leverage to acquire U.S. or foreign portfolio investments or that makes use of a subscription credit facility. 
+The consequence of tax laws deeming debt-financed income to be <abbr>UBTI</abbr> is to limit the ability of U.S. tax-exempt investors to directly hold interests in a <abbr>PE</abbr>/<abbr>VC</abbr> fund organized as a limited partnership or <abbr>LLC</abbr> if the fund makes use of leverage to acquire U.S. or foreign portfolio investments or that makes use of a subscription credit facility. 
 
 ### Transaction fees and advisory fees
 
@@ -111,7 +111,7 @@ For U.S. portfolio investments, U.S. taxable investors will prefer the fund to b
 
 A U.S. taxable investor in a <abbr>PE</abbr>/<abbr>VC</abbr> fund that invests in foreign portfolio investments will also generally prefer the fund to be a flow-through entity under U.S. and foreign tax laws. This will allow the U.S. taxable investor to claim the benefit of any applicable tax treaty between the U.S. and the foreign country where the portfolio investment is based. 
 
-That being said, given that this _is_ the U.S. federal income tax system, there are two complications for fund sponsors that invest in foreign portfolio investments. U.S. taxable investors will need to address the risk of a foreign portfolio investment being classified as either a controlled foreign corporation or a passive foreign investment company.
+That being said, given that this _is_ the U.S. federal income tax system, there are two complications for fund sponsors that invest in foreign portfolio investments. U.S. taxable investors will need to address the risk of a foreign portfolio investment being classified as either a [controlled foreign corporation](#controlledforeigncorporations) or a [passive foreign investment company](#passiveforeigninvestmentcompanies).
 
 ### Controlled Foreign Corporations
 
@@ -292,9 +292,18 @@ A blocker corporation can be interposed between the fund and the portfolio inves
 * The fund sponsor can interpose a blocker corporation between the portfolio investments and the fund, i.e. a “subsidiary blocker” structure
 * The fund sponsor can establish a blocker corporation to invest alongside the fund, and allocate the capital commitments of the U.S. tax-exempt investors, foreign tax-exempt investors, and foreign taxable investors (as necessary) to the blocker corporation, i.e. a “parallel fund” or “alternative investment vehicle” structure
 
-This blocker corporation is taxed as a corporation. As such, when it receives income that would be <abbr>UBTI</abbr> or <abbr>ECI</abbr>, it pays U.S. federal income taxes on the income. This has the effect of “cleansing” the otherwise <abbr>UBTI</abbr> or <abbr>ECI</abbr> ”tainted” income from the portfolio investment, since when the blocker corporation pays a dividend to the investors, that dividend is not income from a trade of business but rather is simply a dividend paid from retained earnings for which corporate taxes have already been paid. 
+This blocker corporation is taxed as a corporation. As such, when it receives income that would be <abbr>UBTI</abbr> or <abbr>ECI</abbr>, it pays U.S. federal income taxes on the income. This has the effect of “cleansing” the otherwise <abbr>UBTI</abbr> or <abbr>ECI</abbr> ”tainted” income from the portfolio investment, since when the blocker corporation pays a dividend to the investors, that dividend is not income from a trade of business but rather is simply a dividend paid from retained earnings for which corporate taxes have already been paid. For the U.S. and foreign tax-exempt charitable organizations, this blocks <abbr>UBTI</abbr> (at the expense of a reduction in the returns from the portfolio investment due to the taxes paid). The same applies to foreign taxable investors in respect of an investment that generates <abbr>ECI</abbr>. For <abbr>CAI</abbr>, the blocker corporation does not, strictly speaking, ”block” <abbr>CAI</abbr>. It does, however, ring-fence the <abbr>CAI</abbr> generating portfolio investment from any non-<abbr>CAI</abbr> generating portfolio investments that the foreign sovereign wealth fund may have. 
 
+Of the three approaches, the one that offers the greatest flexibility—though with an increase in cost and complexity—is the alternative investment vehicle (<abbr title="Alternative Investment Vehicle">AIV</abbr>) structure. It is also, usually, the best option for a foreign sovereign wealth fund that seeks to avoid cross-contamination of <abbr>CAI</abbr> and non-<abbr>CAI</abbr> income. 
 
+In the interest of brevity, therefore, I will focus my attention on the use of <abbr>AIV</abbr>s to hold portfolio investments that would otherwise generate <abbr>UBTI</abbr>, <abbr>ECI</abbr>, or <abbr>CAI</abbr>. A simplified example is shown in [Figure 3](#fig03):
+
+<figure class="border l" id="fig03">
+    <img alt="A blocker corporation serving as a AIV investing alongside the main fund" size="34.4rem, (min-width: 37.5625rem and max-width: 56.2500rem) 51.2rem, (min-width: 56.3125rem) 70.4rem" srcset="http://media.lucasktlee.com/files/img/20150622-fig03-s.png 344w, http://media.lucasktlee.com/files/img/20150622-fig03-m.png 512w, http://media.lucasktlee.com/files/img/20150622-fig03-s-@2x.png 688w, http://media.lucasktlee.com/files/img/20150622-fig03-l.png 704w, http://media.lucasktlee.com/files/img/20150622-fig03-m-@2x.png 1024w, http://media.lucasktlee.com/files/img/20150622-fig03-l-@2x.png 1408w" src="http://media.lucasktlee.com/files/img/20150622-fig03-s.png" />
+    <figcaption><span>Figure 3:</span> A blocker corporation serving as a <abbr>AIV</abbr> investing alongside the main fund</figcaption>
+</figure>
+
+Here, the fund sponsor creates a new blocker corporation for each investment that generates <abbr>UBTI</abbr>, <abbr>ECI</abbr>, or <abbr>CAI</abbr>. Only the affected investors invest through the blocker corporation, and only for the affected investment. All other investments are made through the fund and without using a blocker corporation. Moreover, because investors can be allocated to different <abbr>AIV</abbr>s, this structure offers the fund sponsor the opportunity to ensure that an <abbr>AIV</abbr> is used only when strictly necessary. Since there is only partial overlap among investments that generate <abbr>UBTI</abbr>, <abbr>ECI</abbr>, and <abbr>CAI</abbr>, there will be times when only U.S. and foreign tax-exempt charitable organizations need to invest through a blocker corporation, and times when only foreign sovereign wealth funds must avoid contaminating their other investments with <abbr>CAI</abbr>. Recall that often there are negative tax consequences from the use of blocker corporations, since the blocker corporation will typically suffer some measure of tax leakage. As such, a wise fund sponsor will use a blocker corporation only when no other commercially reasonable option presents itself. 
 
 #### Income from debt-financed investments 
 
@@ -303,7 +312,7 @@ A <abbr>PE</abbr>/<abbr>VC</abbr> fund can incur <abbr>UBTI</abbr> from [debt-fi
 Where the fund borrows money under a subscription credit facility in order to bridge the gap between the time an investment in a portfolio company closes and the time the fund receives capital called from its limited partners, it may be possible to avoid having the <abbr>IRS</abbr> characterize distributions from the portfolio company as <abbr>UBTI</abbr> by ensuring that the following conditions are met:
 
 * The indebtedness that would have given rise to <abbr>UBTI</abbr> was repaid more than one year prior to the disposal of the debt-financed investment
-* The debt-financed investment made no distributions of income during the year that the investment was disposed of<sup><a href="#fn" id="fref"></a></sup>
+* The debt-financed investment made no distributions of income during the year that the investment was disposed of<sup><a href="#fn31" id="fref31">31</a></sup>
 
 As a general rule, this approach is preferable where the majority of the gains from the portfolio investment is likely to be in the form of capital gains, and the indebtedness is short-term under a subscription credit facility that will be repaid at least a year before the portfolio investment is disposed of. 
 
@@ -343,7 +352,7 @@ To make this more concrete, consider the following two examples, as shown in [Ta
         <tr>
             <th>Jurisdiction and form <br/>of general partner</th>
             <td>Delaware Limited Liability Company</td>
-            <td>Cayman Islands Limited Partnership<sup><a href="#fn" id="fref"></a></sup></td>
+            <td>Cayman Islands Limited Partnership<sup><a href="#fn32" id="fref32">32</a></sup></td>
         </tr>
         <tr>
             <th>Foreign portfolio <br/>investment</th>
@@ -410,7 +419,7 @@ The portfolio interest rule applies to interest income where all of the followin
 * The debt instrument to which the interest income cannot be transferred to U.S. persons or transferred directly between two non-U.S. persons 
 * The interest on the debt instrument cannot be determined by reference to contingent events such as income, cash flow, or the value of property held by the borrower
 * The foreign lender is not a <abbr>CFC</abbr>, is not a bank, and is not conducting a U.S. trade or business 
-* The foreign lender holds less than 10% of the equity of the borrower (after giving effect to the attribution rules and constructive ownership rules in the <abbr>IRC</abbr>) <sup><a href="#fn31" id="fref31">31</a></sup> 
+* The foreign lender holds less than 10% of the equity of the borrower (after giving effect to the attribution rules and constructive ownership rules in the <abbr>IRC</abbr>) <sup><a href="#fn33" id="fref33">33</a></sup> 
 
 Unless there are countervailing considerations, a shrewd fund sponsor will typically structure its investments such that foreign taxable investors can use the portfolio interest rule to reduce the amount of taxes paid on at least some part of its investment in a U.S. portfolio investment. This can be done by structuring part of the investment in the U.S. portfolio investment to be in the form of interest-bearing debt lent to an intermediate holding company, which reduces the taxable income of this company and minimizes the withholding tax on interest paid to the foreign taxable investors. This structuring will often involve balancing thin capitalization considerations, especially in light of the <abbr>IRS</abbr>’s interest in ensuring that intercompany debt is not used in an abusive manner.
 
@@ -420,7 +429,9 @@ As of June 2015, the U.S. has [tax treaties with 68 countries](http://www.irs.go
 
 ## Conclusion
 
-Structuring a <abbr>PE</abbr>/<abbr>VC</abbr> fund that satisfies the tax structuring needs of the diverse U.S. and foreign investors that form the typical <abbr>PE</abbr>/<abbr>VC</abbr> limited partner base is not an easy task. 
+Structuring a <abbr>PE</abbr>/<abbr>VC</abbr> fund that satisfies the tax structuring needs of the diverse U.S. and foreign investors that form the typical <abbr>PE</abbr>/<abbr>VC</abbr> limited partner base is not an easy task. It will often be the case that a fund sponsor with a global investment strategy will have no choice but to develop a complex set of investment vehicles tailored to the different needs of its investors. 
+
+It is for this reason that a wise fund sponsor will find that a good fund structuring team consisting of attorneys familiar with securities laws, private equity investments, and tax laws will be worth their weight in gold. 
 
 <div class="footnotes">
     <hr class="w-50" />
@@ -455,8 +466,8 @@ Structuring a <abbr>PE</abbr>/<abbr>VC</abbr> fund that satisfies the tax struct
         <li id="fn28">Treasury Regulations define this broadly as any activity that is conducted with a view towards the current or future production of income or gain, but excludes investing or trading in securities. <a href="#fref28">&#8593;</a></li>
         <li id="fn29"><abbr>IRC</abbr> section 892(a)(2)(B)(i) <a href="#fref29">&#8593;</a></li>
         <li id="fn30"><abbr>IRC</abbr> section 892(a)(2)(B)(ii) <a href="#fref30">&#8593;</a></li>
-        <li id="fn31">If the foreign taxable investor lends money through a <abbr>PE</abbr>/<abbr>VC</abbr> fund organized as a partnership, the <abbr>IRS</abbr> will determine the 10% equity holding limit based on the proportion of the equity in the borrower that each partner in the partnership owns, rather than the amount that the partnership owns. <a href="#fref31">&#8593;</a></li>
-        <li id="fn">Any income distributed during the year that the investment was disposed of will be <abbr>UBTI</abbr> and incur U.S. federal income taxes on based on the average amount of acquisition indebtedness during that year. <a href="#fref">&#8593;</a></li>
-        <li id="fn">The rationale for using a limited partnership structure is to enable flow-through of capital gains and ordinary income to the investment professionals of the fund sponsor while maintaining limited liability protection. <a href="#fref">&#8593;</a></li>
+        <li id="fn31">Any income distributed during the year that the investment was disposed of will be <abbr>UBTI</abbr> and incur U.S. federal income taxes on based on the average amount of acquisition indebtedness during that year. <a href="#fref31">&#8593;</a></li>
+        <li id="fn32">The rationale for using a limited partnership structure is to enable flow-through of capital gains and ordinary income to the investment professionals of the fund sponsor while maintaining limited liability protection. <a href="#fref32">&#8593;</a></li>
+        <li id="fn33">If the foreign taxable investor lends money through a <abbr>PE</abbr>/<abbr>VC</abbr> fund organized as a partnership, the <abbr>IRS</abbr> will determine the 10% equity holding limit based on the proportion of the equity in the borrower that each partner in the partnership owns, rather than the amount that the partnership owns. <a href="#fref33">&#8593;</a></li>
     </ol>
 </div> 
