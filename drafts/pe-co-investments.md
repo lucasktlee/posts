@@ -49,12 +49,12 @@ Limited partners that have an appetite for co-investments will discuss their des
 
 In my experience, negotiating for co-investment rights can be thought of as a multivariate function with the following, non-exhaustive, variables: 
 
-* The size of the limited partner’s capital commitment and the likelihood that the limited partner will commit capital to the fund sponsor’s successor funds, i.e. the value of the relationship to the fund sponsor 
+* The size of the limited partner’s capital commitment and the likelihood that the limited partner will commit capital to the fund sponsor’s successor funds, i.e. the financial value of the relationship to the fund sponsor 
 * The capital available to the limited partner for making co-investments, i.e. the reliability of the limited partner as a funding source
 * The skill of the limited partner’s investment professionals and the speed of the limited partner’s investment decision-making process, i.e. the ability of the limited partner to evaluate an investment and decide whether to invest within the frequently tight timelines of a co-investment opportunity
 * The strategic, operational, and geographical value-add of the limited partner, i.e. the value that the limited partner brings to a portfolio company
 
-
+Often, these negotiations also reflect the personal relationships and trust that exists between the limited partner and the fund sponsor, since there is an element of discretion on the part of both the fund sponsor and the limited partner: the fund sponsor can decide if it wishes to offer part of an investment as a co-investment, and which limited partners or third parties to offer it to; the limited partner has the option—but not the obligation—to invest in any co-investment opportunity the fund sponsor shows it. 
 
 ### Disclosing Information to Prospective Co-investors 
 
