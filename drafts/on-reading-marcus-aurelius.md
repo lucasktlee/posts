@@ -1,5 +1,0 @@
-<p class="lede">I first read <cite>The Meditations of Marcus Aurelius</cite> as the age of 15, in the Harvard Classics edition of 1909 – 1914, as translated by George Long. I can vividly recall discovering the book in my father‘s book collection from his days as a graduate student in the United States: the scent of leather and the slightly musty smell of the—long unread—pages. I did not realize, then, that I was embarking on a philosophical journey that would shape, in part, the man that I am today. My almost twenty-year engagement with the Roman Stoics, particularly Marcus Aurelius and Lucius Annaeus Seneca, The Younger, were instrumental in shaping the principles I use to lead my life. </p>
-
-One 
-
-If—after reading these thoughts on Marcus Aurelius—you would like to read <cite>The Meditations of Marcus Aurelius</cite> for yourself, I recommend the [Gregory Hays](http://amzn.to/1JBcIfC) translation. It is written in direct, concise English, which apart from being easier to read than Long’s now dated and overly formal late-19<sup>th</sup> century English, is likely closer in style to the terse notes Marcus Aurelius would have penned while on military campaign. 
