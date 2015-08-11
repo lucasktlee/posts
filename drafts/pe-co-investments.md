@@ -25,7 +25,9 @@ There are a number of reasons why institutional investors elect to pursue co-inv
 
 ## Co-investments — A Bespoke Process 
 
-How does an institutional investor get access to co-investment opportunities with a fund sponsor? The negotiations for access to co-investments will often begin at the time the institutional investor decides to make a capital commitment to the fund sponsor’s fund, i.e. during the fundraising process. The fund sponsor will often have made a determination—in consultation with its counsel—on whether to offer co-investment opportunities at all and if it decides to do so, how to document it; whether in the limited partnership agreement of the fund and side letters issued by the fund to certain investors, or in the form of an oral agreement to offer suitable co-investment opportunities to certain investors. 
+### Access to Co-investment Opportunities
+
+How does an institutional investor get access to co-investment opportunities with a fund sponsor? The negotiations for access to co-investments will often begin at the time the institutional investor decides to make a capital commitment to the fund sponsor’s fund, i.e. during the fundraising process. The fund sponsor will often have made a determination—in consultation with its legal counsel—on whether to offer co-investment opportunities at all and if it decides to do so, how to document it; whether in the limited partnership agreement of the fund and side letters issued by the fund to certain investors, or in the form of an oral agreement to offer suitable co-investment opportunities to certain investors to avoid the need to disclose the offer of co-investment opportunities to other investors. 
 
 In my experience, the trend among fund sponsors to is to explicitly document in the limited partnership agreement of the fund their discretion to offer co-investment opportunities to limited partners of the fund and third parties, such as the following example from a pan-Asia buyout fund: 
 
@@ -39,7 +41,15 @@ In my experience, the trend among fund sponsors to is to explicitly document in 
 
 The level of detail in the co-investment provision of a limited partnership agreement can vary from fund to fund. The example I've quoted is fairly light on details. I have seen examples that specified the order in which co-investment opportunities must be offered to different categories of co-investors, and specifying the general terms on which such co-investments must be made, and the general terms on which the fund and the co-investors must disposed of such co-investments. 
 
-Having documented the general rules for how a fund sponsor may offer co-investments to 
+Limited partners that have an appetite for co-investments will discuss their desire for co-investments with the fund sponsor as part of the negotiations that occur before they make a capital commitment to the fund, i.e. long before they expect to see any co-investments. If a fund sponsor agrees to acknowledge the limited partner’s interest in co-investments and agrees to offer co-investment opportunities to that limited partner, their agreement will generally be memorialized in a side letter, which may well be subject to a most favored nations clause. (In my view, the right to access co-investment opportunities is one that should be carved out from the most favored nations clause, because it reflects the fact that limited partners are not all equally capable of accessing co-investment opportunities, and if access to such opportunities was important to a limited partner, it should have negotiated for that right rather than rely on a most favored nations clause.) 
+
+### Disclosing Information to Prospective Co-investors 
+
+
+
+### Different Levels of Involvement in Co-investment 
+
+
 
 ## Lessons Learned from Six Years of Co-investing  
 
