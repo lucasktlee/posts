@@ -25,9 +25,9 @@ There are a number of reasons why institutional investors elect to pursue co-inv
 
 ## Lessons Learned from Six Years of Co-investing  
 
-At Partners Group, I worked on [*] co-investments in Europe and Asia from 2008 to 2014, spanning the  private equity, real estate, and infrastructure asset classes. I should state here that the skillset required to make successful co-investments is subtly different from the skillset required to make successful direct investments or fund investments. 
+At Partners Group, I worked on [*] co-investments in Europe and Asia from 2008 to 2014, spanning the  private equity, real estate, and infrastructure asset classes. Indeed, in the last two years that I was at Partners Group, the firm had begun to build up its capacity to offer co-investment opportunities to limited partners and investment mandate clients. From time to time, the firm would offer co-investment opportunities in some of the direct investments it was making. 
 
-
+I should state here that the skillset required to make successful co-investments is subtly different from the skillset required to make successful direct investments or fund investments. 
 
 ### Access to Co-investment Opportunities
 
@@ -45,24 +45,26 @@ In my experience, the trend among fund sponsors to is to explicitly document in 
 
 The level of detail in the co-investment provision of a limited partnership agreement can vary from fund to fund. The example I've quoted is fairly light on details. I have seen examples that specified the order in which co-investment opportunities must be offered to different categories of co-investors, and specifying the general terms on which such co-investments must be made, and the general terms on which the fund and the co-investors must disposed of such co-investments. 
 
-Limited partners that have an appetite for co-investments will discuss their desire for co-investments with the fund sponsor as part of the negotiations that occur before they make a capital commitment to the fund, i.e. long before they expect to see any co-investments. If a fund sponsor agrees to acknowledge the limited partner’s interest in co-investments and agrees to offer co-investment opportunities to that limited partner, their agreement will generally be memorialized in a side letter, which may well be subject to a most favored nations clause. (The right to access co-investment opportunities should be carved out from the most favored nations clause, because limited partners are not all equally capable of accessing co-investment opportunities, and if access to such opportunities was important to a limited partner, it should have negotiated for that right rather than rely on the most favored nations clause to “piggy-back” on the negotiation skills of other limited partners.) 
+Limited partners that have an appetite for co-investments will discuss their desire for co-investments with the fund sponsor as part of the negotiations that occur before they make a capital commitment to the fund, i.e. long before they expect to see any co-investments. If a fund sponsor agrees to acknowledge the limited partner’s interest in co-investments and agrees to offer co-investment opportunities to that limited partner, their agreement will generally be memorialized in a side letter, which may well be subject to a most favored nations clause. (The right to access co-investment opportunities should, in my view, be carved out from the most favored nations clause, because limited partners are not all equally capable of accessing co-investment opportunities, and if access to such opportunities was important to a limited partner, it should have negotiated for that right rather than rely on the most favored nations clause to “piggy-back” on the negotiation skills of other limited partners.) 
 
 In my experience, negotiating for co-investment rights can be thought of as a multivariate function with the following, non-exhaustive, variables: 
 
 * The size of the limited partner’s capital commitment and the likelihood that the limited partner will commit capital to the fund sponsor’s successor funds, i.e. the financial value of the relationship to the fund sponsor 
-* The capital available to the limited partner for making co-investments, i.e. the reliability of the limited partner as a funding source
+* The capital available on short notice to the limited partner for making co-investments, i.e. the reliability of the limited partner as a funding source
 * The skill of the limited partner’s investment professionals and the speed of the limited partner’s investment decision-making process, i.e. the ability of the limited partner to evaluate an investment and decide whether to invest within the frequently tight timelines of a co-investment opportunity
 * The strategic, operational, and geographical value-add of the limited partner, i.e. the value that the limited partner brings to a portfolio company
 
 Often, these negotiations also reflect the personal relationships and trust that exists between the limited partner and the fund sponsor, since there is an element of discretion on the part of both the fund sponsor and the limited partner: the fund sponsor can decide if it wishes to offer part of an investment as a co-investment, and which limited partners or third parties to offer it to; the limited partner has the option—but not the obligation—to invest in any co-investment opportunity the fund sponsor shows it. 
 
-### Disclosing Information to Prospective Co-investors 
-
-One of the most basic issues 
-
 ### Different Levels of Involvement in Co-investment 
- 
 
+Co-investors may have varying levels of involvement in a co-investment, ranging from completely passive providers of capital to actively partnering with the fund sponsor to drive operational improvements in the portfolio company. The level of involvement from the co-investors in the investment will often determine the appropriate structure and terms for the co-investment.
+
+A co-investment structure is often a bespoke structure tailored for _this_ specific deal and these co-investors and no other. 
+
+### Information and Due Diligence for Prospective Co-investors 
+
+One of the most basic issues that a fund sponsor must consider when commencing negotiations is 
 
 ## Conclusion 
 
