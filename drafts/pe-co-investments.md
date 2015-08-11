@@ -27,7 +27,7 @@ There are a number of reasons why institutional investors elect to pursue co-inv
 
 At Partners Group, I worked on [*] co-investments in Europe and Asia from 2008 to 2014, spanning the  private equity, real estate, and infrastructure asset classes. Indeed, in the last two years that I was at Partners Group, the firm had begun to build up its capacity to offer co-investment opportunities to limited partners and investment mandate clients. From time to time, the firm would offer co-investment opportunities in some of the direct investments it was making. 
 
-I should state here that the skillset required to make successful co-investments is subtly different from the skillset required to make successful direct investments or fund investments. 
+I should state here that the skillset and processes required to make successful co-investments is subtly different from the skillset required to make successful direct investments or fund investments. 
 
 ### Access to Co-investment Opportunities
 
@@ -60,11 +60,13 @@ Often, these negotiations also reflect the personal relationships and trust that
 
 Co-investors may have varying levels of involvement in a co-investment, ranging from completely passive providers of capital to actively partnering with the fund sponsor to drive operational improvements in the portfolio company. The level of involvement from the co-investors in the investment will often determine the appropriate structure and terms for the co-investment.
 
-A co-investment structure is often a bespoke structure tailored for _this_ specific deal and these co-investors and no other. 
+A co-investment structure is often a bespoke structure tailored for _this_ specific deal and _these_ co-investors and no other. Yet, if one has seen enough co-investments, one begins to see common themes around which bespoke terms and structures are constructed. A co-investment structure tailored for an  investment by co-investors that prefer to be passive providers of capital is different from a structure tailored for an active partner.
+
+The former is likely to invest indirectly, through a special purpose co-investment vehicle controlled by the fund sponsor. 
 
 ### Information and Due Diligence for Prospective Co-investors 
 
-One of the most basic issues that a fund sponsor must consider when commencing negotiations is 
+ 
 
 ## Conclusion 
 
