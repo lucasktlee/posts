@@ -1,8 +1,8 @@
 <p class="lede"></p>
 
-Many private equity, real estate, and infrastructure fund sponsors offer co-investment opportunities to limited partners in their funds. The practice of offering co-investment opportunities to limited partners has been an accepted part of the industry since well before I joined it in 2008.<sup><a href="#fn01" id="fref01">1</a></sup> The appetite for co-investments among limited partners—particularly certain large and sophisticated institutional investors with the resources to build in-house direct investment expertise—has grown since the 2008 global financial crisis. Indeed, some large institutional investors have go so far as to begin building in-house private equity investment teams that independently invest in transactions.<sup><a href="#fn02" id="fref02">2</a></sup>
+Many private equity, real estate, and infrastructure fund sponsors offer co-investment opportunities to limited partners in their funds. The practice of offering co-investment opportunities to limited partners has been an accepted part of the industry since well before I joined it in 2008.<sup><a href="#fn01" id="fref01">1</a></sup> The appetite for co-investments among limited partners—particularly certain large and sophisticated institutional investors with the resources to build in-house direct investment expertise—has grown significantly since the 2008 global financial crisis. Indeed, some large institutional investors have go so far as to begin building in-house private equity investment teams that independently invest in transactions.<sup><a href="#fn02" id="fref02">2</a></sup> Family offices, too, are beginning to “rediscover” their heritage as investors in private equity investments and have become increasingly willing to make private equity co-investments or direct investments.
 
-I find the co-investment space interesting for a number of reasons. 
+I find the rise of co-investments and direct investments by large institutional investors interesting for a number of reasons. Should the trend towards large institutional investors in-sourcing their direct private equity, real estate, and infrastructure investments continue, this will have significant impact on the ability of fund sponsors to secure capital commitments from these investors. Coupled with the trend of large institutional investors consolidating their fund commitments with a smaller number of fund sponsors, this could reduce the number of fund sponsors as capital commitments dry up and fund sponsors are unable to raise successor funds. It could also increase the trend towards specialization among fund sponsors, as large institutional investors will be unlikely to in-source expertise in every conceivable geography, industry, or value creation strategy. (There will always be large multi-strategy and multi-asset fund sponsors that will succeed on the strength of their brand and their ability to provide a “one stop shop” for investors that do no have the resources and time to build relationships with specialist fund sponsors globally or the skill to make direct investments, but such sponsors will by necessity be limited to a select few.)
 
 ## Why Co-investments?
 
@@ -25,7 +25,7 @@ There are a number of reasons why institutional investors elect to pursue co-inv
 
 ## Lessons Learned from Six Years of Co-investing  
 
-At Partners Group, I worked on [*] co-investments in Europe and Asia from 2008 to 2014, spanning the  private equity, real estate, and infrastructure asset classes. Indeed, in the last two years that I was at Partners Group, the firm had begun to build up its capacity to offer co-investment opportunities to limited partners and investment mandate clients. From time to time, the firm would offer co-investment opportunities in some of the direct investments it was making. 
+At Partners Group, I worked on more than fifteen co-investments in Europe and Asia from 2008 to 2014, spanning the  private equity, real estate, and infrastructure asset classes. Indeed, in the last two years that I was at Partners Group, the firm had begun to build up its capacity to offer co-investment opportunities to limited partners and investment mandate clients. From time to time, the firm would offer co-investment opportunities in some of the direct investments it was making. As such, I have been on both sides of the table: working on the investment team of a co-investor investing in investment opportunities sourced by other fund sponsors and working on the investment team of a fund sponsor offering co-investment opportunities to its investors. 
 
 I should state here that the skillset and processes required to make successful co-investments is subtly different from the skillset required to make successful direct investments or fund investments. 
 
@@ -50,19 +50,24 @@ Limited partners that have an appetite for co-investments will discuss their des
 In my experience, negotiating for co-investment rights can be thought of as a multivariate function with the following, non-exhaustive, variables: 
 
 * The size of the limited partner’s capital commitment and the likelihood that the limited partner will commit capital to the fund sponsor’s successor funds, i.e. the financial value of the relationship to the fund sponsor 
-* The capital available on short notice to the limited partner for making co-investments, i.e. the reliability of the limited partner as a funding source
+* The capital available on short notice to the limited partner for making co-investments, i.e. the reliability of the limited partner as a funding source<sup><a href="#fn05" id="fref05">5</a></sup>
 * The skill of the limited partner’s investment professionals and the speed of the limited partner’s investment decision-making process, i.e. the ability of the limited partner to evaluate an investment and decide whether to invest within the frequently tight timelines of a co-investment opportunity
 * The strategic, operational, and geographical value-add of the limited partner, i.e. the value that the limited partner brings to a portfolio company
+* The reputation of the limited partner, i.e. whether the fund sponsor and portfolio company would be comfortable being associated with the limited partner in press releases and news articles
 
 Often, these negotiations also reflect the personal relationships and trust that exists between the limited partner and the fund sponsor, since there is an element of discretion on the part of both the fund sponsor and the limited partner: the fund sponsor can decide if it wishes to offer part of an investment as a co-investment, and which limited partners or third parties to offer it to; the limited partner has the option—but not the obligation—to invest in any co-investment opportunity the fund sponsor shows it. 
+
+The majority of these variables will be given, in the sense of being factors that you, as an investment professional, will have little ability to influence in the short-term. The one variable that you can affect in the short-term is the relationship and trust between your organization and the fund sponsor. It is, as has been often said in other contexts, a “people business”.
 
 ### Different Levels of Involvement in Co-investment 
 
 Co-investors may have varying levels of involvement in a co-investment, ranging from completely passive providers of capital to actively partnering with the fund sponsor to drive operational improvements in the portfolio company. The level of involvement from the co-investors in the investment will often determine the appropriate structure and terms for the co-investment.
 
-A co-investment structure is often a bespoke structure tailored for _this_ specific deal and _these_ co-investors and no other. Yet, if one has seen enough co-investments, one begins to see common themes around which bespoke terms and structures are constructed. A co-investment structure tailored for an  investment by co-investors that prefer to be passive providers of capital is different from a structure tailored for an active partner.
+A co-investment structure is often a bespoke structure tailored for _this_ specific deal and _these_ co-investors and no other. Yet, if one has seen enough co-investments, one begins to see common themes around which bespoke terms and structures are constructed. 
 
-The former is likely to invest indirectly, through a special purpose co-investment vehicle controlled by the fund sponsor. 
+A co-investment structure tailored for an  investment by co-investors that prefer to be passive providers of capital is different from a structure tailored for an active partner. The former is likely to invest indirectly, through a special purpose co-investment vehicle—often a limited partnership or limited liability company—controlled by the fund sponsor and have limited (or even no) control over the portfolio company. The latter is likely to invest directly in the portfolio company or a holding company incorporated by the fund sponsor to hold the investment and will negotiate for minority protections and representation on the board of directors of the portfolio company or holding company.
+
+Determining where on this spectrum a co-investor wishes to be is a _strategic_ decision that should be taken by the co-investor’s management team and may differ across asset classes and regions. It’s important for the co-investor to have a clear understanding of its strengths in 
 
 ### Information and Due Diligence for Prospective Co-investors 
 
@@ -78,5 +83,6 @@ The former is likely to invest indirectly, through a special purpose co-investme
         <li id="fn02">These include the <a href="http://www.china-inv.cn/">China Investment Corporation</a>, the <a href="http://www.cppib.com/en/home.html">CPP Investment Board</a>, and the <a href="http://www.otpp.com/">Ontario Teachers Pension Plan</a>. <a href="#fref02">&#8593;</a></li>
         <li id="fn03">The concentration limit is typically specified as a <em>percentage</em> of the fund’s aggregate capital commitments. Thus, a private equity fund with $1,000 million in aggregate capital commitments and a 20% concentration limit would be permitted to invest no more than $200 million in a single portfolio company. <a href="#fref03">&#8593;</a></li>
         <li id="fn04">I am aware that some Chinese venture capital funds such as <a href=""></a> have fully invested (with likely substantial reserves for follow-on investments) their committed capital within very short periods of time, but such funds should be considered as outliers in the global venture capital industry. <a href="#fref04">&#8593;</a></li>
+        <li id="fn05">Indeed,  <a href="#fref05">&#8593;</a></li>
     </ol>
 </div>
