@@ -27,7 +27,7 @@ There are a number of reasons why institutional investors elect to pursue co-inv
 
 At Partners Group, I worked on more than fifteen co-investments in Europe and Asia from 2008 to 2014, spanning the  private equity, real estate, and infrastructure asset classes. Indeed, in the last two years that I was at Partners Group, the firm had begun to build up its capacity to offer co-investment opportunities to limited partners and investment mandate clients. From time to time, the firm would offer co-investment opportunities in some of the direct investments it was making. As such, I have been on both sides of the table: working on the investment team of a co-investor investing in investment opportunities sourced by other fund sponsors and working on the investment team of a fund sponsor offering co-investment opportunities to its investors. 
 
-I should state here that the skillset and processes required to make successful co-investments is subtly different from the skillset required to make successful direct investments or fund investments. While I do not expect that a blog post, or even a series of blog posts, can fully impart those skills, the lessons I have learned from six years of co-investing may prove edifying for those who are beginning to explore this investment strategy.
+I should state here that the skillset and processes required to make successful co-investments is subtly different from the skillset required to make successful direct investments or fund investments. While I do not expect that a blog post, or even a series of blog posts, can fully impart those skills, the lessons I have learned from six years of co-investing (and from having been involved in both legal and commercial aspects of co-investments) may prove edifying for those who are beginning to explore this investment strategy.
 
 (Note that while I may make references to some deals that I have done in this post, for confidentiality reasons I will not provide any specific details that could identify the parties involved or the deal.) 
 
@@ -105,7 +105,9 @@ The guiding mantra for a co-investor when conducting due diligence on a co-inves
 
 ## Conclusion 
 
-Co-investments can be an attractive method of investing in private equity, real estate or infrastructure. It is, however, a distinct form of investing from direct investments or fund investments, and institutional investors should bear that in mind when selecting people for their co-investment teams. The lessons I have learned were hard-won, and I doubt that I have seen all the different permutations of problems and challenges that can emerge from a co-investment program. 
+Co-investments can be an attractive method of investing in private equity, real estate or infrastructure. Indeed, in a world where the _costs_ of investing in such funds is a _constant_ while outsized _risk-adjuted returns_ are not, controlling some portion of the cost of investing in private equity, real estate or infrastructure assets through co-investments is a prudent choice for institutional investors. I expect that some combination of co-investments and direct investments will become a significant component in the portfolios of most large institutional investors. 
+
+Co-investments are, however, a distinct form of investing from direct investments or fund investments, and institutional investors should bear that in mind when selecting people for their co-investment teams. The lessons I have learned were hard-won, and I doubt that I have seen all the different permutations of problems and challenges that can emerge from a co-investment program. 
 
 <div class="footnotes">
     <ol>
