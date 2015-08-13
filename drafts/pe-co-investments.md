@@ -8,6 +8,8 @@ I find the rise of co-investments and direct investments by large institutional 
 
 This question can be addressed from two perspectives, that of the fund sponsor and that of the institutional investor. For a co-investment relationship to work, both fund sponsor and institutional investor must feel that they gain a benefit from the relationship. 
 
+### The Fund Sponsor
+
 First, I will look at the reasons why a fund sponsor may elect to offer co-investments to its limited partners or other private equity firms. (Bear in mind that the following reasons are not mutually exclusive or collectively exhaustive.)
 
 * **Need for additional capital to make the investment:** Recall that most private equity, real estate, and infrastructure funds will have concentration limitations that prohibit the fund from investing more than a stipulated amount of the fund’s capital in a single investment.<sup><a href="#fn03" id="fref03">3</a></sup> If a fund wishes to make an investment that would be larger than its concentration limits would permit, it can either seek approval from its advisory committee for this exceptionally large investment, or it can seek co-investors for the excess. Advisory commitees will often be reluctant to approve investments that greatly increase the fund’s concentration risk, and thus the only realistic option for the fund sponsor may be to seek co-investors. 
@@ -16,6 +18,8 @@ First, I will look at the reasons why a fund sponsor may elect to offer co-inves
 * **Strategic value-add for the portfolio company:** A fund sponsor may offer a co-investment opportunity to a strategic investor in the same industry as the portfolio company to tap into the strategic investor’s industry expertise and contacts. A strategic investor that co-invests in a portfolio company may also be a potential buyer for the fund’s stake in the portfolio company at some point in the future. The fund sponsor may also offer the co-investment opportunity to an institutional investor with an extensive network in a region or industry where the portfolio company has expansion plans to tap that investor’s network of contacts and regional expertise. 
 * **Avoiding the potential conflict among fund sponsors associated with a club deal:** In a club deal where an investment is acquired by multiple fund sponsors working in concert, there is a real risk that the fund sponsors will come into conflict over post-investment operational improvements, bolt-on acquisitions, or exit opportunities. As a general rule, co-investors are less likely to come into conflict with a fund sponsor over such matters, particularly where the co-investors are limited partners in the fund sponsor’s fund, as they have already approved the general investment and value-add approach of the fund sponsor. In my experience with co-investments at Partners Group, the level of involvement of a co-investor can range from active, regular involvement in decision-making at the portfolio company through a seat on the board of directors, to a hands-off approach with all decision-making handled by the fund sponsor that led the investment.
 * **Relationship building with other fund sponsors:** A fund sponsor may offer a co-investment opportunity to another fund sponsor if the second fund sponsor has special skill or expertise in the industry or region. As an example, drawing again from my experience, an Indian private equity fund sponsor invited another global private equity fund sponsor to co-invest in the operator of a chain of private schools in India due to the global fund sponsor’s prior investments in the education sector and its potential to introduce the portfolio company to contacts in the education sector in Europe. 
+
+### The Institutional Investor
 
 There are a number of reasons why institutional investors elect to pursue co-investments or direct investments. (Bear in mind that the following reasons are not mutually exclusive or collectively exhaustive.)
 
@@ -110,6 +114,7 @@ Co-investments can be an attractive method of investing in private equity, real 
 Co-investments are, however, a distinct form of investing from direct investments or fund investments, and institutional investors should bear that in mind when selecting people for their co-investment teams. The lessons I have learned were hard-won, and I doubt that I have seen all the different permutations of problems and challenges that can emerge from a co-investment program. 
 
 <div class="footnotes">
+    <hr class="w-50" />
     <ol>
         <li id="fn01">I recall that at least some of the co-investments in <a href="http://www.partnersgroup.com/">Partners Group</a>’s portfolio were made in 2006 and grew out of the firm’s beginnings as a fund-of-funds manager. <a href="#fref01">&#8593;</a></li>
         <li id="fn02">These include the <a href="http://www.china-inv.cn/">China Investment Corporation</a>, the <a href="http://www.cppib.com/en/home.html">CPP Investment Board</a>, and the <a href="http://www.otpp.com/">Ontario Teachers Pension Plan</a>. <a href="#fref02">&#8593;</a></li>
