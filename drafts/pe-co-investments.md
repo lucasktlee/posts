@@ -93,7 +93,11 @@ The co-investor, if it has an active co-investment practice, should be cautious 
 
 The due diligence process for a co-investment will differ from that which might be expected for a direct investment or for a fund investment; indeed, one can say that it is a midway point between the two. Compared to due diligence on a direct investment that the co-investor is making, it will necessarily be less comprehensive. Compared to due diligence on a fund investment, it will necessarily include a substantial analysis of the due diligence done by the sponsor on the portfolio company. 
 
-In my experience, while relying on the sponsor’s diligence is often a reasonable option if the sponsor is an experienced investor in the industry and geography of the portfolio company, there are times when it can fail. 
+The first step of due diligence for prospective co-investors is to read—thoroughly—all the materials prepared for the sponsor by its advisers. Where there are issues raised in the materials that have not been resolved, ask the sponsor for their rationale for not resolving the issue. Speak to the investment team at the sponsor. Understand the thought processes behind their decisions. 
+
+The second step is to determine, based on the evaluation of the sponsor, whether the co-investor should supplement the sponsor’s work with their own independent evaluations (including engaging professional advisers of their own to 
+
+In my experience, while relying on the sponsor’s diligence is often a reasonable option if the sponsor is an experienced investor in the industry and geography of the portfolio company, there are times when it can fail. In an emerging market like one of the <abbr title="Brazil, Russia, India, China">BRIC</abbr> countries, one can never be too cautious when evaluating the due diligence materials prepared by the sponsor. Indeed, in some cases it can pay to do independent due diligence on a portfolio company and its management. This was the case for one of the firm’s least successful Asian co-investments, which was done as a co-investment in a company in one of the <abbr>BRIC</abbr> countries with a large North American private equity investor as the sponsor. 
 
 ## Conclusion 
 
