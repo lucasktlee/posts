@@ -81,11 +81,15 @@ It was, to be blunt, a Charlie-Foxtrot, and one that taught all involved three l
 
 ### Information and Due Diligence for Prospective Co-investors 
 
-The due diligence process for a co-investment will often differ from that which might be expected for a direct investment or for a fund investment. 
+The due diligence process for a co-investment will differ from that which might be expected for a direct investment or for a fund investment; indeed, one can say that it is a midway point between the two. Compared to due diligence on a direct investment that the co-investor is making, it will necessarily be less comprehensive. Compared to due diligence on a fund investment, it will necessarily include a substantial analysis of the due diligence done by the sponsor on the portfolio company. 
+
+The sponsor, if it expects to invite co-investors to participate in the investment, must ensure that their confidentiality agreements with the portfolio company permits them to share information with their sources of financing, which should explicitly include potential co-investors. In my experience, negotiating this with some portfolio companies or sellers can be quite difficult because their preference is to limit the number of persons that might access such information. Some portfolio companies or sellers may also want to apply non-solicit and non-compete clauses to co-investors, which the fund sponsor should reject. 
+
+ 
 
 ## Conclusion 
 
-Co-investments can be an attractive method of 
+Co-investments can be an attractive method of investing in private equity, real estate or infrastructure. 
 
 <div class="footnotes">
     <ol>
