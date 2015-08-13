@@ -79,13 +79,19 @@ It was, to be blunt, a Charlie-Foxtrot, and one that taught all involved three l
 * The investment teams of the co-investor must understand the level of involvement they are expected to have in the co-investments they source, and communicate this clearly to the sponsor of the co-investment in advance, so that they can discuss their mutual expectations for the co-investment and come to an agreement on the broad outlines of the co-investment deal structure before either party expends significant effort on structuring and negotiating the co-investment. 
 * The sponsor of the co-investment should make its own assessment of the level of involvement in the decision-making of the investment it is willing to offer to co-investors, and discuss that with the co-investors before beginning to structure the co-investment.
 
-### Information and Due Diligence for Prospective Co-investors 
+### Information, Non-compete, Non-solicit, and Exclusivity 
+
+The sponsor, if it expects to invite co-investors to participate in the investment, must ensure that their confidentiality agreements with the portfolio company permits them to share information with their sources of financing, which should explicitly include potential co-investors. In my experience, negotiating this with some portfolio companies or sellers can be quite difficult because their preference is to limit the number of persons that might access such information. 
+
+Some portfolio companies or sellers may also want to apply non-solicit and non-compete clauses to co-investors, which the fund sponsor should reject.<sup><a href="#fn05" id="fref05">5</a></sup> 
+
+A co-investor and their counsel should pay attention to the terms of the confidentiality agreement that the sponsor has signed with the portfolio company or seller.
+
+The co-investor, if it has an active co-investment practice, should be cautious about agreeing to any form of _exclusivity_ with the sponsor at the stage of signing a confidentiality agreement, particularly if a portfolio company has received bids from more than one sponsor. A co-investor may, if it is not careful, find itself bound to an exclusive relationship with one of the losing bidders and be subsequently unable to negotiate for a co-investor position with the winning bidder. This happened to my firm in one of its potential co-investments in a highly regulated industry in Asia, where the investment team came to an initial opinion that it would be unlikely to invest with any other sponsor due to the specialized knowledge needed to succeed in that industry and country. When the first sponsor failed to secure the deal, a second investment team in my firm came to a different conclusion and decided that it would like to work with a second sponsor, only to find that it had bound itself to exclusivity with the first (losing) sponsor.
+
+## Due Diligence for Prospective Co-investors
 
 The due diligence process for a co-investment will differ from that which might be expected for a direct investment or for a fund investment; indeed, one can say that it is a midway point between the two. Compared to due diligence on a direct investment that the co-investor is making, it will necessarily be less comprehensive. Compared to due diligence on a fund investment, it will necessarily include a substantial analysis of the due diligence done by the sponsor on the portfolio company. 
-
-The sponsor, if it expects to invite co-investors to participate in the investment, must ensure that their confidentiality agreements with the portfolio company permits them to share information with their sources of financing, which should explicitly include potential co-investors. In my experience, negotiating this with some portfolio companies or sellers can be quite difficult because their preference is to limit the number of persons that might access such information. Some portfolio companies or sellers may also want to apply non-solicit and non-compete clauses to co-investors, which the fund sponsor should reject.<sup><a href="#fn05" id="fref05">5</a></sup> 
-
-The co-investor, if it has an active co-investment practice, should be cautious about agreeing to any form of exclusivity with the sponsor at the stage of signing a confidentiality agreement, particularly if a portfolio company has received bids from more than one sponsor. 
 
 In my experience, while relying on the sponsor’s diligence is often a reasonable option if the sponsor is an experienced investor in the industry and geography of the portfolio company, there are times when it can fail. 
 
@@ -99,6 +105,6 @@ Co-investments can be an attractive method of investing in private equity, real 
         <li id="fn02">These include the <a href="http://www.china-inv.cn/">China Investment Corporation</a>, the <a href="http://www.cppib.com/en/home.html">CPP Investment Board</a>, and the <a href="http://www.otpp.com/">Ontario Teachers Pension Plan</a>. <a href="#fref02">&#8593;</a></li>
         <li id="fn03">The concentration limit is typically specified as a <em>percentage</em> of the fund’s aggregate capital commitments. Thus, a private equity fund with $1,000 million in aggregate capital commitments and a 20% concentration limit would be permitted to invest no more than $200 million in a single portfolio company. <a href="#fref03">&#8593;</a></li>
         <li id="fn04">I am aware that some Chinese venture capital funds such as <a href=""></a> have fully invested (with likely substantial reserves for follow-on investments) their committed capital within very short periods of time, but such funds should be considered as outliers in the global venture capital industry. <a href="#fref04">&#8593;</a></li>
-        <li id="fn05">In general, non-solicit and non-compete clauses create complications for the fund sponsor as well, as it can restrict the fund sponsor from considering other investment opportunities in the same industry and/or geography. <a href="#fref05">&#8593;</a></li>
+        <li id="fn05">In general, non-solicit and non-compete clauses create complications for the fund sponsor as well, as it can restrict the fund sponsor from considering other investment opportunities in the same industry and/or geographical region. <a href="#fref05">&#8593;</a></li>
     </ol>
 </div>
