@@ -95,7 +95,7 @@ A co-investor and their counsel should pay attention to the terms of the confide
 
 The co-investor, if it has an active co-investment practice, should be cautious about agreeing to any form of _exclusivity_ with the sponsor at the stage of signing a confidentiality agreement, particularly if a portfolio company has received bids from more than one sponsor. A co-investor may, if it is not careful, find itself bound to an exclusive relationship with one of the losing bidders and be subsequently unable to negotiate for a co-investor position with the winning bidder. This happened to my firm in one of its potential co-investments in a highly regulated industry in Asia a few years ago, where the investment team came to an initial opinion that it would be unlikely to invest with any other sponsor due to the specialized knowledge needed to succeed in that industry and country. When the first sponsor failed to secure the deal, a second investment team in my firm came to a different conclusion and decided that it would like to work with a second sponsor, only to find that it had bound itself to exclusivity with the first (losing) sponsor.
 
-## Due Diligence for Prospective Co-investors
+### Due Diligence for Prospective Co-investors
 
 The due diligence process for a co-investment will differ from that which might be expected for a direct investment or for a fund investment; indeed, one can say that it is a midway point between the two. Compared to due diligence on a direct investment that the co-investor is making, it will necessarily be less comprehensive. Compared to due diligence on a fund investment, it will necessarily include a substantial analysis of the due diligence done by the sponsor on the portfolio company. 
 
