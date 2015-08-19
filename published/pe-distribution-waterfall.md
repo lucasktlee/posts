@@ -108,12 +108,12 @@ Now let’s trace how this would flow through the deal-by-deal distribution wate
     <tr>
         <th>Step 3: Payment of catch-up to fund sponsor</th>
         <td class="right">0.00</td>
-        <td class="right">4.20</td>
+        <td class="right">5.04</td>
     </tr>
     <tr>
         <th>Step 4: Payment of carried interest</th>
-        <td class="right">87.99</td>
-        <td class="right">22.00</td>
+        <td class="right">87.32</td>
+        <td class="right">21.83</td>
     </tr>
 </table>
 
@@ -200,12 +200,12 @@ Now, let’s look at how the cash from disposing of A flows through the whole fu
     <tr>
         <th>Step 3: Payment of catch-up to fund sponsor</th>
         <td>0.00</td>
-        <td>5.91</td>
+        <td>7.09</td>
     </tr>
     <tr>
         <th>Step 4: Payment of carried interest</th>
-        <td>38.82</td>
-        <td>9.71</td>
+        <td>37.87</td>
+        <td>9.47</td>
     </tr>
 </table>
 
