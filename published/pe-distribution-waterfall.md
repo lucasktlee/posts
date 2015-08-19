@@ -22,7 +22,7 @@ I have put together a more formal version (i.e. something that might well be fou
 
 ### Example 
 
-A worked example may make it easier to understand what is going on. Let’s start by setting up the following scenario. It is currently Year 4, and the Demosthenes Fund (a $200 million private equity fund that uses a deal-by-deal waterfall) has made three investments, conveniently labeled A (invested $50 million in Year 1), B (invested $10 million in Year 2), and C (invested $40 million in Year 3). In Year 3, the investment in B was written-off. In Year 4, Demosthenes sold A to another private equity fund, Ender Capital Fund, for $200 million. Demosthenes charges a two percent management fee on committed capital during its five-year investment period. There are no other fund expenses that were charged to the investors. The table below may make it easier to follow this.
+A worked example may make it easier to understand what is going on. Let’s start by setting up the following scenario. It is currently Year 4, and the Demosthenes Fund (a $200 million private equity fund that uses a deal-by-deal waterfall) has made three investments, conveniently labeled A (invested $50 million at the beginning of Year 1), B (invested $10 million at the beginning of Year 2), and C (invested $40 million at the beginning of Year 3). At the beginning of Year 3, the investment in B was written-off. At the end Year 4, Demosthenes sold A to another private equity fund, Ender Capital Fund, for $200 million. Demosthenes charges a two percent management fee on committed capital during its five-year investment period. There are no other fund expenses that were charged to the investors. The table below may make it easier to follow this.
 
 <table class="striped">
     <caption>Four Year Cash Flows for Demosthenes Fund</caption>
@@ -130,7 +130,7 @@ Similar to the position for the deal-by-deal waterfall, I have put together a mo
 
 ### Example 
 
-Let’s start by setting up the following scenario. It is currently Year 4, and the Locke Fund (a $200 million private equity fund that uses a whole fund waterfall) has made three investments, conveniently labeled A (invested $50 million at the beginning of Year 1), B (invested $10 million at the beginning of Year 2), and C (invested $40 million at the beginning of Year 3). In Year 3, the investment in B was written-off. In Year 4, Locke sold A to another private equity fund, Bean Growth Fund, for $200 million. Locke charges a two percent management fee on committed capital during its five-year investment period. There are no other fund expenses that were charged to the investors. The table below may make it easier to follow this.
+Let’s start by setting up the following scenario. It is currently Year 4, and the Locke Fund (a $200 million private equity fund that uses a whole fund waterfall) has made three investments, conveniently labeled A (invested $50 million at the beginning of Year 1), B (invested $10 million at the beginning of Year 2), and C (invested $40 million at the beginning of Year 3). At the beginning of Year 3, the investment in B was written-off. At the end of Year 4, Locke sold A to another private equity fund, Bean Growth Fund, for $200 million. Locke charges a two percent management fee on committed capital during its five-year investment period. There are no other fund expenses that were charged to the investors. The table below may make it easier to follow this.
 
 <table class="striped">
     <caption>Four Year Cash Flows for Locke Fund</caption>
