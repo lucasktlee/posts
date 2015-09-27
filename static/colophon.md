@@ -7,7 +7,7 @@
 
 No design emerges, like Athena, fully-formed from the mind of its creator. I drew inspiration from a number of sources when designing this blog, and in the spirit of full disclosure, I want to acknowledge the influences that have shaped this design.
 
-This blog is inspired, in part, by [Mark Boulton](http://www.markboulton.co.uk/), whose writings on typographic scales and grids influenced how I approached the typesetting and typographic layout. It also draws inspiration from the long-form article layout at [Medium](http://medium.com/), which I find to be one of the better approaches to displaying long-form content on the web. I first spotted the circular, centered profile photo on Garrett Murray's [blog](http://log.maniacalrage.net/) quite some time ago, and loved it so much that I decided to incorporate it into this design. The [Clonium](https://github.com/cparaiso/clonium/) theme from [Chris Paraiso](http://blog.chrisparaiso.com/) also provided a starting point for me when trying to craft a minimalist custom theme for Ghost. 
+This blog draws some of its inspiration from Dan Cederholm’s [SimpleBits](http://simplebits.com/), which remains a timeless example of minimalist elegance. It is also shaped by [Mark Boulton](http://www.markboulton.co.uk/)’s excellent guide to typography, which first showed me the importance of vertical rhythms and proper use of ligatures, hanging punctuation (which, alas, is still difficult to do consistently on the web without using Javascript), and proper typographic hierarchy. I also borrowed Boulton’s single-column content layout. The circular profile picture was borrowed from an earlier version of Garrett Murray’s [Maniacal Rage](http://log.maniacalrage.net/). 
 
 ### Typography 
 
@@ -17,6 +17,8 @@ The headings on this blog are typeset in [Gotham](http://www.typography.com/font
 
 Parenthetically, I _am_ aware that Gotham was the signature font of the Obama 2008 and 2012 presidential campaigns, while the Romney 2012 campaign used [Mercury Display](http://www.typography.com/fonts/mercury-display/overview/)—the inspiration for Mercury Text—for its headlines. What can I say? I like the contradiction. 
 
+The typographic scale was constructed using the excellent classical typographic scale, as recorded by Bringhurst in <cite>The Elements of Typographic Style</cite>, with some interpolations to fill in certain gaps in the classical scale, as suggested by [Spencer Mortensen](http://spencermortensen.com).
+
 ### Technical Details 
 
 **Warning:** Contains serious geekery. Read on at your peril.
@@ -25,8 +27,8 @@ This weblog is powered by [Ghost](https://ghost.org/), a dedicated blogging tool
 
 The fonts used on this site are served through [Cloud.typography](http://www.typography.com/cloud/welcome/), a web fonts service from Hoefler & Co.
 
-The theme used for this blog is a custom minimalist theme, called Sisirinah, that I created specifically for this blog. The source code for this theme is available (for reference and learning purposes only) on [GitHub](https://github.com/lucasktlee/sisirinah).
+The theme used for this blog is a custom minimalist theme, called Aenea, that I created specifically for this blog. The source code for this theme is available (for reference and learning purposes only) on [GitHub](https://github.com/lucasktlee/aenea).
 
-In keeping with the whole node.js theme, I use [stylus](http://learnboost.github.io/stylus/) as my <abbr title="Cascading Style Sheets">CSS</abbr> preprocessor. Ghost uses the excellent (if slightly more verbose than I would like) [Handlebars](http://handlebarsjs.com) templating language for its templates. I use [Picturefill](http://scottjehl.github.io/picturefill/) for responsive images.
+I use [Sass](http://sass-lang.com/) as my <abbr title="Cascading Style Sheets">CSS</abbr> preprocessor. (The previous theme used [stylus](https://learnboost.github.io/stylus/), but I found myself drawn to the more active community of Sass users because I did not want to have to re-invent the wheel on a regular basis.) Ghost uses the excellent (if slightly more verbose than I would like) [Handlebars](http://handlebarsjs.com) templating language for its templates. I use [Picturefill](http://scottjehl.github.io/picturefill/) for responsive images.
 
 The code for this blog is written in [Sublime Text](http://www.sublimetext.com/) on an [Apple Mac](http://www.apple.com/mac/). Posts are written with [Sublime Text](http://www.sublimetext.com/) on a Mac. 

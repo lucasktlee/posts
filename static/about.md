@@ -1,6 +1,6 @@
 <p class="lede">Hi, my name is Lucas K.T. Lee. I’m a technology enthusiast, former private equity lawyer, and current MBA student.</p>
 
-Since August 2014, I have been a MBA candidate at [Wharton](http://www.wharton.upenn.edu/mba/), where I am focusing on entrepreneurial management and finance. I am interning at [Polymath Ventures](http://www.polymathv.com/) in Bogotá, Colombia, for the summer of 2015. At Polymath, my focus is on fundraising strategy and execution for their portfolio companies and their first investment fund vehicle.
+Since August 2014, I have been a MBA candidate at [Wharton](http://www.wharton.upenn.edu/mba/), where I am focusing on entrepreneurial management and finance. I interned at [Polymath Ventures](http://www.polymathv.com/) in Bogotá, Colombia, for the summer of 2015. At Polymath, my focus was on fundraising strategy and execution for their first investment fund vehicle and their portfolio companies. 
 
 Before becoming a MBA candidate at Wharton, I was a private equity lawyer at a Swiss private equity firm, [Partners Group](http://www.partnersgroup.com/), where I structured infrastructure, private equity, and real estate investments in Asia, built the firm’s Asia-Pacific legal team from 2010 to 2014, and worked on a number of other strategic projects including the firm's China expansion in 2013. 
 
