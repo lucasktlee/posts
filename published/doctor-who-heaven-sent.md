@@ -1,6 +1,6 @@
 <p class="lede">I remember the first time I watched “Heaven Sent”, the 11th episode of the 9th series of <cite>Doctor Who</cite>. I remembered thinking, as I watched it, that this was one of the finest works to have emerged from British television in the last ten years. That opinion has not changed after a second and third viewing.</p>
 
-<div style="margin-left: auto; margin-right: auto; max-width: 41.4rem">
+<div class="image" style="margin-left: auto; margin-right: auto; max-width: 41.4rem">
     <picture class="m">
         <source media="(min-width: 56.3125em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-poster-m.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-poster-m-@2x.jpg 2x" />
         <source media="(min-width: 37.5625em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-poster-m.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-poster-m-@2x.jpg 2x" />
@@ -28,7 +28,7 @@ But more importantly, there are lines that make you _feel._ Moffat has always ha
 
 > The day you lose someone isn’t the worst, at least you’ve got something to do. It’s all the days they stay dead. 
 
-<div>
+<div class="image">
     <picture class="l">
         <source media="(min-width: 56.3125em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-l.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-l-@2x.jpg 2x" />
         <source media="(min-width:35.5626em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-m.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-m-@2x.jpg 2x" />
@@ -46,7 +46,7 @@ This is a “bottle episode”, and one in which there is effectively only one a
 
 We can believe that this is a man who has just lost someone very dear to him, and is now faced with a no-win scenario where he must suffer, and suffer, and suffer for billions of years, for the slim chance of being able to escape his prison and find those responsible. 
 
-<div>
+<div class="image">
     <picture class="l">
         <source media="(min-width: 56.3125em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-l.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-l-@2x.jpg 2x" />
         <source media="(min-width:35.5626em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-m.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-m-@2x.jpg 2x" />
@@ -60,7 +60,7 @@ Capaldi has a face that seems made for rage, with a fierceness that was lacking 
 
 We see his despair, his hopelessness, as he slumps against a wall made of something “400 times harder than diamond”, and contemplates how long it will take him to break through it, with nothing but his bare hands. 
 
-<div>
+<div class="image">
     <picture class="l">
         <source media="(min-width: 56.3125em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-l.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-l-@2x.jpg 2x" />
         <source media="(min-width:35.5626em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-m.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-m-@2x.jpg 2x" />
