@@ -29,8 +29,8 @@ The <abbr>SPA</abbr> is divided into several parts (often referred to as “arti
     </tr>
     <tr>
         <td>Representations and Warranties</td>
-        <td>Representations and warranties made by, among others, the purchaser(s), the seller(s), and the target company. The representations and warranties will be qualified by specific disclosures made in a separate disclosure schedule, such that the </td>
-        <td>The representations and warranties are one of the most negotiated sections of an <abbr>SPA</abbr>. Representations are statements of fact or opinion about something. Warranties are assurances or promises regarding something. There are <em>legal</em> distinctions between the two,<sup><a href="#fn02" id="fref02">2</sup> and these legal distinctions can result in different remedies being available if there is a breach. As a general rule, I would expect to see more significant </td>
+        <td>Representations and warranties made by, among others, the purchaser(s), the seller(s), and the target company. The representations and warranties will be qualified by specific disclosures made in a separate disclosure schedule.</td>
+        <td>The representations and warranties are one of the most negotiated sections of an <abbr>SPA</abbr>. Representations are statements of fact or opinion about something. Warranties are assurances or promises regarding something. There are <em>legal</em> distinctions between the two,<sup><a href="#fn02" id="fref02">2</a></sup> and these legal distinctions can result in different remedies being available if there is a breach.</td>
     </tr>
     <tr>
         <td>Covenants</td>
@@ -50,7 +50,7 @@ The <abbr>SPA</abbr> is divided into several parts (often referred to as “arti
     <tr>
         <td>Termination</td>
         <td>How and when a party to the <abbr>SPA</abbr> can terminate the transaction(s) and walk away from selling or buying the target company, and the consequences of terminating the transaction(s), including any break-up or reverse break-up fees associated with walking away.</td>
-        <td></td>
+        <td>This is another heavily negotiated section of the <abbr>SPA</abbr>. It can be a difficult topic to discuss, and one that often ends up being negotiated by seller(s)’ and purchaser(s)’ attorneys to limit the relationship damage that might occur if the parties discussed this directly.</td>
     </tr>
     <tr>
         <td>Miscellaneous</td>
@@ -68,6 +68,11 @@ In a negotiated sale, the _purchaser(s)’_ attorneys will prepare the first dra
 I think of the <abbr>SPA</abbr> as a bundle of trade-offs. Each part of the <abbr>SPA</abbr> can be tailored to favor the seller(s) or the purchaser(s). Often, unless negotiating power is very significantly skewed towards one party, the parties will make trade-offs that reflect the value they place on different rights and obligations. 
 
 Because it is a bundle of trade-offs, it is important to understand each part of the <abbr>SPA</abbr>. Only then can one see where there is room to give and take in the negotiation of the <abbr>SPA</abbr>, and thus close the transaction.   
+
+## Other Posts in the <abbr>SPA</abbr> Series
+
+* Stock Purchase Agreement Series — Overview
+* [Stock Purchase Agreement Series — Purchase Price](https://lucasktlee.com/2016/04/04/spa-series-purchase-price/) 
 
 <div class="footnotes">
     <hr class="w-50"/>
