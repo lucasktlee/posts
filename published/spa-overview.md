@@ -73,6 +73,7 @@ Because it is a bundle of trade-offs, it is important to understand each part of
 
 * Stock Purchase Agreement Series — Overview
 * [Stock Purchase Agreement Series — Purchase Price](https://lucasktlee.com/2016/04/04/spa-series-purchase-price/) 
+* [Stock Purchase Agreement Series — Representations and Warranties](http://lucasktlee.com/2016/04/25/spa-representations-and-warranties/)
 
 <div class="footnotes">
     <hr class="w-50"/>

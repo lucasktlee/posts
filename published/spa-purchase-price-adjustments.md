@@ -1,6 +1,6 @@
-<p class="lede"></p>
+<p class="lede">Negotiating purchase prices for private equity transactions can be an experience rather similar to being in a boxing ring. They are also often the subject of very lengthy and complex legal language in the stock purchase agreement.</p>
 
-The stock purchase agreement provisions relating to the purchase price are some of the most complex and heavily negotiated provisions in a private equity stock purchase agreement. While almost every private equity transaction will be paid for in cash–thereby obviating the need to negotiate over whether the purchase price will be paid in cash, stock of the purchaser(s), or some combination thereof—the selller(s) and purchaser(s) will nevertheless spend a lot of time negotiating over the quantum and any adjustments thereto, the timing, and the existence of any post-completion earn-outs for the seller(s).
+The stock purchase agreement provisions relating to the purchase price are some of the most complex and heavily negotiated provisions in a private equity stock purchase agreement. While almost every private equity transaction will be paid for in cash–thereby obviating the need to negotiate over whether the purchase price will be paid in cash, stock of the purchaser(s), or some combination thereof—the seller(s) and purchaser(s) will nevertheless spend a lot of time negotiating over the quantum and any adjustments thereto, the timing, and the existence of any post-completion earn-outs for the seller(s).
 
 ## 1. The Threshold Question: Completion Accounts or Locked Box
 
@@ -164,6 +164,7 @@ While I have tried to give sufficient detail to this post, I could, conceivably,
 
 * [Stock Purchase Agreement Series — Overview](https://lucasktlee.com/2016/03/25/stock-purchase-agreement-series-overview/)
 * Stock Purchase Agreement Series — Purchase Price 
+* [Stock Purchase Agreement Series — Representations and Warranties](http://lucasktlee.com/2016/04/25/spa-representations-and-warranties/)
 
 <div class="footnotes">
     <hr class="w-50"/>
