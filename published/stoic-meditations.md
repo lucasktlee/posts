@@ -6,6 +6,8 @@ Nothing could be further from the truth.
 
 Stoicism, as practiced by the Romans, is a practical philosophy for _serenity._ 
 
+On this day, my last day of classes at [Wharton](https://www.wharton.upenn.edu/), it seems appropriate to draw on Stoicism for inspiration. 
+
 ## There is only now
 
 > Forget everything else. Keep hold of this alone and remember it: Each of us lives only
