@@ -18,7 +18,7 @@ Let’s look at the deal-by-deal waterfall first. In essence, a deal-by-deal wat
 3. Next, any cash inflows from a realized investment in excess of the amount paid in steps 1 and 2 is paid to the fund sponsor until it has received an amount equal to 20 percent of the amount paid to the investors in step 2 and 3.
 4. Finally, any cash inflows from a realized investment in excess of the amount paid in steps 1, 2, and 3 is split between the fund sponsor (20 percent) and the investors (80 percent).
 
-I have put together a more formal version (i.e. something that might well be found in a typical limited partnership agreement (**“LPA”**)) in this <acronym>PDF</acronym>: [Sample Deal-by-Deal Waterfall Clause](http://media.lucasktlee.com/files/pdf/sample-pe-deal-by-deal-waterfall.pdf). The purpose of this is to show you what your average law firm tends to do with the simplified form I wrote in this post, as well, as to highlight the fact that there are quite a few subtleties to this which we will not go into, but which skilled private equity fund sponsors and their counsel will negotiate extensively with skilled investors.
+I have put together a more formal version (i.e. something that might well be found in a typical limited partnership agreement (**“LPA”**)) in this <acronym>PDF</acronym>: [Sample Deal-by-Deal Waterfall Clause](https://media.lucasktlee.com/files/pdf/sample-pe-deal-by-deal-waterfall.pdf). The purpose of this is to show you what your average law firm tends to do with the simplified form I wrote in this post, as well, as to highlight the fact that there are quite a few subtleties to this which we will not go into, but which skilled private equity fund sponsors and their counsel will negotiate extensively with skilled investors.
 
 ### Example 
 
@@ -126,7 +126,7 @@ Now, on to the whole fund waterfall. In essence, it looks something like this: (
 3. Next, any cash inflows from a realized investment in excess of the amount paid in steps 1 and 2 is paid to the fund sponsor until it has received an amount equal to 20 percent of the amount paid to the investors in step 2 and step 3.
 4. Finally, any cash inflows from a realized investment in excess of the amount paid in steps 1, 2, and 3 is split between the fund sponsor (20 percent) and the investors (80 percent).
 
-Similar to the position for the deal-by-deal waterfall, I have put together a more formal version in a <acronym>PDF</acronym>: [Sample Whole Fund Waterfall Clause](http://media.lucasktlee.com/files/pdf/sample-pe-whole-fund-waterfall.pdf).
+Similar to the position for the deal-by-deal waterfall, I have put together a more formal version in a <acronym>PDF</acronym>: [Sample Whole Fund Waterfall Clause](https://media.lucasktlee.com/files/pdf/sample-pe-whole-fund-waterfall.pdf).
 
 ### Example 
 

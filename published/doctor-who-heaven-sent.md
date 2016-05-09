@@ -2,9 +2,9 @@
 
 <div class="image" style="margin-left: auto; margin-right: auto; max-width: 41.4rem">
     <picture class="m">
-        <source media="(min-width: 56.3125em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-poster-m.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-poster-m-@2x.jpg 2x" />
-        <source media="(min-width: 37.5625em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-poster-m.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-poster-m-@2x.jpg 2x" />
-        <img alt="Doctor Who, Heaven Sent Poster" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-poster-s.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-poster-s-@2x.jpg 2x" src="http://media.lucasktlee.com/files/img/20160101-dw-hs-poster-s.jpg" />
+        <source media="(min-width: 56.3125em)" srcset="https://media.lucasktlee.com/files/img/20160101-dw-hs-poster-m.jpg, https://media.lucasktlee.com/files/img/20160101-dw-hs-poster-m-@2x.jpg 2x" />
+        <source media="(min-width: 37.5625em)" srcset="https://media.lucasktlee.com/files/img/20160101-dw-hs-poster-m.jpg, https://media.lucasktlee.com/files/img/20160101-dw-hs-poster-m-@2x.jpg 2x" />
+        <img alt="Doctor Who, Heaven Sent Poster" srcset="https://media.lucasktlee.com/files/img/20160101-dw-hs-poster-s.jpg, https://media.lucasktlee.com/files/img/20160101-dw-hs-poster-s-@2x.jpg 2x" src="https://media.lucasktlee.com/files/img/20160101-dw-hs-poster-s.jpg" />
     </picture>
 </div>
 
@@ -30,9 +30,9 @@ But more importantly, there are lines that make you _feel._ Moffat has always ha
 
 <div class="image">
     <picture class="l">
-        <source media="(min-width: 56.3125em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-l.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-l-@2x.jpg 2x" />
-        <source media="(min-width:35.5626em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-m.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-m-@2x.jpg 2x" />
-        <img alt="The Doctor sits alone, contemplating a portrait of the woman he has lost." srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-s.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-s-@2x.jpg 2x" src="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-s.jpg" />
+        <source media="(min-width: 56.3125em)" srcset="https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-l.jpg, https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-l-@2x.jpg 2x" />
+        <source media="(min-width:35.5626em)" srcset="https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-m.jpg, https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-m-@2x.jpg 2x" />
+        <img alt="The Doctor sits alone, contemplating a portrait of the woman he has lost." srcset="https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-s.jpg, https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-s-@2x.jpg 2x" src="https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-s.jpg" />
     </picture> 
 </div>
 
@@ -48,9 +48,9 @@ We can believe that this is a man who has just lost someone very dear to him, an
 
 <div class="image">
     <picture class="l">
-        <source media="(min-width: 56.3125em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-l.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-l-@2x.jpg 2x" />
-        <source media="(min-width:35.5626em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-m.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-m-@2x.jpg 2x" />
-        <img alt="" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-s.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-s-@2x.jpg 2x" src="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-s.jpg" />
+        <source media="(min-width: 56.3125em)" srcset="https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-l.jpg, https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-l-@2x.jpg 2x" />
+        <source media="(min-width:35.5626em)" srcset="https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-m.jpg, https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-m-@2x.jpg 2x" />
+        <img alt="" srcset="https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-s.jpg, https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-rage-s-@2x.jpg 2x" src="https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-s.jpg" />
     </picture> 
 </div>
 
@@ -62,9 +62,9 @@ We see his despair, his hopelessness, as he slumps against a wall made of someth
 
 <div class="image">
     <picture class="l">
-        <source media="(min-width: 56.3125em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-l.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-l-@2x.jpg 2x" />
-        <source media="(min-width:35.5626em)" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-m.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-m-@2x.jpg 2x" />
-        <img alt="" srcset="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-s.jpg, http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-s-@2x.jpg 2x" src="http://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-s.jpg" />
+        <source media="(min-width: 56.3125em)" srcset="https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-l.jpg, https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-l-@2x.jpg 2x" />
+        <source media="(min-width:35.5626em)" srcset="https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-m.jpg, https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-m-@2x.jpg 2x" />
+        <img alt="" srcset="https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-s.jpg, https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-despair-s-@2x.jpg 2x" src="https://media.lucasktlee.com/files/img/20160101-dw-hs-pc-stay-dead-s.jpg" />
     </picture> 
 </div>
 

@@ -152,7 +152,7 @@ The purchaser(s), on the other hand, will argue that sandbagging is necessary fo
 The stock purchase agreement can expressly _permit_ sandbagging, expressly _prohibit_ sandbagging, or remain _silent_ with respect to sandbagging and allow the laws of the jurisdiction that govern the stock purchase agreement to decide. The last broad industry data point for U.S. M&A transactions involving private companies was the <abbr title="American Bar Association">[ABA](http://www.americanbar.org/aba.html)</abbr> survey in 2013 (covering transactions done in 2012), which shows that staying silent is the most common approach, followed by pro-sandbagging provisions.<sup><a href="#fn12" id="fref12">12</a></sup> 
 
 <table class="condensed striped" id="table01">
-    <caption><span>Table 1:</span> Sandbagging Provisions in Stock Purchase Agreements (Source: ABA 2013 Private Target M&amp;A Deal Points Study</caption>
+    <caption><span>Table 1:</span> Sandbagging Provisions in Stock Purchase Agreements (Source: <abbr>ABA</abbr> 2013 Private Target M&#38;A Deal Points Study)</caption>
     <tr>
         <th>Position of Acquisition Agreement on Sandbagging</th>
         <th>Percentage (%)</th>
@@ -189,8 +189,9 @@ And we are through the mine field. Or at least, the tiny section of the minefiel
 ## Other Posts in the <abbr>SPA</abbr> Series
 
 * [Stock Purchase Agreement Series — Overview](https://lucasktlee.com/2016/03/25/stock-purchase-agreement-series-overview/)
-* [Stock Purchase Agreement Series — Purchase Price]()
+* [Stock Purchase Agreement Series — Purchase Price](https://lucasktlee.com/2016/04/04/spa-series-purchase-price/)
 * Stock Purchase Agreement Series — Representations and Warranties 
+* [Stock Purchase Agreement Series — Indemnities]()
 
 
 <div class="footnotes">
