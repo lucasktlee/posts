@@ -191,7 +191,7 @@ And we are through the mine field. Or at least, the tiny section of the minefiel
 * [Stock Purchase Agreement Series — Overview](https://lucasktlee.com/2016/03/25/stock-purchase-agreement-series-overview/)
 * [Stock Purchase Agreement Series — Purchase Price](https://lucasktlee.com/2016/04/04/spa-series-purchase-price/)
 * Stock Purchase Agreement Series — Representations and Warranties 
-* [Stock Purchase Agreement Series — Indemnities]()
+* [Stock Purchase Agreement Series — Indemnities](https://lucasktlee.com/2016/05/09/stock-purchase-agreement-series-indemnities/#representationsandwarrantiesinsurance)
 
 
 <div class="footnotes">

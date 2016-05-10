@@ -165,7 +165,7 @@ While I have tried to give sufficient detail to this post, I could, conceivably,
 * [Stock Purchase Agreement Series — Overview](https://lucasktlee.com/2016/03/25/stock-purchase-agreement-series-overview/)
 * Stock Purchase Agreement Series — Purchase Price 
 * [Stock Purchase Agreement Series — Representations and Warranties](https://lucasktlee.com/2016/04/25/spa-representations-and-warranties/)
-* [Stock Purchase Agreement Series — Indemnities]()
+* [Stock Purchase Agreement Series — Indemnities](https://lucasktlee.com/2016/05/09/stock-purchase-agreement-series-indemnities/#representationsandwarrantiesinsurance)
 
 <div class="footnotes">
     <hr class="w-50"/>

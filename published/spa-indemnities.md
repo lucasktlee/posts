@@ -8,7 +8,7 @@ As might be expected, all of the above _will_ be negotiated extensively, and a g
 
 ## The Components of an Indemnity Provision 
 
-An indemnity provision in a stock purchae agreement consists of several components: 
+An indemnity provision in a stock purchase agreement consists of several components: 
 
 * The scope of the indemnities 
 * The parties entitled to indemnification
