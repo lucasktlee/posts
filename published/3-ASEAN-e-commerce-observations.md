@@ -1,10 +1,8 @@
-<p class="lede">E-commerce in Southeast Asia is <em>hot.</em> It is also extremely complicated and fragmented, with no clear winner in sight, yet.</p>
+<p class="lede">E-commerce in Southeast Asia is <em>hot.</em> It is also extremely complicated and fragmented, with no clear winner in sight, yet. I offer a few brief thoughts, from the perspective of someone native to Southeast Asia but who has spent the better part of 15 years in the United States, Australia, Western Europe and Latin America.</p>
 
 Since joining a private equity firm a long, long time ago (but not, alas, in a galaxy far, far away), I have developed a fairly poor opinion of the efficacy of consultants, particularly in the area of _predictions._<sup><a href="#fn01" id="fref01">1</a></sup> I am also skeptical of their strategy and policy recommendations. Yet, I do admit that they can do good work in _collecting and summarizing data,_ which can be very useful when trying to understand what is going on in a particular region.
 
 Recently, I‘ve been researching and thinking about e-commerce in Southeast Asia and the challenges it faces. One of the better reports on this topic that I’ve read has been a February 2015 report by [ATKearney](https://www.atkearney.com/consumer-products-retail/ideas-insights/lifting-the-barriers-to-e-commerce-in-asean).
-
-Reading this report has led me to spend some time thinking about e-commerce in my home region, from the perspective of someone who has seen a few different parts of the world in the last 15 years.
 
 ## Overview
 
@@ -36,7 +34,7 @@ Moreover, this fragmentation poses a strategic question for startups and establi
 
 Southeast Asia has largely leapfrogged to mobile, with most online access being made through smartphones and tablets rather than desktops and laptops. The high level of mobile penetration reflects the poor fixed broadband connectivity in many parts of Southeast Asia outside of Singapore.
 
-<table class="" id="table01">
+<table class="condensed striped" id="table01">
 	<caption><span>Table 1:</span> Mobile Penetration in Founding <abbr>ASEAN</abbr> Countries</caption>
 	<tr>
 		<th>Country</th>
