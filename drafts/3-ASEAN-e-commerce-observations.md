@@ -74,9 +74,11 @@ While mobile penetration is high, one must note that _e-commerce_ penetration re
 
 ### Payment and Logistics
 
-Logistics in Southeast Asia is a work in progress. Geography and the natural environment pose challenges. The region includes Indonesia and the Philippines, both of which are archipelagoes, and nations with dense tropical rainforests such as Malaysia, Myanmar, Thailand, Vietnam, Cambodia and Laos. Rail, road and maritime transportation are works in progress. The last-mile delivery of goods purchased online is also challenging, particularly outside of the urban centers.
+It is trite to say this, but if a customer can’t take delivery of the goods he or she orders within a reasonably short period of time, there won’t be a sale. As such, getting the logistics part of the equation right is crucial not just in Southeast Asia but in every region of the world.
 
-If that weren’t enough, there is no common market with free flow of goods among the <abbr>ASEAN<</abbr> countries yet.
+Logistics in Southeast Asia is a work in progress. Geography and the natural environment pose challenges. The region includes Indonesia and the Philippines, both of which are archipelagoes, and nations with dense tropical rainforests such as Malaysia, Myanmar, Thailand, Vietnam, Cambodia and Laos. Rail, road and maritime transportation are works in progress. The last-mile delivery of goods purchased online is also challenging, particularly outside of the urban centers, given the poor quality of the roads and the fact that some small villages may not even have addresses for postal deliveries.
+
+If that weren’t enough, there is no common market with free flow of goods among the <abbr>ASEAN</abbr> countries yet. As such, goods crossing from one <abbr>ASEAN</abbr> member state to another are likely to require customs clearances and possibly the payment of import duties or other equivalent taxes prior to entry.
 
 
 
