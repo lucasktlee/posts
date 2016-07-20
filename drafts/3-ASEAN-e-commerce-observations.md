@@ -28,7 +28,7 @@ The _differences_ among the Southeast Asian countries and between Southeast Asia
 
 Indeed, when hiring to fill positions in its private equity and infrastructure investment teams in Southeast Asia, a key criterion Partners Group used was investing and/or operating experience in Southeast Asia. The same applies, with even greater urgency, to startups and established multinational corporations: their management teams must be local, and must _understand_ at an almost bone-deep level the conditions on the ground.
 
-Moreover, this fragmentation poses a strategic question for startups and established multinational corporations alike: Should it attempt to enter all the major Southeast Asian countries simultaneously, or focus its attention on gaining market share in one country in Southeast Asia before expanding to other countries.
+Moreover, this fragmentation poses a strategic question for startups and established multinational corporations alike: Should it attempt to enter all the major Southeast Asian countries simultaneously, or focus its attention on gaining market share in one country in Southeast Asia before expanding to other countries. Indeed, when I was at the Wharton Global Forum in Kuala Lumpur in March 2016, I had the great pleasure to hear some Southeast Asian entrepreneurs and venture capitalists discuss this precise issue, in the context of startups deciding whether to go regional from the start, or to start in one country and expand.
 
 ### Mobile
 
@@ -80,11 +80,15 @@ Logistics in Southeast Asia is a work in progress. Geography and the natural env
 
 If that weren’t enough, there is no common market with free flow of goods among the <abbr>ASEAN</abbr> countries yet. As such, goods crossing from one <abbr>ASEAN</abbr> member state to another are likely to require customs clearances and possibly the payment of import duties or other equivalent taxes prior to entry.
 
+Finally, traditional warehouses and logistics firms in Southeast Asia are not set up for e-commerce transactions, which involve small (often individual) packages that must be sent to individual customers rather than large pallets and containers full of standardized items from one warehouse to another (or to  retail stores).
 
+On the payments side, a lot of ink has already been spilled on this topic, so I’ll confine myself to one observation. While almost 100% of Singapore’s population has a bank account, and Malaysia is not that far off with around 85% of its population having a bank account, the proportion of unbanked citizens in the other <abbr>ASEAN</abbr> countries is significantly higher (greater than 50% in most cases).
+
+As such, e-commerce in Southeast Asia depends a lot more on cash-on-delivery terms and local pickups from pre-agreed locations, rather than online payment (via credit card) and door-to-door delivery.
 
 ## Conclusion
 
-
+E-commerce in Southeast Asia is fascinating—it has in many ways leapfrogged a great many developments in the United States, Western Europe, and China. It is not an easy region to understand without actually living in the region.
 
 <div class="footnotes">
 	<hr class="w-50" />
