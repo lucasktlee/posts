@@ -1,14 +1,14 @@
-<p class="lede">After navigating the minefield of the <a href="https://lucasktlee.com/2016/04/25/spa-representations-and-warranties/">representations and warranties</a>, you might be convinced that we have, like <a href="http://www.ancient.eu/odysseus/">Odysseus</a>, reached the shores of Ithaca. Nothing could be further from the truth. We now come to the next heavily negotiated part of the stock purchase agreement: the <em>indemnities</em>.</p>
+<p class="lede">After navigating the minefield of the <a href="https://lucasktlee.com/2016/04/25/spa-representations-and-warranties/">representations and warranties</a>, you might be convinced that we have, like <a href="http://www.ancient.eu/odysseus/">Odysseus</a>, reached the shores of Ithaca. Nothing could be further from the truth. We now come to the next heavily negotiated part of the acquisition agreement: the <em>indemnities</em>.</p>
 
 _What function do the indemnities serve?_
 
-When a contractual clause is breached, the injured party will have a right to bring a legal action against the breaching party, and the court will determine the appropriate quantum of damages to be paid by the breaching party. The problem with letting the court determine the quantum of damages is that it leaves both parties uncertain of what their maximum exposure post-closing will be. Rather than leave the issue to the courts, the parties will negotiate indemnification provisions that specify in exacting detail the types of breaches that will be indemnified, the liability of the respective parties for indemnification, the procedures for claiming indemnification, the time and monetary limits on indemnification, and whether indemnification is the sole remedy for a breach of the stock purchase agreement.
+When a contractual clause is breached, the injured party will have a right to bring a legal action against the breaching party, and the court will determine the appropriate quantum of damages to be paid by the breaching party. The problem with letting the court determine the quantum of damages is that it leaves both parties uncertain of what their maximum exposure post-closing will be. Rather than leave the issue to the courts, the parties will negotiate indemnification provisions that specify in exacting detail the types of breaches that will be indemnified, the liability of the respective parties for indemnification, the procedures for claiming indemnification, the time and monetary limits on indemnification, and whether indemnification is the sole remedy for a breach of the acquisition agreement.
 
-As might be expected, all of the above _will_ be negotiated extensively, and a good private equity investor will pay close attention to this section of the stock purchase agreement, and to his or her counsel’s advice. 
+As might be expected, all of the above _will_ be negotiated extensively, and a good private equity investor will pay close attention to this section of the acquisition agreement, and to his or her counsel’s advice. 
 
 ## The Components of an Indemnity Provision 
 
-An indemnity provision in a stock purchase agreement consists of several components: 
+An indemnity provision in an acquisition agreement consists of several components: 
 
 * The scope of the indemnities 
 * The parties entitled to indemnification
@@ -21,7 +21,7 @@ An indemnity provision in a stock purchase agreement consists of several compone
 
 ### Scope of the Indemnities 
 
-When I say the scope of the indemnities, what I mean is: _What kind of breaches of the stock purchase agreement are indemnified?_ 
+When I say the scope of the indemnities, what I mean is: _What kind of breaches of the acquisition agreement are indemnified?_ 
 
 As a general rule, the following matters will be indemnified by the seller(s):
 
@@ -55,7 +55,7 @@ The indemnities are not “indefinite” (well, except, possibly, for certain fu
 * **Representations and Warranties:** I have [previously discussed](https://lucasktlee.com/2016/04/25/spa-representations-and-warranties/#survivalofrepresentationsandwarranties) the survival period of the representations and warranties and will not repeat myself here. As a general rule, the survival period of the indemnities relating to these representations and warranties will mirror the surival period of the representations and warranties and are negotiated at the same time as the representations and warranties. 
 * **Covenants:** As a general rule, the survival period of the indemnities relating to the covenants will be specified as being the same as the applicable statute of limitations. This can, of course, be altered by the parties, with the seller(s) preferring a shorter survival period and the purchaser(s) preferring a longer survival period. 
 
-To illustrate, I’ve excerpted one example of a survival period provision, drawn from an English law stock purchase agreement that I worked on.<sup><a href="#fn03" id="fref03">3</a></sup>
+To illustrate, I’ve excerpted one example of a survival period provision, drawn from an English law acquisition agreement that I worked on.<sup><a href="#fn03" id="fref03">3</a></sup>
 
 > A Seller shall have no liability for a Claim unless it receives from a Purchaser written notice of such Claim 
 > (a “<u>Claim Notice</u>”) specifying in reasonable detail the matter giving rise to such Claim, the nature of 
@@ -207,7 +207,7 @@ In terms of market data for the U.S. (I am not aware of any comparable studies f
     </tr>        
 </table>
 
-Seller(s), and to a lesser extent purchaser(s), do not want to be bothered with every small claim that might arise from a minor breach of the covenants or representations and warranties in the stock purchase agreement. They will often negotiate what is called a “<span lang="la">de minimis</span>” threshold. Essentially, if your claim is below the <span lang="la">de minimis</span> threshold, you are not entitled to make a claim under the indemnity obligations, because it’s just too small. See, for example, a $25,000 claim on a transaction with a purchase price of $2 billion, essentially a 0.00125% of purchase price claim.
+Seller(s), and to a lesser extent purchaser(s), do not want to be bothered with every small claim that might arise from a minor breach of the covenants or representations and warranties in the acquisition agreement. They will often negotiate what is called a “<span lang="la">de minimis</span>” threshold. Essentially, if your claim is below the <span lang="la">de minimis</span> threshold, you are not entitled to make a claim under the indemnity obligations, because it’s just too small. See, for example, a $25,000 claim on a transaction with a purchase price of $2 billion, essentially a 0.00125% of purchase price claim.
 
 The relevant clause in the acquisition agreement will often look something like the following: 
 
@@ -287,7 +287,7 @@ The procedures for making an indemnification claim can be hotly negotiated, but 
 
 ### Exclusivity of Indemnities as a Remedy
 
-The majority of private equity stock purchase agreements will expressly provide that indemnification is the sole remedy available to the parties, in the form of an “exclusive remedy” clause (see example below). The logic behind this is simple: Why would _anyone_ spend the time and energy to negotiate all of these complex provisions if a party could do an “end-run” around these provisions by bringing a claim under some other remedy in contract law or in tort?
+The majority of private equity acquisition agreements will expressly provide that indemnification is the sole remedy available to the parties, in the form of an “exclusive remedy” clause (see example below). The logic behind this is simple: Why would _anyone_ spend the time and energy to negotiate all of these complex provisions if a party could do an “end-run” around these provisions by bringing a claim under some other remedy in contract law or in tort?
 
 > Except for Claims arising out of or resulting from actual fraud, from and after the Completion Date, the sole
 > and exclusive remedy for any breach or failure to be true and correct, or alleged breach or failure to be true 
@@ -295,7 +295,7 @@ The majority of private equity stock purchase agreements will expressly provide 
 > nonfulfillment, of any covenant or agreement in this Agreement, shall be indemnification in accordance with this
 > section.
 
-I should note that in general, the purchaser(s) are more likely to resist having an exclusive remedy clause in the stock purchase agreement. They usually do not get their way, as can be seen by the data from the <abbr title="American Bar Association">ABA</abbr>, which shows a trend towards indemnification being the exclusive remedy in the stock purchase agreement:
+I should note that in general, the purchaser(s) are more likely to resist having an exclusive remedy clause in the acquisition agreement. They usually do not get their way, as can be seen by the data from the <abbr title="American Bar Association">ABA</abbr>, which shows a trend towards indemnification being the exclusive remedy in the acquisition agreement:
 
 <table class="condensed striped" id="table04">
     <caption><span>Table 4:</span> U.S. M&#38;A Transactions with Indemnification as Exclusive Remedy (Source: <abbr>ABA</abbr> 2011 Private Target M&#38;A Deal Points Study)</caption>
@@ -325,15 +325,15 @@ I should note that in general, the purchaser(s) are more likely to resist having
     </tr>
 </table>
 
-While indemnities will often be the exclusive remedy, the parties will often negotiate to exempt fraud from the operation of the indemnity clause (see example above). In other words, if there is a claim that one party fraudulently induced the other party to enter the transaction, the claim is not limited by the indemnities provisions in the stock purchase agreement, but instead can be brought under relevant tort or contract law principles, with the potential for a court sanctioned unwinding of the transaction (“rescission”) in some cases. While the fraud exception is reasonably common, and its absence can be a signaling mechanism suggesting that further diligence is justified,<sup><a href="#fn07" id="fref07">7</a></sup> it is my view (and the view of some eminent transactional lawyers) that a fraud exception ought to be carefully drafted, such that it refers to intentional misrepresentations by specified persons relating to the representations and warranties in the stock purchase agreement.<sup><a href="#fn08" id="fref08">8</a></sup>
+While indemnities will often be the exclusive remedy, the parties will often negotiate to exempt fraud from the operation of the indemnity clause (see example above). In other words, if there is a claim that one party fraudulently induced the other party to enter the transaction, the claim is not limited by the indemnities provisions in the acquisition agreement, but instead can be brought under relevant tort or contract law principles, with the potential for a court sanctioned unwinding of the transaction (“rescission”) in some cases. While the fraud exception is reasonably common, and its absence can be a signaling mechanism suggesting that further diligence is justified,<sup><a href="#fn07" id="fref07">7</a></sup> it is my view (and the view of some eminent transactional lawyers) that a fraud exception ought to be carefully drafted, such that it refers to intentional misrepresentations by specified persons relating to the representations and warranties in the acquisition agreement.<sup><a href="#fn08" id="fref08">8</a></sup>
 
-Furthermore, while parties will expressly exclude the availability of other remedies, there are some limits to that, such that the exclusive remedy clause is not “watertight”. Notably, under Delaware law<sup><a href="#fn09" id="fref09">9</a></sup> and English law<sup><a href="#fn10" id="fref10">10</a></sup>, as a matter of public policy, a party _cannot_ contract out of liability for _its own_ intentional fraud. Some other states and countries, I understand, will not permit parties to contract out of a broader range of liabilities, and this should be carefully considered when determining the appropriate governing law for the stock purchase agreement.<sup><a href="#fn11" id="fref11">11</a></sup> 
+Furthermore, while parties will expressly exclude the availability of other remedies, there are some limits to that, such that the exclusive remedy clause is not “watertight”. Notably, under Delaware law<sup><a href="#fn09" id="fref09">9</a></sup> and English law<sup><a href="#fn10" id="fref10">10</a></sup>, as a matter of public policy, a party _cannot_ contract out of liability for _its own_ intentional fraud. Some other states and countries, I understand, will not permit parties to contract out of a broader range of liabilities, and this should be carefully considered when determining the appropriate governing law for the acquisition agreement.<sup><a href="#fn11" id="fref11">11</a></sup> 
 
 ## Representations and Warranties Insurance
 
-Before I end this post, I would like to—briefly—mention representations and warranties insurance, which is something that I have seen used in all the Asian buyout transactions I did at [Partners Group](http://partnersgroup.com/).<sup><a href="#fn12" id="fref12">12</a></sup> Representations and warranties insurance is an insurance policy that provides an insured party—usually the purchaser(s)—with protection from unintentional and unknown breaches of representations and warranties given by another party to the stock purchase agreement. It was introduced around 20 years ago, and has gradually become more common in private equity transactions. There are two broad classes of representations and warranties insurance, a buy-side policy that covers the purchaser(s) and a sell-side policy that covers the seller(s). Buy-side policies are more common and more expensive than sell-side policies.<sup><a href="#fn13" id="fref13">13</a></sup>
+Before I end this post, I would like to—briefly—mention representations and warranties insurance, which is something that I have seen used in all the Asian buyout transactions I did at [Partners Group](http://partnersgroup.com/).<sup><a href="#fn12" id="fref12">12</a></sup> Representations and warranties insurance is an insurance policy that provides an insured party—usually the purchaser(s)—with protection from unintentional and unknown breaches of representations and warranties given by another party to the acquisition agreement. It was introduced around 20 years ago, and has gradually become more common in private equity transactions. There are two broad classes of representations and warranties insurance, a buy-side policy that covers the purchaser(s) and a sell-side policy that covers the seller(s). Buy-side policies are more common and more expensive than sell-side policies.<sup><a href="#fn13" id="fref13">13</a></sup>
 
-At its best, representations and warranties insurance can be a useful tool for preserving deal value and/or enhancing a purchaser(s)’ bid. In my experience, if either party is planning to use representations and warranties insurance, it is best to start the discussion early; the insurer(s) will want to understand the nature of the risks they are insuring. Most insurers will exclude certain classes of risks from their general representations and warranties insurance, and if so the parties to the stock purchase agreement will have to address such gaps separately.<sup><a href="#fn14" id="fref14">14</a></sup> 
+At its best, representations and warranties insurance can be a useful tool for preserving deal value and/or enhancing a purchaser(s)’ bid. In my experience, if either party is planning to use representations and warranties insurance, it is best to start the discussion early; the insurer(s) will want to understand the nature of the risks they are insuring. Most insurers will exclude certain classes of risks from their general representations and warranties insurance, and if so the parties to the acquisition agreement will have to address such gaps separately.<sup><a href="#fn14" id="fref14">14</a></sup> 
 
 ## Conclusion 
 
@@ -345,6 +345,7 @@ Indemnities are probably almost as convoluted a topic as representations and war
 * [Stock Purchase Agreement Series — Purchase Price](https://lucasktlee.com/2016/04/04/spa-series-purchase-price/)
 * [Stock Purchase Agreement Series — Representations and Warranties](https://lucasktlee.com/2016/04/25/spa-representations-and-warranties/) 
 * Stock Purchase Agreement Series — Indemnities
+* [Stock Purchase Agreement Series — Closing Conditions](https://lucasktlee.com/2016/07/04/spa-closing-conditions/)
 
 <div class="footnotes">
     <hr class="w-50"/>
@@ -359,7 +360,7 @@ Indemnities are probably almost as convoluted a topic as representations and war
         <li id="fn08">Glenn D. West, “That Pesky Little Thing Called Fraud: An Examination of Buyers’ Insistence Upon (and Sellers’ Too Ready Acceptance of) Undefined “Fraud Carve-Outs” in Acquisition Agreements”, <cite>The Business Lawyer</cite>, vol. 69, August 2014, 1049 – 1079. <a href="#fref08">&#8593;</a></li>
         <li id="fn09"><cite>ABRY Partners V, L.P. v. F&#38;W Acquisition LLC</cite> 891 A.2d 1032, 1062 (Del. Ch. 2006). <a href="#fref09">&#8593;</a></li>
         <li id="fn10"><cite>HIH Casualty &#38; General Insurance Ltd. v. Chase Manhattan Bank</cite> [2003] UKHL 6. <a href="#fref10">&#8593;</a></li>
-        <li id="fn11">Don’t laugh. I’ve had some fairly intense discussions with seller(s) in emerging markets over which country’s laws should govern the stock purchase agreement, keeping in mind that not every country has a fully functioning legal system and impartial judiciary, and that the length of time it takes for a court case to move through the system in some countries can be measured in years or even a decade. It <em>is</em> an issue outside of the U.S. and Western Europe. <a href="#fref11">&#8593;</a></li>
+        <li id="fn11">Don’t laugh. I’ve had some fairly intense discussions with seller(s) in emerging markets over which country’s laws should govern the acquisition agreement, keeping in mind that not every country has a fully functioning legal system and impartial judiciary, and that the length of time it takes for a court case to move through the system in some countries can be measured in years or even a decade. It <em>is</em> an issue outside of the U.S. and Western Europe. <a href="#fref11">&#8593;</a></li>
         <li id="fn12">I should note that these buyouts were secondary buyouts where the seller(s) were financial sponsors. Accordingly, the sample is not representative of trends in buyout transactions more generally. <a href="#fref12">&#8593;</a></li>
         <li id="fn13">The preference for buy-side policies over sell-side policies has to do with: (1) the fact that purchaser(s) claim directly against the insurer, rather than first claiming against the seller(s) and then having the seller(s) claim against the insurer, and (2) the fact that . <a href="#fref13">&#8593;</a></li>
         <li id="fn14">For example, an insurer may not wish to insure against various forms of tax related liabilities, particularly in certain jurisdictions that have less settled tax laws, as the risk is either not quantifiable or is significantly higher than the insurer is able to underwrite at a particular premium. <a href="#fref14">&#8593;</a></li>

@@ -1,6 +1,6 @@
-<p class="lede">The stock purchase agreement is one of the most important transaction documents in a private equity deal. It is long, verbose, and difficult to understand without the benefit of years of deal experience. In light of my six years of experience doing deals in Asia and Europe, and in the spirit of Brad Feld’s excellent series of blog posts on term sheets, I’ve decided to write a series of blog posts on the stock purchase agreement.</p>
+<p class="lede">The acquisition agreement is one of the most important transaction documents in a private equity deal. It is long, verbose, and difficult to understand without the benefit of years of deal experience. In light of my six years of experience doing deals in Asia and Europe, and in the spirit of Brad Feld’s excellent series of blog posts on term sheets, I’ve decided to write a series of blog posts on the acquisition agreement.</p>
 
-I’ll start this series by providing an overview of the stock purchase agreement (also referred to as a purchase and sale agreement, share purchase agreement, or sale and purchase agreement). This post will cover the purpose of the stock purchase agreement, often abbreviated as <abbr>SPA</abbr>, and the key sections within the <abbr>SPA</abbr>. I will not explore any section in detail in this post; rather, I want to show how all the pieces fit together before delving into any section. Before I begin, I should emphasize that is is by no means meant to be a definitive guide to private equity stock purchase agreements; that would be pure arrogance. It is merely a starting point. 
+I’ll start this series by providing an overview of the acquisition agreement (also referred to as a purchase and sale agreement, share purchase agreement, or sale and purchase agreement). This post will cover the purpose of the acquisition agreement, often abbreviated as <abbr>SPA</abbr>, and the key sections within the <abbr>SPA</abbr>. I will not explore any section in detail in this post; rather, I want to show how all the pieces fit together before delving into any section. Before I begin, I should emphasize that is is by no means meant to be a definitive guide to private equity acquisition agreements; that would be pure arrogance. It is merely a starting point. 
 
 ## The Purpose of the <abbr>SPA</abbr>
 
@@ -74,7 +74,8 @@ Because it is a bundle of trade-offs, it is important to understand each part of
 * Stock Purchase Agreement Series — Overview
 * [Stock Purchase Agreement Series — Purchase Price](https://lucasktlee.com/2016/04/04/spa-series-purchase-price/) 
 * [Stock Purchase Agreement Series — Representations and Warranties](http://lucasktlee.com/2016/04/25/spa-representations-and-warranties/)
-* [Stock Purchase Agreement Series — Indemnities](https://lucasktlee.com/2016/05/09/stock-purchase-agreement-series-indemnities/#representationsandwarrantiesinsurance)
+* [Stock Purchase Agreement Series — Indemnities](https://lucasktlee.com/2016/05/09/stock-purchase-agreement-series-indemnities/)
+* [Stock Purchase Agreement Series — Closing Conditions](https://lucasktlee.com/2016/07/04/spa-closing-conditions/)
 
 <div class="footnotes">
     <hr class="w-50"/>

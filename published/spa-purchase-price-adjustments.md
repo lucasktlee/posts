@@ -1,6 +1,6 @@
-<p class="lede">Negotiating purchase prices for private equity transactions can be an experience rather similar to being in a boxing ring. They are also often the subject of very lengthy and complex legal language in the stock purchase agreement.</p>
+<p class="lede">Negotiating purchase prices for private equity transactions can be an experience rather similar to being in a boxing ring. They are also often the subject of very lengthy and complex legal language in the acquisition agreement.</p>
 
-The stock purchase agreement provisions relating to the purchase price are some of the most complex and heavily negotiated provisions in a private equity stock purchase agreement. While almost every private equity transaction will be paid for in cash–thereby obviating the need to negotiate over whether the purchase price will be paid in cash, stock of the purchaser(s), or some combination thereof—the seller(s) and purchaser(s) will nevertheless spend a lot of time negotiating over the quantum and any adjustments thereto, the timing, and the existence of any post-completion earn-outs for the seller(s).
+The acquisition agreement provisions relating to the purchase price are some of the most complex and heavily negotiated provisions in a private equity acquisition agreement. While almost every private equity transaction will be paid for in cash–thereby obviating the need to negotiate over whether the purchase price will be paid in cash, stock of the purchaser(s), or some combination thereof—the seller(s) and purchaser(s) will nevertheless spend a lot of time negotiating over the quantum and any adjustments thereto, the timing, and the existence of any post-completion earn-outs for the seller(s).
 
 ## 1. The Threshold Question: Completion Accounts or Locked Box
 
@@ -13,7 +13,7 @@ This post will focus on the former, which tends to be more common in the U.S. an
 
 * The economic interest and risk in the target company pass from seller(s) to purchaser(s) at _different_ times for completion accounts and locked box methods. 
 * The completion account method has historically been viewed as more buyer-friendly, while the locked box method has historically been viewed as more seller-friendly.
-* The completion account method frequently results in longer and more complex stock purchase agreements when compared to stock purchase agreements using the locked box method.
+* The completion account method frequently results in longer and more complex acquisition agreements when compared to acquisition agreements using the locked box method.
 * The completion account method can result in less upfront financial due diligence since there will be an opportunity to adjust the purchase price post-closing when the purchaser(s) have control over of the target company.<sup><a href="#fn01" id="fref01">1</a></sup>
 
 ### Economic Interest and Risk in Completion Accounts and Locked Boxes
@@ -132,15 +132,15 @@ Now, having arrived at the purchase price, the next step is to think about how t
 
 ### Seller(s)’ Estimated Purchase Price
 
-With a completion account mechanism, the seller(s), at some point prior to closing, will make an _estimate_ of the cash and cash equivalents, the debt and debt equivalents, and the net working capital. Using this, they will compute an _estimated purchase price._ This is the amount that will be paid by the purchaser(s) to the seller(s) at closing. To avoid inconsistencies and subsequent disputes, a good stock purchase agreement will specify in some detail exactly what goes into computing each element of the purchase price, for example detailed definitions of what is cash and cash equivalents, what debt equivalents will be included, and what items comprise net working capital.
+With a completion account mechanism, the seller(s), at some point prior to closing, will make an _estimate_ of the cash and cash equivalents, the debt and debt equivalents, and the net working capital. Using this, they will compute an _estimated purchase price._ This is the amount that will be paid by the purchaser(s) to the seller(s) at closing. To avoid inconsistencies and subsequent disputes, a good acquisition agreement will specify in some detail exactly what goes into computing each element of the purchase price, for example detailed definitions of what is cash and cash equivalents, what debt equivalents will be included, and what items comprise net working capital.
 
 At closing, the purchaser(s) deliver the purchase price to the seller(s), and control over the target company passes to the purchaser(s). 
 
 ### Purchaser(s)’ Completion Accounts 
 
-After closing, the stock purchase agreement will specify that the purchaser(s) will prepare completion accounts within a stipulated time frame,<sup><a href="#fn04" id="fref04">4</a></sup> consisting of an unaudited balance sheet of the target company and an itemized computation of the purchase price. To avoid inconsistencies with the estimated purchase price, a good stock purchase agreement will specify that the completion accounts must be prepared on the same basis as the estimated purchase price, using the same definitions and accounting policies, and _excluding_ the effects of any post-closing financing and/or corporate reorganizations made by the purchaser(s). 
+After closing, the acquisition agreement will specify that the purchaser(s) will prepare completion accounts within a stipulated time frame,<sup><a href="#fn04" id="fref04">4</a></sup> consisting of an unaudited balance sheet of the target company and an itemized computation of the purchase price. To avoid inconsistencies with the estimated purchase price, a good acquisition agreement will specify that the completion accounts must be prepared on the same basis as the estimated purchase price, using the same definitions and accounting policies, and _excluding_ the effects of any post-closing financing and/or corporate reorganizations made by the purchaser(s). 
 
-The seller will, of course, want to be able to review the completion accounts, and will—optimally—negotiate to have access to the working papers, supporting data, and employees of the target company to verify that the completion accounts have been prepared consistently with the methods prescribed in the stock purchase agreement and used by the seller(s) in computing the estimated purchase price. 
+The seller will, of course, want to be able to review the completion accounts, and will—optimally—negotiate to have access to the working papers, supporting data, and employees of the target company to verify that the completion accounts have been prepared consistently with the methods prescribed in the acquisition agreement and used by the seller(s) in computing the estimated purchase price. 
 
 ### Dispute Resolution 
 
@@ -152,11 +152,11 @@ Rather than engage in—potentially costly and time consuming—litigation, most
 
 ### Settlement of Final Purchase Price
 
-Once a final purchase price has been agreed (and any disputed items settled by negotiation or through the dispute resolution mechanism in the stock purchase agreement), if the final purchase price is _greater than_ the estimated purchase price, the purchaser(s) pay the difference to the seller(s). If the final purchase price is _less than_ the estimated purchase price, then the seller(s) pay the difference to the purchaser(s). 
+Once a final purchase price has been agreed (and any disputed items settled by negotiation or through the dispute resolution mechanism in the acquisition agreement), if the final purchase price is _greater than_ the estimated purchase price, the purchaser(s) pay the difference to the seller(s). If the final purchase price is _less than_ the estimated purchase price, then the seller(s) pay the difference to the purchaser(s). 
 
 ## Conclusion
 
-A completion account method of adjusting the purchase price to reflect the actual economic value of the target company tends to require a fairly complex and interrelated set of provisions in the stock purchase agreement. It can take a few re-reads to wrap one’s head around it. Given its popularity in the U.S. and Asia, though, it is well worth getting familiar with it. 
+A completion account method of adjusting the purchase price to reflect the actual economic value of the target company tends to require a fairly complex and interrelated set of provisions in the acquisition agreement. It can take a few re-reads to wrap one’s head around it. Given its popularity in the U.S. and Asia, though, it is well worth getting familiar with it. 
 
 While I have tried to give sufficient detail to this post, I could, conceivably, write several more posts just on this topic. There are a lot of nuances that can trip the unwary. That being said, the first step to mastering the completion account method is to understand its fundamentals, which this post covers. Only then can one begin to explore the subtleties that can trip the unwary.
 
@@ -165,7 +165,8 @@ While I have tried to give sufficient detail to this post, I could, conceivably,
 * [Stock Purchase Agreement Series — Overview](https://lucasktlee.com/2016/03/25/stock-purchase-agreement-series-overview/)
 * Stock Purchase Agreement Series — Purchase Price 
 * [Stock Purchase Agreement Series — Representations and Warranties](https://lucasktlee.com/2016/04/25/spa-representations-and-warranties/)
-* [Stock Purchase Agreement Series — Indemnities](https://lucasktlee.com/2016/05/09/stock-purchase-agreement-series-indemnities/#representationsandwarrantiesinsurance)
+* [Stock Purchase Agreement Series — Indemnities](https://lucasktlee.com/2016/05/09/stock-purchase-agreement-series-indemnities/)
+* [Stock Purchase Agreement Series — Closing Conditions](https://lucasktlee.com/2016/07/04/spa-closing-conditions/)
 
 <div class="footnotes">
     <hr class="w-50"/>
