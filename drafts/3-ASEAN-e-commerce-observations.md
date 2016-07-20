@@ -18,9 +18,50 @@ E-commerce in Southeast Asia is new and starting from a very low base, with e-co
 
 ## Three Observations
 
-One can say a lot about Southeast Asian e-commerce. 
+One can say a lot about Southeast Asian e-commerce. In the interest of brevity, I’ll limit myself to three observations.
 
-### Mobile Trumps <abbr>PC</abbr>s
+### Fragmentation
+
+### Mobile
+
+Southeast Asia has largely leapfrogged to mobile, with most online access being made through smartphones and tablets rather than desktops and laptops. The high level of mobile penetration reflects the poor fixed broadband connectivity in many parts of Southeast Asia outside of Singapore.
+
+<table class="" id="table01">
+	<caption><span>Table 1:</span> Mobile Penetration in Founding <abbr>ASEAN</abbr> Countries</caption>
+	<tr>
+		<th>Country</th>
+		<th>Mobile Penetration</th>
+	</tr>
+	<tr>
+		<td>Singapore</td>
+		<td>156.00%</td>
+	</tr>
+	<tr>
+		<td>Thailand</td>
+		<td>144.40%</td>
+	</tr>
+	<tr>
+		<td>Malaysia</td>
+		<td>143.30%</td>
+	</tr>
+	<tr>
+		<td>Indonesia</td>
+		<td>121.50%</td>
+	</tr>
+	<tr>
+		<td>Philippines</td>
+		<td>104.50%</td>
+	</tr>
+</table>
+
+For e-commerce companies (or indeed any company operating primarily in the online space), **mobile-first** is a _necessity._ [Lazada](http://lazada.com), one of Southeast Asia’s largest e-commerce companies, has seen the traffic share of mobile (smartphone and tablet) go from 11% in 2013 to almost 50% by the end of the first quarter of 2014.<sup><a href="" id=""></a></sup> 
+
+While mobile penetration is high, one must note that _e-commerce_ penetration remains low, with Bain &#38; Company noting that only one in four consumers above the age of 16 had ever made an online purchase.
+
+### Payment and Logistics
+
+
+## Conclusion
 
 
 
