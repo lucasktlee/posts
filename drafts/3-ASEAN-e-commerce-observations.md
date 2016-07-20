@@ -22,7 +22,13 @@ One can say a lot about Southeast Asian e-commerce. In the interest of brevity, 
 
 ### Fragmentation
 
-It barely needs mentioning that Southeast Asia is a fragmented market consisting of ten countries with very different levels of economic development, legal systems, cultures, and languages. 
+I have already mentioned that Southeast Asia is a fragmented market consisting of ten countries with very different levels of economic development, legal systems, cultures, and languages.
+
+The _differences_ among the Southeast Asian countries and between Southeast Asia and the rest of the world requires **local management teams** that are deeply aware of the conditions in their local markets. Southeast Asia is, in my view, too _different;_ expatriate investment professionals are too far removed from the day-to-day experience of living in Southeast Asia. Most of Southeast Asia, beyond the confines of the large urban centers such as Kuala Lumpur, Bangkok, Singapore and Jakarta, is a world of small towns and villages, poor electrical and communications infrastructure, and limited transportation infrastructure and logistics facilities.
+
+Indeed, when hiring to fill positions in its private equity and infrastructure investment teams in Southeast Asia, a key criterion Partners Group used was investing and/or operating experience in Southeast Asia. The same applies, with even greater urgency, to startups and established multinational corporations: their management teams must be local, and must _understand_ at an almost bone-deep level the conditions on the ground.
+
+Moreover, this fragmentation poses a strategic question for startups and established multinational corporations alike: Should it attempt to enter all the major Southeast Asian countries simultaneously, or focus its attention on gaining market share in one country in Southeast Asia before expanding to other countries.
 
 ### Mobile
 
@@ -56,16 +62,19 @@ Southeast Asia has largely leapfrogged to mobile, with most online access being 
 	</tr>
 </table>
 
-For e-commerce companies (or indeed any company operating primarily in the online space), **mobile-first** is a _necessity._ For many Southeast Asian residents, mobile is their _only_ means of accessing the internet. For example, [Lazada](http://lazada.com), one of Southeast Asia’s largest e-commerce companies, has seen the traffic share of mobile (smartphone and tablet) go from 11% in 2013 to almost 50% by the end of the first quarter of 2014.<sup><a href="#fn05" id="fref05"></a></sup> As such, designing a “desktop” site and then subtracting features to generate a “mobile” site is particularly unwise.
+For e-commerce companies (or indeed any company operating primarily in the online space), **mobile-first** design is a _necessity._ For many Southeast Asian residents, mobile is their _only_ means of accessing the internet. For example, [Lazada](http://lazada.com), one of Southeast Asia’s largest e-commerce companies, has seen the traffic share of mobile (smartphone and tablet) go from 11% in 2013 to almost 50% by the end of the first quarter of 2014.<sup><a href="#fn05" id="fref05"></a></sup>
+
+Designing a “desktop” site and then subtracting features to generate a “mobile” site is particularly unwise. A wiser approach is to design the mobile site first, taking into account the way users _actually_ use the site, and then design the “desktop” site, so that the user’s interaction with the site is as painless as possible.
 
 Mobile first also means developing sites and user experiences that are lightweight to minimize loading times and data downloads on bandwidth constrained connections. It may involve building mobile apps for Android and iOS to offer a native experience on customers’ devices. It may also involve e-commerce via social media networks like [Facebook](https://www.facebook.com/) and [Instagram](http://instagram.com).
 
-Indeed, informal <abbr>C2</abbr> e-commerce in Southeast Asia often happens via social media, for example Instagram, where a customer might browse products on an Instagram “shop”, make product inquiries via [Line](http://line.me/en/), make payment via bank transfer or other method (often not credit cards), send confirmation of payment to the shop by Line, and receive shipment and tracking data by Line.<sup><a href="#fn06" id="fref06">6</a></sup> This informal e-commerce on social media accounts for approximately 30% (by volume) of all e-commerce transactions in Southeast Asia.
+Social media is vitally important in Southeast Asian e-commerce: according to Bain &#38; Company, more than 80% of e-commerce customers use social media such as Instagram and Facebook or messaging apps such as [Line](http://line.me/en/), [WhatsApp](https://www.whatsapp.com), [BBM](http://www.bbm.com/bbm/en.html), and [Zalo](https://zaloapp.com) to research products or connect with sellers. Indeed, informal <abbr>C2</abbr> e-commerce in Southeast Asia often happens via social media, for example Instagram, where a customer might browse products on an Instagram “shop”, make product inquiries via Line, make payment via bank transfer or other method (often not credit cards), send confirmation of payment to the shop by Line, and receive shipment and tracking data by Line.<sup><a href="#fn06" id="fref06">6</a></sup> This informal e-commerce on social media accounts for approximately 30% (by volume) of all e-commerce transactions in Southeast Asia.
 
 While mobile penetration is high, one must note that _e-commerce_ penetration remains low, with Bain &#38; Company noting that only one in four consumers above the age of 16 had ever made an online purchase.
 
 ### Payment and Logistics
 
+Logistics in Southeast Asia, to be blunt, are 
 
 ## Conclusion
 
