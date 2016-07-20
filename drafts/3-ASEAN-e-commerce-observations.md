@@ -54,7 +54,9 @@ Southeast Asia has largely leapfrogged to mobile, with most online access being 
 	</tr>
 </table>
 
-For e-commerce companies (or indeed any company operating primarily in the online space), **mobile-first** is a _necessity._ [Lazada](http://lazada.com), one of Southeast Asia’s largest e-commerce companies, has seen the traffic share of mobile (smartphone and tablet) go from 11% in 2013 to almost 50% by the end of the first quarter of 2014.<sup><a href="" id=""></a></sup> 
+For e-commerce companies (or indeed any company operating primarily in the online space), **mobile-first** is a _necessity._ For many Southeast Asian residents, mobile is their _only_ means of accessing the internet. For example, [Lazada](http://lazada.com), one of Southeast Asia’s largest e-commerce companies, has seen the traffic share of mobile (smartphone and tablet) go from 11% in 2013 to almost 50% by the end of the first quarter of 2014.<sup><a href="#fn05" id="fref05"></a></sup> As such, designing a “desktop” site and then subtracting features to generate a “mobile” site is particularly unwise.
+
+Mobile first also means developing sites and user experiences that are lightweight and do not involve large heavy
 
 While mobile penetration is high, one must note that _e-commerce_ penetration remains low, with Bain &#38; Company noting that only one in four consumers above the age of 16 had ever made an online purchase.
 
@@ -72,5 +74,6 @@ While mobile penetration is high, one must note that _e-commerce_ penetration re
 		<li id="fn02">Based on 2015 World Bank <a href="http://data.worldbank.org/indicator/SP.POP.TOTL">population data</a> and <a href="http://data.worldbank.org/indicator/NY.GDP.MKTP.CD"<abbr>GDP</abbr> data.</a> <a href="#fref02">&#8593;</a></li>
 		<li id="fn03">Asia Cloud Computing Association, <a href="http://www.asiacloudcomputing.org/images/ACCA_SMEReport2015_Final.pdf"><abbr title="Small and Medium Sized Enterprise">SME</abbr>s in Asia Pacific</a>. <a href="#fref03">&#8593;</a></li>
 		<li id="fn04">Bain &#38; Company, <a href="http://www.bain.com/Images/BAIN_BRIEF_Can_Southeast_Asia_Live_Up_to_Ecommerce_potential.pdf">Can Southeast Asia Live Up to Its E-commerce Potential?</a> <a href="#fref04">&#8593;</a></li>
+		<li id="fn05">2014 Lazada Group presentation at Kinnevik Rocket Capital Markets Day. <a href="#fref05">&#8593;</a></li>
 	</ol>
 </div>
