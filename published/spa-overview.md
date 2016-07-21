@@ -1,14 +1,14 @@
 <p class="lede">The acquisition agreement is one of the most important transaction documents in a private equity deal. It is long, verbose, and difficult to understand without the benefit of years of deal experience. In light of my six years of experience doing deals in Asia and Europe, and in the spirit of Brad Feld’s excellent series of blog posts on term sheets, I’ve decided to write a series of blog posts on the acquisition agreement.</p>
 
-I’ll start this series by providing an overview of the acquisition agreement (also referred to as a purchase and sale agreement, share purchase agreement, or sale and purchase agreement). This post will cover the purpose of the acquisition agreement, often abbreviated as <abbr>SPA</abbr>, and the key sections within the <abbr>SPA</abbr>. I will not explore any section in detail in this post; rather, I want to show how all the pieces fit together before delving into any section. Before I begin, I should emphasize that is is by no means meant to be a definitive guide to private equity acquisition agreements; that would be pure arrogance. It is merely a starting point. 
+I’ll start this series by providing an overview of the acquisition agreement (also referred to as a purchase and sale agreement, share purchase agreement, or sale and purchase agreement). This post will cover the purpose of the acquisition agreement, often abbreviated as <abbr>SPA</abbr>, and the key sections within the <abbr>SPA</abbr>. I will not explore any section in detail in this post; rather, I want to show how all the pieces fit together before delving into any section. Before I begin, I should emphasize that is is by no means meant to be a definitive guide to private equity acquisition agreements; that would be pure arrogance. It is merely a starting point.
 
 ## The Purpose of the <abbr>SPA</abbr>
 
-So, without further ado, the __purpose__ of the <abbr>SPA</abbr>. The <abbr>SPA</abbr> is a legally binding document that sets out the terms that will govern the sale of the equity of the target company by the seller(s) to the purchaser(s). It will not set out the characteristics of the equity interests sold and will not set out the relationship of the parties after the closing. The former is defined in the constituent documents of the target company, which—depending on the jurisdiction in which the target company is incorporated—will be called the certificate of incorporation, the by-laws, the memorandum of association, the articles of association, or the charter. The latter is established by the shareholders’ agreement. 
+So, without further ado, the __purpose__ of the <abbr>SPA</abbr>. The <abbr>SPA</abbr> is a legally binding document that sets out the terms that will govern the sale of the equity of the target company by the seller(s) to the purchaser(s). It will not set out the characteristics of the equity interests sold and will not set out the relationship of the parties after the closing. The former is defined in the constituent documents of the target company, which—depending on the jurisdiction in which the target company is incorporated—will be called the certificate of incorporation, the by-laws, the memorandum of association, the articles of association, or the charter. The latter is established by the shareholders’ agreement.
 
 ## The Parts of the <abbr>SPA</abbr>
 
-The <abbr>SPA</abbr> is divided into several parts (often referred to as “articles” or ”sections”), which I have set out in the table below. 
+The <abbr>SPA</abbr> is divided into several parts (often referred to as “articles” or ”sections”), which I have set out in the table below.
 
 <table class="striped" id="table01">
     <caption><span>Table 1:</span> Parts of a private equity <abbr>SPA</abbr></caption>
@@ -35,7 +35,7 @@ The <abbr>SPA</abbr> is divided into several parts (often referred to as “arti
     <tr>
         <td>Covenants</td>
         <td>The covenants in the <abbr>SPA</abbr> will frequently be divided into pre-closing and post-closing covenants, and are things that one of the parties to the <abbr>SPA</abbr> promises to do, or promises not to do</td>
-        <td>The covenants section is where the parties commit themselves to doing or not doing certain things. In most transactions, given that there will often be period of time between signing and closing, there will be certain things that purchaser(s) will want to prevent the seller(s) from doing, such as extracting value from the target company by paying dividends, issuing debt or equity securities in the target company or its subsidiaries, selling material assets of the target company, causing the target company to incur material liabilities, or competing with the business of the target company post-closing. The seller(s), in turn, will be interested in, among other things, compelling the purchaser(s) to cooperate with the seller(s) in obtaining required government approvals for the transaction, ensuring that the purchaser(s) keep confidential the terms of the transaction and the fact that the transaction is occurring, limiting the ability of the purchaser(s) to change the terms of its equity and debt financing, or imposing an obligation on the purchaser(s) to use best efforts to satisfy conditions precedent to the debt financing.</td>
+        <td>The covenants section is where the parties commit themselves to doing or not doing certain things. In most transactions, given that there will often be a period of time between signing and closing, there will be certain things that purchaser(s) will want to prevent the seller(s) from doing, such as extracting value from the target company by paying dividends, issuing debt or equity securities in the target company or its subsidiaries, selling material assets of the target company, causing the target company to incur material liabilities, or competing with the business of the target company post-closing. The seller(s), in turn, will be interested in, among other things, compelling the purchaser(s) to cooperate with the seller(s) in obtaining required government approvals for the transaction, ensuring that the purchaser(s) keep confidential the terms of the transaction and the fact that the transaction is occurring, limiting the ability of the purchaser(s) to change the terms of its equity and debt financing, or imposing an obligation on the purchaser(s) to use best efforts to satisfy conditions precedent to the debt financing.</td>
     </tr>
     <tr>
         <td>Conditions for Closing</td>
@@ -61,18 +61,18 @@ The <abbr>SPA</abbr> is divided into several parts (often referred to as “arti
 
 ## Drafting the <abbr>SPA</abbr>
 
-In a negotiated sale, the _purchaser(s)’_ attorneys will prepare the first draft of the <abbr>SPA</abbr>. In an auction process, the _seller(s)’_ attorneys will prepare the first draft to ensure consistency across all the bids received. This is important for one reason. The party that prepares the first draft of the <abbr>SPA</abbr> sets the _tone_ for the discussion. The party making changes to the draft is the party that must justify its changes. 
+In a negotiated sale, the _purchaser(s)’_ attorneys will prepare the first draft of the <abbr>SPA</abbr>. In an auction process, the _seller(s)’_ attorneys will prepare the first draft to ensure consistency across all the bids received. This is important for one reason. The party that prepares the first draft of the <abbr>SPA</abbr> sets the _tone_ for the discussion. The party making changes to the draft is the party that must justify its changes.
 
-## Conclusion 
+## Conclusion
 
-I think of the <abbr>SPA</abbr> as a bundle of trade-offs. Each part of the <abbr>SPA</abbr> can be tailored to favor the seller(s) or the purchaser(s). Often, unless negotiating power is very significantly skewed towards one party, the parties will make trade-offs that reflect the value they place on different rights and obligations. 
+I think of the <abbr>SPA</abbr> as a bundle of trade-offs. Each part of the <abbr>SPA</abbr> can be tailored to favor the seller(s) or the purchaser(s). Often, unless negotiating power is very significantly skewed towards one party, the parties will make trade-offs that reflect the value they place on different rights and obligations.
 
-Because it is a bundle of trade-offs, it is important to understand each part of the <abbr>SPA</abbr>. Only then can one see where there is room to give and take in the negotiation of the <abbr>SPA</abbr>, and thus close the transaction.   
+Because it is a bundle of trade-offs, it is important to understand each part of the <abbr>SPA</abbr>. Only then can one see where there is room to give and take in the negotiation of the <abbr>SPA</abbr>, and thus close the transaction.
 
 ## Other Posts in the <abbr>SPA</abbr> Series
 
 * Stock Purchase Agreement Series — Overview
-* [Stock Purchase Agreement Series — Purchase Price](https://lucasktlee.com/2016/04/04/spa-series-purchase-price/) 
+* [Stock Purchase Agreement Series — Purchase Price](https://lucasktlee.com/2016/04/04/spa-series-purchase-price/)
 * [Stock Purchase Agreement Series — Representations and Warranties](http://lucasktlee.com/2016/04/25/spa-representations-and-warranties/)
 * [Stock Purchase Agreement Series — Indemnities](https://lucasktlee.com/2016/05/09/stock-purchase-agreement-series-indemnities/)
 * [Stock Purchase Agreement Series — Closing Conditions](https://lucasktlee.com/2016/07/04/spa-closing-conditions/)
