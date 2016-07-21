@@ -4,10 +4,15 @@ Whenever an acquisition is signed on one date and closed on another date, there 
 
 ## Definition
 
-A proper understanding of the covenants in an acquisition agreement requires a definition of a “covenant”, as understood in Anglo-American law. At its most fundamental level, a covenant is a solemn promise to do, or to refrain from doing, something. A covenant can be an
+A proper understanding of the covenants in an acquisition agreement requires a definition of a “covenant”, as understood in Anglo-American law. At its most fundamental level, a covenant is a solemn promise to do, or to refrain from doing, something. A covenant can be a _positive covenant_ (a promise to _do_ something), or a _negative covenant_ (a promise to _not do_ something).
 
+An example of a positive covenant drawn from an acquisition agreement I worked on:
 
+>
 
+An example of a negative covenant drawn from an acquisition agreement I worked on:
+
+> 
 
 ## Other Posts in the <abbr>SPA</abbr> Series
 
