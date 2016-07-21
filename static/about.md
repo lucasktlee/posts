@@ -8,8 +8,8 @@ Before Wharton, I was a private equity lawyer at a global private markets asset 
 
 I graduated from the [University of Sydney](http://sydney.edu.au) with a major in Chinese Studies, graduated from [Sydney Law School](http://sydney.edu.au/law/) with highest honors, and am qualified as an attorney in the State of New York.
 
-I read voraciously and eclectically. I write in long form (very often _extremely long form_) on this blog and in short form on [Twitter](https://twitter.com/LucasKTLee/). I take [photographs](http://500px.com/LucasKTLee/), especially when traveling. Sometimes, I write flash fiction, mostly in the science fiction or fantasy genres.
+I read voraciously and eclectically. I write in long form (very often _extremely long form_) on this blog and in short form on [Twitter](https://twitter.com/LucasKTLee/). Sometimes, I write flash fiction, mostly in the science fiction or fantasy genres.
 
-I take a lot of photographs, mostly in the landscape and city genres, some of which can be found on [500px](https://500px.com/lucasktlee/).
+I take a lot of photographs, mostly in the landscape and city genres, some of which can be found on [500px](https://500px.com/lucasktlee/). 
 
 You can reach me at [l.lee@lucasktlee.com](mailto:l.lee@lucasktlee.com) or find me on [Twitter](https://twitter.com/LucasKTLee/), [Github](https://github.com/lucasktlee/), or [LinkedIn](http://www.linkedin.com/in/lucasktlee/).
