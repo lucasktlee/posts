@@ -22,7 +22,7 @@ If there is one thing I regret and would change if I had a chance to do things o
 
 ## People
 
-Wharton, to me, will always be defined by the people I have met, both classmates and faculty. There are, literally, too many to name individually, but I will say that I have had 
+It feels a bit trite to say this, but Wharton will always be defined by the people I have met, both classmates and faculty. There are, literally, too many to name individually, but I will say that I have had the great pleasure of encountering a number of people whom I will continue to count among my dearest friends for years to come.
 
 ## Champagne problems
 
@@ -34,4 +34,4 @@ If there is one lesson I have learned, it is, to paraphrase <cite>Doctor Strange
 
 ## Conclusion
 
-I
+I wanted to end this with some words for the classes of 2017 and 2018, but after some thought, I’ve decided not to. You should make Wharton your own, as we did when we were there.
