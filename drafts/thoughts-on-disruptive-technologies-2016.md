@@ -24,6 +24,8 @@ Within this category, I identified three sub-categories as being the most potent
 
 #### Net-positive self-sustaining nuclear fusion reactors
 
+I did not expect much to happen in one year—commercially viable fusion reactors are a decades-long endeavor—but there were some promising developments. 
+
 #### Novel energy storage technologies
 
 ### High-temperature superconductors
@@ -33,3 +35,5 @@ Within this category, I identified three sub-categories as being the most potent
 
 
 ## Thoughts for 2016
+
+There are a few areas that I have begun to look at
