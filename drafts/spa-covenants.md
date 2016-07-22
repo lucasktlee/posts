@@ -35,11 +35,13 @@ An example of a negative covenant drawn from an acquisition agreement I worked o
 > directors, employees, affiliates or representatives to do any of the
 > foregoing.
 
-As an aside, covenants are practically ubiquitous in most financial contracts, particularly in leveraged loan agreements and bond indentures, which have extensive covenants that are designed to act as a “straitjacket” that reduces the risk that the borrower will take actions detrimental to the interest of the lenders.
+As an aside, covenants are practically ubiquitous in most financial contracts, particularly in leveraged loan agreements and bond indentures, which have extensive covenants that are designed to act as a “straitjacket” that reduces the risk that the borrower will take actions detrimental to the interest of the lenders. During 2009, immediately after the global financial crisis of 2008, I spent far too much time becoming fairly intimately aware of the details of these leveraged loan covenants, as Partners Group had private equity funds and mezzanine and senior debt funds.
 
 ## Common Covenants
 
-The
+Covenants in a private equity acquisition agreement range from almost boilerplate covenants inserted by attorneys as a matter of course, to bespoke covenants tailored for the transaction. I would note, however, that even boilerplate covenants can be negotiated, and the results of those negotiations can have real impact on the positions of the purchaser(s) and seller(s). I would never leave this entirely to counsel to address; there are too many things that could go wrong. 
+
+
 
 ## Other Posts in the <abbr>SPA</abbr> Series
 
