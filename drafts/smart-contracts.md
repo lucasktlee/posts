@@ -21,19 +21,25 @@ In the beginning, there was a man named [Nick Szabo](http://szabo.best.vwh.net),
 This definition is a little abstract. My definition is: 
 
 > A protocol to automate human interactions by translating a set of promises made by two or more parties into machine 
-> executable code and that, without further human intervention, automatically executes such promises. 
+> executable code and that, without further human intervention, is capable of automatically executing such promises. 
 
-Some people might add the requirement that a smart contract should run on some form of distributed ledger (blockchain). I choose not to, because it is not a necessary requirement: a smart contract could in principle be executed on _any_ Turing machine, though there would be issues of trust that might arise from running the smart contract on a computer or network owned by one of the participants or a third party. 
+Some people might add the requirement that a smart contract should run on some form of distributed ledger (blockchain). I choose not to, because it is not a necessary requirement: a smart contract could in principle be executed on _any_ Turing machine, though there would be issues of _trust_ that might arise from running the smart contract on a computer or network owned by one of the participants or a third party. 
 
 ### A Brief History of Smart Contracts
 
 In 1994, Nick Szabo<sup><a href="#fn07" id="fref07">7</a></sup> proposed the idea of smart contracts in an very interesting article, titled, [“Smart Contracts”](http://szabo.best.vwh.net/smart.contracts.html). The idea of smart contracts was largely dormant until after the rise of [Bitcoin](https://bitcoin.org/en/) and blockchain technology in 2009, because prior to blockchain technology there was no platform that could be used to enforce smart contracts.
 
-Since 2009, public interest in 
+Since 2009, public interest in smart contracts has increased due to the rise of functional distributed ledgers, specifically the Bitcoin blockchain and its derivatives. Around July 2014, the Ethereum Project led by [Vitalik Buterin](https://about.me/vitalik_buterin) began as one of the first public smart contract platforms. The Ethereum mining network went live on July 30, 2015, with a programming language called [Solidity](https://solidity.readthedocs.io) to allow developers to program smart contracts. 
+
+
+
+Most recently, the Ethereum project has suffered a very public 
 
 ## Smart Contracts and the Legal System
 
+First, let me begin by pointing out that a smart contract is _not necessarily_ a legal contract. It _can be,_ but is not required to be. To make use of a Venn diagram,  
 
+The 
 
 <div class="footnotes">
     <hr class="w-50"/>
