@@ -8,11 +8,13 @@ I suspect that I will revisit this topic two years from now, after two years in 
 
 If I had to define my two years at Wharton, I would define it as the art of embracing serendipity. From volunteering to lead (and win) tug of war at Cluster Olympics, to dancing on stage in the Cluster Dance-off, to being auctioned as a date for Winter Ball, the one constant of my <abbr>MBA</abbr> experience has been embracing serendipity.
 
-This approach to life has also been part of the way I approach my summer internship search while at Wharton: have a well thought out plan for what you want to do, but be open to unexpected surprises. From exploring venture capital private equity and asset management roles in the U.S., Europe and Asia, to finally choosing to develop and execute a fundraising strategy for a venture capital fund in Latin America, sometimes interesting opportunities you hadn’t thought of emerge unbidden. I’ve seen a remarkable country that is recovering from decades of low-intensity conflict and drug trafficking, and had the great honor to see a number of entrepreneurial ventures tailored to local conditions at Polymath Ventures. And I’ve had the great pleasure of exploring one of the most beautiful countries I have ever visited.
+This approach to life has also been part of the way I approach my summer internship search while at Wharton: have a well thought out plan for what you want to do, but be open to unexpected opportunities. From exploring venture capital private equity and asset management roles in the U.S., Europe and Asia, to finally choosing to develop and execute a fundraising strategy for a venture capital fund in Latin America, sometimes interesting opportunities you hadn’t thought of emerge unbidden. I’ve seen a remarkable country that is recovering from decades of low-intensity conflict and drug trafficking, and had the great honor to see a number of entrepreneurial ventures tailored to local conditions at Polymath Ventures. And I’ve had the great pleasure of exploring one of the most beautiful countries I have ever visited.
 
-Even   
+Even my approach to full-time recruitment has been focused on staying open to unexpected opportunities, with the exception of excluding investment banking and consulting 
 
-##
+## Failures
+
+If you are pushing yourself outside of your comfort zone, you will _fail._ I did.
 
 
 ## Conclusion
