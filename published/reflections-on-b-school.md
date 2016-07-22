@@ -35,3 +35,5 @@ If there is one lesson I have learned, it is, to paraphrase <cite>Doctor Strange
 ## Conclusion
 
 I wanted to end this with some words for the classes of 2017 and 2018, but after some thought, I’ve decided not to. You should make Wharton your own, as we did when we were there.
+
+If someone asks me whether it was worth it, taking two years out of my career to pursue an <abbr>MBA</abbr>, paying more than $200,000 in tuition and living expenses, and forgoing two years of income and potential promotions at work, I will say only this. It was. 
