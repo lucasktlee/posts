@@ -14,18 +14,23 @@ Even my approach to full-time recruitment has been focused on staying open to un
 
 ## Failures
 
-If you are pushing yourself outside of your comfort zone, you will _fail._ I did. I will not go into too much detail here (it involved a fintech startup), but I will say that failure _should_ be part of your <abbr>MBA</abbr> experience. It’s the surest way to know that you are not taking the most comfortable and least challenging path.
+If you are pushing yourself outside of your comfort zone, you will _fail._ I did. I will not go into too much detail here, but I will say that failure _should_ be part of your <abbr>MBA</abbr> experience. It’s the surest way to know that you are not taking the path of least resistance.
+
+Don’t be afraid to fail. That’s something I learned at Wharton that I hadn’t really learned anywhere else.
 
 If there is one thing I regret and would change if I had a chance to do things over, it is that I did not push myself out of my comfort zone as much in my <abbr>MBA</abbr> classes as I did in other aspects of my <abbr>MBA</abbr> experience. I hewed close to finance and a few entrepreneurship classes, instead of exploring the plethora of options available at Wharton.
 
-##
+## People
+
+Wharton, to me, will always be defined by the people I have met, both classmates and faculty. The
 
 ## Champagne problems
 
-Relax, it’s all champagne problems, if I may borrow the immortal words of Wharton’s beloved [Kembrel](http://www.bloomberg.com/news/articles/2015-04-09/kembrel-jones-wharton-s-dean-of-happiness).
+Relax, it’s—almost—all champagne problems, if I may borrow the immortal words of Wharton’s beloved [Kembrel](http://www.bloomberg.com/news/articles/2015-04-09/kembrel-jones-wharton-s-dean-of-happiness).
 
-While at Wharton, it was easy to sometimes spend far too much time worrying about problems: recruiting (remember, there are _no_ poor Wharton alumni), friction with your learning team (what, _never_), that cute lady who wouldn't return your texts (_her_ loss), and not being able to get a ticket to Follies (someone _always_ sells tickets at the last minute). It’s good to take a step back and recognize that more often than not, the problems one faces at 
+While at Wharton, it was easy to sometimes spend far too much time worrying about problems: recruiting (remember, there are _no_ poor Wharton alumni), friction with your learning team (what, _never_), too many assignments all due at the same time (remember, _grade non-disclosure_), that cute lady who wouldn't return your texts (_her_ loss), and not being able to get a ticket to Follies (someone _always_ sells tickets at the last minute). It’s good to take a step back and recognize that more often than not, the problems one faces at any top business school are not _that_ serious.
 
+If there is one lesson I have learned, it is, in the words of <cite>Doctor Strangelove</cite>: <q>How I learned to stop worrying and love the bomb</q>. 
 
 ## Conclusion
 
