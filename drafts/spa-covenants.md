@@ -45,7 +45,9 @@ Covenants in a private equity acquisition agreement range from almost boilerplat
 
 The seller(s), the target company, and its subsidiaries will covenant to provide the purchaser(s) with access to the offices and premises of the target company and its subsidiaries, as well as access to the books and records of the target company and its subsidiaries.
 
-While this is a boilerplate covenant, the details of what is covered by the covenant to provide access to information will be negotiated in some detail. The purchaser(s) will want to ensure that it has all the necessary access to the offices and premises of the target company and its subsidiaries to conduct due diligence of the physical property, plant and equipment of the target and its subsidiaries. Moreover, the purchaser(s) will also want access to the books and records of the target company and its subsidiaries to conduct due diligence on the business they are acquiring. The purchaser(s) will not want to be overly restricted in their ability to  
+While this is a boilerplate covenant, the details of what is covered by the covenant to provide access to information will be negotiated in some detail. The purchaser(s) will want to ensure that it has all the necessary access to the offices and premises of the target company and its subsidiaries to conduct due diligence of the physical property, plant and equipment of the target and its subsidiaries. Moreover, the purchaser(s) will also want access to the books and records of the target company and its subsidiaries to conduct due diligence on the business they are acquiring. The purchaser(s) will not want to be overly restricted in their ability to conduct due diligence, and will resist limits on timing for their visits to the offices and premises and the subject matter they can inspect in the books and records of the company and its subsidiaries. The purchaser(s) will also resist having to give 
+
+For the seller(s) and the target company’s management, their objective will be to minimize the disruption to the business of the target. To do so,
 
 ## Other Posts in the <abbr>SPA</abbr> Series
 
