@@ -45,9 +45,21 @@ Covenants in a private equity acquisition agreement range from almost boilerplat
 
 The seller(s), the target company, and its subsidiaries will covenant to provide the purchaser(s) with access to the offices and premises of the target company and its subsidiaries, as well as access to the books and records of the target company and its subsidiaries.
 
-While this is a boilerplate covenant, the details of what is covered by the covenant to provide access to information will be negotiated in some detail. The purchaser(s) will want to ensure that it has all the necessary access to the offices and premises of the target company and its subsidiaries to conduct due diligence of the physical property, plant and equipment of the target and its subsidiaries. Moreover, the purchaser(s) will also want access to the books and records of the target company and its subsidiaries to conduct due diligence on the business they are acquiring. The purchaser(s) will not want to be overly restricted in their ability to conduct due diligence, and will resist limits on timing for their visits to the offices and premises and the subject matter they can inspect in the books and records of the company and its subsidiaries. The purchaser(s) will also resist having to give 
+While this is a boilerplate covenant, the details of what is covered by the covenant to provide access to information will be negotiated in some detail. The purchaser(s) will want to ensure that it has all the necessary access to the offices and premises of the target company _and_ its subsidiaries (if applicable) to conduct due diligence of the physical property, plant and equipment of the target and its subsidiaries. Moreover, the purchaser(s) will also want access to the books and records of the target company and its subsidiaries to conduct due diligence on the business they are acquiring. The purchaser(s) will not want to be overly restricted in their ability to conduct due diligence, and will resist limits on timing for their visits to the offices and premises and the subject matter they can inspect in the books and records of the company and its subsidiaries. The purchaser(s) will also resist having to give very advance notice of an intent to visit or inspect, to limit the ability of the target company to sweep issues under the rug.
 
-For the seller(s) and the target company’s management, their objective will be to minimize the disruption to the business of the target. To do so,
+The purchaser(s) will also need to ensure that their counsel, accountants, financial advisers, and potential sources of debt capital are also able to access information and visit the offices and premises of the company for the purpose of conducting due diligence.
+
+For the seller(s) and the target company’s management, their objective will be to minimize the disruption to the business of the target. To do so, they will frequently limit visits to normal business hours, and require that the purchaser(s) take steps to avoid disrupting the normal business operations of the target and its subsidiaries. The seller(s) and the target company’s management will also seek to limit the persons that will have access to the offices, premises, books and records of the target and its subsidiaries, in order to manage the risk of confidential information relating to the target and its subsidiaries being disclosed to unauthorized parties.
+
+One further issue that seller(s) and the target company’s management may take into account is the need to limit the number of people within the target company and its subsidiaries that know of the proposed transaction. As such, it may wish to require the purchaser(s) to direct all requests for access to a designated list of individuals with knowledge of the proposed transaction.
+
+## Conduct of Business
+
+In my opinion, this is the most important covenant in most private equity acquisition agreements. It normally consists of what I call a “general affirmative covenant” to operate the business , and a more detailed list of negative covenants
+
+## Assistance with Debt Financing
+
+
 
 ## Other Posts in the <abbr>SPA</abbr> Series
 
