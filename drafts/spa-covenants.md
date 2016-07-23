@@ -55,16 +55,23 @@ One further issue that seller(s) and the target company’s management may take 
 
 ## Conduct of Business
 
-In my opinion, this is the most important covenant in most private equity acquisition agreements. It normally consists of what I call a “general affirmative covenant” to operate the business in the ordinary course of business, and a more detailed list of negative covenants that explicitly prohibit the seller(s), the target company and its subsidiaries from doing certain things without the consent of the purchaser(s).
+In my opinion, this is the most important covenant in most private equity acquisition agreements. It normally consists of what I call a “general affirmative covenant” to operate the business normally, and a more detailed list of negative covenants that explicitly prohibit the seller(s), the target company and its subsidiaries from doing certain things without the consent of the purchaser(s).
 
-The
+The purchaser(s) will want the seller(s) and the target company’s management to operate the target company’s business normally, and preserve the business relationships, key employees, assets of the target company and its subsidiaries. This is covered by the general affirmative covenant to operate the business normally.
+
+Furthermore, to prevent the seller(s) and target company management from siphoning away value from the company during the period between signing and closing, the purchaser(s) will seek to constrain them by imposing certain negative covenants. The list could
 
 ## Assistance with Debt Financing
 
 
+
+## Non-solicit and non-compete
+
+The purchaser(s) will often seek assurances from the seller(s) and the target company management that none of them will . This covenant is usually expressed as a post-closing covenant—one that will take effect _after_ the closing—given by the seller(s) and the target company management, in their capacity as seller(s). 
+
 ## Conclusion
 
-With this post, I’ve concluded my survey of the key provisions in a private equity acquisition agreement. This survey just scratches the surface of an acquisition agreement—there are a lot of nuances that cannot be conveyed without writing what would be the equivalent of a small textbook. 
+With this post, I’ve concluded my survey of the key provisions in a private equity acquisition agreement. This survey just scratches the surface of an acquisition agreement—there are a lot of nuances that cannot be conveyed without writing what would be the equivalent of a small textbook.
 
 ## Other Posts in the <abbr>SPA</abbr> Series
 
