@@ -20,9 +20,9 @@ _Don’t_ be afraid to fail. That’s something I learned at Wharton that I hadn
 
 ## Explorations
 
-My two years at Wharton were a period of exploration. I traveled in South America, Japan, and the <abbr>UAE</abbr>. I learned about the challenges facing the majority of the Gulf Cooperation Council states with oil prices falling well below their budgetary break even points, and about the way the <abbr>UAE</abbr> was endeavoring to diversify away from a dependence on oil and gas. I
+My two years at Wharton were a period of exploration. I traveled in South America, Japan, and the <abbr>UAE</abbr>. While on one of Wharton’s <abbr title="Global Modular Course">GMC</abbr>s, I learned about the challenges facing the majority of the Gulf Cooperation Council states with oil prices falling well below their budgetary break even points, and the strategic directions some states were taking to adapt. I discovered that my preconceptions of the <abbr>UAE</abbr> as a mirage in the desert were very far from reality, and 
 
-If there is one thing I regret and would change if I had a chance to do things over, it is that I did not push myself out of my comfort zone—finance and entrepreneurship—as much in my <abbr>MBA</abbr> classes as I did in other aspects of my <abbr>MBA</abbr> experience. 
+If there is one thing I regret and would change if I had a chance to do things over, it is that I did not push myself out of my comfort zone—finance and entrepreneurship—as much in my <abbr>MBA</abbr> classes as I did in other aspects of my <abbr>MBA</abbr> experience. In retrospect, I might have devoted more time to learning about data analytics, operations, and marketing, beyond the level taught in the core curriculum.
 
 ## People
 
