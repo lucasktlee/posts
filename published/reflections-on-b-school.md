@@ -20,7 +20,7 @@ _Don’t_ be afraid to fail. That’s something I learned at Wharton that I hadn
 
 ## Explorations
 
-My two years at Wharton were a period of exploration. I traveled in South America, Japan, and the <abbr>UAE</abbr>. While on one of Wharton’s <abbr title="Global Modular Course">GMC</abbr>s, I learned about the challenges facing the majority of the Gulf Cooperation Council states with oil prices falling well below their budgetary break even points, and the strategic directions some states were taking to adapt. I discovered that my preconceptions of the <abbr>UAE</abbr> as a mirage in the desert were very far from reality, and 
+My two years at Wharton were a period of exploration. I traveled in South America, Japan, and the <abbr>UAE</abbr>. While on one of Wharton’s <abbr title="Global Modular Course">GMC</abbr>s, I learned about the challenges facing the majority of the Gulf Cooperation Council states with oil prices falling well below their budgetary break even points, and the strategic directions some states were taking to adapt. I discovered that my preconceptions of the <abbr>UAE</abbr> as a mirage in the desert were very far from reality.
 
 If there is one thing I regret and would change if I had a chance to do things over, it is that I did not push myself out of my comfort zone—finance and entrepreneurship—as much in my <abbr>MBA</abbr> classes as I did in other aspects of my <abbr>MBA</abbr> experience. In retrospect, I might have devoted more time to learning about data analytics, operations, and marketing, beyond the level taught in the core curriculum.
 
@@ -28,7 +28,7 @@ If there is one thing I regret and would change if I had a chance to do things o
 
 It feels a bit trite to say this, but Wharton will always be defined by the people I have met, both classmates and faculty. There are, literally, too many to name individually, but I will say that I have had the great pleasure of encountering a number of people whom I will continue to count among my dearest friends for years to come.
 
-
+I will miss the impromptu dinners and drinks—especially fine whisky—during which we spoke of so many fascinating and meaningful things, or sometimes simply argued over the latest movie. I will miss the shared vocabulary we created. There will be times, I know, in the future, when I will wish I was back in Philadelphia, with the people I have come to love.
 
 ## Champagne problems
 
