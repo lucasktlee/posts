@@ -55,11 +55,16 @@ One further issue that seller(s) and the target company’s management may take 
 
 ## Conduct of Business
 
-In my opinion, this is the most important covenant in most private equity acquisition agreements. It normally consists of what I call a “general affirmative covenant” to operate the business , and a more detailed list of negative covenants
+In my opinion, this is the most important covenant in most private equity acquisition agreements. It normally consists of what I call a “general affirmative covenant” to operate the business in the ordinary course of business, and a more detailed list of negative covenants that explicitly prohibit the seller(s), the target company and its subsidiaries from doing certain things without the consent of the purchaser(s).
+
+The
 
 ## Assistance with Debt Financing
 
 
+## Conclusion
+
+With this post, I’ve concluded my survey of the key provisions in a private equity acquisition agreement. This survey just scratches the surface of an acquisition agreement—there are a lot of nuances that cannot be conveyed without writing what would be the equivalent of a small textbook. 
 
 ## Other Posts in the <abbr>SPA</abbr> Series
 
