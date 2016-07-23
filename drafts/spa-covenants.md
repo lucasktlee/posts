@@ -68,7 +68,18 @@ The purchaser(s) will want the seller(s) and the target company’s management t
 
 Furthermore, to prevent the seller(s) and target company management from siphoning away value from the company during the period between signing and closing, the purchaser(s) will seek to constrain them by imposing certain negative covenants. The list is transaction-specific, but could include (among others):
 
-* 
+* Issuing any new equity interest in the target company or its subsidiaries, or repurchasing any equity interests in the target company or its subsidiaries
+* Transferring any equity interest in the target company or its subsidiaries to any person other than the purchaser(s) or their designated acquisition vehicle
+* Incurring any new indebtedness<sup><a href="#fn03" id="fref03">3</a></sup>
+* Granting any security interest on the properties or assets of the target company or its subsidiaries
+* Acquiring any assets or selling any assets of the target company or any subsidiary other than in the ordinary course of business
+* Amending any of the constitutional documents of the target company or any subsidiary other than in accordance with the terms of the acquisition agreement
+* Increasing the salary or compensation of any current or former director, officer, employee, or consultant of the company or any subsidiary, or pay any bonuses to any of the foregoing individuals
+* Making any material changes to the business of the target company or any subsidiary
+* Incurring capital expenditures above a specified threshold
+* Entering into, amending, or terminating any material contract (as defined in the acquisition agreement)
+
+
 
 ## Assistance with Debt Financing
 
@@ -100,7 +111,7 @@ With this post, I’ve concluded my survey of the key provisions in a private eq
 	<ol>
 		<li id="fn01">As a general rule, there will often be more covenants from the seller(s) to the purchaser(s) since there are a lot more things that determined seller(s) can do to extract value from the target company at the expense of the purchaser(s). <a href="#fref01">&#8593;</a></li>
 		<li id="fn02">These are also referred to as <em>affirmative covenants</em>. <a href="#fref02">&#8593;</a></li>
-		<li id="fn"> <a href="#fref">&#8593;</a></li>
+		<li id="fn03">The parties will often negotiate this to exclude indebtedness incurred in the ordinary course of business, acquisition indebtedness incurred in connection with the transaction, or indebtedness in excess of a specified amount. I’ve seen all of the above in varying combinations in the private equity transactions I’ve worked on. <a href="#fref03">&#8593;</a></li>
 		<li id="fn"> <a href="#fref">&#8593;</a></li>
 		<li id="fn"> <a href="#fref">&#8593;</a></li>
 	</ol>
