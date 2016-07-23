@@ -4,8 +4,6 @@ Whenever an acquisition is signed on one date and closed on another date, there 
 
 As a general rule, the covenants given by the seller(s) to the purchaser(s) will be more onerous than the covenants given by the purchaser(s) to the seller(s), since the seller(s) will retain control of the target company until the transaction closes.
 
-
-
 ## Definition
 
 A proper understanding of the covenants in an acquisition agreement requires a definition of a “covenant”, as understood in Anglo-American law. At its most fundamental level, a covenant is a solemn promise to do, or to refrain from doing, something. A covenant can be a _positive covenant_ (a promise to _do_ something),<sup><a href="#fn02" id="fref02">2</a></sup> or a _negative covenant_ (a promise to _not do_ something).
@@ -48,7 +46,7 @@ Covenants in a private equity acquisition agreement range from almost boilerplat
 We can divide covenants in an acquisition agreement into two broad categories:
 
 * **Pre-closing covenants:** Pre-closing covenants apply between the date the acquisition agreement is signed and the date the transaction closes. These covenants aim to preserve the value of the business the purchaser(s) are acquiring, ensure that the parties to the agreement make reasonable efforts to consummate the transaction, and prevent the seller(s) from shopping the target around after the acquisition agreement is signed.
-* **Post-closing covenants:** Post-closing covenants apply after the transaction closes. These covenants aim to ensure that the purchaser(s) cooperate with the seller(s) to keep certain tax and business records (in case of tax or other regulatory audits), ensure that the purchaser(s) maintain directors &#38; officers insurance for the outgoing directors and officers of the target company, prevent the seller(s) from competing with the target, prevent the seller(s) from soliciting employees of the target, and ensuring that the purchaser(s) or seller(s) do not use trademarks or trade names that were transferred to the purchaser(s) or retained by the seller(s). 
+* **Post-closing covenants:** Post-closing covenants apply after the transaction closes. These covenants aim to ensure that the purchaser(s) cooperate with the seller(s) to keep certain tax and business records (in case of tax or other regulatory audits), ensure that the purchaser(s) maintain directors &#38; officers insurance for the outgoing directors and officers of the target company, prevent the seller(s) from competing with the target, prevent the seller(s) from soliciting employees of the target, and ensuring that the purchaser(s) or seller(s) do not use trademarks or trade names that were transferred to the purchaser(s) or retained by the seller(s).
 
 ### Access to Information
 
@@ -68,7 +66,9 @@ In my opinion, this is the most important covenant in most private equity acquis
 
 The purchaser(s) will want the seller(s) and the target company’s management to operate the target company’s business normally, and preserve the business relationships, key employees, assets of the target company and its subsidiaries. This is covered by the general affirmative covenant to operate the business normally.
 
-Furthermore, to prevent the seller(s) and target company management from siphoning away value from the company during the period between signing and closing, the purchaser(s) will seek to constrain them by imposing certain negative covenants. The list could
+Furthermore, to prevent the seller(s) and target company management from siphoning away value from the company during the period between signing and closing, the purchaser(s) will seek to constrain them by imposing certain negative covenants. The list is transaction-specific, but could include (among others):
+
+* 
 
 ## Assistance with Debt Financing
 
@@ -77,6 +77,10 @@ Furthermore, to prevent the seller(s) and target company management from siphoni
 ## Non-solicit and non-compete
 
 The purchaser(s) will often seek assurances from the seller(s) and the target company management that none of them will . This covenant is usually expressed as a post-closing covenant—one that will take effect _after_ the closing—given by the seller(s) and the target company management, in their capacity as seller(s).
+
+## Exclusivity
+
+The exclusivity provision,<sup><a href="" id=""></a></sup>
 
 ## Conclusion
 
