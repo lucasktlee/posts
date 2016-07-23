@@ -85,13 +85,17 @@ Furthermore, to prevent the seller(s) and target company management from siphoni
 
 
 
-## Non-solicit and non-compete
-
-The purchaser(s) will often seek assurances from the seller(s) and the target company management that none of them will . This covenant is usually expressed as a post-closing covenant—one that will take effect _after_ the closing—given by the seller(s) and the target company management, in their capacity as seller(s).
-
 ## Exclusivity
 
 The exclusivity provision,<sup><a href="" id=""></a></sup>
+
+## Non-solicit and non-compete
+
+Non-solicit and non-compete covenants are post-closing covenants that constrain the ability of the seller(s) to solicit the employees of the target company and its subsidiaries or compete with the target company and its subsidiaries.
+
+In most transactions, the purchaser(s) will be acquiring the target on the basis of assurances from the seller(s) that they will not simply set up a new company to compete with the target. To provide a contractual remedy against the seller(s) if they begin competing against the target after the transaction, the parties will enter into a non-compete covenant, specifying that for a specific period, the seller(s) will not—directly or indirectly—compete with the target.
+
+If the seller(s) are a private equity sponsor, this non-compete may 
 
 ## Conclusion
 
