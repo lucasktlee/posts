@@ -104,7 +104,7 @@ One of the most important pre-closing covenants that the purchaser(s) will requi
 > would unreasonably interfere with the business or operations of the Company
 > or any of its Subsidiaries.
 
-
+The reality is that the purchaser(s) will need the cooperation of the target company’s management to facilitate
 
 ### Exclusivity
 
@@ -120,7 +120,11 @@ If the seller(s) are a private equity sponsor, this non-compete may
 
 ## Bespoke Covenants
 
-Beyond the common covenants mentioned above, every acquisition agreement will have specific pre-closing and post-closing covenants tailored to fit the circumstances of the transaction. 
+Beyond the common covenants mentioned above, every acquisition agreement will have specific pre-closing and post-closing covenants tailored to fit the circumstances of the transaction.
+
+Some examples of bespoke pre-closing and post-closing covenants that I have seen include:
+
+* 
 
 ## Conclusion
 
