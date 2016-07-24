@@ -52,17 +52,22 @@ We can divide covenants in an acquisition agreement into two broad categories:
 
 The seller(s), the target company, and its subsidiaries will covenant to provide the purchaser(s) with access to the offices and premises of the target company and its subsidiaries, as well as access to the books and records of the target company and its subsidiaries.
 
-While this is a boilerplate covenant, the details of what is covered by the covenant to provide access to information will be negotiated in some detail. The purchaser(s) will want to ensure that it has all the necessary access to the offices and premises of the target company _and_ its subsidiaries (if applicable) to conduct due diligence of the physical property, plant and equipment of the target and its subsidiaries. Moreover, the purchaser(s) will also want access to the books and records of the target company and its subsidiaries to conduct due diligence on the business they are acquiring. The purchaser(s) will not want to be overly restricted in their ability to conduct due diligence, and will resist limits on timing for their visits to the offices and premises and the subject matter they can inspect in the books and records of the company and its subsidiaries. The purchaser(s) will also resist having to give very advance notice of an intent to visit or inspect, to limit the ability of the target company to sweep issues under the rug.
+While this is a boilerplate pre-closing covenant, the details of what is covered by the covenant to provide access to information will be negotiated in some detail. The purchaser(s) will want to ensure that it has all the necessary access to the offices and premises of the target company _and_ its subsidiaries (if applicable) to conduct due diligence of the physical property, plant and equipment of the target and its subsidiaries. Moreover, the purchaser(s) will also want access to the books and records of the target company and its subsidiaries to conduct due diligence on the business they are acquiring. The purchaser(s) will not want to be overly restricted in their ability to conduct due diligence, and will resist limits on timing for their visits to the offices and premises and the subject matter they can inspect in the books and records of the company and its subsidiaries. The purchaser(s) will also resist having to give very advance notice of an intent to visit or inspect, to limit the ability of the target company to sweep issues under the rug.
 
 The purchaser(s) will also need to ensure that their counsel, accountants, financial advisers, and potential sources of debt capital are also able to access information and visit the offices and premises of the company for the purpose of conducting due diligence.
 
 For the seller(s) and the target company’s management, their objective will be to minimize the disruption to the business of the target. To do so, they will frequently limit visits to normal business hours, and require that the purchaser(s) take steps to avoid disrupting the normal business operations of the target and its subsidiaries. The seller(s) and the target company’s management will also seek to limit the persons that will have access to the offices, premises, books and records of the target and its subsidiaries, in order to manage the risk of confidential information relating to the target and its subsidiaries being disclosed to unauthorized parties.
 
-One further issue that seller(s) and the target company’s management may take into account is the need to limit the number of people within the target company and its subsidiaries that know of the proposed transaction. As such, it may wish to require the purchaser(s) to direct all requests for access to a designated list of individuals with knowledge of the proposed transaction.
+One further issue that seller(s) and the target company’s management may take into account is the need to limit the number of people within the target company and its subsidiaries that know of the proposed transaction. As such, it may wish to require the purchaser(s) to direct all requests for access to a designated list of individuals with knowledge of the proposed transaction. For example:
+
+> [A]ll requests for such access will be directed to such Person or Persons at
+> [FINANCIAL ADVISOR] as the Company may designate from time to time.
+
+This allows the seller(s) and the target company’s management to control the flow of information to employees and third parties such as suppliers or customers, and will often be an issue of great importance to them during this period.
 
 ## Conduct of Business
 
-In my opinion, this is the most important covenant in most private equity acquisition agreements. It normally consists of what I call a “general affirmative covenant” to operate the business normally, and a more detailed list of negative covenants that explicitly prohibit the seller(s), the target company and its subsidiaries from doing certain things without the consent of the purchaser(s).
+In my opinion, this is the most important pre-closing covenant in most private equity acquisition agreements. It normally consists of what I call a “general affirmative covenant” to operate the business normally, and a more detailed list of negative covenants that explicitly prohibit the seller(s), the target company and its subsidiaries from doing certain things without the consent of the purchaser(s).
 
 The purchaser(s) will want the seller(s) and the target company’s management to operate the target company’s business normally, and preserve the business relationships, key employees, assets of the target company and its subsidiaries. This is covered by the general affirmative covenant to operate the business normally.
 
@@ -70,6 +75,7 @@ Furthermore, to prevent the seller(s) and target company management from siphoni
 
 * Issuing any new equity interest in the target company or its subsidiaries, or repurchasing any equity interests in the target company or its subsidiaries
 * Transferring any equity interest in the target company or its subsidiaries to any person other than the purchaser(s) or their designated acquisition vehicle
+* Paying any dividends or repaying any shareholder loans
 * Incurring any new indebtedness<sup><a href="#fn03" id="fref03">3</a></sup>
 * Granting any security interest on the properties or assets of the target company or its subsidiaries
 * Acquiring any assets or selling any assets of the target company or any subsidiary other than in the ordinary course of business
@@ -79,7 +85,7 @@ Furthermore, to prevent the seller(s) and target company management from siphoni
 * Incurring capital expenditures above a specified threshold
 * Entering into, amending, or terminating any material contract (as defined in the acquisition agreement)
 
-
+As one can imagine, the conduct of business pre-closing covenant will be heavily negotiated between the purchaser(s), the seller(s), and the target company’s management. The purchaser(s) will seek to impose strict limits on the ability of the seller(s) to extract value from the target company between signing and closing, most commonly by repurchasing shares, paying a dividend, or repaying any outstanding shareholder loans. The purchaser(s) will also seek to prevent the seller(s) and the target company’s management from taking actions that materially change the assets and business of the target company, for example selling assets or operating businesses, or 
 
 ## Assistance with Debt Financing
 
@@ -95,7 +101,7 @@ Non-solicit and non-compete covenants are post-closing covenants that constrain 
 
 In most transactions, the purchaser(s) will be acquiring the target on the basis of assurances from the seller(s) that they will not simply set up a new company to compete with the target. To provide a contractual remedy against the seller(s) if they begin competing against the target after the transaction, the parties will enter into a non-compete covenant, specifying that for a specific period, the seller(s) will not—directly or indirectly—compete with the target.
 
-If the seller(s) are a private equity sponsor, this non-compete may 
+If the seller(s) are a private equity sponsor, this non-compete may
 
 ## Conclusion
 
