@@ -96,7 +96,15 @@ One of the most important pre-closing covenants that the purchaser(s) will requi
 
 > During the period from the date of this Agreement to the earlier of the
 > Closing and the termination of this Agreement in accordance with its terms,
-> Seller and the Company shall use
+> Seller and the Company shall use their reasonable best efforts to provide
+> Purchaser with all cooperation, and shall use their respective reasonable best
+> efforts to cause their respective Affiliates and Representatives to cooperate
+> with Purchaser in connection with Purchaser’s arrangement of Debt Financing;
+> provided, that nothing herein shall require such cooperation to the extent it
+> would unreasonably interfere with the business or operations of the Company
+> or any of its Subsidiaries.
+
+
 
 ## Exclusivity
 
