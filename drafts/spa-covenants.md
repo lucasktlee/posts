@@ -85,7 +85,9 @@ Furthermore, to prevent the seller(s) and target company management from siphoni
 * Incurring capital expenditures above a specified threshold
 * Entering into, amending, or terminating any material contract (as defined in the acquisition agreement)
 
-As one can imagine, the conduct of business pre-closing covenant will be heavily negotiated between the purchaser(s), the seller(s), and the target company’s management. The purchaser(s) will seek to impose strict limits on the ability of the seller(s) to extract value from the target company between signing and closing, most commonly by repurchasing shares, paying a dividend, or repaying any outstanding shareholder loans. The purchaser(s) will also seek to prevent the seller(s) and the target company’s management from taking actions that materially change the assets and business of the target company, for example selling assets or operating businesses, or 
+As one can imagine, the conduct of business pre-closing covenant will be heavily negotiated between the purchaser(s), the seller(s), and the target company’s management. The purchaser(s) will seek to impose strict limits on the ability of the seller(s) to extract value from the target company between signing and closing, most commonly by repurchasing shares, paying a dividend, or repaying any outstanding shareholder loans. The purchaser(s) will also seek to prevent the seller(s) and the target company’s management from taking actions that materially change the assets and business of the target company, for example selling assets or operating businesses, incurring debt, making capital expenditures, or altering any material contracts or business relationships. Finally, the purchaser(s) will also wish to ensure that the target company’s management does not take the opportunity to extract value from the target by declaring any extraordinary bonuses, 
+
+
 
 ## Assistance with Debt Financing
 
