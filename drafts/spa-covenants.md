@@ -78,6 +78,7 @@ Furthermore, to prevent the seller(s) and target company management from siphoni
 * Paying any dividends or repaying any shareholder loans
 * Incurring any new indebtedness<sup><a href="#fn03" id="fref03">3</a></sup>
 * Granting any security interest on the properties or assets of the target company or its subsidiaries
+* Entering into any merger, acquisition, or consolidation with any other corporate entity other than in connection with the transaction
 * Acquiring any assets or selling any assets of the target company or any subsidiary other than in the ordinary course of business
 * Amending any of the constitutional documents of the target company or any subsidiary other than in accordance with the terms of the acquisition agreement
 * Increasing the salary or compensation of any current or former director, officer, employee, or consultant of the company or any subsidiary, or pay any bonuses to any of the foregoing individuals
@@ -85,13 +86,17 @@ Furthermore, to prevent the seller(s) and target company management from siphoni
 * Incurring capital expenditures above a specified threshold
 * Entering into, amending, or terminating any material contract (as defined in the acquisition agreement)
 
-As one can imagine, the conduct of business pre-closing covenant will be heavily negotiated between the purchaser(s), the seller(s), and the target company’s management. The purchaser(s) will seek to impose strict limits on the ability of the seller(s) to extract value from the target company between signing and closing, most commonly by repurchasing shares, paying a dividend, or repaying any outstanding shareholder loans. The purchaser(s) will also seek to prevent the seller(s) and the target company’s management from taking actions that materially change the assets and business of the target company, for example selling assets or operating businesses, incurring debt, making capital expenditures, or altering any material contracts or business relationships. Finally, the purchaser(s) will also wish to ensure that the target company’s management does not take the opportunity to extract value from the target by declaring any extraordinary bonuses, 
+As one can imagine, the conduct of business pre-closing covenant will be heavily negotiated between the purchaser(s), the seller(s), and the target company’s management. The purchaser(s) will seek to impose strict limits on the ability of the seller(s) to extract value from the target company between signing and closing, most commonly by repurchasing shares, paying a dividend, or repaying any outstanding shareholder loans. The purchaser(s) will also seek to prevent the seller(s) and the target company’s management from taking actions that materially change the assets and business of the target company, for example selling assets or operating businesses, incurring debt, making capital expenditures, or altering any material contracts or business relationships. Finally, the purchaser(s) will also wish to ensure that the target company’s management does not take the opportunity to extract value from the target by declaring any extraordinary bonuses, pay increases, and other cash or non-cash compensation.
 
-
+For the seller(s) and the target company’s management, the goal will be to ensure that they can run the business of the target company with the least disruptions.
 
 ## Assistance with Debt Financing
 
+One of the most important pre-closing covenants that the purchaser(s) will require is a covenant to assist with the purchaser(s)’ efforts to secure debt financing for the transaction.<sup><a href="#fn04" id="fref04">4</a></sup>
 
+> During the period from the date of this Agreement to the earlier of the
+> Closing and the termination of this Agreement in accordance with its terms,
+> Seller and the Company shall use
 
 ## Exclusivity
 
@@ -109,6 +114,8 @@ If the seller(s) are a private equity sponsor, this non-compete may
 
 With this post, I’ve concluded my survey of the key provisions in a private equity acquisition agreement. This survey just scratches the surface of an acquisition agreement—there are a lot of nuances that cannot be conveyed without writing what would be the equivalent of a small textbook.
 
+While I may, if there is interest, discuss certain specialized acquisition agreement topics in the future, and will likely comment on new developments if they prove interesting, I believe this series will at least assist the average private equity investment professional to better understand one of the key transaction documents.
+
 ## Other Posts in the <abbr>SPA</abbr> Series
 
 * [Stock Purchase Agreement Series — Overview](https://lucasktlee.com/2016/03/25/stock-purchase-agreement-series-overview/)
@@ -124,7 +131,7 @@ With this post, I’ve concluded my survey of the key provisions in a private eq
 		<li id="fn01">As a general rule, there will often be more covenants from the seller(s) to the purchaser(s) since there are a lot more things that determined seller(s) can do to extract value from the target company at the expense of the purchaser(s). <a href="#fref01">&#8593;</a></li>
 		<li id="fn02">These are also referred to as <em>affirmative covenants</em>. <a href="#fref02">&#8593;</a></li>
 		<li id="fn03">The parties will often negotiate this to exclude indebtedness incurred in the ordinary course of business, acquisition indebtedness incurred in connection with the transaction, or indebtedness in excess of a specified amount. I’ve seen all of the above in varying combinations in the private equity transactions I’ve worked on. <a href="#fref03">&#8593;</a></li>
-		<li id="fn"> <a href="#fref">&#8593;</a></li>
+		<li id="fn04">It goes without saying that this pre-closing covenant is applicable only to leveraged buyouts. <a href="#fref04">&#8593;</a></li>
 		<li id="fn"> <a href="#fref">&#8593;</a></li>
 	</ol>
 </div>
