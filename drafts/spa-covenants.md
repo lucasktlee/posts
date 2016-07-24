@@ -65,7 +65,7 @@ One further issue that seller(s) and the target company’s management may take 
 
 This allows the seller(s) and the target company’s management to control the flow of information to employees and third parties such as suppliers or customers, and will often be an issue of great importance to them during this period.
 
-## Conduct of Business
+### Conduct of Business
 
 In my opinion, this is the most important pre-closing covenant in most private equity acquisition agreements. It normally consists of what I call a “general affirmative covenant” to operate the business normally, and a more detailed list of negative covenants that explicitly prohibit the seller(s), the target company and its subsidiaries from doing certain things without the consent of the purchaser(s).
 
@@ -90,7 +90,7 @@ As one can imagine, the conduct of business pre-closing covenant will be heavily
 
 For the seller(s) and the target company’s management, the goal will be to ensure that they can run the business of the target company with the least disruptions.
 
-## Assistance with Debt Financing
+### Assistance with Debt Financing
 
 One of the most important pre-closing covenants that the purchaser(s) will require is a covenant to assist with the purchaser(s)’ efforts to secure debt financing for the transaction.<sup><a href="#fn04" id="fref04">4</a></sup>
 
@@ -106,17 +106,21 @@ One of the most important pre-closing covenants that the purchaser(s) will requi
 
 
 
-## Exclusivity
+### Exclusivity
 
 The exclusivity provision,<sup><a href="" id=""></a></sup>
 
-## Non-solicit and non-compete
+### Non-solicit and non-compete
 
 Non-solicit and non-compete covenants are post-closing covenants that constrain the ability of the seller(s) to solicit the employees of the target company and its subsidiaries or compete with the target company and its subsidiaries.
 
 In most transactions, the purchaser(s) will be acquiring the target on the basis of assurances from the seller(s) that they will not simply set up a new company to compete with the target. To provide a contractual remedy against the seller(s) if they begin competing against the target after the transaction, the parties will enter into a non-compete covenant, specifying that for a specific period, the seller(s) will not—directly or indirectly—compete with the target.
 
 If the seller(s) are a private equity sponsor, this non-compete may
+
+## Bespoke Covenants
+
+Beyond the common covenants mentioned above, every acquisition agreement will have specific pre-closing and post-closing covenants tailored to fit the circumstances of the transaction. 
 
 ## Conclusion
 
