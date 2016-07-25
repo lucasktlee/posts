@@ -117,7 +117,7 @@ I have sometimes seen drafts of the acquisition agreement prepared by seller(s)�
 
 ### Reasonable Best Efforts by Purchaser(s) to Consummate
 
-The seller(s) will include a pre-closing covenant  
+The seller(s) will include a pre-closing covenant requiring the purchaser(s) to use reasonable best efforts to consummate the transaction. This will often be heavily negotiated by purchaser(s) to avoid inadvertently creating a binding obligation to complete the transaction and negating any rights to terminate the transaction that might be present in other parts of the acquisition agreement.
 
 ### Exclusivity
 
@@ -138,7 +138,7 @@ Beyond the common covenants mentioned above, every acquisition agreement will ha
 Some examples of bespoke pre-closing and post-closing covenants that I have seen include:
 
 * Requiring the target company’s management to consult regularly with the purchaser(s) in relation to a proposed bolt-on acquisition that was already in progress at the time the parties signed the acquisition agreement
-* Requiring the target company’s management to take steps to bring the company’s China subsidiaries into compliance with local labor laws, including making good any shortfalls in social security, unemployment and other required contributions<sup><a href="#fn" id="fref"></a></sup>
+* Requiring the target company’s management to take steps to bring the company’s China subsidiaries into compliance with local labor laws, including making good any shortfalls in social security, unemployment and other required contributions<sup><a href="#fn08" id="fref08">8</a></sup>
 * Requiring the seller(s), the target company, and the purchaser(s) to cooperate to complete a required corporate restructuring in connection with the transaction
 * Requiring the target company to terminate certain related party transactions prior to closing, for example, management service agreements with a selling private equity sponsor, or transactions with corporate entities owned or controlled by the target company’s management, founders, or their affiliates
 
@@ -167,6 +167,6 @@ While I may, if there is interest, discuss certain specialized acquisition agree
 		<li id="fn05">For most leveraged loans used in leveraged buyouts, the arranging banks will <em>not</em> hold all the leveraged loans on their balance sheets, but will instead place the majority of the leveraged loans with other banks and other institutional investors. Most leveraged loans will include flex provisions allowing the bank to alter the terms—including tenor and interest rates—to enable the leveraged loans to be sold. As such, the roadshows, offering memoranda, and other marketing documents can have a significant impact on the pricing of the leverage loans, and potentially on the ability of the acquirer to make the acquisition. <a href="#fref05">&#8593;</a></li>
 		<li id="fn06">In my experience, competent counsel is worth paying for. In each of the leverage buyouts I did with <a href="http://www.partnersgroup.com/">Partners Group</a> in the Asia-Pacific, the quality of the counsel made a great difference, in terms of negotiating terms and controlling the process. <a href="#fref06">&#8593;</a></li>
 		<li id="fn07">Also referred to as a “no-shop” provision. <a href="#fref07">&#8593;</a></li>
-		<li id="fn"> <a href="#fref">&#8593;</a></li>
+		<li id="fn08">This can be a major issue in China, where some foreign-owned enterprises have not been entirely compliant with Chinese employment law requirements for an extended period of time due to lax enforcement. <a href="#fref08">&#8593;</a></li>
 	</ol>
 </div>
