@@ -119,6 +119,8 @@ I have sometimes seen drafts of the acquisition agreement prepared by seller(s)�
 
 The seller(s) will include a pre-closing covenant requiring the purchaser(s) to use reasonable best efforts to consummate the transaction. This will often be heavily negotiated by purchaser(s) to avoid inadvertently creating a binding obligation to complete the transaction and negating any rights to terminate the transaction that might be present in other parts of the acquisition agreement.
 
+The purchaser(s) will often seek to amend this pre-closing covenant to provide flexibility to its obligation to consummate, in particular, with respect to securing debt financing or alternatives if the proposed debt financing fails to materialize.
+
 ### Exclusivity
 
 The exclusivity provision is a crucial pre-closing covenant that constrains the seller(s) from negotiating with multiple parties for a sale of the target company.<sup><a href="#fn07" id="fref07">7</a></sup> It takes over from the exclusivity that would have been negotiated in the letter of intent or term sheet, and covers the period from the signing of the acquisition agreement to the closing. For the most part, counsel should be able to handle this without much input from the investment professionals. If the seller(s) have any unusual structures or affiliates that might be able to negotiate a sale of the target, it would be a good idea to discuss this with counsel so that the exclusivity can be drafted to include them, but otherwise, leave this in the hands of competent counsel.
@@ -129,7 +131,13 @@ Non-solicit and non-compete covenants are post-closing covenants that constrain 
 
 In most transactions, the purchaser(s) will be acquiring the target on the basis of assurances from the seller(s) that they will not simply set up a new company to compete with the target. To provide a contractual remedy against the seller(s) if they begin competing against the target after the transaction, the parties will enter into a non-compete covenant, specifying that for a specific period, the seller(s) will not—directly or indirectly—compete with the target.
 
-If the seller(s) are private equity sponsor(s), this non-compete may
+If the seller(s) are private equity sponsor(s), this non-solicit and non-compete may need to explicitly include the private equity sponsor(s), since the seller(s) will often be a special purpose vehicle incorporated specifically for the transaction and will cease to operate after the sale of the target.
+
+It may also need to be drafted carefully to avoid restricting the ability of the selling private equity sponsor to make future acquisitions in the same or related industry.
+
+### Directors and Officers Insurance
+
+One crucial post-closing covenant that the seller(s) will seek is a covenant from the purchaser(s) to purchase and maintain directors &#38; officers liability insurance covering the outgoing directors and officers for a period of time. This “tail” insurance coverage is of particular importance to the outgoing directors who will want to ensure that they are insured for any acts or omissions during the time they were directors of the company, at least until the expiration of the statute of limitations for corporate litigation. 
 
 ## Bespoke Covenants
 
@@ -146,7 +154,7 @@ Some examples of bespoke pre-closing and post-closing covenants that I have seen
 
 With this post, I’ve concluded my survey of the key provisions in a private equity acquisition agreement. This survey just scratches the surface of an acquisition agreement—there are a lot of nuances that cannot be conveyed without writing what would be the equivalent of a small textbook.
 
-While I may, if there is interest, discuss certain specialized acquisition agreement topics in the future, and will likely comment on new developments if they prove interesting, I believe this series will at least assist the average private equity investment professional to better understand one of the key transaction documents.
+While I may, if there is interest, discuss certain specialized acquisition agreement topics in the future, and will likely comment on new developments if they prove interesting, I believe this series stands on its own. It will at least assist the average private equity investment professional to better understand one of the key transaction documents in a private equity transaction.
 
 ## Other Posts in the <abbr>SPA</abbr> Series
 
