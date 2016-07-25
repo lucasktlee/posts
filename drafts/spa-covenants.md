@@ -79,6 +79,7 @@ Furthermore, to prevent the seller(s) and target company management from siphoni
 * Incurring any new indebtedness<sup><a href="#fn03" id="fref03">3</a></sup>
 * Granting any security interest on the properties or assets of the target company or its subsidiaries
 * Entering into any merger, acquisition, or consolidation with any other corporate entity other than in connection with the transaction
+* Entering into any joint venture, strategic partnership, or other relationship with a third party other than in connection with the transaction
 * Acquiring any assets or selling any assets of the target company or any subsidiary other than in the ordinary course of business
 * Amending any of the constitutional documents of the target company or any subsidiary other than in accordance with the terms of the acquisition agreement
 * Increasing the salary or compensation of any current or former director, officer, employee, or consultant of the company or any subsidiary, or pay any bonuses to any of the foregoing individuals
@@ -89,6 +90,12 @@ Furthermore, to prevent the seller(s) and target company management from siphoni
 As one can imagine, the conduct of business pre-closing covenant will be heavily negotiated between the purchaser(s), the seller(s), and the target company’s management. The purchaser(s) will seek to impose strict limits on the ability of the seller(s) to extract value from the target company between signing and closing, most commonly by repurchasing shares, paying a dividend, or repaying any outstanding shareholder loans. The purchaser(s) will also seek to prevent the seller(s) and the target company’s management from taking actions that materially change the assets and business of the target company, for example selling assets or operating businesses, incurring debt, making capital expenditures, or altering any material contracts or business relationships. Finally, the purchaser(s) will also wish to ensure that the target company’s management does not take the opportunity to extract value from the target by declaring any extraordinary bonuses, pay increases, and other cash or non-cash compensation.
 
 For the seller(s) and the target company’s management, the goal will be to ensure that they can run the business of the target company with the least disruptions.
+
+### Regulatory Filings and Required Consents
+
+These pre-closing covenants from purchaser(s) and seller(s) requires purchaser(s) and seller(s) respectively to take necessary steps to make required regulatory filings and obtain required governmental, shareholder, and third party consents to the transaction.
+
+This can be of particular importance where a transaction has potential merger control (anti-trust) rammifications, is subject to foreign direct investment restrictions, or involves a highly regulated industry.
 
 ### Assistance with Debt Financing
 
@@ -106,11 +113,15 @@ One of the most important pre-closing covenants that the purchaser(s) will requi
 
 The reality is that the purchaser(s) will need the cooperation of the target company’s management to facilitate the debt financing arrangements,<sup><a href="#fn05" id="fref05">5</a></sup> for example by assisting with the preparation of offering memoranda for the debt financing, participating in road shows organized by the arranging banks to market the loans to prospective institutional investors and other banks, providing financial information required under the terms of the debt financing agreements, facilitating the taking of security over the assets of the target company as required by the lenders, and assisting the arranging banks to complete required know-your-customer and anti-money laundering checks.
 
-I have sometimes seen drafts of the acquisition agreement prepared by seller(s)’ counsel that does not include this pre-closing covenant. Given that competent purchaser(s)’ counsel in any leveraged buyout transaction will always add this covenant if it isn’t already present,<sup><a href="#fn06" id="fref06">6</a></sup> I find this little exclusion a waste of the parties’ time and energy.
+I have sometimes seen drafts of the acquisition agreement prepared by seller(s)’ counsel that do not include this pre-closing covenant. Given that competent purchaser(s)’ counsel in any leveraged buyout transaction will always add this covenant if it isn’t already present,<sup><a href="#fn06" id="fref06">6</a></sup> I find this little exclusion a waste of the parties’ time and energy.
+
+### Reasonable Best Efforts by Purchaser(s) to Consummate
+
+The seller(s) will include a pre-closing covenant  
 
 ### Exclusivity
 
-The exclusivity provision,<sup><a href="" id=""></a></sup>
+The exclusivity provision is a crucial pre-closing covenant that constrains the seller(s) from negotiating with multiple parties for a sale of the target company.<sup><a href="#fn07" id="fref07">7</a></sup> It takes over from the exclusivity that would have been negotiated in the letter of intent or term sheet, and covers the period from the signing of the acquisition agreement to the closing. For the most part, counsel should be able to handle this without much input from the investment professionals. If the seller(s) have any unusual structures or affiliates that might be able to negotiate a sale of the target, it would be a good idea to discuss this with counsel so that the exclusivity can be drafted to include them, but otherwise, leave this in the hands of competent counsel.
 
 ### Non-solicit and non-compete
 
@@ -128,6 +139,8 @@ Some examples of bespoke pre-closing and post-closing covenants that I have seen
 
 * Requiring the target company’s management to consult regularly with the purchaser(s) in relation to a proposed bolt-on acquisition that was already in progress at the time the parties signed the acquisition agreement
 * Requiring the target company’s management to take steps to bring the company’s China subsidiaries into compliance with local labor laws, including making good any shortfalls in social security, unemployment and other required contributions<sup><a href="#fn" id="fref"></a></sup>
+* Requiring the seller(s), the target company, and the purchaser(s) to cooperate to complete a required corporate restructuring in connection with the transaction
+* Requiring the target company to terminate certain related party transactions prior to closing, for example, management service agreements with a selling private equity sponsor, or transactions with corporate entities owned or controlled by the target company’s management, founders, or their affiliates
 
 ## Conclusion
 
@@ -150,10 +163,10 @@ While I may, if there is interest, discuss certain specialized acquisition agree
 		<li id="fn01">As a general rule, there will often be more covenants from the seller(s) to the purchaser(s) since there are a lot more things that determined seller(s) can do to extract value from the target company at the expense of the purchaser(s). <a href="#fref01">&#8593;</a></li>
 		<li id="fn02">These are also referred to as <em>affirmative covenants</em>. <a href="#fref02">&#8593;</a></li>
 		<li id="fn03">The parties will often negotiate this to exclude indebtedness incurred in the ordinary course of business, acquisition indebtedness incurred in connection with the transaction, or indebtedness in excess of a specified amount. I’ve seen all of the above in varying combinations in the private equity transactions I’ve worked on. <a href="#fref03">&#8593;</a></li>
-		<li id="fn04">It goes without saying that this pre-closing covenant is applicable only to leveraged buyouts. <a href="#fref04">&#8593;</a></li>
+		<li id="fn04">It goes without saying that this pre-closing covenant is applicable only to leveraged buyouts; growth capital transactions will not as a general rule incorporate leverage financing. <a href="#fref04">&#8593;</a></li>
 		<li id="fn05">For most leveraged loans used in leveraged buyouts, the arranging banks will <em>not</em> hold all the leveraged loans on their balance sheets, but will instead place the majority of the leveraged loans with other banks and other institutional investors. Most leveraged loans will include flex provisions allowing the bank to alter the terms—including tenor and interest rates—to enable the leveraged loans to be sold. As such, the roadshows, offering memoranda, and other marketing documents can have a significant impact on the pricing of the leverage loans, and potentially on the ability of the acquirer to make the acquisition. <a href="#fref05">&#8593;</a></li>
 		<li id="fn06">In my experience, competent counsel is worth paying for. In each of the leverage buyouts I did with <a href="http://www.partnersgroup.com/">Partners Group</a> in the Asia-Pacific, the quality of the counsel made a great difference, in terms of negotiating terms and controlling the process. <a href="#fref06">&#8593;</a></li>
-		<li id="fn"> <a href="#fref">&#8593;</a></li>
+		<li id="fn07">Also referred to as a “no-shop” provision. <a href="#fref07">&#8593;</a></li>
 		<li id="fn"> <a href="#fref">&#8593;</a></li>
 	</ol>
 </div>
