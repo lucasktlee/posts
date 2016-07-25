@@ -92,7 +92,7 @@ For the seller(s) and the target company’s management, the goal will be to ens
 
 ### Assistance with Debt Financing
 
-One of the most important pre-closing covenants that the purchaser(s) will require is a covenant to assist with the purchaser(s)’ efforts to secure debt financing for the transaction.<sup><a href="#fn04" id="fref04">4</a></sup>
+One of the most important pre-closing covenants that the purchaser(s) will require is a covenant from the seller(s) and the target company’s management to assist with the purchaser(s)’ efforts to secure debt financing for the transaction.<sup><a href="#fn04" id="fref04">4</a></sup>
 
 > During the period from the date of this Agreement to the earlier of the
 > Closing and the termination of this Agreement in accordance with its terms,
@@ -104,7 +104,7 @@ One of the most important pre-closing covenants that the purchaser(s) will requi
 > would unreasonably interfere with the business or operations of the Company
 > or any of its Subsidiaries.
 
-The reality is that the purchaser(s) will need the cooperation of the target company’s management to facilitate the debt financing arrangements,<sup><a href="#fn05" id="fref05">5</a></sup> for example by assisting with the preparation of offering memoranda for the debt financing
+The reality is that the purchaser(s) will need the cooperation of the target company’s management to facilitate the debt financing arrangements,<sup><a href="#fn05" id="fref05">5</a></sup> for example by assisting with the preparation of offering memoranda for the debt financing, participating in road shows organized by the arranging banks to market the loans to prospective institutional investors and other banks, providing financial information required under the terms of the debt financing agreements, facilitating the taking of security over the assets of the target company as required by the lenders, and assisting the arranging banks to complete required know-your-customer and anti-money laundering checks.  
 
 ### Exclusivity
 
@@ -149,7 +149,7 @@ While I may, if there is interest, discuss certain specialized acquisition agree
 		<li id="fn02">These are also referred to as <em>affirmative covenants</em>. <a href="#fref02">&#8593;</a></li>
 		<li id="fn03">The parties will often negotiate this to exclude indebtedness incurred in the ordinary course of business, acquisition indebtedness incurred in connection with the transaction, or indebtedness in excess of a specified amount. I’ve seen all of the above in varying combinations in the private equity transactions I’ve worked on. <a href="#fref03">&#8593;</a></li>
 		<li id="fn04">It goes without saying that this pre-closing covenant is applicable only to leveraged buyouts. <a href="#fref04">&#8593;</a></li>
-		<li id="fn05">For most leveraged loans used in leveraged buyouts, the arranging banks will <em>not</em> hold all the leveraged loans on their balance sheets, but will instead place the majority of the leverage loans with other banks and other institutional investors. Most leverage loans will include flex provisions allowing the bank to alter the terms—including tenor and interest rates—to enable . As such, the roadshows, offering memoranda, and other marketing documents can be a crucial  <a href="#fref05">&#8593;</a></li>
+		<li id="fn05">For most leveraged loans used in leveraged buyouts, the arranging banks will <em>not</em> hold all the leveraged loans on their balance sheets, but will instead place the majority of the leveraged loans with other banks and other institutional investors. Most leveraged loans will include flex provisions allowing the bank to alter the terms—including tenor and interest rates—to enable the leveraged loans to be sold. As such, the roadshows, offering memoranda, and other marketing documents can have a significant impact on   <a href="#fref05">&#8593;</a></li>
 		<li id="fn"> <a href="#fref">&#8593;</a></li>
 		<li id="fn"> <a href="#fref">&#8593;</a></li>
 		<li id="fn"> <a href="#fref">&#8593;</a></li>
