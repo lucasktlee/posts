@@ -149,7 +149,7 @@ While I may, if there is interest, discuss certain specialized acquisition agree
 		<li id="fn02">These are also referred to as <em>affirmative covenants</em>. <a href="#fref02">&#8593;</a></li>
 		<li id="fn03">The parties will often negotiate this to exclude indebtedness incurred in the ordinary course of business, acquisition indebtedness incurred in connection with the transaction, or indebtedness in excess of a specified amount. I’ve seen all of the above in varying combinations in the private equity transactions I’ve worked on. <a href="#fref03">&#8593;</a></li>
 		<li id="fn04">It goes without saying that this pre-closing covenant is applicable only to leveraged buyouts. <a href="#fref04">&#8593;</a></li>
-		<li id="fn05"> <a href="#fref05">&#8593;</a></li>
+		<li id="fn05">For most leveraged loans used in leveraged buyouts, the arranging banks will <em>not</em> hold all the leveraged loans on their balance sheets, but will instead place the majority of the leverage loans with other banks and other institutional investors. Most leverage loans will include flex provisions allowing the bank to alter the terms—including tenor and interest rates—to enable . As such, the roadshows, offering memoranda, and other marketing documents can be a crucial  <a href="#fref05">&#8593;</a></li>
 		<li id="fn"> <a href="#fref">&#8593;</a></li>
 		<li id="fn"> <a href="#fref">&#8593;</a></li>
 		<li id="fn"> <a href="#fref">&#8593;</a></li>
