@@ -104,7 +104,7 @@ One of the most important pre-closing covenants that the purchaser(s) will requi
 > would unreasonably interfere with the business or operations of the Company
 > or any of its Subsidiaries.
 
-The reality is that the purchaser(s) will need the cooperation of the target company’s management to facilitate
+The reality is that the purchaser(s) will need the cooperation of the target company’s management to facilitate the debt financing arrangements,<sup><a href="#fn05" id="fref05">5</a></sup> for example by assisting with the preparation of offering memoranda for the debt financing
 
 ### Exclusivity
 
@@ -116,7 +116,7 @@ Non-solicit and non-compete covenants are post-closing covenants that constrain 
 
 In most transactions, the purchaser(s) will be acquiring the target on the basis of assurances from the seller(s) that they will not simply set up a new company to compete with the target. To provide a contractual remedy against the seller(s) if they begin competing against the target after the transaction, the parties will enter into a non-compete covenant, specifying that for a specific period, the seller(s) will not—directly or indirectly—compete with the target.
 
-If the seller(s) are a private equity sponsor, this non-compete may
+If the seller(s) are private equity sponsor(s), this non-compete may
 
 ## Bespoke Covenants
 
@@ -124,7 +124,8 @@ Beyond the common covenants mentioned above, every acquisition agreement will ha
 
 Some examples of bespoke pre-closing and post-closing covenants that I have seen include:
 
-* 
+* Requiring the target company’s management to consult regularly with the purchaser(s) in relation to a proposed bolt-on acquisition that was already in progress at the time the parties signed the acquisition agreement
+* Requiring the target company’s management to take steps to bring the company’s China subsidiaries into compliance with local labor laws, including making good any shortfalls in social security, unemployment and other required contributions<sup><a href="#fn" id="fref"></a></sup>
 
 ## Conclusion
 
@@ -148,6 +149,9 @@ While I may, if there is interest, discuss certain specialized acquisition agree
 		<li id="fn02">These are also referred to as <em>affirmative covenants</em>. <a href="#fref02">&#8593;</a></li>
 		<li id="fn03">The parties will often negotiate this to exclude indebtedness incurred in the ordinary course of business, acquisition indebtedness incurred in connection with the transaction, or indebtedness in excess of a specified amount. I’ve seen all of the above in varying combinations in the private equity transactions I’ve worked on. <a href="#fref03">&#8593;</a></li>
 		<li id="fn04">It goes without saying that this pre-closing covenant is applicable only to leveraged buyouts. <a href="#fref04">&#8593;</a></li>
+		<li id="fn05"> <a href="#fref05">&#8593;</a></li>
+		<li id="fn"> <a href="#fref">&#8593;</a></li>
+		<li id="fn"> <a href="#fref">&#8593;</a></li>
 		<li id="fn"> <a href="#fref">&#8593;</a></li>
 	</ol>
 </div>
