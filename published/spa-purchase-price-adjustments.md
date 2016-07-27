@@ -167,7 +167,7 @@ While I have tried to give sufficient detail to this post, I could, conceivably,
 * [Stock Purchase Agreement Series — Representations and Warranties](https://lucasktlee.com/2016/04/25/spa-representations-and-warranties/)
 * [Stock Purchase Agreement Series — Indemnities](https://lucasktlee.com/2016/05/09/stock-purchase-agreement-series-indemnities/)
 * [Stock Purchase Agreement Series — Closing Conditions](https://lucasktlee.com/2016/07/04/spa-closing-conditions/)
-* [Stock Purchase Agreement Series — Covenants]()
+* [Stock Purchase Agreement Series — Covenants](https://lucasktlee.com/2016/07/27/spa-covenants/)
 
 <div class="footnotes">
     <hr class="w-50"/>

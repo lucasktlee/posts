@@ -193,7 +193,7 @@ And we are through the mine field. Or at least, the tiny section of the minefiel
 * Stock Purchase Agreement Series — Representations and Warranties
 * [Stock Purchase Agreement Series — Indemnities](https://lucasktlee.com/2016/05/09/stock-purchase-agreement-series-indemnities/)
 * [Stock Purchase Agreement Series — Closing Conditions](https://lucasktlee.com/2016/07/04/spa-closing-conditions/)
-* [Stock Purchase Agreement Series — Covenants]()
+* [Stock Purchase Agreement Series — Covenants](https://lucasktlee.com/2016/07/27/spa-covenants/)
 
 
 <div class="footnotes">
