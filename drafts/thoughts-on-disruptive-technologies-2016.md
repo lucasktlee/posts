@@ -28,7 +28,9 @@ I did not expect much to happen in one year—commercially viable fusion reactor
 
 Canadian startup [General Fusion](http://www.generalfusion.com/), founded in 2002 by [Dr. Michel Laberge](https://www.ted.com/speakers/michel_laberge) received $27 million in venture capital funding from a syndicate led by [Khazanah Nasional](http://www.khazanah.com.my), a strategic investment fund of the government of Malaysia.<sup><a href="" id=""></a></sup> General Fusion is pursuing a form of fusion technology called magnetized target fusion, in which magnetic fields are used to confine the fusion fuel while it is heated into a plasma before steam-driven pistons are used to compress the plasma to initiate fusion. The basic technology—with a different compression mechanism—was first tested in 2001 at the [Los Alamos National Laboratory](http://lanl.gov/).<sup><a href="" id=""></a></sup>
 
+I will state my two concerns with General Fusion first, before delving into any other fusion startups. First, a general observation. Despite what [William D. Lese](http://www.braemarenergy.com/team/bios/lese.html), a managing partner at [Braemar Energy Ventures](http://www.braemarenergy.com)—an investor in General Fusion—[says](http://www.nytimes.com/2015/10/26/technology/start-ups-take-on-challenge-of-nuclear-fusion.html) about the fusion era being here and coming, fusion has always been the technology of the future. History is littered with the remains of broken promises on fusion energy. The ideas that many of the current crop of fusion startups are exploring were the ideas that were discarded in the 1970s when government and academic research opted to explore the [tokamak](http://www.ccfe.ac.uk/tokamak.aspx), such as magnetized target fusion, and field reversed configuration fusion. Now, there is no reason to believe that these ideas are not worthy of revisiting, particularly in light of advances in relevant fields (including computing, plasma physics, and materials sciences), .
 
+My second concern lies with the question of whether
 
 #### Novel energy storage technologies
 
@@ -40,7 +42,7 @@ Canadian startup [General Fusion](http://www.generalfusion.com/), founded in 200
 
 ## Thoughts for 2016
 
-There are a few areas that I have begun to look at
+There are a few areas that I have begun to look at, in addition to what
 
 
 
@@ -49,6 +51,6 @@ There are a few areas that I have begun to look at
   <ol>
     <li id="fn"> <a href="#fref">&#8593;</a></li>
     <li id="fn">The other investors in the syndicate included Bezos Expeditions (the personal venture capital investment arm of Amazon founder Jeff Bezos, Chrysalix Venture Capital, <a href="https://www.sdtc.ca">Sustainable Development Technology Canada</a> (an investment fund of the government of Canada), Cenovus Energy (a Canadian oil company in Alberta), Entrepreneurs Fund (a venture capital fund that invests predominantly in life sciences startups), GrowthWorks Capital (a Canadian venture capital fund), Braemar Energy Ventures, and SET Ventures (an energy-focused European venture capital fund). <a href="#fref">&#8593;</a></li>
-    <li id="fn">By contrast, traditional nuclear research has focused on two competing methods of initiating fusion: magnetic confinement fusion and inertial confinement fusion. <a href="#fref">&#8593;</a></li>
+    <li id="fn">By contrast, traditional nuclear research has historically focused on two competing methods of initiating fusion: magnetic confinement fusion and inertial confinement fusion. <a href="#fref">&#8593;</a></li>
   </ol>
 </div>
