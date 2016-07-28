@@ -30,7 +30,7 @@ Canadian startup [General Fusion](http://www.generalfusion.com/), founded in 200
 
 [Helion Energy](http://www.helionenergy.com/) raised $10.6 million in July 2015 from undisclosed investors. Helion is pursuing a form of fusion technology called magneto-inertial fusion where magnetic fields are used to compress the fuel—in plasma form—to fusion pressure and temperatures. Helion had previously received seed funding from Peter Thiel’s [Mithril Capital Management](http://www.mithril.com/) and [Y-Combinator](https://www.ycombinator.com/).
 
-[Tri Alpha Energy](http://www.trialphaenergy.com/)—backed by Microsoft co-founder [Paul Allen](https://twitter.com/PaulGAllen)—
+[Tri Alpha Energy](http://www.trialphaenergy.com/)—backed by Microsoft co-founder [Paul Allen](https://twitter.com/PaulGAllen), Goldman Sachs, Rusnano (a Russian government-backed investment company), and Hamlin—has also reportedly achieved .
 
 I will state my general concerns with nuclear fusion startups first. First, despite what [William D. Lese](http://www.braemarenergy.com/team/bios/lese.html), a managing partner at [Braemar Energy Ventures](http://www.braemarenergy.com/)—an investor in General Fusion—[says](http://www.nytimes.com/2015/10/26/technology/start-ups-take-on-challenge-of-nuclear-fusion.html) about the fusion era being here and coming, fusion has always been the technology of the future. History is littered with the remains of broken promises on fusion energy. The ideas that many of the current crop of fusion startups are exploring were the ideas that were discarded in the 1970s when government and academic research opted to focus on the [tokamak](http://www.ccfe.ac.uk/tokamak.aspx) and laser-based inertial confinement fusion, such as magnetized target fusion, and field reversed configuration fusion. There is a non-trivial chance that these ideas will not succeed now, either. Indeed, some physicists have already criticized these startups for <q>pounding on the same dead horse</q>.
 
@@ -38,7 +38,9 @@ Now, to be fair, there is no reason to believe that these alternatives to the tr
 
 My second concern lies with the question of whether these startups are promising too much. Recall, if you will, the promise—in the 1950s and 1960s—that general nuclear fusion was only twenty years away, and the long winter that occurred after those promising avenues failed and government funding dried up. We have Helion Energy claiming to be able to build a modular, truck-sized 50<abbr>MW</abbr> fusion reactor. General Fusion’s design is likewise small, with an approximately 3 meters in diameter spherical reaction chamber and some 300 pneumatic pistons to create the compression wave.
 
-On the whole though, I tend to favor the premise of experimentation with diverse approaches to creating commercially viable fusion reactors.
+My third concern is with the often _limited_ holding period of conventional venture capital funds: given a lifespan of between ten to twelve years, these 
+
+On the whole though, I tend to favor the premise of experimentation with diverse approaches to creating commercially viable fusion reactors. These startups may fail at some point in the future, but their failures will nevertheless advance the state of knowledge of commercially viable nuclear fusion.
 
 #### Novel energy storage technologies
 
