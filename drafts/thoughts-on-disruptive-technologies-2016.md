@@ -50,13 +50,15 @@ On the whole though, I tend to favor the premise of experimenting with diverse a
 
 #### Novel energy storage technologies
 
-
+Novel energy storage technologies mostly remain in the laboratory, as of the end of 2015.
 
 ### High-temperature superconductors
 
+High-temperature superconductors mostly remain in the laboratory, as of the end of 2015.
+
 ### Artificial general intelligence
 
-
+In March 2016, [AlphaGo](https://www.deepmind.com/alpha-go.html) became the first computer program to ever beat a professional player at [go](http://www.usgo.org/files/pdf/W2Go4E-book.pdf) (围棋). 
 
 ## Thoughts for 2016
 
