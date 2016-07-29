@@ -20,6 +20,8 @@ Within this category, I identified three sub-categories as being the most potent
 
 #### Advanced nuclear fission reactors
 
+I have [revisited](https://lucasktlee.com/2015/12/27/some-thoughts-on-nuclear-energy-startups/) the topic of advanced nuclear fission reactors after attending the 2015 <abbr>MIT</abbr> Technology Review EmTech conference, and will not spend too much time repeating what I said.
+
 
 
 #### Net-positive self-sustaining nuclear fusion reactors
