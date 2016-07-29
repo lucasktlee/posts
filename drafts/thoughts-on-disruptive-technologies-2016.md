@@ -20,9 +20,9 @@ Within this category, I identified three sub-categories as being the most potent
 
 #### Advanced nuclear fission reactors
 
-I have [revisited](https://lucasktlee.com/2015/12/27/some-thoughts-on-nuclear-energy-startups/) the topic of advanced nuclear fission reactors after attending the 2015 <abbr>MIT</abbr> Technology Review EmTech conference, and will not spend too much time repeating what I said.
+I have [revisited](https://lucasktlee.com/2015/12/27/some-thoughts-on-nuclear-energy-startups/) the topic of advanced nuclear fission reactors after attending the  [<abbr>MIT</abbr> Technology Review EmTech 2015](http://www.technologyreview.com/emtech/15/) conference in November 2015, and will not spend too much time repeating what I said.
 
-
+Perhaps the most significant development in 2015 was the establishment of the [Gateway for Accelerated Innovation in Nuclear](https://gain.inl.gov/SitePages/Home.aspx) program at the [U.S. Department of Energy](http://energy.gov/), which aims to <q>provide the nuclear energy community with access to the technical, regulatory, and financial support necessary to move new or advanced nuclear reactor designs toward commercialization.</q> I’ve previously noted that regulatory hurdles and costs pose a problem for commercializing the advanced nuclear fission reactors being developed at    
 
 #### Net-positive self-sustaining nuclear fusion reactors
 
