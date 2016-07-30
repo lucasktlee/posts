@@ -26,6 +26,8 @@ I have [revisited](https://lucasktlee.com/2015/12/27/some-thoughts-on-nuclear-en
 
 Perhaps the most significant development in 2015 was the establishment of the [Gateway for Accelerated Innovation in Nuclear](https://gain.inl.gov/SitePages/Home.aspx) program at the [U.S. Department of Energy](http://energy.gov/), which aims to <q>provide the nuclear energy community with access to the technical, regulatory, and financial support necessary to move new or advanced nuclear reactor designs toward commercialization.</q> I’ve previously noted that regulatory hurdles and costs pose a problem for commercializing the advanced nuclear fission reactors being developed at the 45 nuclear reactor projects<sup><a href="#fn01" id="fref01">1</a></sup> in North America. This program provides a single point of government and regulatory contact for American nuclear technology developers, as well as assistance navigating the regulatory process to obtain approval for their designs.
 
+
+
 #### Net-positive self-sustaining nuclear fusion reactors
 
 I did not expect much to happen in one year—commercially viable fusion reactors are a decades-long endeavor—but there were some promising developments in 2015.
@@ -58,7 +60,9 @@ High-temperature superconductors mostly remain in the laboratory, as of the end 
 
 ### Artificial general intelligence
 
-In March 2016, [AlphaGo](https://www.deepmind.com/alpha-go.html) became the first computer program to ever beat a professional player at [go](http://www.usgo.org/files/pdf/W2Go4E-book.pdf) (围棋). 
+Artificial general intelligence is another multi-year (if not multi-decade) endeavor.
+
+In March 2016, [AlphaGo](https://www.deepmind.com/alpha-go.html) became the first computer program to ever beat a professional player at [go](http://www.usgo.org/files/pdf/W2Go4E-book.pdf) (围棋).
 
 ## Thoughts for 2016
 
