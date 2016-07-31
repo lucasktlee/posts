@@ -42,7 +42,7 @@ Canadian startup [General Fusion](http://www.generalfusion.com/), founded in 200
 
 In Germany, in December 2015, scientists at the [Max Planck Institute of Plasma Physics](http://www.ipp.mpg.de/2285/en/) have achieved helium plasma temperatures of 1 million degrees Celsius with a [stellarator](https://www.ipp.mpg.de/2815279/technologie) design, the Wendelstein 7-X.
 
-At [<abbr>MIT</abbr>](http://web.mit.edu), a team of scientists at the Plasma Science nad Fusion Center, harnessing recent developments in supercondcutive materials, has proposed a smaller reactor that could equal the power of the proposed <abbr>ITER</abbr> reactor in France at half the size and a fraction of the cost.<sup><a href="" id=""></a></sup>
+At [<abbr>MIT</abbr>](http://web.mit.edu), a team of scientists at the Plasma Science nad Fusion Center, harnessing recent developments in supercondcutive materials, has proposed a smaller reactor that could equal the power of the proposed <abbr>ITER</abbr> reactor in France at half the size and a fraction of the cost.<sup><a href="#fn06" id="fref06">6</a></sup>
 
 I will state my general concerns with nuclear fusion startups first. First, despite what [William D. Lese](http://www.braemarenergy.com/team/bios/lese.html), a managing partner at [Braemar Energy Ventures](http://www.braemarenergy.com/)—an investor in General Fusion—[says](http://www.nytimes.com/2015/10/26/technology/start-ups-take-on-challenge-of-nuclear-fusion.html) about the fusion era being here and coming, fusion has always been the technology of the future. History is littered with the remains of broken promises on fusion energy. The ideas that many of the current crop of fusion startups are exploring were the ideas that were discarded in the 1970s when government and academic research opted to focus on the [tokamak](http://www.ccfe.ac.uk/tokamak.aspx) and laser-based inertial confinement fusion, such as magnetized target fusion, and field reversed configuration fusion. There is a non-trivial chance that these ideas will not succeed now, either. Indeed, some physicists have already criticized these startups for <q>pounding on the same dead horse</q>.
 
@@ -82,6 +82,7 @@ There are a few areas that I have begun to look at, in addition to what
     <li id="fn03">By contrast, traditional nuclear research has historically focused on two competing methods of initiating fusion: magnetic confinement fusion and inertial confinement fusion. <a href="#fref03">&#8593;</a></li>
     <li id="fn04">That’s 18 million degrees Fahrenheit for my American friends. <a href="#fref04">&#8593;</a></li>
     <li id="fn05">To put things in perspective, the <abbr title="Joint European Torus">JET</abbr> project has achieved plasma temperatures in excess of 100 million degrees Celsius using a tokamak design. <a href="#fref05">&#8593;</a></li>
-    <li id="fn06">Per plasma physicist Jon Menard of the Princeton Plasma Physics Laboratory in New Jersey. <a href="#fref06">&#8593;</a></li>
+    <li id="fn06">David L. Chandler, <a href="http://news.mit.edu/2015/small-modular-efficient-fusion-plant-0810">A small, modular, efficient fusion plant</a>, August 10, 2015. <a href="#fref06">&#8593;</a></li>
+    <li id="fn07">Per plasma physicist Jon Menard of the Princeton Plasma Physics Laboratory in New Jersey. <a href="#fref07">&#8593;</a></li>
   </ol>
 </div>
