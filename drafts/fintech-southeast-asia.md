@@ -2,7 +2,11 @@
 
 One of the so-called <q>mega-themes</q> that has been much discussed in the fintech industry has been the theme of <q>First the Rest, then the West</q>,<sup><a href="#fn01" id="fref01">1</a></sup> which suggests that adoption of fintech innovations is likely to occur first in emerging markets such as China, India, Southeast Asia, and Africa, before moving to developed markets such as the United States and Western Europe.
 
-The
+There is certainly anecdotal evidence to support this hypothesis.
+
+## Wealth Management
+
+Wealth management is the area of fintech that is closest to my professional experience.
 
 
 
