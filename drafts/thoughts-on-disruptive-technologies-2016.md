@@ -33,7 +33,7 @@ In January 2016, the U.S. Department of Energy selected two companies to receive
 * [X-Energy](http://www.x-energy.com) for its research into small (~50<abbr>MWe</abbr>) pebble bed reactor technology.<sup><a href="#fn02" id="fref02">2</a></sup>
 * [Southern Energy Services](http://www.southerncompany.com/), working in conjunction with [TerraPower](http://terrapower.com/) [Vanderbilt University](http://vanderbilt.edu), and [Oak Ridge National Laboratory](https://www.ornl.gov) on a molten chloride fast reactor.<sup><a href="#fn03" id="fref03">3</a></sup>
 
-On the whole, I would say that despite the general negative climate towards nuclear energy in many segments of the media and society, advanced nuclear reactor research seems to be continuing, and remains the most promising of the technologies I’ve described as disruptive, in terms of potential for early adoption.   
+On the whole, I would say that despite the general negative climate towards nuclear energy in many segments of the media and society, advanced nuclear reactor research seems to be continuing, and remains the most promising of the technologies I’ve described as disruptive, in terms of potential for early adoption.
 
 #### Net-positive self-sustaining nuclear fusion reactors
 
@@ -63,13 +63,21 @@ On the whole though, I tend to favor the premise of experimenting with diverse a
 
 Novel energy storage technologies mostly remain in the laboratory, as of the end of 2015.
 
+At the <abbr>MIT</abbr> [Technology Review](http://technologyreview.com/)’s EmTech 2015 conference, I had the pleasure of hearing [Professor Yet-Ming Chiang] of <abbr>MIT</abbr> (and co-founder of [24M](http://24-m.com/)) speak on the topic of building energy storage for the electrical grid. I found three elements of his lecture fascinating:
+
+* The cost curve for lithium-ion batteries is flattening, suggesting that only diminishing incremental improvements remain possible with current technology.
+* The capital expenditure needed to build a lithium-ion battery factory is high, often greater than $100 million per factory, which requires significant volume to make the cost per battery competitive.
+* One of the more interesting battery chemistries is lithium-sulfur, which has realized only 10% of its theoretical energy capacity to date.
+
+ 
+
 ### High-temperature superconductors
 
-High-temperature superconductors mostly remain in the laboratory, as of the end of 2015.
+High-temperature superconductors mostly remain in the laboratory, as of the end of 2015. The
 
 ### Artificial general intelligence
 
-Artificial general intelligence is another multi-year (if not multi-decade) endeavor.
+Artificial general intelligence is another multi-year (if not multi-decade) endeavor. Indeed, if anyone were to say that they had managed to create a true artificial general intelligence at this point in time, I would be _extremely_ skeptical.
 
 In March 2016, [AlphaGo](https://www.deepmind.com/alpha-go.html) became the first computer program to ever beat a professional player at [go](http://www.usgo.org/files/pdf/W2Go4E-book.pdf) (围棋).
 
