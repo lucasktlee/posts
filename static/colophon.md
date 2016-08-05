@@ -23,7 +23,9 @@ The typographic scale was constructed using the excellent classical typographic 
 
 **Warning:** Contains serious geekery. Read on at your peril.
 
-This weblog is powered by [Ghost](https://ghost.org/), a dedicated blogging tool written in [node.js](http://nodejs.org). It is hosted on [Ghost(Pro)](https://ghost.org/pricing/). (Why a hosted solution rather than hosting it on a <abbr title="Virtual Private Server">VPS</abbr> that you manage? The short answer is so that I can focus on writing rather than on managing, securing, and optimizing a [Ubuntu 16.04 LTS](http://www.ubuntu.com/server) server stack with [Nginx](http://nginx.org) proxying to a local installation of Ghost.) I _do_ use a Ubuntu <abbr title="Virtual Private Server">VPS</abbr> running Nginx to host the media files (images, <abbr>PDF</abbr>s, and other static files) at <code>media.lucasktlee.com</code>. This <abbr>VPS</abbr> is hosted with [Linode](https://www.linode.com/?r=207f6f1d092495fe166bbe861402e2b8c4aa2a8d).
+This weblog is powered by [Ghost](https://ghost.org/), a dedicated blogging tool written in [node.js](http://nodejs.org). It is hosted on [Ghost(Pro)](https://ghost.org/pricing/). (Why a hosted solution rather than hosting it on a <abbr title="Virtual Private Server">VPS</abbr> that you manage? The short answer is so that I can focus on writing rather than on managing, securing, and optimizing a [Ubuntu 16.04 LTS](http://www.ubuntu.com/server) server stack with [Nginx](http://nginx.org) proxying to a local installation of Ghost.)
+
+Static media files including images, <abbr>PDF</abbr>s, and spreadsheets are served through [Amazon Web Service S3](https://aws.amazon.com/s3/), as part of my exposure to public cloud computing. I used to use a [Linode](https://www.linode.com) <abbr title="Virtual Private Server">VPS</abbr> running Ubuntu 14.04 LTS and Nginx to serve these, but decided to swap it for something less cumbersome.
 
 The fonts used on this site are served through [Cloud.typography](http://www.typography.com/cloud/welcome/), a web fonts service from Hoefler &#38; Co.
 
@@ -31,4 +33,4 @@ The theme used for this blog is a custom minimalist theme, called Aenea, that I 
 
 I use [Sass](http://sass-lang.com/) as my <abbr title="Cascading Style Sheets">CSS</abbr> preprocessor. (The previous theme used [stylus](https://learnboost.github.io/stylus/), but I found myself drawn to the more active community of Sass users because I did not want to have to re-invent the wheel on a regular basis.) Ghost uses the excellent (if slightly more verbose than I would like) [Handlebars](http://handlebarsjs.com) templating language for its templates. I use [Picturefill](http://scottjehl.github.io/picturefill/) for responsive images and [Prism](http://prismjs.com/) for code highlighting.
 
-The code for this blog is written in [Sublime Text](http://www.sublimetext.com/) on an [Apple Mac](http://www.apple.com/mac/). Posts are written with [Sublime Text](http://www.sublimetext.com/) on a Mac.
+The code for this blog is written with [Atom](https://atom.io) on an [Apple Mac](http://www.apple.com/mac/). Posts are written with Atom on a Mac.
