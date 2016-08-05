@@ -33,7 +33,7 @@ In January 2016, the U.S. Department of Energy selected two companies to receive
 * [X-Energy](http://www.x-energy.com) for its research into small (~50<abbr>MWe</abbr>) pebble bed reactor technology.<sup><a href="#fn03" id="fref03">3</a></sup>
 * [Southern Energy Services](http://www.southerncompany.com/), working in conjunction with [TerraPower](http://terrapower.com/) [Vanderbilt University](http://vanderbilt.edu), and [Oak Ridge National Laboratory](https://www.ornl.gov) on a molten chloride fast reactor.<sup><a href="#fn04" id="fref04">4</a></sup>
 
-In China, the [Shanghai Institute of Applied Physics](http://english.sinap.cas.cn) has been involved in developing—jointly with Oak Ridge National Laboratory—molten salt reactor technologies, and expects to have a commercial-scale solid fuel molten salt reactor by 2030, which reflects the priority given by China to developing advanced nuclear fission reactors that offer significant improvements in safety and efficiency when compared to conventional nuclear reactors.<sup><a href="#fn05" id="fref05">5</a></sup>
+In China, the [Shanghai Institute of Applied Physics](http://english.sinap.cas.cn) has been involved in developing—jointly with Oak Ridge National Laboratory—molten salt reactor technologies, and expects to have a commercial-scale solid fuel molten salt reactor by 2030, which reflects the priority given by China to developing advanced nuclear fission reactors that offer significant improvements in safety and efficiency when compared to conventional nuclear reactors.<sup><a href="#fn05" id="fref05">5</a></sup> The Shanghai Institute of Applied Physics is also pursuing thorium-based nuclear reactors, which reflects the abundance of thorium in China compared to uranium.
 
 On the whole, I would say that despite the general negative climate towards nuclear energy in many segments of the media and society, advanced nuclear reactor research seems to be continuing, and remains the most promising of the technologies I’ve described as disruptive, in terms of potential for early adoption.
 
@@ -69,9 +69,9 @@ At the <abbr>MIT</abbr> [Technology Review](http://technologyreview.com/)’s Em
 
 * The cost curve for lithium-ion batteries is flattening, suggesting that only diminishing incremental improvements remain possible with current technology.
 * The capital expenditure needed to build a lithium-ion battery factory is high, often greater than $100 million per factory, which requires significant volume to make the cost per battery competitive.
-* One of the more interesting battery chemistries is lithium-sulfur,<sup><a href="" id=""></a></sup> which has realized only 10% of its theoretical energy capacity to date.
+* One of the more interesting battery chemistries is lithium-sulfur,<sup><a href="#fn12" id="fref12">12</a></sup> which has realized only 10% of its theoretical energy capacity to date.
 
-
+Based on that lecture, I found myself looking into, firstly, the
 
 ### High-temperature superconductors
 
@@ -85,7 +85,7 @@ In March 2016, [AlphaGo](https://www.deepmind.com/alpha-go.html) became the firs
 
 ## Thoughts for 2016
 
-There are a few areas that I have begun to look at, in addition to what
+There are a few areas that I have begun to look at, in addition to what I have already written about last year. 
 
 
 
@@ -103,5 +103,6 @@ There are a few areas that I have begun to look at, in addition to what
     <li id="fn09">To put things in perspective, the <abbr title="Joint European Torus">JET</abbr> project has achieved plasma temperatures in excess of 100 million degrees Celsius using a tokamak design. <a href="#fref09">&#8593;</a></li>
     <li id="fn10">David L. Chandler, <a href="http://news.mit.edu/2015/small-modular-efficient-fusion-plant-0810">A small, modular, efficient fusion plant</a>, August 10, 2015. <a href="#fref10">&#8593;</a></li>
     <li id="fn11">Per plasma physicist Jon Menard of the Princeton Plasma Physics Laboratory in New Jersey. <a href="#fref11">&#8593;</a></li>
+    <li id="fn11">Lithium-sulfur batteries can hold up to four times as much energy per unit mass as lithium-ion batteries can. It does, however, have some flaws in its current form, including: limited lifespan (it can only handle a few dozen cycles of charging and discharging), and the possible creation of lithium polysulfides during the discharge cycle, which can bond permanently with the metal anode and cause a loss of active sulfur needed for power storage. <a href="#fref11">&#8593;</a></li>
   </ol>
 </div>
