@@ -1,6 +1,6 @@
 <p class="lede">Hi, my name is Lucas K.T. Lee. I’m a technology enthusiast, recent <abbr>MBA</abbr> graduate, and “recovering” private equity lawyer.</p>
 
-I’m currently an associate in the inaugural class of the Alibaba Global Leadership Academy, a global general management and leadership development program at one of China’s most innovative internet companies, [Alibaba Group](http://www.alibabagroup.com/en/global/home/).
+I’m currently an associate in the inaugural class of the [Alibaba Global Leadership Academy](https://agla.alibaba.com), a global general management and leadership development program at one of China’s most innovative internet companies, [Alibaba Group](http://www.alibabagroup.com/en/global/home/).
 
 I graduated from [Wharton](http://www.wharton.upenn.edu/) with an <abbr>MBA</abbr>, majoring in [finance](https://fnce.wharton.upenn.edu/). During the summer of 2015, I interned at [Polymath Ventures](http://www.polymathv.com/), a company builder in Colombia’s capital, Bogotá, focused on building massively scalable companies targeting middle class needs in Latin America. At Polymath, my focus was on fundraising strategy and execution for their first venture capital investment fund vehicle and their portfolio companies.
 
