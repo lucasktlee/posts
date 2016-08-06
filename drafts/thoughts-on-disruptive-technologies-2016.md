@@ -71,9 +71,10 @@ At the <abbr>MIT</abbr> [Technology Review](http://technologyreview.com/)’s Em
 * The capital expenditure needed to build a lithium-ion battery factory is high, often greater than $100 million per factory, which requires significant volume to make the cost per battery competitive.
 * One of the more interesting battery chemistries is lithium-sulfur,<sup><a href="#fn12" id="fref12">12</a></sup> which has realized only 10% of its theoretical energy capacity to date.
 
-Based on that lecture, I found myself looking into, firstly, lithium-sulfur batteries, and secondly, innovations in magnesium-ion batteries.
+Based on that lecture, I found myself looking into, firstly, lithium-sulfur batteries, and secondly, innovations in magnesium-ion batteries. In the commercial lithium-sulfur and magnesium-ion battery space, two companies have come to my attention:
 
-* 
+* **[OXIS Energy](http://www.oxisenergy.com/):** OXIS Energy, a UK company founded in 2004 and based at the Culham Science Centre in Oxfordshire, is pursuing lithium-sulfur batteries for a variety of uses, including electric vehicles, grid storage, and military equipment. 
+* **[Pellion Technologies](http://www.pelliontech.com/):** Founded in 2009, Pellion Technologies has received seed funding from Khosla Ventures (2009) and grants from <abbr title="Advanced Research Projects Agency - Energy">ARPA-E</abbr> (2010), as well as an investment from Motorola Solutions in 2016. Pellion Technologies is presently engaged in seeking an appropriate cathode material for its batteries through computational screening of potential materials.
 
 ### High-temperature superconductors
 
