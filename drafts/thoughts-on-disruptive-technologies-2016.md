@@ -73,6 +73,8 @@ At the <abbr>MIT</abbr> [Technology Review](http://technologyreview.com/)’s Em
 
 Based on that lecture, I found myself looking into, firstly, lithium-sulfur batteries, and secondly, innovations in magnesium-ion batteries.
 
+* 
+
 ### High-temperature superconductors
 
 High-temperature superconductors mostly remain in the laboratory, as of the end of 2015. The
