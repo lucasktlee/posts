@@ -76,7 +76,7 @@ Based on that lecture, I found myself looking into, firstly, lithium-sulfur batt
 * **[OXIS Energy](http://www.oxisenergy.com/):** OXIS Energy, a UK company founded in 2004 and based at the Culham Science Centre in Oxfordshire, is pursuing lithium-sulfur batteries for a variety of uses, including electric vehicles, grid storage, military, and maritime equipment.
 * **[Pellion Technologies](http://www.pelliontech.com/):** Founded in 2009, Pellion Technologies has received seed funding from Khosla Ventures (2009) and grants from <abbr title="Advanced Research Projects Agency - Energy">ARPA-E</abbr> (2010), as well as an investment from Motorola Solutions in 2016. Pellion Technologies is presently engaged in seeking an appropriate cathode material for its batteries through computational screening of potential materials.
 
-Of the two technologies, it seems that lithium-sulfur is closer to commercial applicability; OXIS Energy has prototype batteries in testing for solar grid storage, and is partnering with [Lithium Balance](http://www.lithiumbalance.com/en/) to build a prototype e-scooter battery system for the Chinese market. 
+Of the two technologies, it seems that lithium-sulfur is closer to commercial applicability; OXIS Energy has prototype batteries in testing for solar grid storage, and is partnering with [Lithium Balance](http://www.lithiumbalance.com/en/) to build a prototype e-scooter battery system for the Chinese market. By contrast, Pellion Technologies is still trying to find an appropriate cathode for its 
 
 ### High-temperature superconductors
 
