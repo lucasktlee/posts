@@ -95,7 +95,9 @@ I remain convinced that superconducting power cables offer compelling advantages
 
 Artificial general intelligence is another multi-year (if not multi-decade) endeavor. Indeed, if anyone were to say that they had managed to create a true artificial general intelligence at this point in time, I would be _extremely_ skeptical.
 
-In March 2016, [AlphaGo](https://www.deepmind.com/alpha-go.html) became the first computer program to ever beat a professional player at [Go](http://www.usgo.org/files/pdf/W2Go4E-book.pdf) (围棋). This represented a significant development because Go is a game of startling complexity: there are more possible positions in Go than there are atoms in the universe.
+In March 2016, [AlphaGo](https://www.deepmind.com/alpha-go.html) became the first computer program to ever beat a professional player at [Go](http://www.usgo.org/files/pdf/W2Go4E-book.pdf) (围棋). This represented a significant development because Go is a game of startling complexity: there are more possible positions in Go than there are atoms in the universe (10<sup>171</sup>, to be precise).
+
+  
 
 ## Thoughts for 2016
 
