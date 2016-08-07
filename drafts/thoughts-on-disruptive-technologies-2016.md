@@ -85,16 +85,17 @@ High-temperature superconductors mostly remain in the laboratory, as of the end 
 * The discovery by a team of scientists at the [Max Planck Institute for Chemistry](https://www.mpg.de/153030/chemie) of [superconductivity in hydrogen sulfide](http://www.nature.com/news/superconductivity-record-sparks-wave-of-follow-up-physics-1.18191) at (-70&#176; C)<sup><a href="#fn13" id-="fref13">13</a></sup> and 1.5 million bars of pressure. This suggests that theoretical predictions about metallic hydrogen made in the 1960s may be correct, but a lot more work still needs to be done in this area. This development is also significant because it did not rely on exotic materials such as cuprates (copper-containing compounds), which have previously held the record for the highest superconducting temperature.
 * Scientists at the Los Alamos National Laboratory have demonstrated that a cerium-based superconducting material can offer [insights](http://phys.org/news/2015-04-potential-rosetta-stone-high-temperature.html) into the way that unconventional superconductors (cuprates, pnictides, and heavy fermions) operate. At present, the precise mechanisms by which unconventional superconductivity arises are not well known, which makes it hard to predict which other materials might prove to be high temperature superconductors.
 
-
+#### Superconducting power cables
 
 Commercial applications of high-temperature superconducting power cables remains in the prototype stages, with the main centers of research being New York, South Korea and Japan, as I mentioned in my 2015 post.
 
+I remain convinced that superconducting power cables offer compelling advantages in the distribution of electricity by allowing countries to generate power near where potential sources—solar, wind, hydro—are abundant, without suffering significant losses from transferring the power to population and industrial centers far awayy from such sources. It is not, however, a short-term development; it may well require decades of work and substantial upfront capital expenditures to develop and implement such cables.
 
 ### Artificial general intelligence
 
 Artificial general intelligence is another multi-year (if not multi-decade) endeavor. Indeed, if anyone were to say that they had managed to create a true artificial general intelligence at this point in time, I would be _extremely_ skeptical.
 
-In March 2016, [AlphaGo](https://www.deepmind.com/alpha-go.html) became the first computer program to ever beat a professional player at [go](http://www.usgo.org/files/pdf/W2Go4E-book.pdf) (围棋).
+In March 2016, [AlphaGo](https://www.deepmind.com/alpha-go.html) became the first computer program to ever beat a professional player at [Go](http://www.usgo.org/files/pdf/W2Go4E-book.pdf) (围棋). This represented a significant development because Go is a game of startling complexity: there are more possible positions in Go than there are atoms in the universe.
 
 ## Thoughts for 2016
 
