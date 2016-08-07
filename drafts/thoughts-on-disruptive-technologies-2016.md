@@ -76,11 +76,14 @@ Based on that lecture, I found myself looking into, firstly, lithium-sulfur batt
 * **[OXIS Energy](http://www.oxisenergy.com/):** OXIS Energy, a UK company founded in 2004 and based at the Culham Science Centre in Oxfordshire, is pursuing lithium-sulfur batteries for a variety of uses, including electric vehicles, grid storage, military, and maritime equipment.
 * **[Pellion Technologies](http://www.pelliontech.com/):** Founded in 2009, Pellion Technologies has received seed funding from Khosla Ventures (2009) and grants from <abbr title="Advanced Research Projects Agency - Energy">ARPA-E</abbr> (2010), as well as an investment from Motorola Solutions in 2016. Pellion Technologies is presently engaged in seeking an appropriate cathode material for its batteries through computational screening of potential materials.
 
-Of the two technologies, it seems that lithium-sulfur is closer to commercial applicability; OXIS Energy has prototype batteries in testing for solar grid storage, and is partnering with [Lithium Balance](http://www.lithiumbalance.com/en/) to build a prototype e-scooter battery system for the Chinese market. By contrast, Pellion Technologies is still trying to find an appropriate cathode for its 
+Of the two technologies, it seems that lithium-sulfur is closer to commercial applicability; OXIS Energy has prototype batteries in testing for solar grid storage, and is partnering with [Lithium Balance](http://www.lithiumbalance.com/en/) to build a prototype e-scooter battery system for the Chinese market. By contrast, Pellion Technologies is still trying to find an appropriate cathode for its battery.
 
 ### High-temperature superconductors
 
-High-temperature superconductors mostly remain in the laboratory, as of the end of 2015. The
+High-temperature superconductors mostly remain in the laboratory, as of the end of 2015. In the laboratory, the most signficant developments were:
+
+* The discovery by a team of scientists at the [Max Planck Institute for Chemistry](https://www.mpg.de/153030/chemie) of superconductivity in hydrogen sulfide at (-70&#176; C)<sup><a href="#fn13" id-="fref13">13</a></sup> and 1.5 million bars of pressure. This suggests that theoretical predictions about metallic hydrogen made in the 1960s may be correct, but a lot more work still needs to be done in this area. This development is also significant because it did not rely on exotic materials such as cuprates (copper-containing compounds), which have previously held the record for the highest superconducting temperature.
+* 
 
 ### Artificial general intelligence
 
@@ -108,6 +111,7 @@ One area of technological development that I did not previously mention in 2015 
     <li id="fn09">To put things in perspective, the <abbr title="Joint European Torus">JET</abbr> project has achieved plasma temperatures in excess of 100 million degrees Celsius using a tokamak design. <a href="#fref09">&#8593;</a></li>
     <li id="fn10">David L. Chandler, <a href="http://news.mit.edu/2015/small-modular-efficient-fusion-plant-0810">A small, modular, efficient fusion plant</a>, August 10, 2015. <a href="#fref10">&#8593;</a></li>
     <li id="fn11">Per plasma physicist Jon Menard of the Princeton Plasma Physics Laboratory in New Jersey. <a href="#fref11">&#8593;</a></li>
-    <li id="fn11">Lithium-sulfur batteries can hold up to four times as much energy per unit mass as lithium-ion batteries can. It does, however, have some flaws in its current form, including: limited lifespan (it can only handle a few dozen cycles of charging and discharging), and the possible creation of lithium polysulfides during the discharge cycle, which can bond permanently with the metal anode and cause a loss of active sulfur needed for power storage. <a href="#fref11">&#8593;</a></li>
+    <li id="fn12">Lithium-sulfur batteries can hold up to four times as much energy per unit mass as lithium-ion batteries can. It does, however, have some flaws in its current form, including: limited lifespan (it can only handle a few dozen cycles of charging and discharging), and the possible creation of lithium polysulfides during the discharge cycle, which can bond permanently with the metal anode and cause a loss of active sulfur needed for power storage. <a href="#fref12">&#8593;</a></li>
+    <li id="fn13">That’s 203K for my scientifically inclined friends. <a href="#fref13">&#8593;</a></li>
   </ol>
 </div>
