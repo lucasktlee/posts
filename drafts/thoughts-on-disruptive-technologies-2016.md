@@ -82,8 +82,13 @@ Of the two technologies, it seems that lithium-sulfur is closer to commercial ap
 
 High-temperature superconductors mostly remain in the laboratory, as of the end of 2015. In the laboratory, the most signficant developments were:
 
-* The discovery by a team of scientists at the [Max Planck Institute for Chemistry](https://www.mpg.de/153030/chemie) of superconductivity in hydrogen sulfide at (-70&#176; C)<sup><a href="#fn13" id-="fref13">13</a></sup> and 1.5 million bars of pressure. This suggests that theoretical predictions about metallic hydrogen made in the 1960s may be correct, but a lot more work still needs to be done in this area. This development is also significant because it did not rely on exotic materials such as cuprates (copper-containing compounds), which have previously held the record for the highest superconducting temperature.
-* Scientists at the Los Alamos National Laboratory demonstrated that cerium-based superconducting material can offer insights into the way that unconventional superconductors (cuprates, pnictides, and heavy fermions) operate. At present, the precise mechanisms by which unconventional superconductivity arises are not well known, which makes it hard to predict which other materials might offer  
+* The discovery by a team of scientists at the [Max Planck Institute for Chemistry](https://www.mpg.de/153030/chemie) of [superconductivity in hydrogen sulfide](http://www.nature.com/news/superconductivity-record-sparks-wave-of-follow-up-physics-1.18191) at (-70&#176; C)<sup><a href="#fn13" id-="fref13">13</a></sup> and 1.5 million bars of pressure. This suggests that theoretical predictions about metallic hydrogen made in the 1960s may be correct, but a lot more work still needs to be done in this area. This development is also significant because it did not rely on exotic materials such as cuprates (copper-containing compounds), which have previously held the record for the highest superconducting temperature.
+* Scientists at the Los Alamos National Laboratory have demonstrated that a cerium-based superconducting material can offer [insights](http://phys.org/news/2015-04-potential-rosetta-stone-high-temperature.html) into the way that unconventional superconductors (cuprates, pnictides, and heavy fermions) operate. At present, the precise mechanisms by which unconventional superconductivity arises are not well known, which makes it hard to predict which other materials might prove to be high temperature superconductors.
+
+
+
+Commercial applications of high-temperature superconducting power cables remains in the prototype stages, with the main centers of research being New York, South Korea and Japan, as I mentioned in my 2015 post.
+
 
 ### Artificial general intelligence
 
